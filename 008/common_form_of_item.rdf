@@ -85,7 +85,7 @@
    <skos:Concept rdf:about="http://fakeIRI.edu/terms/commonfor#%23" xml:lang="en">
       <skos:inScheme rdf:resource="http://fakeIRI.edu/terms/commonfor#"/>
       <skos:prefLabel xml:lang="en">none of the following</skos:prefLabel>
-      <skos:definition xml:lang="en">Form of item other than microfilm, microfiche, microopaque, large print, braille, online, direct electronic, regular print reproduction, electronic.</skos:definition>
+      <skos:definition xml:lang="en">Form of item other than microfilm, microfiche, microopaque, large print, braille, online, direct electronic, regular print reproduction, or electronic.</skos:definition>
       <skos:notation xml:lang="en">#</skos:notation>
       <skos:scopeNote xml:lang="en">Not specified by one of the other codes.</skos:scopeNote>
       <skos:exactMatch rdf:resource="http://marc21rdf.info/terms/commonfor#%23"/>
