@@ -75,11 +75,12 @@
       <skos:scopeNote xml:lang="en">Examples include: 1) technical material geared to a specialized audience, and 2) items which address a limited audience; for example, the employees of a single organization.</skos:scopeNote>
       <skos:exactMatch rdf:resource="http://marc21rdf.info/terms/commonaud#f"/>
    </skos:Concept>
-   <!-- Concept: unknown or not specified  -->
+   <!-- Concept: unknown or not specified.  Added scope note -dkt.  -->
    <skos:Concept rdf:about="http://fakeIRI.edu/terms/commonaud#%23" xml:lang="en">
       <skos:inScheme rdf:resource="http://fakeIRI.edu/terms/commonaud#"/>
       <skos:prefLabel xml:lang="en">unknown or not specified</skos:prefLabel>
       <skos:definition xml:lang="en">Target audience for which the material is intended is unknown or is not specified.</skos:definition>
+      <skos:scopeNote xml:lang="en">For video visual materials: use for all original or historical graphic material.</skos:scopeNote>
       <skos:notation xml:lang="en">#</skos:notation>
       <skos:exactMatch rdf:resource="http://marc21rdf.info/terms/commonaud#%23"/>
    </skos:Concept>
