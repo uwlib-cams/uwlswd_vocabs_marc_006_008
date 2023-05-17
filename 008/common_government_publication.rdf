@@ -97,7 +97,7 @@
       <skos:notation xml:lang="en">s</skos:notation>
       <skos:exactMatch rdf:resource="http://marc21rdf.info/terms/commongov#s"/>
    </skos:Concept>
-   <!-- Concept: unknown if item is government publication  -->
+   <!-- Concept: unknown if item is government publication.  Added definition -dkt.  -->
    <skos:Concept rdf:about="http://fakeIRI.edu/terms/commongov#u" xml:lang="en">
       <skos:inScheme rdf:resource="http://fakeIRI.edu/terms/commongov#"/>
       <skos:prefLabel xml:lang="en">unknown if item is government publication</skos:prefLabel>
