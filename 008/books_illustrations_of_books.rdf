@@ -99,11 +99,12 @@
       <skos:notation xml:lang="en">m</skos:notation>
       <skos:exactMatch rdf:resource="http://marc21rdf.info/terms/bookill#m"/>
    </skos:Concept>
-   <!-- Concept: photographs  -->
+   <!-- Concept: photographs.  Scope note added -dkt  -->
    <skos:Concept rdf:about="http://fakeIRI.edu/terms/bookill#o" xml:lang="en">
       <skos:inScheme rdf:resource="http://fakeIRI.edu/terms/bookill#"/>
       <skos:prefLabel xml:lang="en">photographs</skos:prefLabel>
       <skos:definition xml:lang="en">Photographs.</skos:definition>
+      <skos:scopeNote xml:lang="en">If of minor importance, code as illustrations instead of photographs.</skos:scopeNote>
       <skos:notation xml:lang="en">o</skos:notation>
       <skos:exactMatch rdf:resource="http://marc21rdf.info/terms/bookill#o"/>
    </skos:Concept>
