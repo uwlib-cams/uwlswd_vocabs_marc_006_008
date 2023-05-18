@@ -21,6 +21,8 @@
    <skos:Concept rdf:about="http://fakeIRI.edu/terms/continuingscr#a" xml:lang="en">
       <skos:inScheme rdf:resource="http://fakeIRI.edu/terms/continuingscr#"/>
       <skos:prefLabel xml:lang="en">basic roman</skos:prefLabel>
+      <skos:definition xml:lang="en">Original alphabet of the title is the Roman alphabet.  Languages that are usually associated include: Basque, English, Latin, Welsh, and many languages of Central and Southern Africa.</skos:definition>
+      <skos:scopeNote xml:lang="en">Includes no diacritics or special characters.</skos:scopeNote>
       <skos:notation xml:lang="en">a</skos:notation>
       <skos:exactMatch rdf:resource="http://marc21rdf.info/terms/continuingscr#a"/>
    </skos:Concept>
@@ -49,6 +51,8 @@
    <skos:Concept rdf:about="http://fakeIRI.edu/terms/continuingscr#b" xml:lang="en">
       <skos:inScheme rdf:resource="http://fakeIRI.edu/terms/continuingscr#"/>
       <skos:prefLabel xml:lang="en">extended roman</skos:prefLabel>
+      <skos:definition xml:lang="en">Original alphabet of the title is a Roman alphabet language.  Most western European lanuages, with the major exception of English, fall into this group.</skos:definition>
+      <skos:scopeNote xml:lang="en">Includes diacritics and special characters.</skos:scopeNote>
       <skos:notation xml:lang="en">b</skos:notation>
       <skos:exactMatch rdf:resource="http://marc21rdf.info/terms/continuingscr#b"/>
    </skos:Concept>
@@ -91,7 +95,8 @@
    <skos:Concept rdf:about="http://fakeIRI.edu/terms/continuingscr#z" xml:lang="en">
       <skos:inScheme rdf:resource="http://fakeIRI.edu/terms/continuingscr#"/>
       <skos:prefLabel xml:lang="en">other</skos:prefLabel>
-      <skos:definition xml:lang="en">Original alphabet or script of title other than basic Roman, extended Roman, cyrillic, Japanese, Chinese, Arabic, Greek, Hebrew, Thai, Devanagari,Korean, Tamil.</skos:definition>
+      <skos:definition xml:lang="en">Original alphabet or script of title other than basic Roman, extended Roman, cyrillic, Japanese, Chinese, Arabic, Greek, Hebrew, Thai, Devanagari, Korean, or Tamil.</skos:definition>
+      <skos:scopeNote xml:lang="en">Also used when the title incorporates words from more than one alphabet or script.</skos:scopeNote>
       <skos:notation xml:lang="en">z</skos:notation>
       <skos:exactMatch rdf:resource="http://marc21rdf.info/terms/continuingscr#z"/>
    </skos:Concept>
@@ -113,6 +118,7 @@
    <skos:Concept rdf:about="http://fakeIRI.edu/terms/continuingscr#u" xml:lang="en">
       <skos:inScheme rdf:resource="http://fakeIRI.edu/terms/continuingscr#"/>
       <skos:prefLabel xml:lang="en">unknown</skos:prefLabel>
+      <skos:definition xml:lang="en">Original alphabet of the title is unknown.</skos:definition>
       <skos:notation xml:lang="en">u</skos:notation>
       <skos:exactMatch rdf:resource="http://marc21rdf.info/terms/continuingscr#u"/>
    </skos:Concept>
