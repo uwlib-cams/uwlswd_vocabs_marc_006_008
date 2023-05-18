@@ -32,7 +32,7 @@
       <skos:prefLabel xml:lang="en">bimonthly</skos:prefLabel>
       <skos:definition xml:lang="en">Every two months.</skos:definition>
       <skos:notation xml:lang="en">b</skos:notation>
-      <skos:scopeNote xml:lang="en">Includes 6, 7, or 8 times a year.</skos:scopeNote>
+      <skos:scopeNote xml:lang="en">Includes publications whose frequency is 6, 7, or 8 times a year.</skos:scopeNote>
       <skos:exactMatch rdf:resource="http://marc21rdf.info/terms/continuingfre#b"/>
    </skos:Concept>
    <!-- Concept: biweekly  -->
@@ -57,7 +57,7 @@
       <skos:prefLabel xml:lang="en">daily</skos:prefLabel>
       <skos:definition xml:lang="en">Once a day.</skos:definition>
       <skos:notation xml:lang="en">d</skos:notation>
-      <skos:scopeNote xml:lang="en">Includes Saturday and Sunday.</skos:scopeNote>
+      <skos:scopeNote xml:lang="en">This may include Saturday and Sunday.</skos:scopeNote>
       <skos:exactMatch rdf:resource="http://marc21rdf.info/terms/continuingfre#d"/>
    </skos:Concept>
    <!-- Concept: monthly  -->
@@ -65,13 +65,14 @@
       <skos:inScheme rdf:resource="http://fakeIRI.edu/terms/continuingfre#"/>
       <skos:prefLabel xml:lang="en">monthly</skos:prefLabel>
       <skos:notation xml:lang="en">m</skos:notation>
-      <skos:scopeNote xml:lang="en">Includes 9, 10, 11, or 12 times a year.</skos:scopeNote>
+      <skos:scopeNote xml:lang="en">Includes publications whose frequency is 9, 10, 11, or 12 times a year.</skos:scopeNote>
       <skos:exactMatch rdf:resource="http://marc21rdf.info/terms/continuingfre#m"/>
    </skos:Concept>
    <!-- Concept: no determinable frequency  -->
    <skos:Concept rdf:about="http://fakeIRI.edu/terms/continuingfre#%23" xml:lang="en">
       <skos:inScheme rdf:resource="http://fakeIRI.edu/terms/continuingfre#"/>
       <skos:prefLabel xml:lang="en">no determinable frequency</skos:prefLabel>
+      <skos:definition xml:lang="en">Used when the frequency is known to be intentionally irregular.</skos:definition>
       <skos:notation xml:lang="en">#</skos:notation>
       <skos:exactMatch rdf:resource="http://marc21rdf.info/terms/continuingfre#%23"/>
    </skos:Concept>
@@ -79,7 +80,7 @@
    <skos:Concept rdf:about="http://fakeIRI.edu/terms/continuingfre#z" xml:lang="en">
       <skos:inScheme rdf:resource="http://fakeIRI.edu/terms/continuingfre#"/>
       <skos:prefLabel xml:lang="en">other</skos:prefLabel>
-      <skos:definition xml:lang="en">Frequency other than annual, bimonthly, semiweekly, daily, biweekly, semiannual, biennial, triennial, three times a week, three times a month, continuously updated, monthly, quarterly, semimonthly, three times a year, weekly.</skos:definition>
+      <skos:definition xml:lang="en">Frequency other than intentionally irregulay, annual, bimonthly, semiweekly, daily, biweekly, semiannual, biennial, triennial, three times a week, three times a month, continuously updated, monthly, quarterly, semimonthly, three times a year, weekly, or unknown.</skos:definition>
       <skos:notation xml:lang="en">z</skos:notation>
       <skos:exactMatch rdf:resource="http://marc21rdf.info/terms/continuingfre#z"/>
    </skos:Concept>
@@ -89,7 +90,7 @@
       <skos:prefLabel xml:lang="en">quarterly</skos:prefLabel>
       <skos:definition xml:lang="en">Every three months.</skos:definition>
       <skos:notation xml:lang="en">q</skos:notation>
-      <skos:scopeNote xml:lang="en">Includes 4 times a  year.</skos:scopeNote>
+      <skos:scopeNote xml:lang="en">Includes publications whose frequency is 4 times a  year.</skos:scopeNote>
       <skos:exactMatch rdf:resource="http://marc21rdf.info/terms/continuingfre#q"/>
    </skos:Concept>
    <!-- Concept: semiannual  -->
@@ -149,6 +150,7 @@
    <skos:Concept rdf:about="http://fakeIRI.edu/terms/continuingfre#u" xml:lang="en">
       <skos:inScheme rdf:resource="http://fakeIRI.edu/terms/continuingfre#"/>
       <skos:prefLabel xml:lang="en">unknown</skos:prefLabel>
+      <skos:definition xml:lang="en">Current frequency of the item is unknown.</skos:definition>
       <skos:notation xml:lang="en">u</skos:notation>
       <skos:exactMatch rdf:resource="http://marc21rdf.info/terms/continuingfre#u"/>
    </skos:Concept>
