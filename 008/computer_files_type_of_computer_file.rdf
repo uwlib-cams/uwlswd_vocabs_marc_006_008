@@ -84,14 +84,14 @@
       <skos:prefLabel xml:lang="en">online system or service</skos:prefLabel>
       <skos:definition xml:lang="en">Supports system-based user interaction.</skos:definition>
       <skos:notation xml:lang="en">j</skos:notation>
-      <skos:scopeNote xml:lang="en">May contain nonbibliographic information. Examples are: online library systems (consisting of a variety of databases), FTP sites, electronic bulletin boards, network information centers.</skos:scopeNote>
+      <skos:scopeNote xml:lang="en">May contain nonbibliographic information. If the focus of the record is to describe the system itself, with the content of the databases incidental contained therein, it is coded here.  If the resource is an online file where the system is incidental to the description, it falls into another catagory.  Examples are: online library systems (consisting of a variety of databases), FTP sites, electronic bulletin boards, network information centers.</skos:scopeNote>
       <skos:exactMatch rdf:resource="http://marc21rdf.info/terms/computertyp#j"/>
    </skos:Concept>
    <!-- Concept: other  -->
    <skos:Concept rdf:about="http://fakeIRI.edu/terms/computertyp#z" xml:lang="en">
       <skos:inScheme rdf:resource="http://fakeIRI.edu/terms/computertyp#"/>
       <skos:prefLabel xml:lang="en">other</skos:prefLabel>
-      <skos:definition xml:lang="en">Type of computer file other than numeric data, computer program, representational, document, bibliographic data, font, game, sound, interactive multimedia, online system or service, combination.</skos:definition>
+      <skos:definition xml:lang="en">Type of computer file other than numeric data, computer program, representational, document, bibliographic data, font, game, sound, interactive multimedia, online system or service, or a combination of these listed files.</skos:definition>
       <skos:notation xml:lang="en">z</skos:notation>
       <skos:exactMatch rdf:resource="http://marc21rdf.info/terms/computertyp#z"/>
    </skos:Concept>
