@@ -15,6 +15,7 @@
       <skos:inScheme rdf:resource="http://fakeIRI.edu/terms/continuingreg#"/>
       <skos:prefLabel xml:lang="en">completely irregular</skos:prefLabel>
       <skos:definition xml:lang="en">Intentionally irregular.</skos:definition>
+      <skos:scopeNote xml:lang="en">Used when the frequency is known to be intentionally irregular.</skos:scopeNote>
       <skos:notation xml:lang="en">x</skos:notation>
       <skos:exactMatch rdf:resource="http://marc21rdf.info/terms/continuingreg#x"/>
    </skos:Concept>
@@ -23,6 +24,7 @@
       <skos:inScheme rdf:resource="http://fakeIRI.edu/terms/continuingreg#"/>
       <skos:prefLabel xml:lang="en">normalized irregular</skos:prefLabel>
       <skos:definition xml:lang="en">Predictable irregularity pattern.</skos:definition>
+      <skos:scopeNote xml:lang="en">Used, for example, when the publishing pattern intentionally deviates from a standard pattern (example: Monthly, except July and Aug) or to accommodate an annual cumulation.</skos:scopeNote>
       <skos:notation xml:lang="en">n</skos:notation>
       <skos:exactMatch rdf:resource="http://marc21rdf.info/terms/continuingreg#n"/>
    </skos:Concept>
@@ -31,6 +33,7 @@
       <skos:inScheme rdf:resource="http://fakeIRI.edu/terms/continuingreg#"/>
       <skos:prefLabel xml:lang="en">regular</skos:prefLabel>
       <skos:definition xml:lang="en">Intended regular publishing pattern.</skos:definition>
+      <skos:scopeNote xml:lang="en">This may be determined from information on the piece or by examining the publishing pattern.  Thus, use this pattern if an item states that it is to be issued, for example, bimonthly, even though the publishing pattern is known to have occasional variations due to publishing difficulties.</skos:scopeNote>
       <skos:notation xml:lang="en">r</skos:notation>
       <skos:exactMatch rdf:resource="http://marc21rdf.info/terms/continuingreg#r"/>
    </skos:Concept>
@@ -38,6 +41,7 @@
    <skos:Concept rdf:about="http://fakeIRI.edu/terms/continuingreg#u" xml:lang="en">
       <skos:inScheme rdf:resource="http://fakeIRI.edu/terms/continuingreg#"/>
       <skos:prefLabel xml:lang="en">unknown</skos:prefLabel>
+      <skos:definition xml:lang="en">Regularity of the item is unknown.</skos:definition>
       <skos:notation xml:lang="en">u</skos:notation>
       <skos:exactMatch rdf:resource="http://marc21rdf.info/terms/continuingreg#u"/>
    </skos:Concept>
