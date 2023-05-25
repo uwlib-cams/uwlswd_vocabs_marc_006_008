@@ -43,7 +43,7 @@
    <skos:Concept rdf:about="http://fakeIRI.edu/terms/mapspe#n" xml:lang="en">
       <skos:inScheme rdf:resource="http://fakeIRI.edu/terms/mapspe#"/>
       <skos:prefLabel xml:lang="en">game</skos:prefLabel>
-      <skos:definition xml:lang="en">Game.</skos:definition>
+      <skos:definition xml:lang="en">Intended to be used as or is part of a game.</skos:definition>
       <skos:notation xml:lang="en">n</skos:notation>
       <skos:exactMatch rdf:resource="http://marc21rdf.info/terms/mapspe#n"/>
    </skos:Concept>
@@ -67,7 +67,7 @@
    <skos:Concept rdf:about="http://fakeIRI.edu/terms/mapspe#e" xml:lang="en">
       <skos:inScheme rdf:resource="http://fakeIRI.edu/terms/mapspe#"/>
       <skos:prefLabel xml:lang="en">manuscript</skos:prefLabel>
-      <skos:definition xml:lang="en">Manuscript.</skos:definition>
+      <skos:definition xml:lang="en">Drawn or fashioned by hand.</skos:definition>
       <skos:notation xml:lang="en">e</skos:notation>
       <skos:exactMatch rdf:resource="http://marc21rdf.info/terms/mapspe#e"/>
    </skos:Concept>
@@ -90,7 +90,7 @@
    <skos:Concept rdf:about="http://fakeIRI.edu/terms/mapspe#z" xml:lang="en">
       <skos:inScheme rdf:resource="http://fakeIRI.edu/terms/mapspe#"/>
       <skos:prefLabel xml:lang="en">other</skos:prefLabel>
-      <skos:definition xml:lang="en">Special format characteristics other than manuscript, picture card, post card, calendar, puzzle, game, wall map, playing cards, loose-leaf.</skos:definition>
+      <skos:definition xml:lang="en">Special format characteristics other than manuscript, picture card, post card, calendar, puzzle, game, wall map, playing cards, or loose-leaf.</skos:definition>
       <skos:notation xml:lang="en">z</skos:notation>
       <skos:exactMatch rdf:resource="http://marc21rdf.info/terms/mapspe#z"/>
    </skos:Concept>
@@ -128,7 +128,7 @@
    <skos:Concept rdf:about="http://fakeIRI.edu/terms/mapspe#l" xml:lang="en">
       <skos:inScheme rdf:resource="http://fakeIRI.edu/terms/mapspe#"/>
       <skos:prefLabel xml:lang="en">puzzle</skos:prefLabel>
-      <skos:definition xml:lang="en">Puzzle.</skos:definition>
+      <skos:definition xml:lang="en">Image may be disassembled into pieces and reassembled.</skos:definition>
       <skos:notation xml:lang="en">l</skos:notation>
       <skos:exactMatch rdf:resource="http://marc21rdf.info/terms/mapspe#l"/>
    </skos:Concept>
