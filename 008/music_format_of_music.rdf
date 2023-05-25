@@ -14,16 +14,16 @@
    <skos:Concept rdf:about="http://fakeIRI.edu/terms/musicfom#c" xml:lang="en">
       <skos:inScheme rdf:resource="http://fakeIRI.edu/terms/musicfom#"/>
       <skos:prefLabel xml:lang="en">accompaniment reduced for keyboard</skos:prefLabel>
-      <skos:definition xml:lang="en">Accompaniment is reduced for keyboard instrument(s) and the vocal parts and/or solo instrumental parts remain the same.</skos:definition>
+      <skos:definition xml:lang="en">Score with instrumental accompaniment reduced for keyboard(s).</skos:definition>
       <skos:notation xml:lang="en">c</skos:notation>
-      <skos:scopeNote xml:lang="en">Not used for scores of works for solo voices and chorus showing only the parts for chorus, at least in those portions of the work in which the chorus sings, with the instrumental accompaniment arranged for one or two keyboard instruments.</skos:scopeNote>
+      <skos:scopeNote xml:lang="en">Not used for chorus scores and vocal scores.</skos:scopeNote>
       <skos:exactMatch rdf:resource="http://marc21rdf.info/terms/musicfom#c"/>
    </skos:Concept>
    <!-- Concept: chorus score  -->
    <skos:Concept rdf:about="http://fakeIRI.edu/terms/musicfom#h" xml:lang="en">
       <skos:inScheme rdf:resource="http://fakeIRI.edu/terms/musicfom#"/>
       <skos:prefLabel xml:lang="en">chorus score</skos:prefLabel>
-      <skos:definition xml:lang="en">A score of a work for solo voices and chorus showing only the parts for chorus, at least in those portions of the work in which the chorus sings, with the instrumental accompaniment either arranged for one or two keyboard instruments or omitted.</skos:definition>
+      <skos:definition xml:lang="en">Score of a work for solo voices and chorus showing only the parts for chorus, with the instrumental accompaniment either arranged for keyboard(s) or other chordal instrument(s) or omitted.</skos:definition>
       <skos:notation xml:lang="en">h</skos:notation>
       <skos:exactMatch rdf:resource="http://marc21rdf.info/terms/musicfom#h"/>
    </skos:Concept>
@@ -31,7 +31,7 @@
    <skos:Concept rdf:about="http://fakeIRI.edu/terms/musicfom#g" xml:lang="en">
       <skos:inScheme rdf:resource="http://fakeIRI.edu/terms/musicfom#"/>
       <skos:prefLabel xml:lang="en">close score</skos:prefLabel>
-      <skos:definition xml:lang="en">Close score (e.g., a hymnal) that has separate parts transcribed on two staves.</skos:definition>
+      <skos:definition xml:lang="en">Score (e.g., a hymnal) that has separate parts transcribed in condensed form.</skos:definition>
       <skos:notation xml:lang="en">g</skos:notation>
       <skos:exactMatch rdf:resource="http://marc21rdf.info/terms/musicfom#g"/>
    </skos:Concept>
@@ -39,7 +39,8 @@
    <skos:Concept rdf:about="http://fakeIRI.edu/terms/musicfom#i" xml:lang="en">
       <skos:inScheme rdf:resource="http://fakeIRI.edu/terms/musicfom#"/>
       <skos:prefLabel xml:lang="en">condensed score</skos:prefLabel>
-      <skos:definition xml:lang="en">A score in which the number of staves is reduced to two or a few, generally organized by instrumental sections, and often with cues for individual parts. Used for: Reduced score, Short score.</skos:definition>
+      <skos:definition xml:lang="en">A score in which the number of staves is reduced to two or a few, generally organized by instrumental sections or vocal parts, and often with cues for individual parts.</skos:definition>
+      <skos:scopeNote xml:lang="en">Used for: Reduced score, Short score.</skos:scopeNote>
       <skos:notation xml:lang="en">i</skos:notation>
       <skos:exactMatch rdf:resource="http://marc21rdf.info/terms/musicfom#i"/>
    </skos:Concept>
@@ -47,7 +48,7 @@
    <skos:Concept rdf:about="http://fakeIRI.edu/terms/musicfom#e" xml:lang="en">
       <skos:inScheme rdf:resource="http://fakeIRI.edu/terms/musicfom#"/>
       <skos:prefLabel xml:lang="en">condensed score or piano-conductor score</skos:prefLabel>
-      <skos:definition xml:lang="en">Orchestral or band music that has been reduced to a few staves. It may be part of an ensemble work for a particular instrument, with cues for other instruments. Such a score is used by an individual playing the instrument for which the score was written or for the conductor.</skos:definition>
+      <skos:definition xml:lang="en">Orchestral or band music that has been reduced. It may be part of an ensemble work for a particular instrument, with cues for other instruments. Such a score is used by an individual playing the instrument for which the score was written or for the conductor.</skos:definition>
       <skos:notation xml:lang="en">e</skos:notation>
       <skos:exactMatch rdf:resource="http://marc21rdf.info/terms/musicfom#e"/>
    </skos:Concept>
@@ -55,15 +56,15 @@
    <skos:Concept rdf:about="http://fakeIRI.edu/terms/musicfom#a" xml:lang="en">
       <skos:inScheme rdf:resource="http://fakeIRI.edu/terms/musicfom#"/>
       <skos:prefLabel xml:lang="en">full score</skos:prefLabel>
-      <skos:definition xml:lang="en">Series of staves containing all the instrumental and/or vocal parts of a musical work, arranged so that they can be read simultaneously.</skos:definition>
+      <skos:definition xml:lang="en">Staff notation representing the sounds of all the parts of an ensemble (instrumental and/or vocal), arranged so that they can be read simultaneously.</skos:definition>
       <skos:notation xml:lang="en">a</skos:notation>
       <skos:exactMatch rdf:resource="http://marc21rdf.info/terms/musicfom#a"/>
    </skos:Concept>
    <!-- Concept: full score, miniature or study size  -->
    <skos:Concept rdf:about="http://fakeIRI.edu/terms/musicfom#b" xml:lang="en">
       <skos:inScheme rdf:resource="http://fakeIRI.edu/terms/musicfom#"/>
-      <skos:prefLabel xml:lang="en">full score, miniature or study size</skos:prefLabel>
-      <skos:definition xml:lang="en">Miniature score that is usually smaller in size and not intended to be used in performances.</skos:definition>
+      <skos:prefLabel xml:lang="en">miniature or study score</skos:prefLabel>
+      <skos:definition xml:lang="en">Score issued in a musical image of small size, usually redueced from a larger original, and not primarily intended for use in performance.</skos:definition>
       <skos:notation xml:lang="en">b</skos:notation>
       <skos:exactMatch rdf:resource="http://marc21rdf.info/terms/musicfom#b"/>
    </skos:Concept>
@@ -83,11 +84,20 @@
       <skos:notation xml:lang="en">n</skos:notation>
       <skos:exactMatch rdf:resource="http://marc21rdf.info/terms/musicfom#n"/>
    </skos:Concept>
+   <!-- Concept: piano score  Added by dkt  -->
+   <skos:Concept rdf:about="http://fakeIRI.edu/terms/musicfom#p" xml:lang="en">
+      <skos:inScheme rdf:resource="http://fakeIRI.edu/terms/musicfom#"/>
+      <skos:prefLabel xml:lang="en">piano score</skos:prefLabel>
+      <skos:definition xml:lang="en">A reduction of an instrumental work or a vocal work with instruments to a version for piano.</skos:definition>
+      <skos:scopeNote xml:lang="en">May include the words of a vocal work.</skos:scopeNote>
+      <skos:notation xml:lang="en">p</skos:notation>
+      <skos:exactMatch rdf:resource="http://marc21rdf.info/terms/musicfom#p"/>
+   </skos:Concept>
    <!-- Concept: other  -->
    <skos:Concept rdf:about="http://fakeIRI.edu/terms/musicfom#z" xml:lang="en">
       <skos:inScheme rdf:resource="http://fakeIRI.edu/terms/musicfom#"/>
       <skos:prefLabel xml:lang="en">other</skos:prefLabel>
-      <skos:definition xml:lang="en">Format of music other than full score, full score, miniature or study size, accompaniment reduced for keyboard, voice score, condensed score or piano-conductor score, close score, multiple score formats.</skos:definition>
+      <skos:definition xml:lang="en">Format of music other than full score, miniature or study score, accompaniment reduced for keyboard, voice score with accompaniment omitted, condensed score or piano-conductor score, close score, chorus score, condensed score, performer-conductor part, vocal score, score, multiple score formats, piano score, or unknown.</skos:definition>
       <skos:notation xml:lang="en">z</skos:notation>
       <skos:exactMatch rdf:resource="http://marc21rdf.info/terms/musicfom#z"/>
    </skos:Concept>
@@ -95,9 +105,25 @@
    <skos:Concept rdf:about="http://fakeIRI.edu/terms/musicfom#j" xml:lang="en">
       <skos:inScheme rdf:resource="http://fakeIRI.edu/terms/musicfom#"/>
       <skos:prefLabel xml:lang="en">performer-conductor part</skos:prefLabel>
-      <skos:definition xml:lang="en">Score reduced to a single instrument for which the score was written or for the conductor.</skos:definition>
+      <skos:definition xml:lang="en">A performance part for a single instrument in an ensemble, with cues for the other instruments that enable the performer of that part also to conduct.</skos:definition>
       <skos:notation xml:lang="en">j</skos:notation>
       <skos:exactMatch rdf:resource="http://marc21rdf.info/terms/musicfom#j"/>
+   </skos:Concept>
+   <!-- Concept: vocal score  Added by dkt  -->
+   <skos:Concept rdf:about="http://fakeIRI.edu/terms/musicfom#k" xml:lang="en">
+      <skos:inScheme rdf:resource="http://fakeIRI.edu/terms/musicfom#"/>
+      <skos:prefLabel xml:lang="en">vocal score</skos:prefLabel>
+      <skos:definition xml:lang="en">Score showing all vocal parts, solo and/or choral, with the instrumental accompaniment either arranged for keyboard(s) or other chordal instrument(s) or omitted.</skos:definition>
+      <skos:notation xml:lang="en">k</skos:notation>
+      <skos:exactMatch rdf:resource="http://marc21rdf.info/terms/musicfom#k"/>
+   </skos:Concept>
+   <!-- Concept: score  Added by dkt  -->
+   <skos:Concept rdf:about="http://fakeIRI.edu/terms/musicfom#l" xml:lang="en">
+      <skos:inScheme rdf:resource="http://fakeIRI.edu/terms/musicfom#"/>
+      <skos:prefLabel xml:lang="en">score</skos:prefLabel>
+      <skos:definition xml:lang="en">Graphical, symbolic (e.g., staff), or word-based musical notation representing the sounds of all the parts of an ensemble, or a work for solo performer or electronic media. Do not confuse with Part.</skos:definition>
+      <skos:notation xml:lang="en">l</skos:notation>
+      <skos:exactMatch rdf:resource="http://marc21rdf.info/terms/musicfom#l"/>
    </skos:Concept>
    <!-- Concept: unknown  -->
    <skos:Concept rdf:about="http://fakeIRI.edu/terms/musicfom#u" xml:lang="en">
@@ -110,8 +136,8 @@
    <!-- Concept: voice score  -->
    <skos:Concept rdf:about="http://fakeIRI.edu/terms/musicfom#d" xml:lang="en">
       <skos:inScheme rdf:resource="http://fakeIRI.edu/terms/musicfom#"/>
-      <skos:prefLabel xml:lang="en">voice score</skos:prefLabel>
-      <skos:definition xml:lang="en">A score for a vocal work with the accompaniment omitted.</skos:definition>
+      <skos:prefLabel xml:lang="en">voice score with accompaniment omitted</skos:prefLabel>
+      <skos:definition xml:lang="en">Score for solo and/or choral voice(s) with the accompaniment omitted.</skos:definition>
       <skos:notation xml:lang="en">d</skos:notation>
       <skos:scopeNote xml:lang="en">Not used for vocal works originally unaccompanied.</skos:scopeNote>
       <skos:exactMatch rdf:resource="http://marc21rdf.info/terms/musicfom#d"/>
