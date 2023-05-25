@@ -21,7 +21,7 @@
    <!-- Concept: bathymetry by soundings  -->
    <skos:Concept rdf:about="http://fakeIRI.edu/terms/maprel#e" xml:lang="en">
       <skos:inScheme rdf:resource="http://fakeIRI.edu/terms/maprel#"/>
-      <skos:prefLabel xml:lang="en">bathymetry by soundings</skos:prefLabel>
+      <skos:prefLabel xml:lang="en">bathymetry/soundings</skos:prefLabel>
       <skos:definition xml:lang="en">Underwater relief (depth) shown by soundings or spot depths.</skos:definition>
       <skos:notation xml:lang="en">e</skos:notation>
       <skos:exactMatch rdf:resource="http://marc21rdf.info/terms/maprel#e"/>
@@ -85,7 +85,7 @@
    <skos:Concept rdf:about="http://fakeIRI.edu/terms/maprel#z" xml:lang="en">
       <skos:inScheme rdf:resource="http://fakeIRI.edu/terms/maprel#"/>
       <skos:prefLabel xml:lang="en">other</skos:prefLabel>
-      <skos:definition xml:lang="en">Relief other than contours, shading, gradient and bathymetric tints, hachures, bathymetry by soundings, form lines, spot heights, pictorially, land forms, bathymetry by isolines, rock drawings.</skos:definition>
+      <skos:definition xml:lang="en">Relief other than contours, shading, gradient and bathymetric tints, hachures, bathymetry/soundings, form lines, spot heights, pictorially, land forms, bathymetry by isolines, rock drawings.</skos:definition>
       <skos:notation xml:lang="en">z</skos:notation>
       <skos:exactMatch rdf:resource="http://marc21rdf.info/terms/maprel#z"/>
    </skos:Concept>
