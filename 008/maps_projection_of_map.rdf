@@ -154,6 +154,22 @@
       <skos:notation xml:lang="en">bj</skos:notation>
       <skos:exactMatch rdf:resource="http://marc21rdf.info/terms/mappro#bj"/>
    </skos:Concept>
+   <!-- Concept: Krovak  Added by dkt  -->
+   <skos:Concept rdf:about="http://fakeIRI.edu/terms/mappro#bk" xml:lang="en">
+      <skos:inScheme rdf:resource="http://fakeIRI.edu/terms/mappro#"/>
+      <skos:prefLabel xml:lang="en">krovak</skos:prefLabel>
+      <skos:definition xml:lang="en">Krovak.</skos:definition>
+      <skos:notation xml:lang="en">bk</skos:notation>
+      <skos:exactMatch rdf:resource="http://marc21rdf.info/terms/mappro#bk"/>
+   </skos:Concept>
+   <!-- Concept: Cassini-Soldner  Added by dkt  -->
+   <skos:Concept rdf:about="http://fakeIRI.edu/terms/mappro#bl" xml:lang="en">
+      <skos:inScheme rdf:resource="http://fakeIRI.edu/terms/mappro#"/>
+      <skos:prefLabel xml:lang="en">Cassini-Soldner</skos:prefLabel>
+      <skos:definition xml:lang="en">Cassini-Soldner.</skos:definition>
+      <skos:notation xml:lang="en">bl</skos:notation>
+      <skos:exactMatch rdf:resource="http://marc21rdf.info/terms/mappro#bl"/>
+   </skos:Concept>
    <!-- Concept: Gall  -->
    <skos:Concept rdf:about="http://fakeIRI.edu/terms/mappro#ba" xml:lang="en">
       <skos:inScheme rdf:resource="http://fakeIRI.edu/terms/mappro#"/>
@@ -294,7 +310,7 @@
    <skos:Concept rdf:about="http://fakeIRI.edu/terms/mappro#zz" xml:lang="en">
       <skos:inScheme rdf:resource="http://fakeIRI.edu/terms/mappro#"/>
       <skos:prefLabel xml:lang="en">other</skos:prefLabel>
-      <skos:definition xml:lang="en">Projection other than Aitoff, gnomic, Lambert's azimuthal equal area, orthographic, azimuthal equidistant, stereographic, general vertical near-sided, modified stereographic for Alaska, Chamberlin trimetric, polar stereographic, azimuthal, specific type unknown, azimuthal, other, Gall, Goode's homolographic, Lambert's cylindrical equal area, Mercator, Miller, Mollweide, sinusoidal, transverse mercator, Gauss-Kruger, equirectangular, oblique Mercator, Robinson, space oblique Mercator, cylindrical, specific type unknown, cylindrical, other, Alber's equal area, Bonne, Lambert's conformal conic, equidistant conic, polyconic, conic, specific type unknown, conic, other, armadillo, butterfly, Eckert, Goode's homolosine, Miller's bipolar oblique conformal conic, Van der Grinten, dimaxion, cordiform, Lambert conformal.</skos:definition>
+      <skos:definition xml:lang="en">Projection other than Aitoff, gnomic, Lambert's azimuthal equal area, orthographic, azimuthal equidistant, stereographic, general vertical near-sided, modified stereographic for Alaska, Chamberlin trimetric, polar stereographic, azimuthal, specific type unknown, azimuthal, other, Gall, Goode's homolographic, Lambert's cylindrical equal area, Mercator, Miller, Mollweide, sinusoidal, transverse mercator, Gauss-Kruger, equirectangular, Krovak, Cassini-Soldner, oblique Mercator, Robinson, space oblique Mercator, cylindrical, specific type unknown, cylindrical, other, Alber's equal area, Bonne, Lambert's conformal conic, equidistant conic, polyconic, conic, specific type unknown, conic, other, armadillo, butterfly, Eckert, Goode's homolosine, Miller's bipolar oblique conformal conic, Van der Grinten, dimaxion, cordiform, Lambert conformal.</skos:definition>
       <skos:notation xml:lang="en">zz</skos:notation>
       <skos:exactMatch rdf:resource="http://marc21rdf.info/terms/mappro#zz"/>
    </skos:Concept>
