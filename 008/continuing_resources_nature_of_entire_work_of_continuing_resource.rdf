@@ -87,6 +87,7 @@
    <skos:Concept rdf:about="http://fakeIRI.edu/terms/continuingwor#e" xml:lang="en">
       <skos:inScheme rdf:resource="http://fakeIRI.edu/terms/continuingwor#"/>
       <skos:prefLabel xml:lang="en">encyclopedias</skos:prefLabel>
+      <skos:definition xml:lang="en">Encyclopedia or an encyclopedic treatment of a specific topic.</skos:definition>
       <skos:notation xml:lang="en">e</skos:notation>
       <skos:exactMatch rdf:resource="http://marc21rdf.info/terms/continuingwor#e"/>
    </skos:Concept>
@@ -154,10 +155,11 @@
       <skos:scopeNote xml:lang="en">Also used when a work consists of texts of rules and regulations issued by executive or administrative agencies.</skos:scopeNote>
       <skos:exactMatch rdf:resource="http://marc21rdf.info/terms/continuingwor#l"/>
    </skos:Concept>
-   <!-- Concept: no specified nature of entire work  -->
+   <!-- Concept: not specified  -->
    <skos:Concept rdf:about="http://fakeIRI.edu/terms/continuingwor#%23" xml:lang="en">
       <skos:inScheme rdf:resource="http://fakeIRI.edu/terms/continuingwor#"/>
-      <skos:prefLabel xml:lang="en">no specified nature of entire work</skos:prefLabel>
+      <skos:prefLabel xml:lang="en">not specified</skos:prefLabel>
+      <skos:definition xml:lang="en">Nature of the entire item is not specified.</skos:definition>
       <skos:notation xml:lang="en">#</skos:notation>
       <skos:exactMatch rdf:resource="http://marc21rdf.info/terms/continuingwor#%23"/>
    </skos:Concept>
@@ -197,7 +199,7 @@
    <skos:Concept rdf:about="http://fakeIRI.edu/terms/continuingwor#n" xml:lang="en">
       <skos:inScheme rdf:resource="http://fakeIRI.edu/terms/continuingwor#"/>
       <skos:prefLabel xml:lang="en">surveys of literature in a subject area</skos:prefLabel>
-      <skos:definition xml:lang="en">Authored surveys that summarize what has been published about a subject.</skos:definition>
+      <skos:definition xml:lang="en">Authored surveys that summarize what has been published about a subject. Usually has a list of references either in the body of the work or as a bibliography.</skos:definition>
       <skos:notation xml:lang="en">n</skos:notation>
       <skos:exactMatch rdf:resource="http://marc21rdf.info/terms/continuingwor#n"/>
    </skos:Concept>
