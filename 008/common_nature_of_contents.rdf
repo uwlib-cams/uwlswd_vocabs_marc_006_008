@@ -16,6 +16,7 @@
       <skos:prefLabel xml:lang="en">abstracts/summaries</skos:prefLabel>
       <skos:definition xml:lang="en">Abstracts or summaries of other publications.</skos:definition>
       <skos:notation xml:lang="en">a</skos:notation>
+      <skos:scopeNote xml:lang="en">Not used when a publication includes an abstract or summary of its own content.</skos:scopeNote>
       <skos:exactMatch rdf:resource="http://marc21rdf.info/terms/commonnat#a"/>
    </skos:Concept>
    <!-- Concept: bibliographies  -->
@@ -23,6 +24,7 @@
       <skos:inScheme rdf:resource="http://fakeIRI.edu/terms/commonnat#"/>
       <skos:prefLabel xml:lang="en">bibliographies</skos:prefLabel>
       <skos:definition xml:lang="en">Significant part of the item is a bibliography or bibliographies.</skos:definition>
+      <skos:scopeNote xml:lang="en">Used only if the bibliography is substantial enough to be mentioned in the bibliographic record.  Not used if also coded as a survey of literature in a subject area.</skos:scopeNote>
       <skos:notation xml:lang="en">b</skos:notation>
       <skos:exactMatch rdf:resource="http://marc21rdf.info/terms/commonnat#b"/>
    </skos:Concept>
@@ -34,6 +36,15 @@
       <skos:notation xml:lang="en">h</skos:notation>
       <skos:scopeNote xml:lang="en">Not used for genealogy.</skos:scopeNote>
       <skos:exactMatch rdf:resource="http://marc21rdf.info/terms/commonnat#h"/>
+   </skos:Concept>
+   <!-- Concept: offprints  Added by dkt -->
+   <skos:Concept rdf:about="http://fakeIRI.edu/terms/commonnat#2" xml:lang="en">
+      <skos:inScheme rdf:resource="http://fakeIRI.edu/terms/commonnat#"/>
+      <skos:prefLabel xml:lang="en">offprints</skos:prefLabel>
+      <skos:definition xml:lang="en">Publication that originally was published as an article in a monograph or a serial and that is also issued separately and independently.</skos:definition>
+      <skos:scopeNote xml:lang="en">Includes preprints and postprints.</skos:scopeNote>
+      <skos:notation xml:lang="en">2</skos:notation>
+      <skos:exactMatch rdf:resource="http://marc21rdf.info/terms/commonnat#2"/>
    </skos:Concept>
    <!-- Concept: calendars  -->
    <skos:Concept rdf:about="http://fakeIRI.edu/terms/commonnat#5" xml:lang="en">
@@ -75,7 +86,7 @@
       <skos:prefLabel xml:lang="en">directories</skos:prefLabel>
       <skos:definition xml:lang="en">Directory or register of persons or corporate bodies.</skos:definition>
       <skos:notation xml:lang="en">r</skos:notation>
-      <skos:scopeNote xml:lang="en">Not used for serial biographical dictionaries.</skos:scopeNote>
+      <skos:scopeNote xml:lang="en">Not used for serial or monographic biographical dictionaries.</skos:scopeNote>
       <skos:exactMatch rdf:resource="http://marc21rdf.info/terms/commonnat#r"/>
    </skos:Concept>
    <!-- Concept: discographies  -->
@@ -83,6 +94,7 @@
       <skos:inScheme rdf:resource="http://fakeIRI.edu/terms/commonnat#"/>
       <skos:prefLabel xml:lang="en">discographies</skos:prefLabel>
       <skos:definition xml:lang="en">Significant part of the item is a discography or discographies, or other bibliography of recorded sound.</skos:definition>
+      <skos:scopeNote xml:lang="en">Used only if the discography is substantial enough to be mentioned in the bibliographic record.</skos:scopeNote>
       <skos:notation xml:lang="en">k</skos:notation>
       <skos:exactMatch rdf:resource="http://marc21rdf.info/terms/commonnat#k"/>
    </skos:Concept>
@@ -99,6 +111,7 @@
       <skos:inScheme rdf:resource="http://fakeIRI.edu/terms/commonnat#"/>
       <skos:prefLabel xml:lang="en">filmographies</skos:prefLabel>
       <skos:definition xml:lang="en">Significant part of the item is a filmography or other bibliography of moving images.</skos:definition>
+      <skos:scopeNote xml:lang="en">Used only if the filmography is substantial enough to be mentioned in the bibliographic record.</skos:scopeNote>
       <skos:notation xml:lang="en">q</skos:notation>
       <skos:exactMatch rdf:resource="http://marc21rdf.info/terms/commonnat#q"/>
    </skos:Concept>
@@ -118,6 +131,15 @@
       <skos:notation xml:lang="en">i</skos:notation>
       <skos:scopeNote xml:lang="en">Not used when a publication contains an index to its own content.</skos:scopeNote>
       <skos:exactMatch rdf:resource="http://marc21rdf.info/terms/commonnat#i"/>
+   </skos:Concept>
+   <!-- Concept: patent document  Added by dkt -->
+   <skos:Concept rdf:about="http://fakeIRI.edu/terms/commonnat#j" xml:lang="en">
+      <skos:inScheme rdf:resource="http://fakeIRI.edu/terms/commonnat#"/>
+      <skos:prefLabel xml:lang="en">patent document</skos:prefLabel>
+      <skos:definition xml:lang="en">Detailed description of an invention or discovery of a new and useful process, machine, manufacture, composition of matter, or improvements thereof.</skos:definition>
+      <skos:notation xml:lang="en">j</skos:notation>
+      <skos:scopeNote xml:lang="en">A patent document may be one of several kinds of documents: a patent or similar document (e.g., inventor's certificate), a patent application (domestic, foreign, priority application, etc.), or a continuation/division of one of the above.</skos:scopeNote>
+      <skos:exactMatch rdf:resource="http://marc21rdf.info/terms/commonnat#j"/>
    </skos:Concept>
    <!-- Concept: law reports and digests  -->
    <skos:Concept rdf:about="http://fakeIRI.edu/terms/commonnat#w" xml:lang="en">
@@ -179,9 +201,8 @@
    <skos:Concept rdf:about="http://fakeIRI.edu/terms/commonnat#o" xml:lang="en">
       <skos:inScheme rdf:resource="http://fakeIRI.edu/terms/commonnat#"/>
       <skos:prefLabel xml:lang="en">reviews</skos:prefLabel>
-      <skos:definition xml:lang="en">Reviews.</skos:definition>
+      <skos:definition xml:lang="en">Includes critical reviews of published or performed works (e.g., books, films, sound recordings, theater, etc.).</skos:definition>
       <skos:notation xml:lang="en">o</skos:notation>
-      <skos:scopeNote xml:lang="en">Includes critical reviews of published or performed works (e.g., books, films, sound recordings, theater, etc.).</skos:scopeNote>
       <skos:exactMatch rdf:resource="http://marc21rdf.info/terms/commonnat#o"/>
    </skos:Concept>
    <!-- Concept: standards or specifications  -->
@@ -205,7 +226,7 @@
    <skos:Concept rdf:about="http://fakeIRI.edu/terms/commonnat#n" xml:lang="en">
       <skos:inScheme rdf:resource="http://fakeIRI.edu/terms/commonnat#"/>
       <skos:prefLabel xml:lang="en">surveys of literature in a subject area</skos:prefLabel>
-      <skos:definition xml:lang="en">Surveys of literature in a subject area.</skos:definition>
+      <skos:definition xml:lang="en">Authored surveys that summarize what has been published about a subject. Usually has a list of references either in the body of the work or as a bibliography.</skos:definition>
       <skos:notation xml:lang="en">n</skos:notation>
       <skos:scopeNote xml:lang="en">Includes authored surveys that summarize what has been published about a subject</skos:scopeNote>
       <skos:exactMatch rdf:resource="http://marc21rdf.info/terms/commonnat#n"/>
