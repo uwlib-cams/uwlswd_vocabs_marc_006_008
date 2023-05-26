@@ -7,10 +7,10 @@
 <!-- Scheme: MARC21-008: Literary form of book -->
    <skos:ConceptScheme rdf:about="http://fakeIRI.edu/terms/booklit#">
       <dct:title>MARC21-008: Literary form of book</dct:title>
-      <dct:description>To be filled from CSV</dct:description>
+      <dct:description>Indicates the literary form of an item.</dct:description>
       <dct:publisher rdf:resource="http://viaf.org/viaf/139541794"/>
    </skos:ConceptScheme>
-   <!-- Concept: comic strips  -->
+   <!-- Concept: comic strips.  Not in current LoC -dkt.  -->
    <skos:Concept rdf:about="http://fakeIRI.edu/terms/booklit#c" xml:lang="en">
       <skos:inScheme rdf:resource="http://fakeIRI.edu/terms/booklit#"/>
       <skos:prefLabel xml:lang="en">comic strips</skos:prefLabel>
