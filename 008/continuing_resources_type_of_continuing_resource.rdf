@@ -7,7 +7,7 @@
 <!-- Scheme: MARC21-008: Type of continuing resource -->
    <skos:ConceptScheme rdf:about="http://fakeIRI.edu/terms/continuingtyp#">
       <dct:title>MARC21-008: Type of continuing resource</dct:title>
-      <dct:description>To be filled from CSV</dct:description>
+      <dct:description>Indicates the type of continuing resource.</dct:description>
       <dct:publisher rdf:resource="http://viaf.org/viaf/139541794"/>
    </skos:ConceptScheme>
    <!-- Concept: magazine  Added by dkt-->
