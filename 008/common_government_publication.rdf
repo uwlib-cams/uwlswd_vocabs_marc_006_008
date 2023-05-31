@@ -7,7 +7,7 @@
 <!-- Scheme: MARC21-008: Government publication -->
    <skos:ConceptScheme rdf:about="http://fakeIRI.edu/terms/commongov#">
       <dct:title>MARC21-008: Government publication</dct:title>
-      <dct:description>To be filled from CSV</dct:description>
+      <dct:description>Indicates whether the item is published or produced by or for an international, provincial, national, state, or local government agency, or by any subdivision of such a body, and, if so, the jurisdictional level of the agency.</dct:description>
       <dct:publisher rdf:resource="http://viaf.org/viaf/139541794"/>
    </skos:ConceptScheme>
    <!-- Concept: autonomous or semi-autonomous component  -->
