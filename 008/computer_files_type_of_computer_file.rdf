@@ -7,7 +7,7 @@
 <!-- Scheme: MARC21-008: Type of computer file -->
    <skos:ConceptScheme rdf:about="http://fakeIRI.edu/terms/computertyp#">
       <dct:title>MARC21-008: Type of computer file</dct:title>
-      <dct:description>To be filled from CSV</dct:description>
+      <dct:description>Indicates the type of computer file described in the bibliographic record.</dct:description>
       <dct:publisher rdf:resource="http://viaf.org/viaf/139541794"/>
    </skos:ConceptScheme>
    <!-- Concept: bibliographic data  -->
