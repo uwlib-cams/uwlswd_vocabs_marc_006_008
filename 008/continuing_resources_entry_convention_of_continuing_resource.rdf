@@ -7,7 +7,7 @@
 <!-- Scheme: MARC21-008: Entry convention of continuing resource -->
    <skos:ConceptScheme rdf:about="http://fakeIRI.edu/terms/continuingent#">
       <dct:title>MARC21-008: Entry convention of continuing resource</dct:title>
-      <dct:description>To be filled from CSV</dct:description>
+      <dct:description>Indicates whether the item was cataloged according to successive entry, latest entry, or integrated entry cataloging conventions.</dct:description>
       <dct:publisher rdf:resource="http://viaf.org/viaf/139541794"/>
    </skos:ConceptScheme>
    <!-- Concept: integrated entry  -->
