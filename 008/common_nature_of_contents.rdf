@@ -37,6 +37,12 @@
       <skos:scopeNote xml:lang="en">Not used for genealogy.</skos:scopeNote>
       <skos:exactMatch rdf:resource="http://marc21rdf.info/terms/commonnat#h"/>
    </skos:Concept>
+   <!-- Concept: handbooks [obsolete]  -->
+   <skos:Concept rdf:about="http://fakeIRI.edu/terms/commonnat#hx" xml:lang="en">
+      <skos:inScheme rdf:resource="http://fakeIRI.edu/terms/commonnat#"/>
+      <skos:prefLabel xml:lang="en">handbooks [obsolete]</skos:prefLabel>
+      <skos:notation xml:lang="en">h</skos:notation>
+   </skos:Concept>
    <!-- Concept: offprints  Added by dkt -->
    <skos:Concept rdf:about="http://fakeIRI.edu/terms/commonnat#2" xml:lang="en">
       <skos:inScheme rdf:resource="http://fakeIRI.edu/terms/commonnat#"/>
@@ -254,6 +260,12 @@
       <skos:definition xml:lang="en">Treaty or accord negotiated between two or more parties to settle a disagreement, establish a relationship, grant rights, etc.</skos:definition>
       <skos:notation xml:lang="en">z</skos:notation>
       <skos:exactMatch rdf:resource="http://marc21rdf.info/terms/commonnat#z"/>
+   </skos:Concept>
+   <!-- Concept: technical reports [obsolete]  -->
+   <skos:Concept rdf:about="http://fakeIRI.edu/terms/commonnat#xx" xml:lang="en">
+      <skos:inScheme rdf:resource="http://fakeIRI.edu/terms/commonnat#"/>
+      <skos:prefLabel xml:lang="en">technical reports [obsolete]</skos:prefLabel>
+      <skos:notation xml:lang="en">x</skos:notation>
    </skos:Concept>
    <!-- Concept: yearbooks  -->
    <skos:Concept rdf:about="http://fakeIRI.edu/terms/commonnat#y" xml:lang="en">
