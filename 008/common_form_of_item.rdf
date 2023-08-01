@@ -18,6 +18,12 @@
       <skos:notation xml:lang="en">f</skos:notation>
       <skos:exactMatch rdf:resource="http://marc21rdf.info/terms/commonfor#f"/>
    </skos:Concept>
+   <!-- Concept: photocopy [obsolete]  -->
+   <skos:Concept rdf:about="http://fakeIRI.edu/terms/commonfor#px" xml:lang="en">
+      <skos:inScheme rdf:resource="http://fakeIRI.edu/terms/commonfor#"/>
+      <skos:prefLabel xml:lang="en">photocopy [obsolete]</skos:prefLabel>
+      <skos:notation xml:lang="en">p</skos:notation>
+   </skos:Concept>
    <!-- Concept: direct electronic  -->
    <skos:Concept rdf:about="http://fakeIRI.edu/terms/commonfor#q" xml:lang="en">
       <skos:inScheme rdf:resource="http://fakeIRI.edu/terms/commonfor#"/>
@@ -90,6 +96,12 @@
       <skos:scopeNote xml:lang="en">Not specified by one of the other codes.</skos:scopeNote>
       <skos:exactMatch rdf:resource="http://marc21rdf.info/terms/commonfor#%23"/>
    </skos:Concept>
+   <!-- Concept: handwritten transcript [obsolete]  -->
+   <skos:Concept rdf:about="http://fakeIRI.edu/terms/commonfor#jx" xml:lang="en">
+      <skos:inScheme rdf:resource="http://fakeIRI.edu/terms/commonfor#"/>
+      <skos:prefLabel xml:lang="en">handwritten transcript [obsolete]</skos:prefLabel>
+      <skos:notation xml:lang="en">j</skos:notation>
+   </skos:Concept>
    <!-- Concept: online  -->
    <skos:Concept rdf:about="http://fakeIRI.edu/terms/commonfor#o" xml:lang="en">
       <skos:inScheme rdf:resource="http://fakeIRI.edu/terms/commonfor#"/>
@@ -97,6 +109,18 @@
       <skos:definition xml:lang="en">Accessed by means of hardware and software connections to a communications network.</skos:definition>
       <skos:notation xml:lang="en">o</skos:notation>
       <skos:exactMatch rdf:resource="http://marc21rdf.info/terms/commonfor#o"/>
+   </skos:Concept>
+   <!-- Concept: typewritten transcript [obsolete]  -->
+   <skos:Concept rdf:about="http://fakeIRI.edu/terms/commonfor#tx" xml:lang="en">
+      <skos:inScheme rdf:resource="http://fakeIRI.edu/terms/commonfor#"/>
+      <skos:prefLabel xml:lang="en">typewritten transcript [obsolete]</skos:prefLabel>
+      <skos:notation xml:lang="en">t</skos:notation>
+   </skos:Concept>
+   <!-- Concept: other form of reproduction [obsolete] [USMARC only]  -->
+   <skos:Concept rdf:about="http://fakeIRI.edu/terms/commonfor#xx" xml:lang="en">
+      <skos:inScheme rdf:resource="http://fakeIRI.edu/terms/commonfor#"/>
+      <skos:prefLabel xml:lang="en">other form of reproduction [obsolete] [USMARC only]</skos:prefLabel>
+      <skos:notation xml:lang="en">x</skos:notation>
    </skos:Concept>
    <!-- Concept: other form of reproduction [obsolete]  -->
    <skos:Concept rdf:about="http://fakeIRI.edu/terms/commonfor#zx" xml:lang="en">
