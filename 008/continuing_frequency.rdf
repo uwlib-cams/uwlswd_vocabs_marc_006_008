@@ -6,7 +6,8 @@
 
 <!-- Scheme: MARC21-008: Frequency of continuing resource -->
    <skos:ConceptScheme rdf:about="http://fakeIRI.edu/terms/continuingfre">
-      <dct:title>MARC21-008: Frequency of continuing resource</dct:title>
+      <dct:title>Continuing: frequency</dct:title>
+      <dct:alternative>MARC21 008/18 values for continuing resources expressed using RDF</dct:alternative>
       <dct:description>Indicates the frequency of an item. In the case of integrating resources, updates to an item.</dct:description>
       <dct:publisher rdf:resource="http://viaf.org/viaf/139541794"/>
    </skos:ConceptScheme>
