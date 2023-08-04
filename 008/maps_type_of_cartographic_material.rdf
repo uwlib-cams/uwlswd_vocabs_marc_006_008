@@ -6,7 +6,8 @@
 
 <!-- Scheme: MARC21-008: Type of cartographic material -->
    <skos:ConceptScheme rdf:about="http://fakeIRI.edu/terms/maptyp#">
-      <dct:title>MARC21-008: Type of cartographic material</dct:title>
+      <dct:title>Maps: type of cartographic material</dct:title>
+      <dct:alternative>MARC21 008/25 values for maps expressed using RDF</dct:alternative>
       <dct:description>Indicates the type of cartographic item described.</dct:description>
       <dct:publisher rdf:resource="http://viaf.org/viaf/139541794"/>
    </skos:ConceptScheme>
