@@ -6,7 +6,8 @@
 
 <!-- Scheme: MARC21-008: Original alphabet or script of title of continuing resource -->
    <skos:ConceptScheme rdf:about="http://fakeIRI.edu/terms/continuingscr#">
-      <dct:title>MARC21-008: Original alphabet or script of title of continuing resource</dct:title>
+      <dct:title>Continuing: original alphabet or script of title</dct:title>
+      <dct:alternative>MARC21 008/33 values for continuing resources expressed using RDF</dct:alternative>
       <dct:description>Indicates the original alphabet or script of the language of the title on the source item upon which the key title is based.</dct:description>
       <dct:publisher rdf:resource="http://viaf.org/viaf/139541794"/>
    </skos:ConceptScheme>
