@@ -6,7 +6,8 @@
 
 <!-- Scheme: MARC21-008: Accompanying matter for music -->
    <skos:ConceptScheme rdf:about="http://fakeIRI.edu/terms/musicacc#">
-      <dct:title>MARC21-008: Accompanying matter for music</dct:title>
+      <dct:title>Music: accompanying matter</dct:title>
+      <dct:alternative>MARC21 008/24-29 values for music expressed using RDF</dct:alternative>
       <dct:description>Indicates the contents of program notes and other accompanying material for sound recording, music manuscripts, or notated music.</dct:description>
       <dct:publisher rdf:resource="http://viaf.org/viaf/139541794"/>
    </skos:ConceptScheme>
