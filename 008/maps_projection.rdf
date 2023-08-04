@@ -6,7 +6,8 @@
 
 <!-- Scheme: MARC21-008: Projection of map -->
    <skos:ConceptScheme rdf:about="http://fakeIRI.edu/terms/mappro#">
-      <dct:title>MARC21-008: Projection of map</dct:title>
+      <dct:title>Maps: projection</dct:title>
+      <dct:alternative>MARC21 008/22-23 values for maps expressed using RDF</dct:alternative>
       <dct:description>Indicates the projection used in producing the item.</dct:description>
       <dct:publisher rdf:resource="http://viaf.org/viaf/139541794"/>
    </skos:ConceptScheme>
