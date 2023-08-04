@@ -6,7 +6,8 @@
 
 <!-- Scheme: MARC21-007: Music parts -->
    <skos:ConceptScheme rdf:about="http://fakeIRI.edu/terms/musicpar#">
-      <dct:title>MARC21-007: Music parts</dct:title>
+      <dct:title>Music: music parts</dct:title>
+      <dct:alternative>MARC21 008/21 values for music expressed using RDF</dct:alternative>
       <dct:description>Indicates whether the item being cataloged is, or contains parts.</dct:description>
       <skos:scopeNote xml:lang="en">Is not used to indicate that parts may exist elsewhere.</skos:scopeNote>
       <dct:publisher rdf:resource="http://viaf.org/viaf/139541794"/>
