@@ -6,7 +6,8 @@
 
 <!-- Scheme: MARC21-008: Biography -->
    <skos:ConceptScheme rdf:about="http://fakeIRI.edu/terms/bookbio#">
-      <dct:title>MARC21-008: Biography</dct:title>
+      <dct:title>Books: biography</dct:title>
+      <dct:alternative>MARC21 008/34 values for books expressed using RDF</dct:alternative>
       <dct:description>Indicates whether or not an item contains biographical material, and if so, what the biographical characteristics are.</dct:description>
       <dct:publisher rdf:resource="http://viaf.org/viaf/139541794"/>
    </skos:ConceptScheme>
