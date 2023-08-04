@@ -6,7 +6,8 @@
 
 <!-- Scheme: MARC21-008: Nature of contents -->
    <skos:ConceptScheme rdf:about="http://fakeIRI.edu/terms/commonnat#">
-      <dct:title>MARC21-008: Nature of contents</dct:title>
+      <dct:title>Some: nature of contents</dct:title>
+      <dct:alternative>MARC21 008/24-27 values for some materials expressed using RDF</dct:alternative>
       <dct:description>Indicates whether a significant part of the item is or contains certain types of material.</dct:description>
       <dct:publisher rdf:resource="http://viaf.org/viaf/139541794"/>
    </skos:ConceptScheme>
