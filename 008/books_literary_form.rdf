@@ -7,7 +7,7 @@
 <!-- Scheme: MARC21-008: Literary form of book -->
    <skos:ConceptScheme rdf:about="http://fakeIRI.edu/terms/booklit#">
       <dct:title>Books: literary form</dct:title>
-      <dct:alternative>MARC21 008/06 values for books expressed using RDF</dct:alternative>
+      <dct:alternative>MARC21 008/33 values for books expressed using RDF</dct:alternative>
       <dct:description>Indicates the literary form of an item.</dct:description>
       <dct:publisher rdf:resource="http://viaf.org/viaf/139541794"/>
    </skos:ConceptScheme>
