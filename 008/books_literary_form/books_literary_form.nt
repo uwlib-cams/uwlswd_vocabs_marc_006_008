@@ -1,0 +1,81 @@
+<https://doi.org/10.6069/uwlswd.f447-ax91#p> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<https://doi.org/10.6069/uwlswd.f447-ax91#m> <http://www.w3.org/2004/02/skos/core#notation> "m"@en .
+<https://doi.org/10.6069/uwlswd.f447-ax91#p> <http://www.w3.org/2004/02/skos/core#inScheme> <https://doi.org/10.6069/uwlswd.f447-ax91> .
+<https://doi.org/10.6069/uwlswd.f447-ax91> <http://purl.org/dc/terms/alternative> "MARC21 008/33 values for books expressed using RDF" .
+<https://doi.org/10.6069/uwlswd.f447-ax91#s> <http://www.w3.org/2004/02/skos/core#prefLabel> "speeches"@en .
+<https://doi.org/10.6069/uwlswd.f447-ax91#d> <http://www.w3.org/2004/02/skos/core#prefLabel> "dramas"@en .
+<https://doi.org/10.6069/uwlswd.f447-ax91#f> <http://www.w3.org/2004/02/skos/core#definition> "Novels."@en .
+<https://doi.org/10.6069/uwlswd.f447-ax91#s> <http://www.w3.org/2004/02/skos/core#notation> "s"@en .
+<https://doi.org/10.6069/uwlswd.f447-ax91#1> <http://www.w3.org/2004/02/skos/core#notation> "1"@en .
+<https://doi.org/10.6069/uwlswd.f447-ax91#j> <http://www.w3.org/2004/02/skos/core#prefLabel> "short stories"@en .
+<https://doi.org/10.6069/uwlswd.f447-ax91> <http://purl.org/dc/terms/title> "Books: literary form" .
+<https://doi.org/10.6069/uwlswd.f447-ax91#d> <http://www.w3.org/2004/02/skos/core#definition> "Dramas."@en .
+<https://doi.org/10.6069/uwlswd.f447-ax91> <http://purl.org/dc/terms/source> <https://www.loc.gov/marc/bibliographic/bd008.html> .
+<https://doi.org/10.6069/uwlswd.f447-ax91#i> <http://www.w3.org/2004/02/skos/core#notation> "i"@en .
+<https://doi.org/10.6069/uwlswd.f447-ax91#0> <http://www.w3.org/2004/02/skos/core#definition> "Not a work of fiction and no further identification of the literary form is desired."@en .
+<https://doi.org/10.6069/uwlswd.f447-ax91#m> <http://www.w3.org/2004/02/skos/core#inScheme> <https://doi.org/10.6069/uwlswd.f447-ax91> .
+<https://doi.org/10.6069/uwlswd.f447-ax91#m> <http://www.w3.org/2004/02/skos/core#prefLabel> "mixed forms"@en .
+<https://doi.org/10.6069/uwlswd.f447-ax91#0> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<https://doi.org/10.6069/uwlswd.f447-ax91#1> <http://www.w3.org/2004/02/skos/core#definition> "Work of fiction but no further identification of the literary form is desired."@en .
+<https://doi.org/10.6069/uwlswd.f447-ax91> <http://purl.org/dc/terms/source> <http://marc21rdf.info> .
+<https://doi.org/10.6069/uwlswd.f447-ax91#f> <http://www.w3.org/2004/02/skos/core#inScheme> <https://doi.org/10.6069/uwlswd.f447-ax91> .
+<https://doi.org/10.6069/uwlswd.f447-ax91#h> <http://www.w3.org/2004/02/skos/core#notation> "h"@en .
+<https://doi.org/10.6069/uwlswd.f447-ax91#e> <http://www.w3.org/2004/02/skos/core#prefLabel> "essays"@en .
+<https://doi.org/10.6069/uwlswd.f447-ax91#u> <http://www.w3.org/2004/02/skos/core#prefLabel> "unknown"@en .
+<https://doi.org/10.6069/uwlswd.f447-ax91#m> <http://www.w3.org/2004/02/skos/core#definition> "Represents a variety of literary forms (e.g., poetry and short stories)."@en .
+<https://doi.org/10.6069/uwlswd.f447-ax91#1> <http://www.w3.org/2004/02/skos/core#inScheme> <https://doi.org/10.6069/uwlswd.f447-ax91> .
+<https://doi.org/10.6069/uwlswd.f447-ax91#f> <http://www.w3.org/2004/02/skos/core#notation> "f"@en .
+<https://doi.org/10.6069/uwlswd.f447-ax91#h> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<https://doi.org/10.6069/uwlswd.f447-ax91#s> <http://www.w3.org/2004/02/skos/core#definition> "Speech or collection of speeches."@en .
+<https://doi.org/10.6069/uwlswd.f447-ax91#j> <http://www.w3.org/2004/02/skos/core#inScheme> <https://doi.org/10.6069/uwlswd.f447-ax91> .
+<https://doi.org/10.6069/uwlswd.f447-ax91#c> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<https://doi.org/10.6069/uwlswd.f447-ax91#h> <http://www.w3.org/2004/02/skos/core#inScheme> <https://doi.org/10.6069/uwlswd.f447-ax91> .
+<https://doi.org/10.6069/uwlswd.f447-ax91#j> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<https://doi.org/10.6069/uwlswd.f447-ax91#i> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<https://doi.org/10.6069/uwlswd.f447-ax91#h> <http://www.w3.org/2004/02/skos/core#definition> "Humorous work, satire, or of similar literary form."@en .
+<https://doi.org/10.6069/uwlswd.f447-ax91#s> <http://www.w3.org/2004/02/skos/core#inScheme> <https://doi.org/10.6069/uwlswd.f447-ax91> .
+<https://doi.org/10.6069/uwlswd.f447-ax91#p> <http://www.w3.org/2004/02/skos/core#prefLabel> "poetry"@en .
+<https://doi.org/10.6069/uwlswd.f447-ax91> <http://purl.org/dc/terms/license> <http://creativecommons.org/publicdomain/zero/1.0> .
+<https://doi.org/10.6069/uwlswd.f447-ax91#j> <http://www.w3.org/2004/02/skos/core#notation> "j"@en .
+<https://doi.org/10.6069/uwlswd.f447-ax91#c> <http://www.w3.org/2004/02/skos/core#inScheme> <https://doi.org/10.6069/uwlswd.f447-ax91> .
+<https://doi.org/10.6069/uwlswd.f447-ax91> <http://purl.org/dc/terms/issued> "2023" .
+<https://doi.org/10.6069/uwlswd.f447-ax91#e> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<https://doi.org/10.6069/uwlswd.f447-ax91#f> <http://www.w3.org/2004/02/skos/core#prefLabel> "novels"@en .
+<https://doi.org/10.6069/uwlswd.f447-ax91#1> <http://www.w3.org/2004/02/skos/core#prefLabel> "fiction (not further specified)"@en .
+<https://doi.org/10.6069/uwlswd.f447-ax91#j> <http://www.w3.org/2004/02/skos/core#definition> "Short story or collection of short stories."@en .
+<https://doi.org/10.6069/uwlswd.f447-ax91#e> <http://www.w3.org/2004/02/skos/core#notation> "e"@en .
+<https://doi.org/10.6069/uwlswd.f447-ax91> <http://purl.org/dc/terms/provenance> <https://doi.org/10.6069/uwlswd.2e2b-y833> .
+<https://doi.org/10.6069/uwlswd.f447-ax91#0> <http://www.w3.org/2004/02/skos/core#prefLabel> "not fiction (not further specified)"@en .
+<https://doi.org/10.6069/uwlswd.f447-ax91> <https://schema.org/version> "1-0-0" .
+<https://doi.org/10.6069/uwlswd.f447-ax91> <http://purl.org/dc/terms/creator> <http://viaf.org/viaf/139541794> .
+<https://doi.org/10.6069/uwlswd.f447-ax91#e> <http://www.w3.org/2004/02/skos/core#definition> "Essays."@en .
+<https://doi.org/10.6069/uwlswd.f447-ax91> <http://purl.org/dc/terms/type> <http://purl.org/dc/dcmitype/Dataset> .
+<https://doi.org/10.6069/uwlswd.f447-ax91#c> <http://www.w3.org/2004/02/skos/core#notation> "c"@en .
+<https://doi.org/10.6069/uwlswd.f447-ax91> <http://purl.org/dc/elements/1.1/contributor> "Metadata Management Associates" .
+<https://doi.org/10.6069/uwlswd.f447-ax91> <http://purl.org/dc/terms/publisher> <http://viaf.org/viaf/139541794> .
+<https://doi.org/10.6069/uwlswd.f447-ax91#1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<https://doi.org/10.6069/uwlswd.f447-ax91#m> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<https://doi.org/10.6069/uwlswd.f447-ax91#0> <http://www.w3.org/2004/02/skos/core#inScheme> <https://doi.org/10.6069/uwlswd.f447-ax91> .
+<https://doi.org/10.6069/uwlswd.f447-ax91#p> <http://www.w3.org/2004/02/skos/core#notation> "p"@en .
+<https://doi.org/10.6069/uwlswd.f447-ax91#u> <http://www.w3.org/2004/02/skos/core#notation> "u"@en .
+<https://doi.org/10.6069/uwlswd.f447-ax91#f> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<https://doi.org/10.6069/uwlswd.f447-ax91#u> <http://www.w3.org/2004/02/skos/core#definition> "Literary form of the item is unknown."@en .
+<https://doi.org/10.6069/uwlswd.f447-ax91#u> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<https://doi.org/10.6069/uwlswd.f447-ax91> <http://purl.org/dc/elements/1.1/language> "en" .
+<https://doi.org/10.6069/uwlswd.f447-ax91#i> <http://www.w3.org/2004/02/skos/core#inScheme> <https://doi.org/10.6069/uwlswd.f447-ax91> .
+<https://doi.org/10.6069/uwlswd.f447-ax91#u> <http://www.w3.org/2004/02/skos/core#inScheme> <https://doi.org/10.6069/uwlswd.f447-ax91> .
+<https://doi.org/10.6069/uwlswd.f447-ax91#d> <http://www.w3.org/2004/02/skos/core#notation> "d"@en .
+<https://doi.org/10.6069/uwlswd.f447-ax91> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#ConceptScheme> .
+<https://doi.org/10.6069/uwlswd.f447-ax91#h> <http://www.w3.org/2004/02/skos/core#prefLabel> "humor, satires, etc."@en .
+<https://doi.org/10.6069/uwlswd.f447-ax91#i> <http://www.w3.org/2004/02/skos/core#prefLabel> "letters"@en .
+<https://doi.org/10.6069/uwlswd.f447-ax91#d> <http://www.w3.org/2004/02/skos/core#inScheme> <https://doi.org/10.6069/uwlswd.f447-ax91> .
+<https://doi.org/10.6069/uwlswd.f447-ax91#d> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<https://doi.org/10.6069/uwlswd.f447-ax91#i> <http://www.w3.org/2004/02/skos/core#definition> "Single letter or collection of correspondence."@en .
+<https://doi.org/10.6069/uwlswd.f447-ax91#c> <http://www.w3.org/2004/02/skos/core#prefLabel> "comic strips"@en .
+<https://doi.org/10.6069/uwlswd.f447-ax91#p> <http://www.w3.org/2004/02/skos/core#definition> "Poem or collection of poems."@en .
+<https://doi.org/10.6069/uwlswd.f447-ax91> <http://purl.org/dc/terms/contributor> <http://viaf.org/viaf/151962300> .
+<https://doi.org/10.6069/uwlswd.f447-ax91> <http://purl.org/dc/terms/description> "Indicates the literary form of an item." .
+<https://doi.org/10.6069/uwlswd.f447-ax91#e> <http://www.w3.org/2004/02/skos/core#inScheme> <https://doi.org/10.6069/uwlswd.f447-ax91> .
+<https://doi.org/10.6069/uwlswd.f447-ax91#0> <http://www.w3.org/2004/02/skos/core#notation> "0"@en .
+<https://doi.org/10.6069/uwlswd.f447-ax91#s> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+

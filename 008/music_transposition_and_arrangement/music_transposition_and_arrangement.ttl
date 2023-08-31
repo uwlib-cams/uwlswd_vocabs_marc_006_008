@@ -1,0 +1,59 @@
+@prefix dc: <http://purl.org/dc/elements/1.1/> .
+@prefix dcmitype: <http://purl.org/dc/dcmitype/> .
+@prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix schema: <https://schema.org/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<https://doi.org/10.6069/uwlswd.axz0-z371#a> a skos:Concept ;
+    skos:definition "Item has been transposed to a different pitch from the original."@en ;
+    skos:inScheme <https://doi.org/10.6069/uwlswd.axz0-z371> ;
+    skos:notation "a"@en ;
+    skos:prefLabel "transposition"@en .
+
+<https://doi.org/10.6069/uwlswd.axz0-z371#b> a skos:Concept ;
+    skos:definition "Item has been adapted as regards medium and/or texture."@en ;
+    skos:inScheme <https://doi.org/10.6069/uwlswd.axz0-z371> ;
+    skos:notation "b"@en ;
+    skos:prefLabel "arrangement"@en .
+
+<https://doi.org/10.6069/uwlswd.axz0-z371#c> a skos:Concept ;
+    skos:definition "Item has been both transposed to a different pitch from the original and has been adapted as regards medium and/or texture."@en ;
+    skos:inScheme <https://doi.org/10.6069/uwlswd.axz0-z371> ;
+    skos:notation "c"@en ;
+    skos:prefLabel "both transposed and arranged"@en .
+
+<https://doi.org/10.6069/uwlswd.axz0-z371#n> a skos:Concept ;
+    skos:definition "Item is not notated music."@en ;
+    skos:inScheme <https://doi.org/10.6069/uwlswd.axz0-z371> ;
+    skos:notation "n"@en ;
+    skos:prefLabel "not applicable"@en .
+
+<https://doi.org/10.6069/uwlswd.axz0-z371#pound> a skos:Concept ;
+    skos:definition "Not arrangements or the transposition of the item is not specified."@en ;
+    skos:inScheme <https://doi.org/10.6069/uwlswd.axz0-z371> ;
+    skos:notation "#"@en ;
+    skos:prefLabel "not arrangement or transposition or not specified"@en .
+
+<https://doi.org/10.6069/uwlswd.axz0-z371#u> a skos:Concept ;
+    skos:definition "Unknown whether the item is a transposition or arrangement."@en ;
+    skos:inScheme <https://doi.org/10.6069/uwlswd.axz0-z371> ;
+    skos:notation "u"@en ;
+    skos:prefLabel "unknown"@en .
+
+<https://doi.org/10.6069/uwlswd.axz0-z371> a skos:ConceptScheme ;
+    dc:contributor "Metadata Management Associates" ;
+    dc:language "en" ;
+    dcterms:alternative "MARC21 008/33 values for music expressed using RDF" ;
+    dcterms:contributor <http://viaf.org/viaf/151962300> ;
+    dcterms:creator <http://viaf.org/viaf/139541794> ;
+    dcterms:description "Whether all or part of the item being cataloged is a transposition and/or arrangement of another work." ;
+    dcterms:issued "2023" ;
+    dcterms:license <http://creativecommons.org/publicdomain/zero/1.0> ;
+    dcterms:provenance <https://doi.org/10.6069/uwlswd.2e2b-y833> ;
+    dcterms:publisher <http://viaf.org/viaf/139541794> ;
+    dcterms:source <http://marc21rdf.info>,
+        <https://www.loc.gov/marc/bibliographic/bd008.html> ;
+    dcterms:title "Music: transposition and arrangement" ;
+    dcterms:type dcmitype:Dataset ;
+    schema:version "1-0-0" .
+

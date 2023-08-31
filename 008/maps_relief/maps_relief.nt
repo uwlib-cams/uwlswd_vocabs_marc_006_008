@@ -1,0 +1,86 @@
+<https://doi.org/10.6069/uwlswd.1c2x-cj09#hx> <http://www.w3.org/2004/02/skos/core#notation> "h"@en .
+<https://doi.org/10.6069/uwlswd.1c2x-cj09#m> <http://www.w3.org/2004/02/skos/core#prefLabel> "rock drawings"@en .
+<https://doi.org/10.6069/uwlswd.1c2x-cj09#pound> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<https://doi.org/10.6069/uwlswd.1c2x-cj09> <https://schema.org/version> "1-0-0" .
+<https://doi.org/10.6069/uwlswd.1c2x-cj09#b> <http://www.w3.org/2004/02/skos/core#definition> "Relief shown by shading (generally of a single color)."@en .
+<https://doi.org/10.6069/uwlswd.1c2x-cj09> <http://purl.org/dc/elements/1.1/language> "en" .
+<https://doi.org/10.6069/uwlswd.1c2x-cj09> <http://purl.org/dc/terms/alternative> "MARC21 008/18-21 values for maps expressed using RDF" .
+<https://doi.org/10.6069/uwlswd.1c2x-cj09#i> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<https://doi.org/10.6069/uwlswd.1c2x-cj09> <http://purl.org/dc/terms/creator> <http://viaf.org/viaf/139541794> .
+<https://doi.org/10.6069/uwlswd.1c2x-cj09#k> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<https://doi.org/10.6069/uwlswd.1c2x-cj09#m> <http://www.w3.org/2004/02/skos/core#inScheme> <https://doi.org/10.6069/uwlswd.1c2x-cj09> .
+<https://doi.org/10.6069/uwlswd.1c2x-cj09> <http://purl.org/dc/terms/publisher> <http://viaf.org/viaf/139541794> .
+<https://doi.org/10.6069/uwlswd.1c2x-cj09#f> <http://www.w3.org/2004/02/skos/core#definition> "Relief shown by form lines."@en .
+<https://doi.org/10.6069/uwlswd.1c2x-cj09> <http://purl.org/dc/terms/source> <http://marc21rdf.info> .
+<https://doi.org/10.6069/uwlswd.1c2x-cj09#c> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<https://doi.org/10.6069/uwlswd.1c2x-cj09#j> <http://www.w3.org/2004/02/skos/core#notation> "j"@en .
+<https://doi.org/10.6069/uwlswd.1c2x-cj09#j> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<https://doi.org/10.6069/uwlswd.1c2x-cj09#pound> <http://www.w3.org/2004/02/skos/core#prefLabel> "no relief shown"@en .
+<https://doi.org/10.6069/uwlswd.1c2x-cj09#k> <http://www.w3.org/2004/02/skos/core#definition> "Underwater relief (depth) shown by isolines (lines that represent constant depths)."@en .
+<https://doi.org/10.6069/uwlswd.1c2x-cj09#z> <http://www.w3.org/2004/02/skos/core#prefLabel> "other"@en .
+<https://doi.org/10.6069/uwlswd.1c2x-cj09> <http://purl.org/dc/terms/description> "Indicate the relief type specified on the item." .
+<https://doi.org/10.6069/uwlswd.1c2x-cj09> <http://purl.org/dc/terms/source> <https://www.loc.gov/marc/bibliographic/bd008.html> .
+<https://doi.org/10.6069/uwlswd.1c2x-cj09#e> <http://www.w3.org/2004/02/skos/core#definition> "Underwater relief (depth) shown by soundings or spot depths."@en .
+<https://doi.org/10.6069/uwlswd.1c2x-cj09#a> <http://www.w3.org/2004/02/skos/core#notation> "a"@en .
+<https://doi.org/10.6069/uwlswd.1c2x-cj09#a> <http://www.w3.org/2004/02/skos/core#prefLabel> "contours"@en .
+<https://doi.org/10.6069/uwlswd.1c2x-cj09#i> <http://www.w3.org/2004/02/skos/core#notation> "i"@en .
+<https://doi.org/10.6069/uwlswd.1c2x-cj09#g> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<https://doi.org/10.6069/uwlswd.1c2x-cj09#k> <http://www.w3.org/2004/02/skos/core#notation> "k"@en .
+<https://doi.org/10.6069/uwlswd.1c2x-cj09#e> <http://www.w3.org/2004/02/skos/core#prefLabel> "bathymetry/soundings"@en .
+<https://doi.org/10.6069/uwlswd.1c2x-cj09#g> <http://www.w3.org/2004/02/skos/core#notation> "g"@en .
+<https://doi.org/10.6069/uwlswd.1c2x-cj09#a> <http://www.w3.org/2004/02/skos/core#definition> "Relief shown by contours."@en .
+<https://doi.org/10.6069/uwlswd.1c2x-cj09#g> <http://www.w3.org/2004/02/skos/core#prefLabel> "spot heights"@en .
+<https://doi.org/10.6069/uwlswd.1c2x-cj09#j> <http://www.w3.org/2004/02/skos/core#prefLabel> "land forms"@en .
+<https://doi.org/10.6069/uwlswd.1c2x-cj09#m> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<https://doi.org/10.6069/uwlswd.1c2x-cj09#hx> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<https://doi.org/10.6069/uwlswd.1c2x-cj09#f> <http://www.w3.org/2004/02/skos/core#prefLabel> "form lines"@en .
+<https://doi.org/10.6069/uwlswd.1c2x-cj09#pound> <http://www.w3.org/2004/02/skos/core#inScheme> <https://doi.org/10.6069/uwlswd.1c2x-cj09> .
+<https://doi.org/10.6069/uwlswd.1c2x-cj09#z> <http://www.w3.org/2004/02/skos/core#notation> "z"@en .
+<https://doi.org/10.6069/uwlswd.1c2x-cj09#z> <http://www.w3.org/2004/02/skos/core#inScheme> <https://doi.org/10.6069/uwlswd.1c2x-cj09> .
+<https://doi.org/10.6069/uwlswd.1c2x-cj09#c> <http://www.w3.org/2004/02/skos/core#inScheme> <https://doi.org/10.6069/uwlswd.1c2x-cj09> .
+<https://doi.org/10.6069/uwlswd.1c2x-cj09#pound> <http://www.w3.org/2004/02/skos/core#notation> "#"@en .
+<https://doi.org/10.6069/uwlswd.1c2x-cj09#j> <http://www.w3.org/2004/02/skos/core#definition> "Relief shown by land forms."@en .
+<https://doi.org/10.6069/uwlswd.1c2x-cj09#f> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<https://doi.org/10.6069/uwlswd.1c2x-cj09#e> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<https://doi.org/10.6069/uwlswd.1c2x-cj09#m> <http://www.w3.org/2004/02/skos/core#definition> "Relief rock drawing."@en .
+<https://doi.org/10.6069/uwlswd.1c2x-cj09#g> <http://www.w3.org/2004/02/skos/core#definition> "Relief shown by spot heights."@en .
+<https://doi.org/10.6069/uwlswd.1c2x-cj09> <http://purl.org/dc/terms/provenance> <https://doi.org/10.6069/uwlswd.2e2b-y833> .
+<https://doi.org/10.6069/uwlswd.1c2x-cj09#a> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<https://doi.org/10.6069/uwlswd.1c2x-cj09> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#ConceptScheme> .
+<https://doi.org/10.6069/uwlswd.1c2x-cj09> <http://purl.org/dc/elements/1.1/contributor> "Metadata Management Associates" .
+<https://doi.org/10.6069/uwlswd.1c2x-cj09#hx> <http://www.w3.org/2004/02/skos/core#inScheme> <https://doi.org/10.6069/uwlswd.1c2x-cj09> .
+<https://doi.org/10.6069/uwlswd.1c2x-cj09> <http://purl.org/dc/terms/title> "Maps: relief" .
+<https://doi.org/10.6069/uwlswd.1c2x-cj09#z> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<https://doi.org/10.6069/uwlswd.1c2x-cj09#d> <http://www.w3.org/2004/02/skos/core#notation> "d"@en .
+<https://doi.org/10.6069/uwlswd.1c2x-cj09#c> <http://www.w3.org/2004/02/skos/core#prefLabel> "gradient and bathymetric tints"@en .
+<https://doi.org/10.6069/uwlswd.1c2x-cj09#f> <http://www.w3.org/2004/02/skos/core#inScheme> <https://doi.org/10.6069/uwlswd.1c2x-cj09> .
+<https://doi.org/10.6069/uwlswd.1c2x-cj09#e> <http://www.w3.org/2004/02/skos/core#inScheme> <https://doi.org/10.6069/uwlswd.1c2x-cj09> .
+<https://doi.org/10.6069/uwlswd.1c2x-cj09#c> <http://www.w3.org/2004/02/skos/core#notation> "c"@en .
+<https://doi.org/10.6069/uwlswd.1c2x-cj09#i> <http://www.w3.org/2004/02/skos/core#prefLabel> "pictorially"@en .
+<https://doi.org/10.6069/uwlswd.1c2x-cj09#b> <http://www.w3.org/2004/02/skos/core#notation> "b"@en .
+<https://doi.org/10.6069/uwlswd.1c2x-cj09#i> <http://www.w3.org/2004/02/skos/core#inScheme> <https://doi.org/10.6069/uwlswd.1c2x-cj09> .
+<https://doi.org/10.6069/uwlswd.1c2x-cj09#z> <http://www.w3.org/2004/02/skos/core#definition> "Relief other than contours, shading, gradient and bathymetric tints, hachures, bathymetry/soundings, form lines, spot heights, pictorially, land forms, bathymetry by isolines, rock drawings."@en .
+<https://doi.org/10.6069/uwlswd.1c2x-cj09#k> <http://www.w3.org/2004/02/skos/core#inScheme> <https://doi.org/10.6069/uwlswd.1c2x-cj09> .
+<https://doi.org/10.6069/uwlswd.1c2x-cj09#c> <http://www.w3.org/2004/02/skos/core#definition> "Relief shown by gradient or bathymetric tints."@en .
+<https://doi.org/10.6069/uwlswd.1c2x-cj09#m> <http://www.w3.org/2004/02/skos/core#notation> "m"@en .
+<https://doi.org/10.6069/uwlswd.1c2x-cj09#b> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<https://doi.org/10.6069/uwlswd.1c2x-cj09#d> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<https://doi.org/10.6069/uwlswd.1c2x-cj09#k> <http://www.w3.org/2004/02/skos/core#prefLabel> "bathymetry by isolines"@en .
+<https://doi.org/10.6069/uwlswd.1c2x-cj09> <http://purl.org/dc/terms/license> <http://creativecommons.org/publicdomain/zero/1.0> .
+<https://doi.org/10.6069/uwlswd.1c2x-cj09> <http://purl.org/dc/terms/issued> "2023" .
+<https://doi.org/10.6069/uwlswd.1c2x-cj09> <http://purl.org/dc/terms/contributor> <http://viaf.org/viaf/151962300> .
+<https://doi.org/10.6069/uwlswd.1c2x-cj09#a> <http://www.w3.org/2004/02/skos/core#inScheme> <https://doi.org/10.6069/uwlswd.1c2x-cj09> .
+<https://doi.org/10.6069/uwlswd.1c2x-cj09#hx> <http://www.w3.org/2004/02/skos/core#prefLabel> "color [obsolete]"@en .
+<https://doi.org/10.6069/uwlswd.1c2x-cj09#i> <http://www.w3.org/2004/02/skos/core#definition> "Land forms and other topographic features shown in the correct planimetric position by pictorial symbols representing their appearance from a high oblique view."@en .
+<https://doi.org/10.6069/uwlswd.1c2x-cj09#j> <http://www.w3.org/2004/02/skos/core#inScheme> <https://doi.org/10.6069/uwlswd.1c2x-cj09> .
+<https://doi.org/10.6069/uwlswd.1c2x-cj09#f> <http://www.w3.org/2004/02/skos/core#notation> "f"@en .
+<https://doi.org/10.6069/uwlswd.1c2x-cj09> <http://purl.org/dc/terms/type> <http://purl.org/dc/dcmitype/Dataset> .
+<https://doi.org/10.6069/uwlswd.1c2x-cj09#g> <http://www.w3.org/2004/02/skos/core#inScheme> <https://doi.org/10.6069/uwlswd.1c2x-cj09> .
+<https://doi.org/10.6069/uwlswd.1c2x-cj09#d> <http://www.w3.org/2004/02/skos/core#prefLabel> "hachures"@en .
+<https://doi.org/10.6069/uwlswd.1c2x-cj09#d> <http://www.w3.org/2004/02/skos/core#definition> "Relief shown by hachures (short lines which follow the direction of maximum slope)."@en .
+<https://doi.org/10.6069/uwlswd.1c2x-cj09#b> <http://www.w3.org/2004/02/skos/core#inScheme> <https://doi.org/10.6069/uwlswd.1c2x-cj09> .
+<https://doi.org/10.6069/uwlswd.1c2x-cj09#e> <http://www.w3.org/2004/02/skos/core#notation> "e"@en .
+<https://doi.org/10.6069/uwlswd.1c2x-cj09#d> <http://www.w3.org/2004/02/skos/core#inScheme> <https://doi.org/10.6069/uwlswd.1c2x-cj09> .
+<https://doi.org/10.6069/uwlswd.1c2x-cj09#pound> <http://www.w3.org/2004/02/skos/core#definition> "No relief shown."@en .
+<https://doi.org/10.6069/uwlswd.1c2x-cj09#b> <http://www.w3.org/2004/02/skos/core#prefLabel> "shading"@en .
+

@@ -1,0 +1,107 @@
+@prefix dc: <http://purl.org/dc/elements/1.1/> .
+@prefix dcmitype: <http://purl.org/dc/dcmitype/> .
+@prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix schema: <https://schema.org/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<https://doi.org/10.6069/uwlswd.mkjn-bp10#a> a skos:Concept ;
+    skos:definition "Mostly numbers or representation by numbers, such as records containing all information on student test scores, all information on football team statistics, etc. Information may be original surveys and/or information that has been summarized or statistically manipulated."@en ;
+    skos:inScheme <https://doi.org/10.6069/uwlswd.mkjn-bp10> ;
+    skos:notation "a"@en ;
+    skos:prefLabel "numeric data"@en .
+
+<https://doi.org/10.6069/uwlswd.mkjn-bp10#b> a skos:Concept ;
+    skos:definition "Ordered set of instructions directing the computer to perform basic operations and identifying the information and mechanisms required. Includes videogames and microcomputer software and computer models."@en ;
+    skos:inScheme <https://doi.org/10.6069/uwlswd.mkjn-bp10> ;
+    skos:notation "b"@en ;
+    skos:prefLabel "computer program"@en ;
+    skos:scopeNote "Not used for game, font."@en .
+
+<https://doi.org/10.6069/uwlswd.mkjn-bp10#c> a skos:Concept ;
+    skos:definition "Pictorial or graphic information that can be manipulated in conjunction with other types of files to produce graphic patterns that can be used to interpret and give meaning to the information."@en ;
+    skos:inScheme <https://doi.org/10.6069/uwlswd.mkjn-bp10> ;
+    skos:notation "c"@en ;
+    skos:prefLabel "representational"@en ;
+    skos:scopeNote "Does not include a document in image format."@en .
+
+<https://doi.org/10.6069/uwlswd.mkjn-bp10#d> a skos:Concept ;
+    skos:definition "Textual, consisting mostly of alphabetic information (words or sentences) converted into a coded format that can be processed, sorted, and manipulated by machine, and then retrieved in many optional formats."@en ;
+    skos:inScheme <https://doi.org/10.6069/uwlswd.mkjn-bp10> ;
+    skos:notation "d"@en ;
+    skos:prefLabel "document"@en ;
+    skos:scopeNote "Includes language material intended to constitute a textual document, whether represented as ASCII or image data. Includes both single bibliographic entities or a collection of bibliographic entities. Includes documents whose primary purpose is textual, even if search software is present."@en .
+
+<https://doi.org/10.6069/uwlswd.mkjn-bp10#e> a skos:Concept ;
+    skos:definition "Data with bibliographic citations."@en ;
+    skos:inScheme <https://doi.org/10.6069/uwlswd.mkjn-bp10> ;
+    skos:notation "e"@en ;
+    skos:prefLabel "bibliographic data"@en ;
+    skos:scopeNote "Includes data from library catalogs or citation databases. The data may be in a structured or unstructured form. Search software may be present, but the purpose of the record is description of the content of the bibliographic data or database, rather than description of the online system or service."@en .
+
+<https://doi.org/10.6069/uwlswd.mkjn-bp10#f> a skos:Concept ;
+    skos:definition "Information for a computer to produce fonts."@en ;
+    skos:inScheme <https://doi.org/10.6069/uwlswd.mkjn-bp10> ;
+    skos:notation "f"@en ;
+    skos:prefLabel "font"@en .
+
+<https://doi.org/10.6069/uwlswd.mkjn-bp10#g> a skos:Concept ;
+    skos:definition "Intended for recreational or educational use. Generally games consist of text and software."@en ;
+    skos:inScheme <https://doi.org/10.6069/uwlswd.mkjn-bp10> ;
+    skos:notation "g"@en ;
+    skos:prefLabel "game"@en ;
+    skos:scopeNote "Used for a videogame."@en .
+
+<https://doi.org/10.6069/uwlswd.mkjn-bp10#h> a skos:Concept ;
+    skos:definition "Data encoding sounds producible by the computer."@en ;
+    skos:inScheme <https://doi.org/10.6069/uwlswd.mkjn-bp10> ;
+    skos:notation "h"@en ;
+    skos:prefLabel "sound"@en .
+
+<https://doi.org/10.6069/uwlswd.mkjn-bp10#i> a skos:Concept ;
+    skos:definition "Supports navigation through and manipulation of many kinds of media (i.e., audio, video, etc.). Interactive multimedia usually gives the user a high level of control, often allowing almost conversational interaction with the computer and data."@en ;
+    skos:inScheme <https://doi.org/10.6069/uwlswd.mkjn-bp10> ;
+    skos:notation "i"@en ;
+    skos:prefLabel "interactive multimedia"@en .
+
+<https://doi.org/10.6069/uwlswd.mkjn-bp10#j> a skos:Concept ;
+    skos:definition "Supports system-based user interaction."@en ;
+    skos:inScheme <https://doi.org/10.6069/uwlswd.mkjn-bp10> ;
+    skos:notation "j"@en ;
+    skos:prefLabel "online system or service"@en ;
+    skos:scopeNote "May contain nonbibliographic information. If the focus of the record is to describe the system itself, with the content of the databases incidental contained therein, it is coded here. If the resource is an online file where the system is incidental to the description, it falls into another catagory. Examples are: online library systems (consisting of a variety of databases), FTP sites, electronic bulletin boards, network information centers."@en .
+
+<https://doi.org/10.6069/uwlswd.mkjn-bp10#m> a skos:Concept ;
+    skos:definition "Combination of two or more types of files."@en ;
+    skos:inScheme <https://doi.org/10.6069/uwlswd.mkjn-bp10> ;
+    skos:notation "m"@en ;
+    skos:prefLabel "combination"@en .
+
+<https://doi.org/10.6069/uwlswd.mkjn-bp10#u> a skos:Concept ;
+    skos:definition "Type of file is unknown."@en ;
+    skos:inScheme <https://doi.org/10.6069/uwlswd.mkjn-bp10> ;
+    skos:notation "u"@en ;
+    skos:prefLabel "unknown"@en .
+
+<https://doi.org/10.6069/uwlswd.mkjn-bp10#z> a skos:Concept ;
+    skos:definition "Type of computer file other than numeric data, computer program, representational, document, bibliographic data, font, game, sound, interactive multimedia, online system or service, or a combination of these listed files."@en ;
+    skos:inScheme <https://doi.org/10.6069/uwlswd.mkjn-bp10> ;
+    skos:notation "z"@en ;
+    skos:prefLabel "other"@en .
+
+<https://doi.org/10.6069/uwlswd.mkjn-bp10> a skos:ConceptScheme ;
+    dc:contributor "Metadata Management Associates" ;
+    dc:language "en" ;
+    dcterms:alternative "MARC21 008/26 values for computer files expressed using RDF" ;
+    dcterms:contributor <http://viaf.org/viaf/151962300> ;
+    dcterms:creator <http://viaf.org/viaf/139541794> ;
+    dcterms:description "Indicates the type of computer file described in the bibliographic record." ;
+    dcterms:issued "2023" ;
+    dcterms:license <http://creativecommons.org/publicdomain/zero/1.0> ;
+    dcterms:provenance <https://doi.org/10.6069/uwlswd.2e2b-y833> ;
+    dcterms:publisher <http://viaf.org/viaf/139541794> ;
+    dcterms:source <http://marc21rdf.info>,
+        <https://www.loc.gov/marc/bibliographic/bd008.html> ;
+    dcterms:title "Computer: type of computer file" ;
+    dcterms:type dcmitype:Dataset ;
+    schema:version "1-0-0" .
+

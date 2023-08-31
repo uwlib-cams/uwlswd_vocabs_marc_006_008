@@ -1,0 +1,79 @@
+@prefix dc: <http://purl.org/dc/elements/1.1/> .
+@prefix dcmitype: <http://purl.org/dc/dcmitype/> .
+@prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix schema: <https://schema.org/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<https://doi.org/10.6069/uwlswd.aec4-nv40#a> a skos:Concept ;
+    skos:definition "Children, approximate ages 0-5 years."@en ;
+    skos:inScheme <https://doi.org/10.6069/uwlswd.aec4-nv40> ;
+    skos:notation "a"@en ;
+    skos:prefLabel "preschool"@en .
+
+<https://doi.org/10.6069/uwlswd.aec4-nv40#b> a skos:Concept ;
+    skos:definition "Children, approximate ages 6-8 years."@en ;
+    skos:inScheme <https://doi.org/10.6069/uwlswd.aec4-nv40> ;
+    skos:notation "b"@en ;
+    skos:prefLabel "primary"@en .
+
+<https://doi.org/10.6069/uwlswd.aec4-nv40#c> a skos:Concept ;
+    skos:definition "Young people, approximate ages 9-13."@en ;
+    skos:inScheme <https://doi.org/10.6069/uwlswd.aec4-nv40> ;
+    skos:notation "c"@en ;
+    skos:prefLabel "pre-adolescent"@en .
+
+<https://doi.org/10.6069/uwlswd.aec4-nv40#d> a skos:Concept ;
+    skos:definition "Young people, approximate ages 14-17."@en ;
+    skos:inScheme <https://doi.org/10.6069/uwlswd.aec4-nv40> ;
+    skos:notation "d"@en ;
+    skos:prefLabel "adolescent"@en .
+
+<https://doi.org/10.6069/uwlswd.aec4-nv40#e> a skos:Concept ;
+    skos:definition "Intended for adults."@en ;
+    skos:inScheme <https://doi.org/10.6069/uwlswd.aec4-nv40> ;
+    skos:notation "e"@en ;
+    skos:prefLabel "adult"@en .
+
+<https://doi.org/10.6069/uwlswd.aec4-nv40#f> a skos:Concept ;
+    skos:definition "Aimed at a particular audience and the nature of the presentation would make the item of little interest to other audiences."@en ;
+    skos:inScheme <https://doi.org/10.6069/uwlswd.aec4-nv40> ;
+    skos:notation "f"@en ;
+    skos:prefLabel "specialized"@en ;
+    skos:scopeNote "Examples include: 1) technical material geared to a specialized audience, and 2) items which address a limited audience; for example, the employees of a single organization."@en .
+
+<https://doi.org/10.6069/uwlswd.aec4-nv40#g> a skos:Concept ;
+    skos:definition "Of general interest and not aimed at a particular target audience."@en ;
+    skos:inScheme <https://doi.org/10.6069/uwlswd.aec4-nv40> ;
+    skos:notation "g"@en ;
+    skos:prefLabel "general"@en .
+
+<https://doi.org/10.6069/uwlswd.aec4-nv40#j> a skos:Concept ;
+    skos:definition "Children and young people, approximate ages 0-15."@en ;
+    skos:inScheme <https://doi.org/10.6069/uwlswd.aec4-nv40> ;
+    skos:notation "j"@en ;
+    skos:prefLabel "juvenile"@en .
+
+<https://doi.org/10.6069/uwlswd.aec4-nv40#pound> a skos:Concept ;
+    skos:definition "Target audience for which the material is intended is unknown or is not specified."@en ;
+    skos:inScheme <https://doi.org/10.6069/uwlswd.aec4-nv40> ;
+    skos:notation "#"@en ;
+    skos:prefLabel "unknown or not specified"@en ;
+    skos:scopeNote "For video visual materials: use for all original or historical graphic material."@en .
+
+<https://doi.org/10.6069/uwlswd.aec4-nv40> a skos:ConceptScheme ;
+    dc:contributor "Metadata Management Associates" ;
+    dc:language "en" ;
+    dcterms:alternative "MARC21 008/22 values for some materials expressed using RDF" ;
+    dcterms:contributor <http://viaf.org/viaf/151962300> ;
+    dcterms:creator <http://viaf.org/viaf/139541794> ;
+    dcterms:description "Indicates the audience for which the item is intended." ;
+    dcterms:issued "2023" ;
+    dcterms:license <http://creativecommons.org/publicdomain/zero/1.0> ;
+    dcterms:provenance <https://doi.org/10.6069/uwlswd.2e2b-y833> ;
+    dcterms:publisher <http://viaf.org/viaf/139541794> ;
+    dcterms:source <http://marc21rdf.info>,
+        <https://www.loc.gov/marc/bibliographic/bd008.html> ;
+    dcterms:title "Some: target audience" ;
+    dcterms:type dcmitype:Dataset ;
+    schema:version "1-0-0" .
+

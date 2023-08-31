@@ -1,0 +1,66 @@
+@prefix dc: <http://purl.org/dc/elements/1.1/> .
+@prefix dcmitype: <http://purl.org/dc/dcmitype/> .
+@prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix schema: <https://schema.org/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://fakeIRI.edu/terms/mapspe#ax> a skos:Concept ;
+    skos:inScheme <http://fakeIRI.edu/terms/mapspe#> ;
+    skos:notation "a"@en ;
+    skos:prefLabel "parts exist [obsolete]"@en .
+
+<https://doi.org/10.6069/uwlswd.ywjs-vr46#d> a skos:Concept ;
+    skos:definition "Both instrumental and vocal parts are present."@en ;
+    skos:inScheme <https://doi.org/10.6069/uwlswd.ywjs-vr46> ;
+    skos:notation "d"@en ;
+    skos:prefLabel "instrumental and vocal parts"@en .
+
+<https://doi.org/10.6069/uwlswd.ywjs-vr46#e> a skos:Concept ;
+    skos:definition "Instrumental parts are present."@en ;
+    skos:inScheme <https://doi.org/10.6069/uwlswd.ywjs-vr46> ;
+    skos:notation "e"@en ;
+    skos:prefLabel "instrumental parts"@en .
+
+<https://doi.org/10.6069/uwlswd.ywjs-vr46#f> a skos:Concept ;
+    skos:definition "Vocal parts are present."@en ;
+    skos:inScheme <https://doi.org/10.6069/uwlswd.ywjs-vr46> ;
+    skos:notation "f"@en ;
+    skos:prefLabel "vocal parts"@en .
+
+<https://doi.org/10.6069/uwlswd.ywjs-vr46#n> a skos:Concept ;
+    skos:definition "Item is not notated music."@en ;
+    skos:inScheme <https://doi.org/10.6069/uwlswd.ywjs-vr46> ;
+    skos:notation "n"@en ;
+    skos:prefLabel "not applicable"@en .
+
+<https://doi.org/10.6069/uwlswd.ywjs-vr46#pound> a skos:Concept ;
+    skos:definition "No parts in hand or the musical parts are not specified."@en ;
+    skos:inScheme <https://doi.org/10.6069/uwlswd.ywjs-vr46> ;
+    skos:notation "#"@en ;
+    skos:prefLabel "no parts in hand or not specified"@en .
+
+<https://doi.org/10.6069/uwlswd.ywjs-vr46#u> a skos:Concept ;
+    skos:definition "Unknown whether the item being cataloged contains parts."@en ;
+    skos:inScheme <https://doi.org/10.6069/uwlswd.ywjs-vr46> ;
+    skos:notation "u"@en ;
+    skos:prefLabel "unknown"@en ;
+    skos:scopeNote "May be used for records created without examining the item, such as retrospective conversion from a printed card."@en .
+
+<https://doi.org/10.6069/uwlswd.ywjs-vr46> a skos:ConceptScheme ;
+    dc:contributor "Metadata Management Associates" ;
+    dc:language "en" ;
+    dcterms:alternative "MARC21 008/21 values for music expressed using RDF" ;
+    dcterms:contributor <http://viaf.org/viaf/151962300> ;
+    dcterms:creator <http://viaf.org/viaf/139541794> ;
+    dcterms:description "Indicates whether the item being cataloged is, or contains parts." ;
+    dcterms:issued "2023" ;
+    dcterms:license <http://creativecommons.org/publicdomain/zero/1.0> ;
+    dcterms:provenance <https://doi.org/10.6069/uwlswd.2e2b-y833> ;
+    dcterms:publisher <http://viaf.org/viaf/139541794> ;
+    dcterms:source <http://marc21rdf.info>,
+        <https://www.loc.gov/marc/bibliographic/bd008.html> ;
+    dcterms:title "Music: music parts" ;
+    dcterms:type dcmitype:Dataset ;
+    skos:scopeNote "Is not used to indicate that parts may exist elsewhere."@en ;
+    schema:version "1-0-0" .
+

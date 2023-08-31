@@ -1,0 +1,100 @@
+@prefix dc: <http://purl.org/dc/elements/1.1/> .
+@prefix dcmitype: <http://purl.org/dc/dcmitype/> .
+@prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix schema: <https://schema.org/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<https://doi.org/10.6069/uwlswd.f447-ax91#0> a skos:Concept ;
+    skos:definition "Not a work of fiction and no further identification of the literary form is desired."@en ;
+    skos:inScheme <https://doi.org/10.6069/uwlswd.f447-ax91> ;
+    skos:notation "0"@en ;
+    skos:prefLabel "not fiction (not further specified)"@en .
+
+<https://doi.org/10.6069/uwlswd.f447-ax91#1> a skos:Concept ;
+    skos:definition "Work of fiction but no further identification of the literary form is desired."@en ;
+    skos:inScheme <https://doi.org/10.6069/uwlswd.f447-ax91> ;
+    skos:notation "1"@en ;
+    skos:prefLabel "fiction (not further specified)"@en .
+
+<https://doi.org/10.6069/uwlswd.f447-ax91#c> a skos:Concept ;
+    skos:inScheme <https://doi.org/10.6069/uwlswd.f447-ax91> ;
+    skos:notation "c"@en ;
+    skos:prefLabel "comic strips"@en .
+
+<https://doi.org/10.6069/uwlswd.f447-ax91#d> a skos:Concept ;
+    skos:definition "Dramas."@en ;
+    skos:inScheme <https://doi.org/10.6069/uwlswd.f447-ax91> ;
+    skos:notation "d"@en ;
+    skos:prefLabel "dramas"@en .
+
+<https://doi.org/10.6069/uwlswd.f447-ax91#e> a skos:Concept ;
+    skos:definition "Essays."@en ;
+    skos:inScheme <https://doi.org/10.6069/uwlswd.f447-ax91> ;
+    skos:notation "e"@en ;
+    skos:prefLabel "essays"@en .
+
+<https://doi.org/10.6069/uwlswd.f447-ax91#f> a skos:Concept ;
+    skos:definition "Novels."@en ;
+    skos:inScheme <https://doi.org/10.6069/uwlswd.f447-ax91> ;
+    skos:notation "f"@en ;
+    skos:prefLabel "novels"@en .
+
+<https://doi.org/10.6069/uwlswd.f447-ax91#h> a skos:Concept ;
+    skos:definition "Humorous work, satire, or of similar literary form."@en ;
+    skos:inScheme <https://doi.org/10.6069/uwlswd.f447-ax91> ;
+    skos:notation "h"@en ;
+    skos:prefLabel "humor, satires, etc."@en .
+
+<https://doi.org/10.6069/uwlswd.f447-ax91#i> a skos:Concept ;
+    skos:definition "Single letter or collection of correspondence."@en ;
+    skos:inScheme <https://doi.org/10.6069/uwlswd.f447-ax91> ;
+    skos:notation "i"@en ;
+    skos:prefLabel "letters"@en .
+
+<https://doi.org/10.6069/uwlswd.f447-ax91#j> a skos:Concept ;
+    skos:definition "Short story or collection of short stories."@en ;
+    skos:inScheme <https://doi.org/10.6069/uwlswd.f447-ax91> ;
+    skos:notation "j"@en ;
+    skos:prefLabel "short stories"@en .
+
+<https://doi.org/10.6069/uwlswd.f447-ax91#m> a skos:Concept ;
+    skos:definition "Represents a variety of literary forms (e.g., poetry and short stories)."@en ;
+    skos:inScheme <https://doi.org/10.6069/uwlswd.f447-ax91> ;
+    skos:notation "m"@en ;
+    skos:prefLabel "mixed forms"@en .
+
+<https://doi.org/10.6069/uwlswd.f447-ax91#p> a skos:Concept ;
+    skos:definition "Poem or collection of poems."@en ;
+    skos:inScheme <https://doi.org/10.6069/uwlswd.f447-ax91> ;
+    skos:notation "p"@en ;
+    skos:prefLabel "poetry"@en .
+
+<https://doi.org/10.6069/uwlswd.f447-ax91#s> a skos:Concept ;
+    skos:definition "Speech or collection of speeches."@en ;
+    skos:inScheme <https://doi.org/10.6069/uwlswd.f447-ax91> ;
+    skos:notation "s"@en ;
+    skos:prefLabel "speeches"@en .
+
+<https://doi.org/10.6069/uwlswd.f447-ax91#u> a skos:Concept ;
+    skos:definition "Literary form of the item is unknown."@en ;
+    skos:inScheme <https://doi.org/10.6069/uwlswd.f447-ax91> ;
+    skos:notation "u"@en ;
+    skos:prefLabel "unknown"@en .
+
+<https://doi.org/10.6069/uwlswd.f447-ax91> a skos:ConceptScheme ;
+    dc:contributor "Metadata Management Associates" ;
+    dc:language "en" ;
+    dcterms:alternative "MARC21 008/33 values for books expressed using RDF" ;
+    dcterms:contributor <http://viaf.org/viaf/151962300> ;
+    dcterms:creator <http://viaf.org/viaf/139541794> ;
+    dcterms:description "Indicates the literary form of an item." ;
+    dcterms:issued "2023" ;
+    dcterms:license <http://creativecommons.org/publicdomain/zero/1.0> ;
+    dcterms:provenance <https://doi.org/10.6069/uwlswd.2e2b-y833> ;
+    dcterms:publisher <http://viaf.org/viaf/139541794> ;
+    dcterms:source <http://marc21rdf.info>,
+        <https://www.loc.gov/marc/bibliographic/bd008.html> ;
+    dcterms:title "Books: literary form" ;
+    dcterms:type dcmitype:Dataset ;
+    schema:version "1-0-0" .
+

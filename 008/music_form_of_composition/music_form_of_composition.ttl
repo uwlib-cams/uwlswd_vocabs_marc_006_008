@@ -1,0 +1,468 @@
+@prefix dc: <http://purl.org/dc/elements/1.1/> .
+@prefix dcmitype: <http://purl.org/dc/dcmitype/> .
+@prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix schema: <https://schema.org/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<https://doi.org/10.6069/uwlswd.8rpj-ek77#an> a skos:Concept ;
+    skos:definition "Anthems."@en ;
+    skos:inScheme <https://doi.org/10.6069/uwlswd.8rpj-ek77> ;
+    skos:notation "an"@en ;
+    skos:prefLabel "anthems"@en .
+
+<https://doi.org/10.6069/uwlswd.8rpj-ek77#bd> a skos:Concept ;
+    skos:definition "Ballads."@en ;
+    skos:inScheme <https://doi.org/10.6069/uwlswd.8rpj-ek77> ;
+    skos:notation "bd"@en ;
+    skos:prefLabel "ballads"@en .
+
+<https://doi.org/10.6069/uwlswd.8rpj-ek77#bg> a skos:Concept ;
+    skos:definition "Bluegrass music."@en ;
+    skos:inScheme <https://doi.org/10.6069/uwlswd.8rpj-ek77> ;
+    skos:notation "bg"@en ;
+    skos:prefLabel "bluegrass music"@en .
+
+<https://doi.org/10.6069/uwlswd.8rpj-ek77#bl> a skos:Concept ;
+    skos:definition "Blues."@en ;
+    skos:inScheme <https://doi.org/10.6069/uwlswd.8rpj-ek77> ;
+    skos:notation "bl"@en ;
+    skos:prefLabel "blues"@en .
+
+<https://doi.org/10.6069/uwlswd.8rpj-ek77#bt> a skos:Concept ;
+    skos:definition "Ballets."@en ;
+    skos:inScheme <https://doi.org/10.6069/uwlswd.8rpj-ek77> ;
+    skos:notation "bt"@en ;
+    skos:prefLabel "ballets"@en .
+
+<https://doi.org/10.6069/uwlswd.8rpj-ek77#ca> a skos:Concept ;
+    skos:definition "Chaconnes."@en ;
+    skos:inScheme <https://doi.org/10.6069/uwlswd.8rpj-ek77> ;
+    skos:notation "ca"@en ;
+    skos:prefLabel "chaconnes"@en .
+
+<https://doi.org/10.6069/uwlswd.8rpj-ek77#cb> a skos:Concept ;
+    skos:definition "Chants, Other religions."@en ;
+    skos:inScheme <https://doi.org/10.6069/uwlswd.8rpj-ek77> ;
+    skos:notation "cb"@en ;
+    skos:prefLabel "chants, other religions"@en .
+
+<https://doi.org/10.6069/uwlswd.8rpj-ek77#cc> a skos:Concept ;
+    skos:definition "Chant, Christian."@en ;
+    skos:inScheme <https://doi.org/10.6069/uwlswd.8rpj-ek77> ;
+    skos:notation "cc"@en ;
+    skos:prefLabel "chant, Christian"@en .
+
+<https://doi.org/10.6069/uwlswd.8rpj-ek77#cg> a skos:Concept ;
+    skos:definition "Concerti grossi."@en ;
+    skos:inScheme <https://doi.org/10.6069/uwlswd.8rpj-ek77> ;
+    skos:notation "cg"@en ;
+    skos:prefLabel "concerti grossi"@en .
+
+<https://doi.org/10.6069/uwlswd.8rpj-ek77#ch> a skos:Concept ;
+    skos:definition "Chorales."@en ;
+    skos:inScheme <https://doi.org/10.6069/uwlswd.8rpj-ek77> ;
+    skos:notation "ch"@en ;
+    skos:prefLabel "chorales"@en .
+
+<https://doi.org/10.6069/uwlswd.8rpj-ek77#cl> a skos:Concept ;
+    skos:definition "Chorale preludes."@en ;
+    skos:inScheme <https://doi.org/10.6069/uwlswd.8rpj-ek77> ;
+    skos:notation "cl"@en ;
+    skos:prefLabel "chorale preludes"@en .
+
+<https://doi.org/10.6069/uwlswd.8rpj-ek77#cn> a skos:Concept ;
+    skos:definition "Canons and rounds. Compositions employing strict imitation throughout."@en ;
+    skos:inScheme <https://doi.org/10.6069/uwlswd.8rpj-ek77> ;
+    skos:notation "cn"@en ;
+    skos:prefLabel "canons and rounds"@en .
+
+<https://doi.org/10.6069/uwlswd.8rpj-ek77#co> a skos:Concept ;
+    skos:definition "Concertos."@en ;
+    skos:inScheme <https://doi.org/10.6069/uwlswd.8rpj-ek77> ;
+    skos:notation "co"@en ;
+    skos:prefLabel "concertos"@en .
+
+<https://doi.org/10.6069/uwlswd.8rpj-ek77#cp> a skos:Concept ;
+    skos:definition "Chansons, polyphonic."@en ;
+    skos:inScheme <https://doi.org/10.6069/uwlswd.8rpj-ek77> ;
+    skos:notation "cp"@en ;
+    skos:prefLabel "chansons, polyphonic"@en .
+
+<https://doi.org/10.6069/uwlswd.8rpj-ek77#cr> a skos:Concept ;
+    skos:definition "Carols."@en ;
+    skos:inScheme <https://doi.org/10.6069/uwlswd.8rpj-ek77> ;
+    skos:notation "cr"@en ;
+    skos:prefLabel "carols"@en .
+
+<https://doi.org/10.6069/uwlswd.8rpj-ek77#cs> a skos:Concept ;
+    skos:definition "Chance compositions."@en ;
+    skos:inScheme <https://doi.org/10.6069/uwlswd.8rpj-ek77> ;
+    skos:notation "cs"@en ;
+    skos:prefLabel "chance compositions"@en .
+
+<https://doi.org/10.6069/uwlswd.8rpj-ek77#ct> a skos:Concept ;
+    skos:definition "Cantatas."@en ;
+    skos:inScheme <https://doi.org/10.6069/uwlswd.8rpj-ek77> ;
+    skos:notation "ct"@en ;
+    skos:prefLabel "cantatas"@en .
+
+<https://doi.org/10.6069/uwlswd.8rpj-ek77#cy> a skos:Concept ;
+    skos:definition "Country music."@en ;
+    skos:inScheme <https://doi.org/10.6069/uwlswd.8rpj-ek77> ;
+    skos:notation "cy"@en ;
+    skos:prefLabel "country music"@en .
+
+<https://doi.org/10.6069/uwlswd.8rpj-ek77#cz> a skos:Concept ;
+    skos:definition "Canzonas."@en ;
+    skos:inScheme <https://doi.org/10.6069/uwlswd.8rpj-ek77> ;
+    skos:notation "cz"@en ;
+    skos:prefLabel "canzonas"@en ;
+    skos:scopeNote "Used for instrumental music that is designated as a canzona."@en .
+
+<https://doi.org/10.6069/uwlswd.8rpj-ek77#df> a skos:Concept ;
+    skos:definition "Dance forms."@en ;
+    skos:inScheme <https://doi.org/10.6069/uwlswd.8rpj-ek77> ;
+    skos:notation "df"@en ;
+    skos:prefLabel "dance forms"@en ;
+    skos:scopeNote "Includes music for individual dances except for mazurkas, minuets, pavans, polonaises, and waltzes."@en .
+
+<https://doi.org/10.6069/uwlswd.8rpj-ek77#dv> a skos:Concept ;
+    skos:definition "Divertimentos, serenades, cassations, divertissements, and notturni."@en ;
+    skos:inScheme <https://doi.org/10.6069/uwlswd.8rpj-ek77> ;
+    skos:notation "dv"@en ;
+    skos:prefLabel "divertimentos, serenades, cassations, divertissements, and notturni"@en ;
+    skos:scopeNote "Used for instrumental music designated as a divertimento, serenade, cassation, divertissement, or a notturno."@en .
+
+<https://doi.org/10.6069/uwlswd.8rpj-ek77#fg> a skos:Concept ;
+    skos:definition "Fugues."@en ;
+    skos:inScheme <https://doi.org/10.6069/uwlswd.8rpj-ek77> ;
+    skos:notation "fg"@en ;
+    skos:prefLabel "fugues"@en .
+
+<https://doi.org/10.6069/uwlswd.8rpj-ek77#fl> a skos:Concept ;
+    skos:definition "Flamenco."@en ;
+    skos:inScheme <https://doi.org/10.6069/uwlswd.8rpj-ek77> ;
+    skos:notation "fl"@en ;
+    skos:prefLabel "flamenco"@en ;
+    skos:scopeNote "All the Flamenco styles, or \"palos\", and other forms of song and dance coming from the folkloric tradition of Spanish gypsies."@en .
+
+<https://doi.org/10.6069/uwlswd.8rpj-ek77#fm> a skos:Concept ;
+    skos:definition "Folk music."@en ;
+    skos:inScheme <https://doi.org/10.6069/uwlswd.8rpj-ek77> ;
+    skos:notation "fm"@en ;
+    skos:prefLabel "folk music"@en ;
+    skos:scopeNote "Includes folk songs, etc."@en .
+
+<https://doi.org/10.6069/uwlswd.8rpj-ek77#ft> a skos:Concept ;
+    skos:definition "Fantasias."@en ;
+    skos:inScheme <https://doi.org/10.6069/uwlswd.8rpj-ek77> ;
+    skos:notation "ft"@en ;
+    skos:prefLabel "fantasias"@en ;
+    skos:scopeNote "Includes instrumental music designated as fantasia, fancies, fantasies, etc."@en .
+
+<https://doi.org/10.6069/uwlswd.8rpj-ek77#gm> a skos:Concept ;
+    skos:definition "Gospel music."@en ;
+    skos:inScheme <https://doi.org/10.6069/uwlswd.8rpj-ek77> ;
+    skos:notation "gm"@en ;
+    skos:prefLabel "gospel music"@en .
+
+<https://doi.org/10.6069/uwlswd.8rpj-ek77#hy> a skos:Concept ;
+    skos:definition "Hymns."@en ;
+    skos:inScheme <https://doi.org/10.6069/uwlswd.8rpj-ek77> ;
+    skos:notation "hy"@en ;
+    skos:prefLabel "hymns"@en .
+
+<https://doi.org/10.6069/uwlswd.8rpj-ek77#jz> a skos:Concept ;
+    skos:definition "Jazz."@en ;
+    skos:inScheme <https://doi.org/10.6069/uwlswd.8rpj-ek77> ;
+    skos:notation "jz"@en ;
+    skos:prefLabel "jazz"@en .
+
+<https://doi.org/10.6069/uwlswd.8rpj-ek77#mc> a skos:Concept ;
+    skos:definition "Musical revues and comedies."@en ;
+    skos:inScheme <https://doi.org/10.6069/uwlswd.8rpj-ek77> ;
+    skos:notation "mc"@en ;
+    skos:prefLabel "musical revues and comedies"@en .
+
+<https://doi.org/10.6069/uwlswd.8rpj-ek77#md> a skos:Concept ;
+    skos:definition "Madrigals."@en ;
+    skos:inScheme <https://doi.org/10.6069/uwlswd.8rpj-ek77> ;
+    skos:notation "md"@en ;
+    skos:prefLabel "madrigals"@en .
+
+<https://doi.org/10.6069/uwlswd.8rpj-ek77#mi> a skos:Concept ;
+    skos:definition "Minuets."@en ;
+    skos:inScheme <https://doi.org/10.6069/uwlswd.8rpj-ek77> ;
+    skos:notation "mi"@en ;
+    skos:prefLabel "minuets"@en .
+
+<https://doi.org/10.6069/uwlswd.8rpj-ek77#mo> a skos:Concept ;
+    skos:definition "Motets."@en ;
+    skos:inScheme <https://doi.org/10.6069/uwlswd.8rpj-ek77> ;
+    skos:notation "mo"@en ;
+    skos:prefLabel "motets"@en .
+
+<https://doi.org/10.6069/uwlswd.8rpj-ek77#mp> a skos:Concept ;
+    skos:definition "Motion picture music."@en ;
+    skos:inScheme <https://doi.org/10.6069/uwlswd.8rpj-ek77> ;
+    skos:notation "mp"@en ;
+    skos:prefLabel "motion picture music"@en .
+
+<https://doi.org/10.6069/uwlswd.8rpj-ek77#mr> a skos:Concept ;
+    skos:definition "Marches."@en ;
+    skos:inScheme <https://doi.org/10.6069/uwlswd.8rpj-ek77> ;
+    skos:notation "mr"@en ;
+    skos:prefLabel "marches"@en .
+
+<https://doi.org/10.6069/uwlswd.8rpj-ek77#ms> a skos:Concept ;
+    skos:definition "Masses."@en ;
+    skos:inScheme <https://doi.org/10.6069/uwlswd.8rpj-ek77> ;
+    skos:notation "ms"@en ;
+    skos:prefLabel "masses"@en .
+
+<https://doi.org/10.6069/uwlswd.8rpj-ek77#mu> a skos:Concept ;
+    skos:definition "Multiple forms."@en ;
+    skos:inScheme <https://doi.org/10.6069/uwlswd.8rpj-ek77> ;
+    skos:notation "mu"@en ;
+    skos:prefLabel "multiple forms"@en .
+
+<https://doi.org/10.6069/uwlswd.8rpj-ek77#mz> a skos:Concept ;
+    skos:definition "Mazurkas."@en ;
+    skos:inScheme <https://doi.org/10.6069/uwlswd.8rpj-ek77> ;
+    skos:notation "mz"@en ;
+    skos:prefLabel "mazurkas"@en .
+
+<https://doi.org/10.6069/uwlswd.8rpj-ek77#nc> a skos:Concept ;
+    skos:definition "Nocturnes."@en ;
+    skos:inScheme <https://doi.org/10.6069/uwlswd.8rpj-ek77> ;
+    skos:notation "nc"@en ;
+    skos:prefLabel "nocturnes"@en .
+
+<https://doi.org/10.6069/uwlswd.8rpj-ek77#nn> a skos:Concept ;
+    skos:definition "Not applicable"@en ;
+    skos:inScheme <https://doi.org/10.6069/uwlswd.8rpj-ek77> ;
+    skos:notation "nn"@en ;
+    skos:prefLabel "not applicable"@en ;
+    skos:scopeNote "Used for any item that is a non-music sound recording."@en .
+
+<https://doi.org/10.6069/uwlswd.8rpj-ek77#op> a skos:Concept ;
+    skos:definition "Operas."@en ;
+    skos:inScheme <https://doi.org/10.6069/uwlswd.8rpj-ek77> ;
+    skos:notation "op"@en ;
+    skos:prefLabel "operas"@en .
+
+<https://doi.org/10.6069/uwlswd.8rpj-ek77#or> a skos:Concept ;
+    skos:definition "Oratorios."@en ;
+    skos:inScheme <https://doi.org/10.6069/uwlswd.8rpj-ek77> ;
+    skos:notation "or"@en ;
+    skos:prefLabel "oratorios"@en .
+
+<https://doi.org/10.6069/uwlswd.8rpj-ek77#ov> a skos:Concept ;
+    skos:definition "Overtures."@en ;
+    skos:inScheme <https://doi.org/10.6069/uwlswd.8rpj-ek77> ;
+    skos:notation "ov"@en ;
+    skos:prefLabel "overtures"@en .
+
+<https://doi.org/10.6069/uwlswd.8rpj-ek77#pg> a skos:Concept ;
+    skos:definition "Program music."@en ;
+    skos:inScheme <https://doi.org/10.6069/uwlswd.8rpj-ek77> ;
+    skos:notation "pg"@en ;
+    skos:prefLabel "program music"@en .
+
+<https://doi.org/10.6069/uwlswd.8rpj-ek77#pm> a skos:Concept ;
+    skos:definition "Passion music."@en ;
+    skos:inScheme <https://doi.org/10.6069/uwlswd.8rpj-ek77> ;
+    skos:notation "pm"@en ;
+    skos:prefLabel "passion music"@en .
+
+<https://doi.org/10.6069/uwlswd.8rpj-ek77#po> a skos:Concept ;
+    skos:definition "Polonaises."@en ;
+    skos:inScheme <https://doi.org/10.6069/uwlswd.8rpj-ek77> ;
+    skos:notation "po"@en ;
+    skos:prefLabel "polonaises"@en .
+
+<https://doi.org/10.6069/uwlswd.8rpj-ek77#pp> a skos:Concept ;
+    skos:definition "Popular music."@en ;
+    skos:inScheme <https://doi.org/10.6069/uwlswd.8rpj-ek77> ;
+    skos:notation "pp"@en ;
+    skos:prefLabel "popular music"@en .
+
+<https://doi.org/10.6069/uwlswd.8rpj-ek77#pr> a skos:Concept ;
+    skos:definition "Preludes."@en ;
+    skos:inScheme <https://doi.org/10.6069/uwlswd.8rpj-ek77> ;
+    skos:notation "pr"@en ;
+    skos:prefLabel "preludes"@en .
+
+<https://doi.org/10.6069/uwlswd.8rpj-ek77#ps> a skos:Concept ;
+    skos:definition "Passacaglias."@en ;
+    skos:inScheme <https://doi.org/10.6069/uwlswd.8rpj-ek77> ;
+    skos:notation "ps"@en ;
+    skos:prefLabel "passacaglias"@en ;
+    skos:scopeNote "Includes all types of ostinato basses."@en .
+
+<https://doi.org/10.6069/uwlswd.8rpj-ek77#pt> a skos:Concept ;
+    skos:definition "Part-songs."@en ;
+    skos:inScheme <https://doi.org/10.6069/uwlswd.8rpj-ek77> ;
+    skos:notation "pt"@en ;
+    skos:prefLabel "part-songs"@en .
+
+<https://doi.org/10.6069/uwlswd.8rpj-ek77#pv> a skos:Concept ;
+    skos:definition "Pavans."@en ;
+    skos:inScheme <https://doi.org/10.6069/uwlswd.8rpj-ek77> ;
+    skos:notation "pv"@en ;
+    skos:prefLabel "pavans"@en .
+
+<https://doi.org/10.6069/uwlswd.8rpj-ek77#rc> a skos:Concept ;
+    skos:definition "Rock music."@en ;
+    skos:inScheme <https://doi.org/10.6069/uwlswd.8rpj-ek77> ;
+    skos:notation "rc"@en ;
+    skos:prefLabel "rock music"@en .
+
+<https://doi.org/10.6069/uwlswd.8rpj-ek77#rd> a skos:Concept ;
+    skos:definition "Rondos."@en ;
+    skos:inScheme <https://doi.org/10.6069/uwlswd.8rpj-ek77> ;
+    skos:notation "rd"@en ;
+    skos:prefLabel "rondos"@en .
+
+<https://doi.org/10.6069/uwlswd.8rpj-ek77#rg> a skos:Concept ;
+    skos:definition "Ragtime music."@en ;
+    skos:inScheme <https://doi.org/10.6069/uwlswd.8rpj-ek77> ;
+    skos:notation "rg"@en ;
+    skos:prefLabel "ragtime music"@en .
+
+<https://doi.org/10.6069/uwlswd.8rpj-ek77#ri> a skos:Concept ;
+    skos:definition "Ricercars."@en ;
+    skos:inScheme <https://doi.org/10.6069/uwlswd.8rpj-ek77> ;
+    skos:notation "ri"@en ;
+    skos:prefLabel "ricercars"@en .
+
+<https://doi.org/10.6069/uwlswd.8rpj-ek77#rp> a skos:Concept ;
+    skos:definition "Rhapsodies."@en ;
+    skos:inScheme <https://doi.org/10.6069/uwlswd.8rpj-ek77> ;
+    skos:notation "rp"@en ;
+    skos:prefLabel "rhapsodies"@en .
+
+<https://doi.org/10.6069/uwlswd.8rpj-ek77#rq> a skos:Concept ;
+    skos:definition "Requiems."@en ;
+    skos:inScheme <https://doi.org/10.6069/uwlswd.8rpj-ek77> ;
+    skos:notation "rq"@en ;
+    skos:prefLabel "requiems"@en .
+
+<https://doi.org/10.6069/uwlswd.8rpj-ek77#sd> a skos:Concept ;
+    skos:definition "Square dance music."@en ;
+    skos:inScheme <https://doi.org/10.6069/uwlswd.8rpj-ek77> ;
+    skos:notation "sd"@en ;
+    skos:prefLabel "square dance music"@en .
+
+<https://doi.org/10.6069/uwlswd.8rpj-ek77#sg> a skos:Concept ;
+    skos:definition "Songs."@en ;
+    skos:inScheme <https://doi.org/10.6069/uwlswd.8rpj-ek77> ;
+    skos:notation "sg"@en ;
+    skos:prefLabel "songs"@en .
+
+<https://doi.org/10.6069/uwlswd.8rpj-ek77#sn> a skos:Concept ;
+    skos:definition "Sonatas."@en ;
+    skos:inScheme <https://doi.org/10.6069/uwlswd.8rpj-ek77> ;
+    skos:notation "sn"@en ;
+    skos:prefLabel "sonatas"@en .
+
+<https://doi.org/10.6069/uwlswd.8rpj-ek77#sp> a skos:Concept ;
+    skos:definition "Symphonic poems."@en ;
+    skos:inScheme <https://doi.org/10.6069/uwlswd.8rpj-ek77> ;
+    skos:notation "sp"@en ;
+    skos:prefLabel "symphonic poems"@en .
+
+<https://doi.org/10.6069/uwlswd.8rpj-ek77#st> a skos:Concept ;
+    skos:definition "Studies and exercises."@en ;
+    skos:inScheme <https://doi.org/10.6069/uwlswd.8rpj-ek77> ;
+    skos:notation "st"@en ;
+    skos:prefLabel "studies and exercises"@en ;
+    skos:scopeNote "Used only when the work is intended for teaching purposes (usually entitled Studies, Etudes, etc.)."@en .
+
+<https://doi.org/10.6069/uwlswd.8rpj-ek77#su> a skos:Concept ;
+    skos:definition "Suites."@en ;
+    skos:inScheme <https://doi.org/10.6069/uwlswd.8rpj-ek77> ;
+    skos:notation "su"@en ;
+    skos:prefLabel "suites"@en .
+
+<https://doi.org/10.6069/uwlswd.8rpj-ek77#sy> a skos:Concept ;
+    skos:definition "Symphonies."@en ;
+    skos:inScheme <https://doi.org/10.6069/uwlswd.8rpj-ek77> ;
+    skos:notation "sy"@en ;
+    skos:prefLabel "symphonies"@en .
+
+<https://doi.org/10.6069/uwlswd.8rpj-ek77#tc> a skos:Concept ;
+    skos:definition "Toccatas."@en ;
+    skos:inScheme <https://doi.org/10.6069/uwlswd.8rpj-ek77> ;
+    skos:notation "tc"@en ;
+    skos:prefLabel "toccatas"@en .
+
+<https://doi.org/10.6069/uwlswd.8rpj-ek77#tl> a skos:Concept ;
+    skos:definition "Spanish and Spanish American theatre music."@en ;
+    skos:inScheme <https://doi.org/10.6069/uwlswd.8rpj-ek77> ;
+    skos:notation "tl"@en ;
+    skos:prefLabel "teatro lirico"@en ;
+    skos:scopeNote "Used for a large number of more specific terms which describe Spanish and Spanish American theatre music: \"tonadilla escénica\", \"fiestas de música\", \"sainetes líricos\", \"entremeses cómico-lírico,\" etc."@en .
+
+<https://doi.org/10.6069/uwlswd.8rpj-ek77#ts> a skos:Concept ;
+    skos:definition "Trio-sonatas."@en ;
+    skos:inScheme <https://doi.org/10.6069/uwlswd.8rpj-ek77> ;
+    skos:notation "ts"@en ;
+    skos:prefLabel "trio-sonatas"@en .
+
+<https://doi.org/10.6069/uwlswd.8rpj-ek77#uu> a skos:Concept ;
+    skos:definition "Unknown."@en ;
+    skos:inScheme <https://doi.org/10.6069/uwlswd.8rpj-ek77> ;
+    skos:notation "uu"@en ;
+    skos:prefLabel "unknown"@en ;
+    skos:scopeNote "Used when the only indication given is the number of instruments and the medium of performance. No structure or genre is given, although they may be implied or understood."@en .
+
+<https://doi.org/10.6069/uwlswd.8rpj-ek77#vi> a skos:Concept ;
+    skos:definition "Characteristic form of Spanish polyphony, religious or secular, from the 16th to 18th centuries. Religious villancicos were usually sung in important ceremonies (including Christmas, when these songs were sometimes called \"pastoradas\")."@en ;
+    skos:inScheme <https://doi.org/10.6069/uwlswd.8rpj-ek77> ;
+    skos:notation "vi"@en ;
+    skos:prefLabel "villancicos"@en .
+
+<https://doi.org/10.6069/uwlswd.8rpj-ek77#vr> a skos:Concept ;
+    skos:definition "Variations."@en ;
+    skos:inScheme <https://doi.org/10.6069/uwlswd.8rpj-ek77> ;
+    skos:notation "vr"@en ;
+    skos:prefLabel "variations"@en .
+
+<https://doi.org/10.6069/uwlswd.8rpj-ek77#wz> a skos:Concept ;
+    skos:definition "Waltzes."@en ;
+    skos:inScheme <https://doi.org/10.6069/uwlswd.8rpj-ek77> ;
+    skos:notation "wz"@en ;
+    skos:prefLabel "waltzes"@en .
+
+<https://doi.org/10.6069/uwlswd.8rpj-ek77#za> a skos:Concept ;
+    skos:definition "Term applicable to all musical plays taking that name, from the “fiestas de zarzuela” of the 17th/18th-centuries to the so-called “zarzuela moderna” (“modern zarzuela”) from the mid 19th to the mid 20th-century."@en,
+        "Zarzuelas."@en ;
+    skos:inScheme <https://doi.org/10.6069/uwlswd.8rpj-ek77> ;
+    skos:notation "za"@en ;
+    skos:prefLabel "zarzuelas"@en .
+
+<https://doi.org/10.6069/uwlswd.8rpj-ek77#zz> a skos:Concept ;
+    skos:definition "Form of composition other than anthems; ballads; bluegrass music; blues; ballets; chaconnes; chants, other religions; chant, Christian; concerti grossi; chorales; chorale preludes; canons and rounds; concertos; chansons, polyphonic; carols; chance compositions; cantatas; country music; canzonas; dance forms; divertimentos, serenades, cassations, divertissements, and notturni; fugues; flamenco; folk music; fantasias; gospel music; hymns; jazz; musical revues and comedies; madrigals; minuets; motets; motion picture music; marches; masses; multiple forms; mazurkas; nocturnes; operas; oratorios; overtures; program music; passion music; polonaises; popular music; preludes; passacaglias; part-songs; pavans; rock music; rondos; ragtime music; ricercars; rhapsodies; requiems; square dance music; songs; sonatas; symphonic poems; studies and exercises; suites; symphonies; toccatas; teatro lirico; trio-sonatas; villancicos; variations; waltzes, or zarzuelas."@en ;
+    skos:inScheme <https://doi.org/10.6069/uwlswd.8rpj-ek77> ;
+    skos:notation "zz"@en ;
+    skos:prefLabel "other"@en .
+
+<https://doi.org/10.6069/uwlswd.8rpj-ek77> a skos:ConceptScheme ;
+    dc:contributor "Metadata Management Associates" ;
+    dc:language "en" ;
+    dcterms:alternative "MARC21 008/18-19 values for music expressed using RDF" ;
+    dcterms:contributor <http://viaf.org/viaf/151962300> ;
+    dcterms:creator <http://viaf.org/viaf/139541794> ;
+    dcterms:description "Indicates the form of composition." ;
+    dcterms:issued "2023" ;
+    dcterms:license <http://creativecommons.org/publicdomain/zero/1.0> ;
+    dcterms:provenance <https://doi.org/10.6069/uwlswd.2e2b-y833> ;
+    dcterms:publisher <http://viaf.org/viaf/139541794> ;
+    dcterms:source <http://marc21rdf.info>,
+        <https://www.loc.gov/marc/bibliographic/bd008.html> ;
+    dcterms:title "Music: form of composition" ;
+    dcterms:type dcmitype:Dataset ;
+    skos:scopeNote "Is based on the terminology in the work itself. Also includes musical genres (e.g., Ragtime music)."@en ;
+    schema:version "1-0-0" .
+

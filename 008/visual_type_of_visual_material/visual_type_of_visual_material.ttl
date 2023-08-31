@@ -1,0 +1,155 @@
+@prefix dc: <http://purl.org/dc/elements/1.1/> .
+@prefix dcmitype: <http://purl.org/dc/dcmitype/> .
+@prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix schema: <https://schema.org/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<https://doi.org/10.6069/uwlswd.qgc0-9r48#a> a skos:Concept ;
+    skos:definition "Two or three-dimensional work of art created by an artist, for example, a sculpture, as contrasted with a reproduction of it."@en ;
+    skos:inScheme <https://doi.org/10.6069/uwlswd.qgc0-9r48> ;
+    skos:notation "a"@en ;
+    skos:prefLabel "art original"@en .
+
+<https://doi.org/10.6069/uwlswd.qgc0-9r48#b> a skos:Concept ;
+    skos:definition "Mixture of components from two or more categories, that is, sound recording, maps, filmstrips, etc., no one of which is the predominant constituent of the item."@en ;
+    skos:inScheme <https://doi.org/10.6069/uwlswd.qgc0-9r48> ;
+    skos:notation "b"@en ;
+    skos:prefLabel "kit"@en ;
+    skos:scopeNote "Also includes the packages of material called laboratory kits, and packages of assorted materials, such as a set of K-12 social studies curriculum material (all books, workbooks, guides, activities, etc.) or packages of educational test materials (tests, answer sheets, scoring guides, score charts, interpretative manuals, etc.)."@en .
+
+<https://doi.org/10.6069/uwlswd.qgc0-9r48#c> a skos:Concept ;
+    skos:definition "Two or three-dimensional mechanically reproduced copy of a work of art, generally as one of a commercial edition."@en ;
+    skos:inScheme <https://doi.org/10.6069/uwlswd.qgc0-9r48> ;
+    skos:notation "c"@en ;
+    skos:prefLabel "art reproduction"@en .
+
+<https://doi.org/10.6069/uwlswd.qgc0-9r48#d> a skos:Concept ;
+    skos:definition "Three-dimensional representation of a scene created by placing objects, figures, etc. in front of a two-dimensional background."@en ;
+    skos:inScheme <https://doi.org/10.6069/uwlswd.qgc0-9r48> ;
+    skos:notation "d"@en ;
+    skos:prefLabel "diorama"@en .
+
+<https://doi.org/10.6069/uwlswd.qgc0-9r48#ex> a skos:Concept ;
+    skos:inScheme <https://doi.org/10.6069/uwlswd.qgc0-9r48> ;
+    skos:notation "e"@en ;
+    skos:prefLabel "electronic videorecording [obsolete]"@en .
+
+<https://doi.org/10.6069/uwlswd.qgc0-9r48#f> a skos:Concept ;
+    skos:definition "Length of film containing a succession of images intended for projection one frame at a time with or without recorded sound."@en ;
+    skos:inScheme <https://doi.org/10.6069/uwlswd.qgc0-9r48> ;
+    skos:notation "f"@en ;
+    skos:prefLabel "filmstrip"@en .
+
+<https://doi.org/10.6069/uwlswd.qgc0-9r48#g> a skos:Concept ;
+    skos:definition "Item or set of items designed for play according to prescribed rules and intended for recreation or instruction."@en ;
+    skos:inScheme <https://doi.org/10.6069/uwlswd.qgc0-9r48> ;
+    skos:notation "g"@en ;
+    skos:prefLabel "game"@en ;
+    skos:scopeNote "includes puzzles and simulations."@en .
+
+<https://doi.org/10.6069/uwlswd.qgc0-9r48#i> a skos:Concept ;
+    skos:definition "Two-dimensional visual representation accessible to the naked eye and generally on an opaque backing."@en ;
+    skos:inScheme <https://doi.org/10.6069/uwlswd.qgc0-9r48> ;
+    skos:notation "i"@en ;
+    skos:prefLabel "picture"@en .
+
+<https://doi.org/10.6069/uwlswd.qgc0-9r48#k> a skos:Concept ;
+    skos:definition "Graphic."@en ;
+    skos:inScheme <https://doi.org/10.6069/uwlswd.qgc0-9r48> ;
+    skos:notation "k"@en ;
+    skos:prefLabel "graphic"@en ;
+    skos:scopeNote "Used for original or historical graphic material."@en .
+
+<https://doi.org/10.6069/uwlswd.qgc0-9r48#l> a skos:Concept ;
+    skos:definition "Cross section, detail, diagram, elevation, perspective, plan, working plan, etc., made for use in an architectural engineering or other technical context."@en ;
+    skos:inScheme <https://doi.org/10.6069/uwlswd.qgc0-9r48> ;
+    skos:notation "l"@en ;
+    skos:prefLabel "technical drawing"@en .
+
+<https://doi.org/10.6069/uwlswd.qgc0-9r48#m> a skos:Concept ;
+    skos:definition "Series of still pictures on film with or without sound, designed to be projected in rapid succession to produce the optical effect of motion."@en ;
+    skos:inScheme <https://doi.org/10.6069/uwlswd.qgc0-9r48> ;
+    skos:notation "m"@en ;
+    skos:prefLabel "motion picture"@en .
+
+<https://doi.org/10.6069/uwlswd.qgc0-9r48#n> a skos:Concept ;
+    skos:definition "Opaque sheet that exhibits data in graphic or tabular form (e.g., a calendar)."@en ;
+    skos:inScheme <https://doi.org/10.6069/uwlswd.qgc0-9r48> ;
+    skos:notation "n"@en ;
+    skos:prefLabel "chart"@en .
+
+<https://doi.org/10.6069/uwlswd.qgc0-9r48#o> a skos:Concept ;
+    skos:definition "Card or other opaque material printed with words, numerals, or pictures and designed for rapid display."@en ;
+    skos:inScheme <https://doi.org/10.6069/uwlswd.qgc0-9r48> ;
+    skos:notation "o"@en ;
+    skos:prefLabel "flash card"@en ;
+    skos:scopeNote "Activity cards are included in this category."@en .
+
+<https://doi.org/10.6069/uwlswd.qgc0-9r48#p> a skos:Concept ;
+    skos:definition "Transparent mount, usually glass, containing a minute object to be viewed through a microscope or microprojector."@en ;
+    skos:inScheme <https://doi.org/10.6069/uwlswd.qgc0-9r48> ;
+    skos:notation "p"@en ;
+    skos:prefLabel "microscope slide"@en .
+
+<https://doi.org/10.6069/uwlswd.qgc0-9r48#q> a skos:Concept ;
+    skos:definition "Three-dimensional representation of a real thing, either of the exact size of the original or to scale."@en ;
+    skos:inScheme <https://doi.org/10.6069/uwlswd.qgc0-9r48> ;
+    skos:notation "q"@en ;
+    skos:prefLabel "model"@en .
+
+<https://doi.org/10.6069/uwlswd.qgc0-9r48#r> a skos:Concept ;
+    skos:definition "Realia."@en ;
+    skos:inScheme <https://doi.org/10.6069/uwlswd.qgc0-9r48> ;
+    skos:notation "r"@en ;
+    skos:prefLabel "realia"@en ;
+    skos:scopeNote "Includes 1) all three-dimensional items such as clothing, stitchery, fabrics, tools, and utensils; and 2) naturally occurring objects."@en .
+
+<https://doi.org/10.6069/uwlswd.qgc0-9r48#s> a skos:Concept ;
+    skos:definition "Transparent material on which there is a two-dimensional image, usually held in a mount, and designed for use in a projector or viewer."@en ;
+    skos:inScheme <https://doi.org/10.6069/uwlswd.qgc0-9r48> ;
+    skos:notation "s"@en ;
+    skos:prefLabel "slide"@en ;
+    skos:scopeNote "Modern stereographs, for example, Viewmaster reels, are included here."@en .
+
+<https://doi.org/10.6069/uwlswd.qgc0-9r48#t> a skos:Concept ;
+    skos:definition "Transparent material on which a basically still image is recorded. Transparencies are designed for use with an overhead projector or a light box."@en ;
+    skos:inScheme <https://doi.org/10.6069/uwlswd.qgc0-9r48> ;
+    skos:notation "t"@en ;
+    skos:prefLabel "transparency"@en ;
+    skos:scopeNote "X-rays are coded as transparencies."@en .
+
+<https://doi.org/10.6069/uwlswd.qgc0-9r48#v> a skos:Concept ;
+    skos:definition "Recording on which visual images, usually in motion and accompanied by sound, have been registered. Videorecordings are designed for playback by means of a television receiver or monitor."@en ;
+    skos:inScheme <https://doi.org/10.6069/uwlswd.qgc0-9r48> ;
+    skos:notation "v"@en ;
+    skos:prefLabel "videorecording"@en .
+
+<https://doi.org/10.6069/uwlswd.qgc0-9r48#w> a skos:Concept ;
+    skos:definition "Material object for children or others to play with (often an imitation of some familiar object); a plaything; also, something contrived for amusement rather than for practical use."@en ;
+    skos:inScheme <https://doi.org/10.6069/uwlswd.qgc0-9r48> ;
+    skos:notation "w"@en ;
+    skos:prefLabel "toy"@en .
+
+<https://doi.org/10.6069/uwlswd.qgc0-9r48#z> a skos:Concept ;
+    skos:definition "Type of visual material other than art original, kit, art reproduction, diorama, filmstrip, game, picture, graphic, technical drawing, motion picture, chart, flash card, microscope slide, model, realia, slide, transparency, videorecording, or toy."@en ;
+    skos:inScheme <https://doi.org/10.6069/uwlswd.qgc0-9r48> ;
+    skos:notation "z"@en ;
+    skos:prefLabel "other"@en .
+
+<https://doi.org/10.6069/uwlswd.qgc0-9r48> a skos:ConceptScheme ;
+    dc:contributor "Metadata Management Associates" ;
+    dc:language "en" ;
+    dcterms:alternative "MARC21 008/33 values for visual materials expressed using RDF" ;
+    dcterms:contributor <http://viaf.org/viaf/151962300> ;
+    dcterms:creator <http://viaf.org/viaf/139541794> ;
+    dcterms:description "Indicates the type of visual material being described." ;
+    dcterms:issued "2023" ;
+    dcterms:license <http://creativecommons.org/publicdomain/zero/1.0> ;
+    dcterms:provenance <https://doi.org/10.6069/uwlswd.2e2b-y833> ;
+    dcterms:publisher <http://viaf.org/viaf/139541794> ;
+    dcterms:source <http://marc21rdf.info>,
+        <https://www.loc.gov/marc/bibliographic/bd008.html> ;
+    dcterms:title "Visual: type of visual material" ;
+    dcterms:type dcmitype:Dataset ;
+    schema:version "1-0-0" .
+

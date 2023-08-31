@@ -1,0 +1,118 @@
+@prefix dc: <http://purl.org/dc/elements/1.1/> .
+@prefix dcmitype: <http://purl.org/dc/dcmitype/> .
+@prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix schema: <https://schema.org/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<https://doi.org/10.6069/uwlswd.nt0v-d633#a> a skos:Concept ;
+    skos:definition "Discography or other bibliography of recorded sound."@en ;
+    skos:inScheme <https://doi.org/10.6069/uwlswd.nt0v-d633> ;
+    skos:notation "a"@en ;
+    skos:prefLabel "discography"@en .
+
+<https://doi.org/10.6069/uwlswd.nt0v-d633#b> a skos:Concept ;
+    skos:definition "Bibliography."@en ;
+    skos:inScheme <https://doi.org/10.6069/uwlswd.nt0v-d633> ;
+    skos:notation "b"@en ;
+    skos:prefLabel "bibliography"@en .
+
+<https://doi.org/10.6069/uwlswd.nt0v-d633#c> a skos:Concept ;
+    skos:definition "Thematic index."@en ;
+    skos:inScheme <https://doi.org/10.6069/uwlswd.nt0v-d633> ;
+    skos:notation "c"@en ;
+    skos:prefLabel "thematic index"@en .
+
+<https://doi.org/10.6069/uwlswd.nt0v-d633#d> a skos:Concept ;
+    skos:definition "Printed transcription of the libretto or other text (e.g., a transcript of verbal contents of a sound recording)."@en ;
+    skos:inScheme <https://doi.org/10.6069/uwlswd.nt0v-d633> ;
+    skos:notation "d"@en ;
+    skos:prefLabel "libretto or text"@en .
+
+<https://doi.org/10.6069/uwlswd.nt0v-d633#e> a skos:Concept ;
+    skos:definition "Significant biographical information on a composer or author."@en ;
+    skos:inScheme <https://doi.org/10.6069/uwlswd.nt0v-d633> ;
+    skos:notation "e"@en ;
+    skos:prefLabel "biography of composer or author"@en .
+
+<https://doi.org/10.6069/uwlswd.nt0v-d633#f> a skos:Concept ;
+    skos:definition "Significant biographical information on a performer or a history of an ensemble."@en ;
+    skos:inScheme <https://doi.org/10.6069/uwlswd.nt0v-d633> ;
+    skos:notation "f"@en ;
+    skos:prefLabel "biography of performer or history of ensemble"@en .
+
+<https://doi.org/10.6069/uwlswd.nt0v-d633#g> a skos:Concept ;
+    skos:definition "Significant technical information, including instructions for performance."@en ;
+    skos:inScheme <https://doi.org/10.6069/uwlswd.nt0v-d633> ;
+    skos:notation "g"@en ;
+    skos:prefLabel "technical and/or historical information on instruments"@en .
+
+<https://doi.org/10.6069/uwlswd.nt0v-d633#h> a skos:Concept ;
+    skos:definition "Significant technical information."@en ;
+    skos:inScheme <https://doi.org/10.6069/uwlswd.nt0v-d633> ;
+    skos:notation "h"@en ;
+    skos:prefLabel "technical information on music"@en ;
+    skos:scopeNote "Including instructions for performance."@en .
+
+<https://doi.org/10.6069/uwlswd.nt0v-d633#i> a skos:Concept ;
+    skos:definition "Significant historical information."@en ;
+    skos:inScheme <https://doi.org/10.6069/uwlswd.nt0v-d633> ;
+    skos:notation "i"@en ;
+    skos:prefLabel "historical information"@en .
+
+<https://doi.org/10.6069/uwlswd.nt0v-d633#jx> a skos:Concept ;
+    skos:inScheme <https://doi.org/10.6069/uwlswd.nt0v-d633> ;
+    skos:notation "j"@en ;
+    skos:prefLabel "historical information other than music [obsolete]"@en .
+
+<https://doi.org/10.6069/uwlswd.nt0v-d633#k> a skos:Concept ;
+    skos:definition "Significant ethnological information that relates to the musical part of the item."@en ;
+    skos:inScheme <https://doi.org/10.6069/uwlswd.nt0v-d633> ;
+    skos:notation "k"@en ;
+    skos:prefLabel "ethnological information"@en .
+
+<https://doi.org/10.6069/uwlswd.nt0v-d633#nx> a skos:Concept ;
+    skos:inScheme <https://doi.org/10.6069/uwlswd.nt0v-d633> ;
+    skos:notation "n"@en ;
+    skos:prefLabel "not applicable [obsolete]"@en .
+
+<https://doi.org/10.6069/uwlswd.nt0v-d633#pound> a skos:Concept ;
+    skos:definition "No accompanying matter or no indication of accompanying matter appears on the item."@en ;
+    skos:inScheme <https://doi.org/10.6069/uwlswd.nt0v-d633> ;
+    skos:notation "#"@en ;
+    skos:prefLabel "no accompanying matter"@en .
+
+<https://doi.org/10.6069/uwlswd.nt0v-d633#r> a skos:Concept ;
+    skos:definition "Instructional materials."@en ;
+    skos:inScheme <https://doi.org/10.6069/uwlswd.nt0v-d633> ;
+    skos:notation "r"@en ;
+    skos:prefLabel "instructional materials"@en .
+
+<https://doi.org/10.6069/uwlswd.nt0v-d633#s> a skos:Concept ;
+    skos:definition "A score or other music format than that of the main item."@en ;
+    skos:inScheme <https://doi.org/10.6069/uwlswd.nt0v-d633> ;
+    skos:notation "s"@en ;
+    skos:prefLabel "music"@en .
+
+<https://doi.org/10.6069/uwlswd.nt0v-d633#z> a skos:Concept ;
+    skos:definition "Accompanying matter other than discography, bibliography, thematic index, libretto or text, biography of composer or author, biography of performer or history of ensemble, technical and/or historical information on instruments, technical information on music, historical information, ethnological information, instructional materials, or music."@en ;
+    skos:inScheme <https://doi.org/10.6069/uwlswd.nt0v-d633> ;
+    skos:notation "z"@en ;
+    skos:prefLabel "other"@en .
+
+<https://doi.org/10.6069/uwlswd.nt0v-d633> a skos:ConceptScheme ;
+    dc:contributor "Metadata Management Associates" ;
+    dc:language "en" ;
+    dcterms:alternative "MARC21 008/24-29 values for music expressed using RDF" ;
+    dcterms:contributor <http://viaf.org/viaf/151962300> ;
+    dcterms:creator <http://viaf.org/viaf/139541794> ;
+    dcterms:description "Indicates the contents of program notes and other accompanying material for sound recording, music manuscripts, or notated music." ;
+    dcterms:issued "2023" ;
+    dcterms:license <http://creativecommons.org/publicdomain/zero/1.0> ;
+    dcterms:provenance <https://doi.org/10.6069/uwlswd.2e2b-y833> ;
+    dcterms:publisher <http://viaf.org/viaf/139541794> ;
+    dcterms:source <http://marc21rdf.info>,
+        <https://www.loc.gov/marc/bibliographic/bd008.html> ;
+    dcterms:title "Music: accompanying matter" ;
+    dcterms:type dcmitype:Dataset ;
+    schema:version "1-0-0" .
+

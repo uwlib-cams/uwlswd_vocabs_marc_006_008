@@ -1,0 +1,116 @@
+@prefix dc: <http://purl.org/dc/elements/1.1/> .
+@prefix dcmitype: <http://purl.org/dc/dcmitype/> .
+@prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix schema: <https://schema.org/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<https://doi.org/10.6069/uwlswd.4a8z-tq62#b> a skos:Concept ;
+    skos:definition "One or more dates associated with the item are Before Common Era (B.C.) dates."@en ;
+    skos:inScheme <https://doi.org/10.6069/uwlswd.4a8z-tq62> ;
+    skos:notation "b"@en ;
+    skos:prefLabel "no dates given; b.c. date involved"@en .
+
+<https://doi.org/10.6069/uwlswd.4a8z-tq62#c> a skos:Concept ;
+    skos:definition "Used for an item for which an issue has been received within the last three years."@en ;
+    skos:inScheme <https://doi.org/10.6069/uwlswd.4a8z-tq62> ;
+    skos:notation "c"@en ;
+    skos:prefLabel "continuing resource currently published"@en .
+
+<https://doi.org/10.6069/uwlswd.4a8z-tq62#cx> a skos:Concept ;
+    skos:inScheme <https://doi.org/10.6069/uwlswd.4a8z-tq62> ;
+    skos:notation "c"@en ;
+    skos:prefLabel "actual date and copyright date [obsolete]"@en .
+
+<https://doi.org/10.6069/uwlswd.4a8z-tq62#d> a skos:Concept ;
+    skos:definition "New issues of a continuing resource have ceased to be published or that a change in author or title has caused a successive entry record to be created. When a new title supersedes a previously existing one, the earlier title is considered dead and coded d in field 008/06. An item is considered to have ceased publication only when there is clear evidence that it has. Generally, a period of more than three years during which no new issue of a continuing resource has been published is considered evidence that it has ceased publication."@en ;
+    skos:inScheme <https://doi.org/10.6069/uwlswd.4a8z-tq62> ;
+    skos:notation "d"@en ;
+    skos:prefLabel "continuing resource ceased publication"@en .
+
+<https://doi.org/10.6069/uwlswd.4a8z-tq62#dx> a skos:Concept ;
+    skos:inScheme <https://doi.org/10.6069/uwlswd.4a8z-tq62> ;
+    skos:notation "d"@en ;
+    skos:prefLabel "detailed date [obsolete]"@en .
+
+<https://doi.org/10.6069/uwlswd.4a8z-tq62#e> a skos:Concept ;
+    skos:definition "Detailed date which contains the month (and possibly the day) in addition to the year is present. For visual materials, this code may be used with televised material to give the date of the original broadcast."@en ;
+    skos:inScheme <https://doi.org/10.6069/uwlswd.4a8z-tq62> ;
+    skos:notation "e"@en ;
+    skos:prefLabel "detailed date"@en .
+
+<https://doi.org/10.6069/uwlswd.4a8z-tq62#i> a skos:Concept ;
+    skos:definition "Inclusive dates applicable to a collection. If the inclusive dates are represented by a single year, that date is given in both places."@en ;
+    skos:inScheme <https://doi.org/10.6069/uwlswd.4a8z-tq62> ;
+    skos:notation "i"@en ;
+    skos:prefLabel "inclusive dates of collection"@en .
+
+<https://doi.org/10.6069/uwlswd.4a8z-tq62#k> a skos:Concept ;
+    skos:definition "The range of years applicable to most of the material in a collection. If the bulk dates are represented by only a single year, that date is given in both places."@en ;
+    skos:inScheme <https://doi.org/10.6069/uwlswd.4a8z-tq62> ;
+    skos:notation "k"@en ;
+    skos:prefLabel "range of years of bulk of collection"@en .
+
+<https://doi.org/10.6069/uwlswd.4a8z-tq62#m> a skos:Concept ;
+    skos:definition "The range of years of publication of a multipart item, excluding the case when both dates for a multipart item are represented by a single year."@en ;
+    skos:inScheme <https://doi.org/10.6069/uwlswd.4a8z-tq62> ;
+    skos:notation "m"@en ;
+    skos:prefLabel "multiple dates"@en .
+
+<https://doi.org/10.6069/uwlswd.4a8z-tq62#n> a skos:Concept ;
+    skos:inScheme <https://doi.org/10.6069/uwlswd.4a8z-tq62> ;
+    skos:notation "n"@en ;
+    skos:prefLabel "dates unknown"@en .
+
+<https://doi.org/10.6069/uwlswd.4a8z-tq62#p> a skos:Concept ;
+    skos:definition "Both a date of distribution/release/issue (008/07-10) and a date of production/recording (008/11-14) are present because there is a difference between the two dates. For computer files, code p is used when there is a difference between the date the file first became operational for analysis and processing in machine-readable form (i.e., production date) and the date the file became available to the public, usually through an established agency (i.e., distribution date). For moving images, if a work with identical content but in a different medium has a later release date than the original work, code p is used (e.g., a videorecording released in 1978 that was originally produced as a motion picture in 1965)."@en ;
+    skos:inScheme <https://doi.org/10.6069/uwlswd.4a8z-tq62> ;
+    skos:notation "p"@en ;
+    skos:prefLabel "date of distribution/release/issue and production/recording session when different"@en .
+
+<https://doi.org/10.6069/uwlswd.4a8z-tq62#q> a skos:Concept ;
+    skos:definition "Exact date for a single date item is not known but a range of years for the date can be specified (e.g., between 1824 and 1846)."@en ;
+    skos:inScheme <https://doi.org/10.6069/uwlswd.4a8z-tq62> ;
+    skos:notation "q"@en ;
+    skos:prefLabel "questionable date"@en .
+
+<https://doi.org/10.6069/uwlswd.4a8z-tq62#r> a skos:Concept ;
+    skos:definition "The date of reproduction or reissue;the date of the original, if known."@en ;
+    skos:inScheme <https://doi.org/10.6069/uwlswd.4a8z-tq62> ;
+    skos:notation "r"@en ;
+    skos:prefLabel "reprint/reissue date and original date"@en .
+
+<https://doi.org/10.6069/uwlswd.4a8z-tq62#s> a skos:Concept ;
+    skos:definition "One known single date of distribution, publication, release, production, execution, writing, or a probable date that can be represented by four digits. The single date associated with the item may be actual, approximate, or conjectural (e.g., if the single date is uncertain). Also used for a single unpublished item such as an original or historical graphic when there is a single date associated with the execution of the item."@en ;
+    skos:inScheme <https://doi.org/10.6069/uwlswd.4a8z-tq62> ;
+    skos:notation "s"@en ;
+    skos:prefLabel "single known date/probable date"@en .
+
+<https://doi.org/10.6069/uwlswd.4a8z-tq62#t> a skos:Concept ;
+    skos:definition "Date of publication/release/production/execution and a copyright or phonogram copyright date."@en ;
+    skos:inScheme <https://doi.org/10.6069/uwlswd.4a8z-tq62> ;
+    skos:notation "t"@en ;
+    skos:prefLabel "publication date and copyright date"@en .
+
+<https://doi.org/10.6069/uwlswd.4a8z-tq62#u> a skos:Concept ;
+    skos:definition "Used for continuing resources when there is no clear indication that publication of the item has ceased. A beginning date of publication; and the characters uuuu since no ending date is known."@en ;
+    skos:inScheme <https://doi.org/10.6069/uwlswd.4a8z-tq62> ;
+    skos:notation "u"@en ;
+    skos:prefLabel "continuing resource status unknown"@en .
+
+<https://doi.org/10.6069/uwlswd.4a8z-tq62> a skos:ConceptScheme ;
+    dc:contributor "Metadata Management Associates"@en-US ;
+    dc:language "en" ;
+    dcterms:alternative "MARC21 008/06 values for all materials expressed using RDF"@en-US ;
+    dcterms:contributor <http://viaf.org/viaf/151962300> ;
+    dcterms:creator <http://viaf.org/viaf/139541794> ;
+    dcterms:description "Indicates type of date given. Or, for continuing resources, indicates publication status."@en-US ;
+    dcterms:issued "2023" ;
+    dcterms:license <http://creativecommons.org/publicdomain/zero/1.0> ;
+    dcterms:provenance <https://doi.org/10.6069/uwlswd.2e2b-y833#marc00Xvalues> ;
+    dcterms:publisher <http://viaf.org/viaf/139541794> ;
+    dcterms:source <http://marc21rdf.info>,
+        <https://www.loc.gov/marc/bibliographic/bd008.html> ;
+    dcterms:title "All: type of date or publication status"@en-US ;
+    dcterms:type dcmitype:Dataset ;
+    schema:version "1-0-0" .
+

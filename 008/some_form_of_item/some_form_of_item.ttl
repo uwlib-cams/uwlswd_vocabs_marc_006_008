@@ -1,0 +1,125 @@
+@prefix dc: <http://purl.org/dc/elements/1.1/> .
+@prefix dcmitype: <http://purl.org/dc/dcmitype/> .
+@prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix schema: <https://schema.org/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<https://doi.org/10.6069/uwlswd.dh5m-5y16#a> a skos:Concept ;
+    skos:definition "Microfilm."@en ;
+    skos:inScheme <https://doi.org/10.6069/uwlswd.dh5m-5y16> ;
+    skos:notation "a"@en ;
+    skos:prefLabel "microfilm"@en .
+
+<https://doi.org/10.6069/uwlswd.dh5m-5y16#b> a skos:Concept ;
+    skos:definition "Microfiche."@en ;
+    skos:inScheme <https://doi.org/10.6069/uwlswd.dh5m-5y16> ;
+    skos:notation "b"@en ;
+    skos:prefLabel "microfiche"@en .
+
+<https://doi.org/10.6069/uwlswd.dh5m-5y16#c> a skos:Concept ;
+    skos:definition "Microopaque."@en ;
+    skos:inScheme <https://doi.org/10.6069/uwlswd.dh5m-5y16> ;
+    skos:notation "c"@en ;
+    skos:prefLabel "microopaque"@en .
+
+<https://doi.org/10.6069/uwlswd.dh5m-5y16#d> a skos:Concept ;
+    skos:definition "Large print."@en ;
+    skos:inScheme <https://doi.org/10.6069/uwlswd.dh5m-5y16> ;
+    skos:notation "d"@en ;
+    skos:prefLabel "large print"@en .
+
+<https://doi.org/10.6069/uwlswd.dh5m-5y16#f> a skos:Concept ;
+    skos:definition "Braille."@en ;
+    skos:inScheme <https://doi.org/10.6069/uwlswd.dh5m-5y16> ;
+    skos:notation "f"@en ;
+    skos:prefLabel "braille"@en .
+
+<https://doi.org/10.6069/uwlswd.dh5m-5y16#gx> a skos:Concept ;
+    skos:inScheme <https://doi.org/10.6069/uwlswd.dh5m-5y16> ;
+    skos:notation "g"@en ;
+    skos:prefLabel "punched paper tape [obsolete]"@en .
+
+<https://doi.org/10.6069/uwlswd.dh5m-5y16#hx> a skos:Concept ;
+    skos:inScheme <https://doi.org/10.6069/uwlswd.dh5m-5y16> ;
+    skos:notation "h"@en ;
+    skos:prefLabel "magnetic tape [obsolete]"@en .
+
+<https://doi.org/10.6069/uwlswd.dh5m-5y16#ix> a skos:Concept ;
+    skos:inScheme <https://doi.org/10.6069/uwlswd.dh5m-5y16> ;
+    skos:notation "i"@en ;
+    skos:prefLabel "multimedia [obsolete]"@en .
+
+<https://doi.org/10.6069/uwlswd.dh5m-5y16#jx> a skos:Concept ;
+    skos:inScheme <https://doi.org/10.6069/uwlswd.dh5m-5y16> ;
+    skos:notation "j"@en ;
+    skos:prefLabel "handwritten transcript [obsolete]"@en .
+
+<https://doi.org/10.6069/uwlswd.dh5m-5y16#o> a skos:Concept ;
+    skos:definition "Accessed by means of hardware and software connections to a communications network."@en ;
+    skos:inScheme <https://doi.org/10.6069/uwlswd.dh5m-5y16> ;
+    skos:notation "o"@en ;
+    skos:prefLabel "online"@en .
+
+<https://doi.org/10.6069/uwlswd.dh5m-5y16#pound> a skos:Concept ;
+    skos:definition "Form of item other than microfilm, microfiche, microopaque, large print, braille, online, direct electronic, regular print reproduction, or electronic."@en ;
+    skos:inScheme <https://doi.org/10.6069/uwlswd.dh5m-5y16> ;
+    skos:notation "#"@en ;
+    skos:prefLabel "none of the following"@en ;
+    skos:scopeNote "Not specified by one of the other codes."@en .
+
+<https://doi.org/10.6069/uwlswd.dh5m-5y16#px> a skos:Concept ;
+    skos:inScheme <https://doi.org/10.6069/uwlswd.dh5m-5y16> ;
+    skos:notation "p"@en ;
+    skos:prefLabel "photocopy [obsolete]"@en .
+
+<https://doi.org/10.6069/uwlswd.dh5m-5y16#q> a skos:Concept ;
+    skos:definition "Storage on a directly accessible tangible recording medium, e.g. disc, tape, playaway device, flashdrive, portable hard drive, etc."@en ;
+    skos:inScheme <https://doi.org/10.6069/uwlswd.dh5m-5y16> ;
+    skos:notation "q"@en ;
+    skos:prefLabel "direct electronic"@en .
+
+<https://doi.org/10.6069/uwlswd.dh5m-5y16#r> a skos:Concept ;
+    skos:definition "Eye-readable print, such as a photocopy."@en ;
+    skos:inScheme <https://doi.org/10.6069/uwlswd.dh5m-5y16> ;
+    skos:notation "r"@en ;
+    skos:prefLabel "regular print reproduction"@en .
+
+<https://doi.org/10.6069/uwlswd.dh5m-5y16#s> a skos:Concept ;
+    skos:definition "Intended for manipulation by a computer. May reside in a carrier accessed either directly or remotely, in some cases requiring the use of peripheral devices attached to the computer (e.g., a CD-ROM player)."@en ;
+    skos:inScheme <https://doi.org/10.6069/uwlswd.dh5m-5y16> ;
+    skos:notation "s"@en ;
+    skos:prefLabel "electronic"@en ;
+    skos:scopeNote "Not used for items that do not require the use of a computer (e.g., music compact discs, videodiscs)."@en .
+
+<https://doi.org/10.6069/uwlswd.dh5m-5y16#tx> a skos:Concept ;
+    skos:inScheme <https://doi.org/10.6069/uwlswd.dh5m-5y16> ;
+    skos:notation "t"@en ;
+    skos:prefLabel "typewritten transcript [obsolete]"@en .
+
+<https://doi.org/10.6069/uwlswd.dh5m-5y16#xx> a skos:Concept ;
+    skos:inScheme <https://doi.org/10.6069/uwlswd.dh5m-5y16> ;
+    skos:notation "x"@en ;
+    skos:prefLabel "other form of reproduction [obsolete] [USMARC only]"@en .
+
+<https://doi.org/10.6069/uwlswd.dh5m-5y16#zx> a skos:Concept ;
+    skos:inScheme <https://doi.org/10.6069/uwlswd.dh5m-5y16> ;
+    skos:notation "z"@en ;
+    skos:prefLabel "other form of reproduction [obsolete]"@en .
+
+<https://doi.org/10.6069/uwlswd.dh5m-5y16> a skos:ConceptScheme ;
+    dc:contributor "Metadata Management Associates" ;
+    dc:language "en" ;
+    dcterms:alternative "MARC21 008/23 values for some materials expressed using RDF" ;
+    dcterms:contributor <http://viaf.org/viaf/151962300> ;
+    dcterms:creator <http://viaf.org/viaf/139541794> ;
+    dcterms:description "Specifies the form of material." ;
+    dcterms:issued "2023" ;
+    dcterms:license <http://creativecommons.org/publicdomain/zero/1.0> ;
+    dcterms:provenance <https://doi.org/10.6069/uwlswd.2e2b-y833> ;
+    dcterms:publisher <http://viaf.org/viaf/139541794> ;
+    dcterms:source <http://marc21rdf.info>,
+        <https://www.loc.gov/marc/bibliographic/bd008.html> ;
+    dcterms:title "Some: form of item" ;
+    dcterms:type dcmitype:Dataset ;
+    schema:version "1-0-0" .
+

@@ -1,0 +1,65 @@
+@prefix dc: <http://purl.org/dc/elements/1.1/> .
+@prefix dcmitype: <http://purl.org/dc/dcmitype/> .
+@prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix schema: <https://schema.org/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<https://doi.org/10.6069/uwlswd.eje7-jq11#a> a skos:Concept ;
+    skos:definition "Animated films are produced using a variety of techniques including 1) cartoons; 2) graphic film (with paint or other media directly applied to the surface of the film); 3) model, clay, or puppet animation (where three-dimensional objects are photographed one frame at a time to achieve the effect of animation); and 4) other techniques."@en ;
+    skos:inScheme <https://doi.org/10.6069/uwlswd.eje7-jq11> ;
+    skos:notation "a"@en ;
+    skos:prefLabel "animation"@en .
+
+<https://doi.org/10.6069/uwlswd.eje7-jq11#c> a skos:Concept ;
+    skos:definition "Combination of animation and live action."@en ;
+    skos:inScheme <https://doi.org/10.6069/uwlswd.eje7-jq11> ;
+    skos:notation "c"@en ;
+    skos:prefLabel "animation and live action"@en .
+
+<https://doi.org/10.6069/uwlswd.eje7-jq11#l> a skos:Concept ;
+    skos:definition "Live action"@en ;
+    skos:inScheme <https://doi.org/10.6069/uwlswd.eje7-jq11> ;
+    skos:notation "l"@en ;
+    skos:prefLabel "live action"@en .
+
+<https://doi.org/10.6069/uwlswd.eje7-jq11#n> a skos:Concept ;
+    skos:definition "Item is not a motion picture or a videorecording."@en ;
+    skos:inScheme <https://doi.org/10.6069/uwlswd.eje7-jq11> ;
+    skos:notation "n"@en ;
+    skos:prefLabel "not applicable"@en .
+
+<https://doi.org/10.6069/uwlswd.eje7-jq11#poundx> a skos:Concept ;
+    skos:inScheme <https://doi.org/10.6069/uwlswd.eje7-jq11> ;
+    skos:notation "#"@en ;
+    skos:prefLabel "not applicable [obsolete]"@en .
+
+<https://doi.org/10.6069/uwlswd.eje7-jq11#u> a skos:Concept ;
+    skos:definition "Technique for creating motion is unknown."@en ;
+    skos:inScheme <https://doi.org/10.6069/uwlswd.eje7-jq11> ;
+    skos:notation "u"@en ;
+    skos:prefLabel "unknown"@en .
+
+<https://doi.org/10.6069/uwlswd.eje7-jq11#z> a skos:Concept ;
+    skos:definition "Primarily of special techniques which are neither animation nor live action."@en ;
+    skos:inScheme <https://doi.org/10.6069/uwlswd.eje7-jq11> ;
+    skos:notation "z"@en ;
+    skos:prefLabel "other technique"@en ;
+    skos:scopeNote "This can include microcinematography, time lapse cinematography, trick cinematography, and other techniques. Also used for videorecordings and motion pictures which were made from still image slide sets or filmstrips without adding animation to the images. "@en .
+
+<https://doi.org/10.6069/uwlswd.eje7-jq11> a skos:ConceptScheme ;
+    dc:contributor "Metadata Management Associates" ;
+    dc:language "en" ;
+    dcterms:alternative "MARC21 008/34 values for visual materials expressed using RDF" ;
+    dcterms:contributor <http://viaf.org/viaf/151962300> ;
+    dcterms:creator <http://viaf.org/viaf/139541794> ;
+    dcterms:description "Indicates the technique used in creating motion in motion pictures or videorecordings." ;
+    dcterms:issued "2023" ;
+    dcterms:license <http://creativecommons.org/publicdomain/zero/1.0> ;
+    dcterms:provenance <https://doi.org/10.6069/uwlswd.2e2b-y833> ;
+    dcterms:publisher <http://viaf.org/viaf/139541794> ;
+    dcterms:source <http://marc21rdf.info>,
+        <https://www.loc.gov/marc/bibliographic/bd008.html> ;
+    dcterms:title "Visual: technique" ;
+    dcterms:type dcmitype:Dataset ;
+    schema:version "1-0-0" .
+

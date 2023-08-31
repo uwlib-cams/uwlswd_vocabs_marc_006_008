@@ -1,0 +1,42 @@
+<https://doi.org/10.6069/uwlswd.x4ce-sd21> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#ConceptScheme> .
+<https://doi.org/10.6069/uwlswd.x4ce-sd21#b> <http://www.w3.org/2004/02/skos/core#definition> "Biography of one individual."@en .
+<https://doi.org/10.6069/uwlswd.x4ce-sd21#d> <http://www.w3.org/2004/02/skos/core#notation> "d"@en .
+<https://doi.org/10.6069/uwlswd.x4ce-sd21#pound> <http://www.w3.org/2004/02/skos/core#inScheme> <https://doi.org/10.6069/uwlswd.x4ce-sd21> .
+<https://doi.org/10.6069/uwlswd.x4ce-sd21#pound> <http://www.w3.org/2004/02/skos/core#notation> "#"@en .
+<https://doi.org/10.6069/uwlswd.x4ce-sd21> <http://purl.org/dc/terms/source> <https://www.loc.gov/marc/bibliographic/bd008.html> .
+<https://doi.org/10.6069/uwlswd.x4ce-sd21> <http://purl.org/dc/terms/source> <http://marc21rdf.info> .
+<https://doi.org/10.6069/uwlswd.x4ce-sd21#d> <http://www.w3.org/2004/02/skos/core#inScheme> <https://doi.org/10.6069/uwlswd.x4ce-sd21> .
+<https://doi.org/10.6069/uwlswd.x4ce-sd21> <http://purl.org/dc/terms/title> "Books: biography" .
+<https://doi.org/10.6069/uwlswd.x4ce-sd21> <https://schema.org/version> "1-0-0" .
+<https://doi.org/10.6069/uwlswd.x4ce-sd21> <http://purl.org/dc/terms/type> <http://purl.org/dc/dcmitype/Dataset> .
+<https://doi.org/10.6069/uwlswd.x4ce-sd21#c> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<https://doi.org/10.6069/uwlswd.x4ce-sd21#c> <http://www.w3.org/2004/02/skos/core#inScheme> <https://doi.org/10.6069/uwlswd.x4ce-sd21> .
+<https://doi.org/10.6069/uwlswd.x4ce-sd21#c> <http://www.w3.org/2004/02/skos/core#definition> "Biographical material about more than one individual."@en .
+<https://doi.org/10.6069/uwlswd.x4ce-sd21#b> <http://www.w3.org/2004/02/skos/core#prefLabel> "individual biography"@en .
+<https://doi.org/10.6069/uwlswd.x4ce-sd21#a> <http://www.w3.org/2004/02/skos/core#prefLabel> "autobiography"@en .
+<https://doi.org/10.6069/uwlswd.x4ce-sd21#c> <http://www.w3.org/2004/02/skos/core#prefLabel> "collective biography"@en .
+<https://doi.org/10.6069/uwlswd.x4ce-sd21#a> <http://www.w3.org/2004/02/skos/core#definition> "Autobiography."@en .
+<https://doi.org/10.6069/uwlswd.x4ce-sd21> <http://purl.org/dc/elements/1.1/language> "en" .
+<https://doi.org/10.6069/uwlswd.x4ce-sd21> <http://purl.org/dc/terms/alternative> "MARC21 008/34 values for books expressed using RDF" .
+<https://doi.org/10.6069/uwlswd.x4ce-sd21> <http://purl.org/dc/elements/1.1/contributor> "Metadata Management Associates" .
+<https://doi.org/10.6069/uwlswd.x4ce-sd21#b> <http://www.w3.org/2004/02/skos/core#inScheme> <https://doi.org/10.6069/uwlswd.x4ce-sd21> .
+<https://doi.org/10.6069/uwlswd.x4ce-sd21> <http://purl.org/dc/terms/license> <http://creativecommons.org/publicdomain/zero/1.0> .
+<https://doi.org/10.6069/uwlswd.x4ce-sd21> <http://purl.org/dc/terms/description> "Indicates whether or not an item contains biographical material, and if so, what the biographical characteristics are." .
+<https://doi.org/10.6069/uwlswd.x4ce-sd21#pound> <http://www.w3.org/2004/02/skos/core#prefLabel> "no biographical material"@en .
+<https://doi.org/10.6069/uwlswd.x4ce-sd21> <http://purl.org/dc/terms/creator> <http://viaf.org/viaf/139541794> .
+<https://doi.org/10.6069/uwlswd.x4ce-sd21> <http://purl.org/dc/terms/provenance> <https://doi.org/10.6069/uwlswd.2e2b-y833> .
+<https://doi.org/10.6069/uwlswd.x4ce-sd21#b> <http://www.w3.org/2004/02/skos/core#notation> "b"@en .
+<https://doi.org/10.6069/uwlswd.x4ce-sd21#d> <http://www.w3.org/2004/02/skos/core#definition> "Contains biographical information."@en .
+<https://doi.org/10.6069/uwlswd.x4ce-sd21> <http://purl.org/dc/terms/publisher> <http://viaf.org/viaf/139541794> .
+<https://doi.org/10.6069/uwlswd.x4ce-sd21> <http://purl.org/dc/terms/issued> "2023" .
+<https://doi.org/10.6069/uwlswd.x4ce-sd21#a> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<https://doi.org/10.6069/uwlswd.x4ce-sd21#pound> <http://www.w3.org/2004/02/skos/core#definition> "No biographical or autobiographical material."@en .
+<https://doi.org/10.6069/uwlswd.x4ce-sd21#a> <http://www.w3.org/2004/02/skos/core#inScheme> <https://doi.org/10.6069/uwlswd.x4ce-sd21> .
+<https://doi.org/10.6069/uwlswd.x4ce-sd21#c> <http://www.w3.org/2004/02/skos/core#notation> "c"@en .
+<https://doi.org/10.6069/uwlswd.x4ce-sd21#a> <http://www.w3.org/2004/02/skos/core#notation> "a"@en .
+<https://doi.org/10.6069/uwlswd.x4ce-sd21> <http://purl.org/dc/terms/contributor> <http://viaf.org/viaf/151962300> .
+<https://doi.org/10.6069/uwlswd.x4ce-sd21#d> <http://www.w3.org/2004/02/skos/core#prefLabel> "contains biographical information"@en .
+<https://doi.org/10.6069/uwlswd.x4ce-sd21#pound> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<https://doi.org/10.6069/uwlswd.x4ce-sd21#b> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<https://doi.org/10.6069/uwlswd.x4ce-sd21#d> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+

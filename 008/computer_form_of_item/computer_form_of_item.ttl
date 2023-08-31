@@ -1,0 +1,40 @@
+@prefix dc: <http://purl.org/dc/elements/1.1/> .
+@prefix dcmitype: <http://purl.org/dc/dcmitype/> .
+@prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix schema: <https://schema.org/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<https://doi.org/10.6069/uwlswd.3d5s-zx23#o> a skos:Concept ;
+    skos:definition "Accessed by means of hardware and software connections to a communications network."@en ;
+    skos:inScheme <https://doi.org/10.6069/uwlswd.3d5s-zx23> ;
+    skos:notation "o"@en ;
+    skos:prefLabel "online"@en .
+
+<https://doi.org/10.6069/uwlswd.3d5s-zx23#pound> a skos:Concept ;
+    skos:inScheme <https://doi.org/10.6069/uwlswd.3d5s-zx23> ;
+    skos:notation "#"@en ;
+    skos:prefLabel "unknown or not specified"@en .
+
+<https://doi.org/10.6069/uwlswd.3d5s-zx23#q> a skos:Concept ;
+    skos:definition "Storage on a directly accessible tangible recording medium, e.g. disc, tape, playaway device, flashdrive, portable hard drive, etc."@en ;
+    skos:inScheme <https://doi.org/10.6069/uwlswd.3d5s-zx23> ;
+    skos:notation "q"@en ;
+    skos:prefLabel "direct electronic"@en .
+
+<https://doi.org/10.6069/uwlswd.3d5s-zx23> a skos:ConceptScheme ;
+    dc:contributor "Metadata Management Associates" ;
+    dc:language "en" ;
+    dcterms:alternative "MARC21 008/23 values for computer files expressed using RDF" ;
+    dcterms:contributor <http://viaf.org/viaf/151962300> ;
+    dcterms:creator <http://viaf.org/viaf/139541794> ;
+    dcterms:description "Specifies the form of material for the computer file." ;
+    dcterms:issued "2023" ;
+    dcterms:license <http://creativecommons.org/publicdomain/zero/1.0> ;
+    dcterms:provenance <https://doi.org/10.6069/uwlswd.2e2b-y833> ;
+    dcterms:publisher <http://viaf.org/viaf/139541794> ;
+    dcterms:source <http://marc21rdf.info>,
+        <https://www.loc.gov/marc/bibliographic/bd008.html> ;
+    dcterms:title "Computer: form of item" ;
+    dcterms:type dcmitype:Dataset ;
+    schema:version "1-0-0" .
+

@@ -1,0 +1,96 @@
+<https://doi.org/10.6069/uwlswd.nt0v-d633#s> <http://www.w3.org/2004/02/skos/core#definition> "A score or other music format than that of the main item."@en .
+<https://doi.org/10.6069/uwlswd.nt0v-d633#pound> <http://www.w3.org/2004/02/skos/core#inScheme> <https://doi.org/10.6069/uwlswd.nt0v-d633> .
+<https://doi.org/10.6069/uwlswd.nt0v-d633#h> <http://www.w3.org/2004/02/skos/core#scopeNote> "Including instructions for performance."@en .
+<https://doi.org/10.6069/uwlswd.nt0v-d633> <http://purl.org/dc/terms/alternative> "MARC21 008/24-29 values for music expressed using RDF" .
+<https://doi.org/10.6069/uwlswd.nt0v-d633#pound> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<https://doi.org/10.6069/uwlswd.nt0v-d633#c> <http://www.w3.org/2004/02/skos/core#prefLabel> "thematic index"@en .
+<https://doi.org/10.6069/uwlswd.nt0v-d633#d> <http://www.w3.org/2004/02/skos/core#notation> "d"@en .
+<https://doi.org/10.6069/uwlswd.nt0v-d633> <http://purl.org/dc/terms/creator> <http://viaf.org/viaf/139541794> .
+<https://doi.org/10.6069/uwlswd.nt0v-d633> <http://purl.org/dc/terms/contributor> <http://viaf.org/viaf/151962300> .
+<https://doi.org/10.6069/uwlswd.nt0v-d633#r> <http://www.w3.org/2004/02/skos/core#prefLabel> "instructional materials"@en .
+<https://doi.org/10.6069/uwlswd.nt0v-d633#h> <http://www.w3.org/2004/02/skos/core#inScheme> <https://doi.org/10.6069/uwlswd.nt0v-d633> .
+<https://doi.org/10.6069/uwlswd.nt0v-d633#b> <http://www.w3.org/2004/02/skos/core#inScheme> <https://doi.org/10.6069/uwlswd.nt0v-d633> .
+<https://doi.org/10.6069/uwlswd.nt0v-d633#f> <http://www.w3.org/2004/02/skos/core#prefLabel> "biography of performer or history of ensemble"@en .
+<https://doi.org/10.6069/uwlswd.nt0v-d633#jx> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<https://doi.org/10.6069/uwlswd.nt0v-d633#r> <http://www.w3.org/2004/02/skos/core#notation> "r"@en .
+<https://doi.org/10.6069/uwlswd.nt0v-d633#d> <http://www.w3.org/2004/02/skos/core#inScheme> <https://doi.org/10.6069/uwlswd.nt0v-d633> .
+<https://doi.org/10.6069/uwlswd.nt0v-d633#s> <http://www.w3.org/2004/02/skos/core#prefLabel> "music"@en .
+<https://doi.org/10.6069/uwlswd.nt0v-d633#i> <http://www.w3.org/2004/02/skos/core#notation> "i"@en .
+<https://doi.org/10.6069/uwlswd.nt0v-d633#e> <http://www.w3.org/2004/02/skos/core#prefLabel> "biography of composer or author"@en .
+<https://doi.org/10.6069/uwlswd.nt0v-d633#e> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<https://doi.org/10.6069/uwlswd.nt0v-d633#b> <http://www.w3.org/2004/02/skos/core#prefLabel> "bibliography"@en .
+<https://doi.org/10.6069/uwlswd.nt0v-d633> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#ConceptScheme> .
+<https://doi.org/10.6069/uwlswd.nt0v-d633> <http://purl.org/dc/terms/description> "Indicates the contents of program notes and other accompanying material for sound recording, music manuscripts, or notated music." .
+<https://doi.org/10.6069/uwlswd.nt0v-d633#f> <http://www.w3.org/2004/02/skos/core#definition> "Significant biographical information on a performer or a history of an ensemble."@en .
+<https://doi.org/10.6069/uwlswd.nt0v-d633#s> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<https://doi.org/10.6069/uwlswd.nt0v-d633> <http://purl.org/dc/terms/title> "Music: accompanying matter" .
+<https://doi.org/10.6069/uwlswd.nt0v-d633#i> <http://www.w3.org/2004/02/skos/core#prefLabel> "historical information"@en .
+<https://doi.org/10.6069/uwlswd.nt0v-d633#r> <http://www.w3.org/2004/02/skos/core#definition> "Instructional materials."@en .
+<https://doi.org/10.6069/uwlswd.nt0v-d633> <http://purl.org/dc/terms/issued> "2023" .
+<https://doi.org/10.6069/uwlswd.nt0v-d633#c> <http://www.w3.org/2004/02/skos/core#inScheme> <https://doi.org/10.6069/uwlswd.nt0v-d633> .
+<https://doi.org/10.6069/uwlswd.nt0v-d633#f> <http://www.w3.org/2004/02/skos/core#inScheme> <https://doi.org/10.6069/uwlswd.nt0v-d633> .
+<https://doi.org/10.6069/uwlswd.nt0v-d633> <http://purl.org/dc/terms/publisher> <http://viaf.org/viaf/139541794> .
+<https://doi.org/10.6069/uwlswd.nt0v-d633#c> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<https://doi.org/10.6069/uwlswd.nt0v-d633#f> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<https://doi.org/10.6069/uwlswd.nt0v-d633> <http://purl.org/dc/elements/1.1/language> "en" .
+<https://doi.org/10.6069/uwlswd.nt0v-d633#g> <http://www.w3.org/2004/02/skos/core#prefLabel> "technical and/or historical information on instruments"@en .
+<https://doi.org/10.6069/uwlswd.nt0v-d633> <http://purl.org/dc/elements/1.1/contributor> "Metadata Management Associates" .
+<https://doi.org/10.6069/uwlswd.nt0v-d633#d> <http://www.w3.org/2004/02/skos/core#definition> "Printed transcription of the libretto or other text (e.g., a transcript of verbal contents of a sound recording)."@en .
+<https://doi.org/10.6069/uwlswd.nt0v-d633#nx> <http://www.w3.org/2004/02/skos/core#inScheme> <https://doi.org/10.6069/uwlswd.nt0v-d633> .
+<https://doi.org/10.6069/uwlswd.nt0v-d633#k> <http://www.w3.org/2004/02/skos/core#prefLabel> "ethnological information"@en .
+<https://doi.org/10.6069/uwlswd.nt0v-d633#nx> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<https://doi.org/10.6069/uwlswd.nt0v-d633#a> <http://www.w3.org/2004/02/skos/core#prefLabel> "discography"@en .
+<https://doi.org/10.6069/uwlswd.nt0v-d633#a> <http://www.w3.org/2004/02/skos/core#inScheme> <https://doi.org/10.6069/uwlswd.nt0v-d633> .
+<https://doi.org/10.6069/uwlswd.nt0v-d633#jx> <http://www.w3.org/2004/02/skos/core#inScheme> <https://doi.org/10.6069/uwlswd.nt0v-d633> .
+<https://doi.org/10.6069/uwlswd.nt0v-d633#a> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<https://doi.org/10.6069/uwlswd.nt0v-d633> <https://schema.org/version> "1-0-0" .
+<https://doi.org/10.6069/uwlswd.nt0v-d633#pound> <http://www.w3.org/2004/02/skos/core#prefLabel> "no accompanying matter"@en .
+<https://doi.org/10.6069/uwlswd.nt0v-d633#a> <http://www.w3.org/2004/02/skos/core#definition> "Discography or other bibliography of recorded sound."@en .
+<https://doi.org/10.6069/uwlswd.nt0v-d633#pound> <http://www.w3.org/2004/02/skos/core#definition> "No accompanying matter or no indication of accompanying matter appears on the item."@en .
+<https://doi.org/10.6069/uwlswd.nt0v-d633#b> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<https://doi.org/10.6069/uwlswd.nt0v-d633#z> <http://www.w3.org/2004/02/skos/core#definition> "Accompanying matter other than discography, bibliography, thematic index, libretto or text, biography of composer or author, biography of performer or history of ensemble, technical and/or historical information on instruments, technical information on music, historical information, ethnological information, instructional materials, or music."@en .
+<https://doi.org/10.6069/uwlswd.nt0v-d633#d> <http://www.w3.org/2004/02/skos/core#prefLabel> "libretto or text"@en .
+<https://doi.org/10.6069/uwlswd.nt0v-d633> <http://purl.org/dc/terms/source> <http://marc21rdf.info> .
+<https://doi.org/10.6069/uwlswd.nt0v-d633> <http://purl.org/dc/terms/license> <http://creativecommons.org/publicdomain/zero/1.0> .
+<https://doi.org/10.6069/uwlswd.nt0v-d633#jx> <http://www.w3.org/2004/02/skos/core#prefLabel> "historical information other than music [obsolete]"@en .
+<https://doi.org/10.6069/uwlswd.nt0v-d633#e> <http://www.w3.org/2004/02/skos/core#inScheme> <https://doi.org/10.6069/uwlswd.nt0v-d633> .
+<https://doi.org/10.6069/uwlswd.nt0v-d633#z> <http://www.w3.org/2004/02/skos/core#inScheme> <https://doi.org/10.6069/uwlswd.nt0v-d633> .
+<https://doi.org/10.6069/uwlswd.nt0v-d633#a> <http://www.w3.org/2004/02/skos/core#notation> "a"@en .
+<https://doi.org/10.6069/uwlswd.nt0v-d633#k> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<https://doi.org/10.6069/uwlswd.nt0v-d633#z> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<https://doi.org/10.6069/uwlswd.nt0v-d633#g> <http://www.w3.org/2004/02/skos/core#notation> "g"@en .
+<https://doi.org/10.6069/uwlswd.nt0v-d633#r> <http://www.w3.org/2004/02/skos/core#inScheme> <https://doi.org/10.6069/uwlswd.nt0v-d633> .
+<https://doi.org/10.6069/uwlswd.nt0v-d633#s> <http://www.w3.org/2004/02/skos/core#inScheme> <https://doi.org/10.6069/uwlswd.nt0v-d633> .
+<https://doi.org/10.6069/uwlswd.nt0v-d633#h> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<https://doi.org/10.6069/uwlswd.nt0v-d633#k> <http://www.w3.org/2004/02/skos/core#inScheme> <https://doi.org/10.6069/uwlswd.nt0v-d633> .
+<https://doi.org/10.6069/uwlswd.nt0v-d633#z> <http://www.w3.org/2004/02/skos/core#notation> "z"@en .
+<https://doi.org/10.6069/uwlswd.nt0v-d633#h> <http://www.w3.org/2004/02/skos/core#prefLabel> "technical information on music"@en .
+<https://doi.org/10.6069/uwlswd.nt0v-d633#f> <http://www.w3.org/2004/02/skos/core#notation> "f"@en .
+<https://doi.org/10.6069/uwlswd.nt0v-d633#r> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<https://doi.org/10.6069/uwlswd.nt0v-d633#c> <http://www.w3.org/2004/02/skos/core#definition> "Thematic index."@en .
+<https://doi.org/10.6069/uwlswd.nt0v-d633#i> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<https://doi.org/10.6069/uwlswd.nt0v-d633#b> <http://www.w3.org/2004/02/skos/core#notation> "b"@en .
+<https://doi.org/10.6069/uwlswd.nt0v-d633#d> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<https://doi.org/10.6069/uwlswd.nt0v-d633#jx> <http://www.w3.org/2004/02/skos/core#notation> "j"@en .
+<https://doi.org/10.6069/uwlswd.nt0v-d633#h> <http://www.w3.org/2004/02/skos/core#definition> "Significant technical information."@en .
+<https://doi.org/10.6069/uwlswd.nt0v-d633#h> <http://www.w3.org/2004/02/skos/core#notation> "h"@en .
+<https://doi.org/10.6069/uwlswd.nt0v-d633#e> <http://www.w3.org/2004/02/skos/core#notation> "e"@en .
+<https://doi.org/10.6069/uwlswd.nt0v-d633#e> <http://www.w3.org/2004/02/skos/core#definition> "Significant biographical information on a composer or author."@en .
+<https://doi.org/10.6069/uwlswd.nt0v-d633> <http://purl.org/dc/terms/source> <https://www.loc.gov/marc/bibliographic/bd008.html> .
+<https://doi.org/10.6069/uwlswd.nt0v-d633#b> <http://www.w3.org/2004/02/skos/core#definition> "Bibliography."@en .
+<https://doi.org/10.6069/uwlswd.nt0v-d633#nx> <http://www.w3.org/2004/02/skos/core#prefLabel> "not applicable [obsolete]"@en .
+<https://doi.org/10.6069/uwlswd.nt0v-d633> <http://purl.org/dc/terms/type> <http://purl.org/dc/dcmitype/Dataset> .
+<https://doi.org/10.6069/uwlswd.nt0v-d633#z> <http://www.w3.org/2004/02/skos/core#prefLabel> "other"@en .
+<https://doi.org/10.6069/uwlswd.nt0v-d633#i> <http://www.w3.org/2004/02/skos/core#definition> "Significant historical information."@en .
+<https://doi.org/10.6069/uwlswd.nt0v-d633#g> <http://www.w3.org/2004/02/skos/core#definition> "Significant technical information, including instructions for performance."@en .
+<https://doi.org/10.6069/uwlswd.nt0v-d633#k> <http://www.w3.org/2004/02/skos/core#definition> "Significant ethnological information that relates to the musical part of the item."@en .
+<https://doi.org/10.6069/uwlswd.nt0v-d633> <http://purl.org/dc/terms/provenance> <https://doi.org/10.6069/uwlswd.2e2b-y833> .
+<https://doi.org/10.6069/uwlswd.nt0v-d633#pound> <http://www.w3.org/2004/02/skos/core#notation> "#"@en .
+<https://doi.org/10.6069/uwlswd.nt0v-d633#g> <http://www.w3.org/2004/02/skos/core#inScheme> <https://doi.org/10.6069/uwlswd.nt0v-d633> .
+<https://doi.org/10.6069/uwlswd.nt0v-d633#nx> <http://www.w3.org/2004/02/skos/core#notation> "n"@en .
+<https://doi.org/10.6069/uwlswd.nt0v-d633#i> <http://www.w3.org/2004/02/skos/core#inScheme> <https://doi.org/10.6069/uwlswd.nt0v-d633> .
+<https://doi.org/10.6069/uwlswd.nt0v-d633#k> <http://www.w3.org/2004/02/skos/core#notation> "k"@en .
+<https://doi.org/10.6069/uwlswd.nt0v-d633#c> <http://www.w3.org/2004/02/skos/core#notation> "c"@en .
+<https://doi.org/10.6069/uwlswd.nt0v-d633#g> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<https://doi.org/10.6069/uwlswd.nt0v-d633#s> <http://www.w3.org/2004/02/skos/core#notation> "s"@en .
+

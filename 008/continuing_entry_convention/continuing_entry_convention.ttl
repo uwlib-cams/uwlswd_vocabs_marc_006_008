@@ -1,0 +1,38 @@
+@prefix dc: <http://purl.org/dc/elements/1.1/> .
+@prefix dcmitype: <http://purl.org/dc/dcmitype/> .
+@prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix schema: <https://schema.org/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<https://doi.org/10.6069/uwlswd.ypcx-6882#0> a skos:Concept ;
+    skos:inScheme <https://doi.org/10.6069/uwlswd.ypcx-6882> ;
+    skos:notation "0"@en ;
+    skos:prefLabel "successive entry"@en .
+
+<https://doi.org/10.6069/uwlswd.ypcx-6882#1> a skos:Concept ;
+    skos:inScheme <https://doi.org/10.6069/uwlswd.ypcx-6882> ;
+    skos:notation "1"@en ;
+    skos:prefLabel "latest entry"@en .
+
+<https://doi.org/10.6069/uwlswd.ypcx-6882#2> a skos:Concept ;
+    skos:inScheme <https://doi.org/10.6069/uwlswd.ypcx-6882> ;
+    skos:notation "2"@en ;
+    skos:prefLabel "integrated entry"@en .
+
+<https://doi.org/10.6069/uwlswd.ypcx-6882> a skos:ConceptScheme ;
+    dc:contributor "Metadata Management Associates" ;
+    dc:language "en" ;
+    dcterms:alternative "MARC21 008/34 values for continuing resources expressed using RDF" ;
+    dcterms:contributor <http://viaf.org/viaf/151962300> ;
+    dcterms:creator <http://viaf.org/viaf/139541794> ;
+    dcterms:description "Indicates whether the item was cataloged according to successive entry, latest entry, or integrated entry cataloging conventions." ;
+    dcterms:issued "2023" ;
+    dcterms:license <http://creativecommons.org/publicdomain/zero/1.0> ;
+    dcterms:provenance <https://doi.org/10.6069/uwlswd.2e2b-y833> ;
+    dcterms:publisher <http://viaf.org/viaf/139541794> ;
+    dcterms:source <http://marc21rdf.info>,
+        <https://www.loc.gov/marc/bibliographic/bd008.html> ;
+    dcterms:title "Continuing: entry convention" ;
+    dcterms:type dcmitype:Dataset ;
+    schema:version "1-0-0" .
+

@@ -1,0 +1,123 @@
+@prefix dc: <http://purl.org/dc/elements/1.1/> .
+@prefix dcmitype: <http://purl.org/dc/dcmitype/> .
+@prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix schema: <https://schema.org/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<https://doi.org/10.6069/uwlswd.06xx-6744#a> a skos:Concept ;
+    skos:definition "Staff notation representing the sounds of all the parts of an ensemble (instrumental and/or vocal), arranged so that they can be read simultaneously."@en ;
+    skos:inScheme <https://doi.org/10.6069/uwlswd.06xx-6744> ;
+    skos:notation "a"@en ;
+    skos:prefLabel "full score"@en .
+
+<https://doi.org/10.6069/uwlswd.06xx-6744#b> a skos:Concept ;
+    skos:definition "Score issued in a musical image of small size, usually redueced from a larger original, and not primarily intended for use in performance."@en ;
+    skos:inScheme <https://doi.org/10.6069/uwlswd.06xx-6744> ;
+    skos:notation "b"@en ;
+    skos:prefLabel "miniature or study score"@en .
+
+<https://doi.org/10.6069/uwlswd.06xx-6744#c> a skos:Concept ;
+    skos:definition "Score with instrumental accompaniment reduced for keyboard(s)."@en ;
+    skos:inScheme <https://doi.org/10.6069/uwlswd.06xx-6744> ;
+    skos:notation "c"@en ;
+    skos:prefLabel "accompaniment reduced for keyboard"@en ;
+    skos:scopeNote "Not used for chorus scores and vocal scores."@en .
+
+<https://doi.org/10.6069/uwlswd.06xx-6744#d> a skos:Concept ;
+    skos:definition "Score for solo and/or choral voice(s) with the accompaniment omitted."@en ;
+    skos:inScheme <https://doi.org/10.6069/uwlswd.06xx-6744> ;
+    skos:notation "d"@en ;
+    skos:prefLabel "voice score with accompaniment omitted"@en ;
+    skos:scopeNote "Not used for vocal works originally unaccompanied."@en .
+
+<https://doi.org/10.6069/uwlswd.06xx-6744#e> a skos:Concept ;
+    skos:definition "Orchestral or band music that has been reduced. It may be part of an ensemble work for a particular instrument, with cues for other instruments. Such a score is used by an individual playing the instrument for which the score was written or for the conductor."@en ;
+    skos:inScheme <https://doi.org/10.6069/uwlswd.06xx-6744> ;
+    skos:notation "e"@en ;
+    skos:prefLabel "condensed score or piano-conductor score"@en .
+
+<https://doi.org/10.6069/uwlswd.06xx-6744#g> a skos:Concept ;
+    skos:definition "Score (e.g., a hymnal) that has separate parts transcribed in condensed form."@en ;
+    skos:inScheme <https://doi.org/10.6069/uwlswd.06xx-6744> ;
+    skos:notation "g"@en ;
+    skos:prefLabel "close score"@en .
+
+<https://doi.org/10.6069/uwlswd.06xx-6744#h> a skos:Concept ;
+    skos:definition "Score of a work for solo voices and chorus showing only the parts for chorus, with the instrumental accompaniment either arranged for keyboard(s) or other chordal instrument(s) or omitted."@en ;
+    skos:inScheme <https://doi.org/10.6069/uwlswd.06xx-6744> ;
+    skos:notation "h"@en ;
+    skos:prefLabel "chorus score"@en .
+
+<https://doi.org/10.6069/uwlswd.06xx-6744#i> a skos:Concept ;
+    skos:definition "A score in which the number of staves is reduced to two or a few, generally organized by instrumental sections or vocal parts, and often with cues for individual parts."@en ;
+    skos:inScheme <https://doi.org/10.6069/uwlswd.06xx-6744> ;
+    skos:notation "i"@en ;
+    skos:prefLabel "condensed score"@en ;
+    skos:scopeNote "Used for: Reduced score, Short score."@en .
+
+<https://doi.org/10.6069/uwlswd.06xx-6744#j> a skos:Concept ;
+    skos:definition "A performance part for a single instrument in an ensemble, with cues for the other instruments that enable the performer of that part also to conduct."@en ;
+    skos:inScheme <https://doi.org/10.6069/uwlswd.06xx-6744> ;
+    skos:notation "j"@en ;
+    skos:prefLabel "performer-conductor part"@en .
+
+<https://doi.org/10.6069/uwlswd.06xx-6744#k> a skos:Concept ;
+    skos:definition "Score showing all vocal parts, solo and/or choral, with the instrumental accompaniment either arranged for keyboard(s) or other chordal instrument(s) or omitted."@en ;
+    skos:inScheme <https://doi.org/10.6069/uwlswd.06xx-6744> ;
+    skos:notation "k"@en ;
+    skos:prefLabel "vocal score"@en .
+
+<https://doi.org/10.6069/uwlswd.06xx-6744#l> a skos:Concept ;
+    skos:definition "Graphical, symbolic (e.g., staff), or word-based musical notation representing the sounds of all the parts of an ensemble, or a work for solo performer or electronic media. Do not confuse with Part."@en ;
+    skos:inScheme <https://doi.org/10.6069/uwlswd.06xx-6744> ;
+    skos:notation "l"@en ;
+    skos:prefLabel "score"@en .
+
+<https://doi.org/10.6069/uwlswd.06xx-6744#m> a skos:Concept ;
+    skos:definition "Several types of scores are issued together, as is frequently the case with band music."@en ;
+    skos:inScheme <https://doi.org/10.6069/uwlswd.06xx-6744> ;
+    skos:notation "m"@en ;
+    skos:prefLabel "multiple score formats"@en .
+
+<https://doi.org/10.6069/uwlswd.06xx-6744#n> a skos:Concept ;
+    skos:definition "Item is a sound recording."@en ;
+    skos:inScheme <https://doi.org/10.6069/uwlswd.06xx-6744> ;
+    skos:notation "n"@en ;
+    skos:prefLabel "not applicable"@en .
+
+<https://doi.org/10.6069/uwlswd.06xx-6744#p> a skos:Concept ;
+    skos:definition "A reduction of an instrumental work or a vocal work with instruments to a version for piano."@en ;
+    skos:inScheme <https://doi.org/10.6069/uwlswd.06xx-6744> ;
+    skos:notation "p"@en ;
+    skos:prefLabel "piano score"@en ;
+    skos:scopeNote "May include the words of a vocal work."@en .
+
+<https://doi.org/10.6069/uwlswd.06xx-6744#u> a skos:Concept ;
+    skos:definition "Format of the item is unknown."@en ;
+    skos:inScheme <https://doi.org/10.6069/uwlswd.06xx-6744> ;
+    skos:notation "u"@en ;
+    skos:prefLabel "unknown"@en .
+
+<https://doi.org/10.6069/uwlswd.06xx-6744#z> a skos:Concept ;
+    skos:definition "Format of music other than full score, miniature or study score, accompaniment reduced for keyboard, voice score with accompaniment omitted, condensed score or piano-conductor score, close score, chorus score, condensed score, performer-conductor part, vocal score, score, multiple score formats, piano score, or unknown."@en ;
+    skos:inScheme <https://doi.org/10.6069/uwlswd.06xx-6744> ;
+    skos:notation "z"@en ;
+    skos:prefLabel "other"@en .
+
+<https://doi.org/10.6069/uwlswd.06xx-6744> a skos:ConceptScheme ;
+    dc:contributor "Metadata Management Associates" ;
+    dc:language "en" ;
+    dcterms:alternative "MARC21 008/20 values for music expressed using RDF" ;
+    dcterms:contributor <http://viaf.org/viaf/151962300> ;
+    dcterms:creator <http://viaf.org/viaf/139541794> ;
+    dcterms:description "Indicates the format of a musical composition (e.g., piano-conductor score)." ;
+    dcterms:issued "2023" ;
+    dcterms:license <http://creativecommons.org/publicdomain/zero/1.0> ;
+    dcterms:provenance <https://doi.org/10.6069/uwlswd.2e2b-y833> ;
+    dcterms:publisher <http://viaf.org/viaf/139541794> ;
+    dcterms:source <http://marc21rdf.info>,
+        <https://www.loc.gov/marc/bibliographic/bd008.html> ;
+    dcterms:title "Music: format of music" ;
+    dcterms:type dcmitype:Dataset ;
+    schema:version "1-0-0" .
+

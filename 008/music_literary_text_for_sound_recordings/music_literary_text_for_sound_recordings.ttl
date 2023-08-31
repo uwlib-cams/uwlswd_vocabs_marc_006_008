@@ -1,0 +1,153 @@
+@prefix dc: <http://purl.org/dc/elements/1.1/> .
+@prefix dcmitype: <http://purl.org/dc/dcmitype/> .
+@prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix schema: <https://schema.org/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<https://doi.org/10.6069/uwlswd.23tq-5e25#a> a skos:Concept ;
+    skos:definition "Autobiography"@en ;
+    skos:inScheme <https://doi.org/10.6069/uwlswd.23tq-5e25> ;
+    skos:notation "a"@en ;
+    skos:prefLabel "autobiography"@en .
+
+<https://doi.org/10.6069/uwlswd.23tq-5e25#b> a skos:Concept ;
+    skos:definition "Biography"@en ;
+    skos:inScheme <https://doi.org/10.6069/uwlswd.23tq-5e25> ;
+    skos:notation "b"@en ;
+    skos:prefLabel "biography"@en .
+
+<https://doi.org/10.6069/uwlswd.23tq-5e25#c> a skos:Concept ;
+    skos:definition "Conference proceedings"@en ;
+    skos:inScheme <https://doi.org/10.6069/uwlswd.23tq-5e25> ;
+    skos:notation "c"@en ;
+    skos:prefLabel "conference proceedings"@en .
+
+<https://doi.org/10.6069/uwlswd.23tq-5e25#d> a skos:Concept ;
+    skos:definition "Drama"@en ;
+    skos:inScheme <https://doi.org/10.6069/uwlswd.23tq-5e25> ;
+    skos:notation "d"@en ;
+    skos:prefLabel "drama"@en .
+
+<https://doi.org/10.6069/uwlswd.23tq-5e25#e> a skos:Concept ;
+    skos:definition "Essays."@en ;
+    skos:inScheme <https://doi.org/10.6069/uwlswd.23tq-5e25> ;
+    skos:notation "e"@en ;
+    skos:prefLabel "essays"@en .
+
+<https://doi.org/10.6069/uwlswd.23tq-5e25#f> a skos:Concept ;
+    skos:definition "Fiction."@en ;
+    skos:inScheme <https://doi.org/10.6069/uwlswd.23tq-5e25> ;
+    skos:notation "f"@en ;
+    skos:prefLabel "fiction"@en ;
+    skos:scopeNote "Includes novels, short stories, etc."@en .
+
+<https://doi.org/10.6069/uwlswd.23tq-5e25#g> a skos:Concept ;
+    skos:definition "Reporting."@en ;
+    skos:inScheme <https://doi.org/10.6069/uwlswd.23tq-5e25> ;
+    skos:notation "g"@en ;
+    skos:prefLabel "reporting"@en ;
+    skos:scopeNote "Reports of newsworthy events and informative messages are included in this category."@en .
+
+<https://doi.org/10.6069/uwlswd.23tq-5e25#h> a skos:Concept ;
+    skos:definition "History."@en ;
+    skos:inScheme <https://doi.org/10.6069/uwlswd.23tq-5e25> ;
+    skos:notation "h"@en ;
+    skos:prefLabel "history"@en .
+
+<https://doi.org/10.6069/uwlswd.23tq-5e25#i> a skos:Concept ;
+    skos:definition "Instruction."@en ;
+    skos:inScheme <https://doi.org/10.6069/uwlswd.23tq-5e25> ;
+    skos:notation "i"@en ;
+    skos:prefLabel "instruction"@en ;
+    skos:scopeNote "Includes instructions on how to accomplish a task, learn an art, etc. (e.g., how to replace a light switch). Not used for language instruction."@en .
+
+<https://doi.org/10.6069/uwlswd.23tq-5e25#j> a skos:Concept ;
+    skos:definition "Language instruction."@en ;
+    skos:inScheme <https://doi.org/10.6069/uwlswd.23tq-5e25> ;
+    skos:notation "j"@en ;
+    skos:prefLabel "language instruction"@en .
+
+<https://doi.org/10.6069/uwlswd.23tq-5e25#k> a skos:Concept ;
+    skos:definition "Spoken comedy."@en ;
+    skos:inScheme <https://doi.org/10.6069/uwlswd.23tq-5e25> ;
+    skos:notation "k"@en ;
+    skos:prefLabel "comedy"@en .
+
+<https://doi.org/10.6069/uwlswd.23tq-5e25#l> a skos:Concept ;
+    skos:definition "Lectures, speeches."@en ;
+    skos:inScheme <https://doi.org/10.6069/uwlswd.23tq-5e25> ;
+    skos:notation "l"@en ;
+    skos:prefLabel "lectures, speeches"@en .
+
+<https://doi.org/10.6069/uwlswd.23tq-5e25#m> a skos:Concept ;
+    skos:definition "Memoirs."@en ;
+    skos:inScheme <https://doi.org/10.6069/uwlswd.23tq-5e25> ;
+    skos:notation "m"@en ;
+    skos:prefLabel "memoirs"@en .
+
+<https://doi.org/10.6069/uwlswd.23tq-5e25#n> a skos:Concept ;
+    skos:definition "Not a sound recording (e.g., printed or manuscript music)."@en ;
+    skos:inScheme <https://doi.org/10.6069/uwlswd.23tq-5e25> ;
+    skos:notation "n"@en ;
+    skos:prefLabel "not applicable"@en .
+
+<https://doi.org/10.6069/uwlswd.23tq-5e25#o> a skos:Concept ;
+    skos:definition "Folktales."@en ;
+    skos:inScheme <https://doi.org/10.6069/uwlswd.23tq-5e25> ;
+    skos:notation "o"@en ;
+    skos:prefLabel "folktales"@en .
+
+<https://doi.org/10.6069/uwlswd.23tq-5e25#p> a skos:Concept ;
+    skos:definition "Poetry."@en ;
+    skos:inScheme <https://doi.org/10.6069/uwlswd.23tq-5e25> ;
+    skos:notation "p"@en ;
+    skos:prefLabel "poetry"@en .
+
+<https://doi.org/10.6069/uwlswd.23tq-5e25#pound> a skos:Concept ;
+    skos:definition "Item is a music sound recording"@en ;
+    skos:inScheme <https://doi.org/10.6069/uwlswd.23tq-5e25> ;
+    skos:notation "#"@en ;
+    skos:prefLabel "item is a music sound recording"@en .
+
+<https://doi.org/10.6069/uwlswd.23tq-5e25#r> a skos:Concept ;
+    skos:definition "Performances of any of a variety of nonmusical productions."@en ;
+    skos:inScheme <https://doi.org/10.6069/uwlswd.23tq-5e25> ;
+    skos:notation "r"@en ;
+    skos:prefLabel "rehearsals"@en .
+
+<https://doi.org/10.6069/uwlswd.23tq-5e25#s> a skos:Concept ;
+    skos:definition "Sounds."@en ;
+    skos:inScheme <https://doi.org/10.6069/uwlswd.23tq-5e25> ;
+    skos:notation "s"@en ;
+    skos:prefLabel "sounds"@en ;
+    skos:scopeNote "Includes nonmusical utterances and vocalizations that may or may not convey meaning."@en .
+
+<https://doi.org/10.6069/uwlswd.23tq-5e25#t> a skos:Concept ;
+    skos:definition "Interviews."@en ;
+    skos:inScheme <https://doi.org/10.6069/uwlswd.23tq-5e25> ;
+    skos:notation "t"@en ;
+    skos:prefLabel "interviews"@en .
+
+<https://doi.org/10.6069/uwlswd.23tq-5e25#z> a skos:Concept ;
+    skos:definition "Literary text for sound recordings other than autobiography, biography, conference proceedings, drama, essays, fiction, reporting, history, instruction, language instruction, comedy, lectures, speeches, memoirs, folktales, poetry, rehearsals, sounds, or interviews."@en ;
+    skos:inScheme <https://doi.org/10.6069/uwlswd.23tq-5e25> ;
+    skos:notation "z"@en ;
+    skos:prefLabel "other"@en .
+
+<https://doi.org/10.6069/uwlswd.23tq-5e25> a skos:ConceptScheme ;
+    dc:contributor "Metadata Management Associates" ;
+    dc:language "en" ;
+    dcterms:alternative "MARC21 008/30-31 values for music expressed using RDF" ;
+    dcterms:contributor <http://viaf.org/viaf/151962300> ;
+    dcterms:creator <http://viaf.org/viaf/139541794> ;
+    dcterms:description "Indicates the type of literary text contained in a nonmusical sound recording." ;
+    dcterms:issued "2023" ;
+    dcterms:license <http://creativecommons.org/publicdomain/zero/1.0> ;
+    dcterms:provenance <https://doi.org/10.6069/uwlswd.2e2b-y833> ;
+    dcterms:publisher <http://viaf.org/viaf/139541794> ;
+    dcterms:source <http://marc21rdf.info>,
+        <https://www.loc.gov/marc/bibliographic/bd008.html> ;
+    dcterms:title "Music: literary text of sound recordings" ;
+    dcterms:type dcmitype:Dataset ;
+    schema:version "1-0-0" .
+

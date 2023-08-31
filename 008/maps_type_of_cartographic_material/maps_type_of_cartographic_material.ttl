@@ -1,0 +1,82 @@
+@prefix dc: <http://purl.org/dc/elements/1.1/> .
+@prefix dcmitype: <http://purl.org/dc/dcmitype/> .
+@prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix schema: <https://schema.org/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<https://doi.org/10.6069/uwlswd.vw5v-gh79#a> a skos:Concept ;
+    skos:definition "Single map."@en ;
+    skos:inScheme <https://doi.org/10.6069/uwlswd.vw5v-gh79> ;
+    skos:notation "a"@en ;
+    skos:prefLabel "single map"@en .
+
+<https://doi.org/10.6069/uwlswd.vw5v-gh79#b> a skos:Concept ;
+    skos:definition "Number of related but physically separate and bibliographically distinct cartographic units intended by the producer(s) or issuing body(s) to form a single group."@en ;
+    skos:inScheme <https://doi.org/10.6069/uwlswd.vw5v-gh79> ;
+    skos:notation "b"@en ;
+    skos:prefLabel "map series"@en ;
+    skos:scopeNote "Not used for atlas series."@en .
+
+<https://doi.org/10.6069/uwlswd.vw5v-gh79#c> a skos:Concept ;
+    skos:definition "Issued in successive parts bearing numerical or chronological designations and intended to be continued indefinitely."@en ;
+    skos:inScheme <https://doi.org/10.6069/uwlswd.vw5v-gh79> ;
+    skos:notation "c"@en ;
+    skos:prefLabel "map serial"@en ;
+    skos:scopeNote "Not used for serially issued atlases."@en .
+
+<https://doi.org/10.6069/uwlswd.vw5v-gh79#d> a skos:Concept ;
+    skos:definition "Globe."@en ;
+    skos:inScheme <https://doi.org/10.6069/uwlswd.vw5v-gh79> ;
+    skos:notation "d"@en ;
+    skos:prefLabel "globe"@en .
+
+<https://doi.org/10.6069/uwlswd.vw5v-gh79#e> a skos:Concept ;
+    skos:definition "Atlas."@en ;
+    skos:inScheme <https://doi.org/10.6069/uwlswd.vw5v-gh79> ;
+    skos:notation "e"@en ;
+    skos:prefLabel "atlas"@en ;
+    skos:scopeNote "Includes atlas series, and serially issued atlases."@en .
+
+<https://doi.org/10.6069/uwlswd.vw5v-gh79#f> a skos:Concept ;
+    skos:definition "Separate supplement to another work"@en ;
+    skos:inScheme <https://doi.org/10.6069/uwlswd.vw5v-gh79> ;
+    skos:notation "f"@en ;
+    skos:prefLabel "separate supplement to another work"@en ;
+    skos:scopeNote "Other work being supplemented does not have to be cartographic material."@en .
+
+<https://doi.org/10.6069/uwlswd.vw5v-gh79#g> a skos:Concept ;
+    skos:definition "Bound as part of another work"@en ;
+    skos:inScheme <https://doi.org/10.6069/uwlswd.vw5v-gh79> ;
+    skos:notation "g"@en ;
+    skos:prefLabel "bound as part of another work"@en ;
+    skos:scopeNote "Other work included does not have to be cartographic material."@en .
+
+<https://doi.org/10.6069/uwlswd.vw5v-gh79#u> a skos:Concept ;
+    skos:definition "Unknown."@en ;
+    skos:inScheme <https://doi.org/10.6069/uwlswd.vw5v-gh79> ;
+    skos:notation "u"@en ;
+    skos:prefLabel "unknown"@en .
+
+<https://doi.org/10.6069/uwlswd.vw5v-gh79#z> a skos:Concept ;
+    skos:definition "Type of cartographic material other than single map, map series, map serial, globe, atlas, separate map supplement to another work, or map bound as part of another work."@en ;
+    skos:inScheme <https://doi.org/10.6069/uwlswd.vw5v-gh79> ;
+    skos:notation "z"@en ;
+    skos:prefLabel "other"@en .
+
+<https://doi.org/10.6069/uwlswd.vw5v-gh79> a skos:ConceptScheme ;
+    dc:contributor "Metadata Management Associates" ;
+    dc:language "en" ;
+    dcterms:alternative "MARC21 008/25 values for maps expressed using RDF" ;
+    dcterms:contributor <http://viaf.org/viaf/151962300> ;
+    dcterms:creator <http://viaf.org/viaf/139541794> ;
+    dcterms:description "Indicates the type of cartographic item described." ;
+    dcterms:issued "2023" ;
+    dcterms:license <http://creativecommons.org/publicdomain/zero/1.0> ;
+    dcterms:provenance <https://doi.org/10.6069/uwlswd.2e2b-y833> ;
+    dcterms:publisher <http://viaf.org/viaf/139541794> ;
+    dcterms:source <http://marc21rdf.info>,
+        <https://www.loc.gov/marc/bibliographic/bd008.html> ;
+    dcterms:title "Maps: type of cartographic material" ;
+    dcterms:type dcmitype:Dataset ;
+    schema:version "1-0-0" .
+

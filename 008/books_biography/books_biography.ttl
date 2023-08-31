@@ -1,0 +1,53 @@
+@prefix dc: <http://purl.org/dc/elements/1.1/> .
+@prefix dcmitype: <http://purl.org/dc/dcmitype/> .
+@prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix schema: <https://schema.org/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<https://doi.org/10.6069/uwlswd.x4ce-sd21#a> a skos:Concept ;
+    skos:definition "Autobiography."@en ;
+    skos:inScheme <https://doi.org/10.6069/uwlswd.x4ce-sd21> ;
+    skos:notation "a"@en ;
+    skos:prefLabel "autobiography"@en .
+
+<https://doi.org/10.6069/uwlswd.x4ce-sd21#b> a skos:Concept ;
+    skos:definition "Biography of one individual."@en ;
+    skos:inScheme <https://doi.org/10.6069/uwlswd.x4ce-sd21> ;
+    skos:notation "b"@en ;
+    skos:prefLabel "individual biography"@en .
+
+<https://doi.org/10.6069/uwlswd.x4ce-sd21#c> a skos:Concept ;
+    skos:definition "Biographical material about more than one individual."@en ;
+    skos:inScheme <https://doi.org/10.6069/uwlswd.x4ce-sd21> ;
+    skos:notation "c"@en ;
+    skos:prefLabel "collective biography"@en .
+
+<https://doi.org/10.6069/uwlswd.x4ce-sd21#d> a skos:Concept ;
+    skos:definition "Contains biographical information."@en ;
+    skos:inScheme <https://doi.org/10.6069/uwlswd.x4ce-sd21> ;
+    skos:notation "d"@en ;
+    skos:prefLabel "contains biographical information"@en .
+
+<https://doi.org/10.6069/uwlswd.x4ce-sd21#pound> a skos:Concept ;
+    skos:definition "No biographical or autobiographical material."@en ;
+    skos:inScheme <https://doi.org/10.6069/uwlswd.x4ce-sd21> ;
+    skos:notation "#"@en ;
+    skos:prefLabel "no biographical material"@en .
+
+<https://doi.org/10.6069/uwlswd.x4ce-sd21> a skos:ConceptScheme ;
+    dc:contributor "Metadata Management Associates" ;
+    dc:language "en" ;
+    dcterms:alternative "MARC21 008/34 values for books expressed using RDF" ;
+    dcterms:contributor <http://viaf.org/viaf/151962300> ;
+    dcterms:creator <http://viaf.org/viaf/139541794> ;
+    dcterms:description "Indicates whether or not an item contains biographical material, and if so, what the biographical characteristics are." ;
+    dcterms:issued "2023" ;
+    dcterms:license <http://creativecommons.org/publicdomain/zero/1.0> ;
+    dcterms:provenance <https://doi.org/10.6069/uwlswd.2e2b-y833> ;
+    dcterms:publisher <http://viaf.org/viaf/139541794> ;
+    dcterms:source <http://marc21rdf.info>,
+        <https://www.loc.gov/marc/bibliographic/bd008.html> ;
+    dcterms:title "Books: biography" ;
+    dcterms:type dcmitype:Dataset ;
+    schema:version "1-0-0" .
+

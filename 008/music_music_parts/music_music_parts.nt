@@ -1,0 +1,53 @@
+<https://doi.org/10.6069/uwlswd.ywjs-vr46#d> <http://www.w3.org/2004/02/skos/core#definition> "Both instrumental and vocal parts are present."@en .
+<https://doi.org/10.6069/uwlswd.ywjs-vr46#pound> <http://www.w3.org/2004/02/skos/core#definition> "No parts in hand or the musical parts are not specified."@en .
+<https://doi.org/10.6069/uwlswd.ywjs-vr46> <http://purl.org/dc/terms/creator> <http://viaf.org/viaf/139541794> .
+<https://doi.org/10.6069/uwlswd.ywjs-vr46#n> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<https://doi.org/10.6069/uwlswd.ywjs-vr46#n> <http://www.w3.org/2004/02/skos/core#notation> "n"@en .
+<https://doi.org/10.6069/uwlswd.ywjs-vr46> <http://purl.org/dc/terms/source> <https://www.loc.gov/marc/bibliographic/bd008.html> .
+<https://doi.org/10.6069/uwlswd.ywjs-vr46#n> <http://www.w3.org/2004/02/skos/core#definition> "Item is not notated music."@en .
+<https://doi.org/10.6069/uwlswd.ywjs-vr46#e> <http://www.w3.org/2004/02/skos/core#inScheme> <https://doi.org/10.6069/uwlswd.ywjs-vr46> .
+<https://doi.org/10.6069/uwlswd.ywjs-vr46#u> <http://www.w3.org/2004/02/skos/core#scopeNote> "May be used for records created without examining the item, such as retrospective conversion from a printed card."@en .
+<https://doi.org/10.6069/uwlswd.ywjs-vr46#u> <http://www.w3.org/2004/02/skos/core#inScheme> <https://doi.org/10.6069/uwlswd.ywjs-vr46> .
+<https://doi.org/10.6069/uwlswd.ywjs-vr46#u> <http://www.w3.org/2004/02/skos/core#definition> "Unknown whether the item being cataloged contains parts."@en .
+<https://doi.org/10.6069/uwlswd.ywjs-vr46> <http://www.w3.org/2004/02/skos/core#scopeNote> "Is not used to indicate that parts may exist elsewhere."@en .
+<https://doi.org/10.6069/uwlswd.ywjs-vr46#u> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<https://doi.org/10.6069/uwlswd.ywjs-vr46> <http://purl.org/dc/terms/source> <http://marc21rdf.info> .
+<https://doi.org/10.6069/uwlswd.ywjs-vr46> <http://purl.org/dc/terms/provenance> <https://doi.org/10.6069/uwlswd.2e2b-y833> .
+<https://doi.org/10.6069/uwlswd.ywjs-vr46> <https://schema.org/version> "1-0-0" .
+<https://doi.org/10.6069/uwlswd.ywjs-vr46#pound> <http://www.w3.org/2004/02/skos/core#inScheme> <https://doi.org/10.6069/uwlswd.ywjs-vr46> .
+<https://doi.org/10.6069/uwlswd.ywjs-vr46> <http://purl.org/dc/terms/publisher> <http://viaf.org/viaf/139541794> .
+<https://doi.org/10.6069/uwlswd.ywjs-vr46#pound> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<https://doi.org/10.6069/uwlswd.ywjs-vr46#e> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<https://doi.org/10.6069/uwlswd.ywjs-vr46#f> <http://www.w3.org/2004/02/skos/core#prefLabel> "vocal parts"@en .
+<https://doi.org/10.6069/uwlswd.ywjs-vr46#f> <http://www.w3.org/2004/02/skos/core#definition> "Vocal parts are present."@en .
+<https://doi.org/10.6069/uwlswd.ywjs-vr46> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#ConceptScheme> .
+<http://fakeIRI.edu/terms/mapspe#ax> <http://www.w3.org/2004/02/skos/core#prefLabel> "parts exist [obsolete]"@en .
+<https://doi.org/10.6069/uwlswd.ywjs-vr46#u> <http://www.w3.org/2004/02/skos/core#prefLabel> "unknown"@en .
+<https://doi.org/10.6069/uwlswd.ywjs-vr46#e> <http://www.w3.org/2004/02/skos/core#notation> "e"@en .
+<https://doi.org/10.6069/uwlswd.ywjs-vr46#n> <http://www.w3.org/2004/02/skos/core#prefLabel> "not applicable"@en .
+<https://doi.org/10.6069/uwlswd.ywjs-vr46> <http://purl.org/dc/terms/type> <http://purl.org/dc/dcmitype/Dataset> .
+<https://doi.org/10.6069/uwlswd.ywjs-vr46#d> <http://www.w3.org/2004/02/skos/core#notation> "d"@en .
+<https://doi.org/10.6069/uwlswd.ywjs-vr46#e> <http://www.w3.org/2004/02/skos/core#prefLabel> "instrumental parts"@en .
+<https://doi.org/10.6069/uwlswd.ywjs-vr46#e> <http://www.w3.org/2004/02/skos/core#definition> "Instrumental parts are present."@en .
+<https://doi.org/10.6069/uwlswd.ywjs-vr46#d> <http://www.w3.org/2004/02/skos/core#inScheme> <https://doi.org/10.6069/uwlswd.ywjs-vr46> .
+<http://fakeIRI.edu/terms/mapspe#ax> <http://www.w3.org/2004/02/skos/core#notation> "a"@en .
+<https://doi.org/10.6069/uwlswd.ywjs-vr46#pound> <http://www.w3.org/2004/02/skos/core#prefLabel> "no parts in hand or not specified"@en .
+<https://doi.org/10.6069/uwlswd.ywjs-vr46#pound> <http://www.w3.org/2004/02/skos/core#notation> "#"@en .
+<https://doi.org/10.6069/uwlswd.ywjs-vr46#f> <http://www.w3.org/2004/02/skos/core#inScheme> <https://doi.org/10.6069/uwlswd.ywjs-vr46> .
+<https://doi.org/10.6069/uwlswd.ywjs-vr46> <http://purl.org/dc/terms/contributor> <http://viaf.org/viaf/151962300> .
+<https://doi.org/10.6069/uwlswd.ywjs-vr46> <http://purl.org/dc/terms/issued> "2023" .
+<https://doi.org/10.6069/uwlswd.ywjs-vr46> <http://purl.org/dc/terms/title> "Music: music parts" .
+<http://fakeIRI.edu/terms/mapspe#ax> <http://www.w3.org/2004/02/skos/core#inScheme> <http://fakeIRI.edu/terms/mapspe#> .
+<https://doi.org/10.6069/uwlswd.ywjs-vr46#f> <http://www.w3.org/2004/02/skos/core#notation> "f"@en .
+<https://doi.org/10.6069/uwlswd.ywjs-vr46#u> <http://www.w3.org/2004/02/skos/core#notation> "u"@en .
+<https://doi.org/10.6069/uwlswd.ywjs-vr46> <http://purl.org/dc/terms/description> "Indicates whether the item being cataloged is, or contains parts." .
+<https://doi.org/10.6069/uwlswd.ywjs-vr46> <http://purl.org/dc/terms/alternative> "MARC21 008/21 values for music expressed using RDF" .
+<https://doi.org/10.6069/uwlswd.ywjs-vr46#d> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<http://fakeIRI.edu/terms/mapspe#ax> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<https://doi.org/10.6069/uwlswd.ywjs-vr46> <http://purl.org/dc/elements/1.1/language> "en" .
+<https://doi.org/10.6069/uwlswd.ywjs-vr46#d> <http://www.w3.org/2004/02/skos/core#prefLabel> "instrumental and vocal parts"@en .
+<https://doi.org/10.6069/uwlswd.ywjs-vr46> <http://purl.org/dc/terms/license> <http://creativecommons.org/publicdomain/zero/1.0> .
+<https://doi.org/10.6069/uwlswd.ywjs-vr46#f> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<https://doi.org/10.6069/uwlswd.ywjs-vr46#n> <http://www.w3.org/2004/02/skos/core#inScheme> <https://doi.org/10.6069/uwlswd.ywjs-vr46> .
+<https://doi.org/10.6069/uwlswd.ywjs-vr46> <http://purl.org/dc/elements/1.1/contributor> "Metadata Management Associates" .
+

@@ -1,0 +1,105 @@
+@prefix dc: <http://purl.org/dc/elements/1.1/> .
+@prefix dcmitype: <http://purl.org/dc/dcmitype/> .
+@prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix schema: <https://schema.org/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<https://doi.org/10.6069/uwlswd.084w-3778#a> a skos:Concept ;
+    skos:definition "Original alphabet of the title is the Roman alphabet. Languages that are usually associated include: Basque, English, Latin, Welsh, and many languages of Central and Southern Africa."@en ;
+    skos:inScheme <https://doi.org/10.6069/uwlswd.084w-3778> ;
+    skos:notation "a"@en ;
+    skos:prefLabel "basic roman"@en ;
+    skos:scopeNote "Includes no diacritics or special characters."@en .
+
+<https://doi.org/10.6069/uwlswd.084w-3778#b> a skos:Concept ;
+    skos:definition "Original alphabet of the title is a Roman alphabet language. Most western European lanuages, with the major exception of English, fall into this group."@en ;
+    skos:inScheme <https://doi.org/10.6069/uwlswd.084w-3778> ;
+    skos:notation "b"@en ;
+    skos:prefLabel "extended roman"@en ;
+    skos:scopeNote "Includes diacritics and special characters."@en .
+
+<https://doi.org/10.6069/uwlswd.084w-3778#c> a skos:Concept ;
+    skos:inScheme <https://doi.org/10.6069/uwlswd.084w-3778> ;
+    skos:notation "c"@en ;
+    skos:prefLabel "cyrillic"@en .
+
+<https://doi.org/10.6069/uwlswd.084w-3778#d> a skos:Concept ;
+    skos:inScheme <https://doi.org/10.6069/uwlswd.084w-3778> ;
+    skos:notation "d"@en ;
+    skos:prefLabel "japanese"@en .
+
+<https://doi.org/10.6069/uwlswd.084w-3778#e> a skos:Concept ;
+    skos:inScheme <https://doi.org/10.6069/uwlswd.084w-3778> ;
+    skos:notation "e"@en ;
+    skos:prefLabel "chinese"@en .
+
+<https://doi.org/10.6069/uwlswd.084w-3778#f> a skos:Concept ;
+    skos:inScheme <https://doi.org/10.6069/uwlswd.084w-3778> ;
+    skos:notation "f"@en ;
+    skos:prefLabel "arabic"@en .
+
+<https://doi.org/10.6069/uwlswd.084w-3778#g> a skos:Concept ;
+    skos:inScheme <https://doi.org/10.6069/uwlswd.084w-3778> ;
+    skos:notation "g"@en ;
+    skos:prefLabel "greek"@en .
+
+<https://doi.org/10.6069/uwlswd.084w-3778#h> a skos:Concept ;
+    skos:inScheme <https://doi.org/10.6069/uwlswd.084w-3778> ;
+    skos:notation "h"@en ;
+    skos:prefLabel "hebrew"@en .
+
+<https://doi.org/10.6069/uwlswd.084w-3778#i> a skos:Concept ;
+    skos:inScheme <https://doi.org/10.6069/uwlswd.084w-3778> ;
+    skos:notation "i"@en ;
+    skos:prefLabel "thai"@en .
+
+<https://doi.org/10.6069/uwlswd.084w-3778#j> a skos:Concept ;
+    skos:inScheme <https://doi.org/10.6069/uwlswd.084w-3778> ;
+    skos:notation "j"@en ;
+    skos:prefLabel "devanagari"@en .
+
+<https://doi.org/10.6069/uwlswd.084w-3778#k> a skos:Concept ;
+    skos:inScheme <https://doi.org/10.6069/uwlswd.084w-3778> ;
+    skos:notation "k"@en ;
+    skos:prefLabel "korean"@en .
+
+<https://doi.org/10.6069/uwlswd.084w-3778#l> a skos:Concept ;
+    skos:inScheme <https://doi.org/10.6069/uwlswd.084w-3778> ;
+    skos:notation "l"@en ;
+    skos:prefLabel "tamil"@en .
+
+<https://doi.org/10.6069/uwlswd.084w-3778#pound> a skos:Concept ;
+    skos:inScheme <https://doi.org/10.6069/uwlswd.084w-3778> ;
+    skos:notation "#"@en ;
+    skos:prefLabel "no alphabet or script given/no key title"@en .
+
+<https://doi.org/10.6069/uwlswd.084w-3778#u> a skos:Concept ;
+    skos:definition "Original alphabet of the title is unknown."@en ;
+    skos:inScheme <https://doi.org/10.6069/uwlswd.084w-3778> ;
+    skos:notation "u"@en ;
+    skos:prefLabel "unknown"@en .
+
+<https://doi.org/10.6069/uwlswd.084w-3778#z> a skos:Concept ;
+    skos:definition "Original alphabet or script of title other than basic Roman, extended Roman, cyrillic, Japanese, Chinese, Arabic, Greek, Hebrew, Thai, Devanagari, Korean, or Tamil."@en ;
+    skos:inScheme <https://doi.org/10.6069/uwlswd.084w-3778> ;
+    skos:notation "z"@en ;
+    skos:prefLabel "other"@en ;
+    skos:scopeNote "Also used when the title incorporates words from more than one alphabet or script."@en .
+
+<https://doi.org/10.6069/uwlswd.084w-3778> a skos:ConceptScheme ;
+    dc:contributor "Metadata Management Associates" ;
+    dc:language "en" ;
+    dcterms:alternative "MARC21 008/33 values for continuing resources expressed using RDF" ;
+    dcterms:contributor <http://viaf.org/viaf/151962300> ;
+    dcterms:creator <http://viaf.org/viaf/139541794> ;
+    dcterms:description "Indicates the original alphabet or script of the language of the title on the source item upon which the key title is based." ;
+    dcterms:issued "2023" ;
+    dcterms:license <http://creativecommons.org/publicdomain/zero/1.0> ;
+    dcterms:provenance <https://doi.org/10.6069/uwlswd.2e2b-y833> ;
+    dcterms:publisher <http://viaf.org/viaf/139541794> ;
+    dcterms:source <http://marc21rdf.info>,
+        <https://www.loc.gov/marc/bibliographic/bd008.html> ;
+    dcterms:title "Continuing: original alphabet or script of title" ;
+    dcterms:type dcmitype:Dataset ;
+    schema:version "1-0-0" .
+
