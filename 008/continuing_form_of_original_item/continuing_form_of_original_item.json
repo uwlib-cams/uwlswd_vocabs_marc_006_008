@@ -1,540 +1,18 @@
 [
   {
-    "@id": "https://doi.org/10.6069/uwlswd.jfr5-z647#w",
+    "@id": "https://doi.org/10.6069/uwlswd.42d2-ca58#q",
     "@type": [
       "http://www.w3.org/2004/02/skos/core#Concept"
     ],
     "http://www.w3.org/2004/02/skos/core#definition": [
       {
         "@language": "en",
-        "@value": "Texts of decisions of courts or administrative agencies."
+        "@value": "Storage on a directly accessible tangible recording medium, e.g. disc, tape, playaway device, flashdrive, portable hard drive, etc."
       }
     ],
     "http://www.w3.org/2004/02/skos/core#inScheme": [
       {
-        "@id": "https://doi.org/10.6069/uwlswd.jfr5-z647"
-      }
-    ],
-    "http://www.w3.org/2004/02/skos/core#notation": [
-      {
-        "@language": "en",
-        "@value": "w"
-      }
-    ],
-    "http://www.w3.org/2004/02/skos/core#prefLabel": [
-      {
-        "@language": "en",
-        "@value": "law reports and digests"
-      }
-    ],
-    "http://www.w3.org/2004/02/skos/core#scopeNote": [
-      {
-        "@language": "en",
-        "@value": "Also used when a work consists of texts of digests of such decisions."
-      }
-    ]
-  },
-  {
-    "@id": "https://doi.org/10.6069/uwlswd.jfr5-z647#r",
-    "@type": [
-      "http://www.w3.org/2004/02/skos/core#Concept"
-    ],
-    "http://www.w3.org/2004/02/skos/core#definition": [
-      {
-        "@language": "en",
-        "@value": "Directory or register of persons or corporate bodies."
-      }
-    ],
-    "http://www.w3.org/2004/02/skos/core#inScheme": [
-      {
-        "@id": "https://doi.org/10.6069/uwlswd.jfr5-z647"
-      }
-    ],
-    "http://www.w3.org/2004/02/skos/core#notation": [
-      {
-        "@language": "en",
-        "@value": "r"
-      }
-    ],
-    "http://www.w3.org/2004/02/skos/core#prefLabel": [
-      {
-        "@language": "en",
-        "@value": "directories"
-      }
-    ],
-    "http://www.w3.org/2004/02/skos/core#scopeNote": [
-      {
-        "@language": "en",
-        "@value": "Not used for serial biographical dictionaries."
-      }
-    ]
-  },
-  {
-    "@id": "https://doi.org/10.6069/uwlswd.jfr5-z647#t",
-    "@type": [
-      "http://www.w3.org/2004/02/skos/core#Concept"
-    ],
-    "http://www.w3.org/2004/02/skos/core#definition": [
-      {
-        "@language": "en",
-        "@value": "The result of scientific investigation or technical development, testing, or evaluation, presented in a form suitable for dissemination to the technical community."
-      }
-    ],
-    "http://www.w3.org/2004/02/skos/core#inScheme": [
-      {
-        "@id": "https://doi.org/10.6069/uwlswd.jfr5-z647"
-      }
-    ],
-    "http://www.w3.org/2004/02/skos/core#notation": [
-      {
-        "@language": "en",
-        "@value": "t"
-      }
-    ],
-    "http://www.w3.org/2004/02/skos/core#prefLabel": [
-      {
-        "@language": "en",
-        "@value": "technical reports"
-      }
-    ]
-  },
-  {
-    "@id": "https://doi.org/10.6069/uwlswd.jfr5-z647#yx",
-    "@type": [
-      "http://www.w3.org/2004/02/skos/core#Concept"
-    ],
-    "http://www.w3.org/2004/02/skos/core#inScheme": [
-      {
-        "@id": "https://doi.org/10.6069/uwlswd.jfr5-z647"
-      }
-    ],
-    "http://www.w3.org/2004/02/skos/core#notation": [
-      {
-        "@language": "en",
-        "@value": "y"
-      }
-    ],
-    "http://www.w3.org/2004/02/skos/core#prefLabel": [
-      {
-        "@language": "en",
-        "@value": "yearbook [obsolete]"
-      }
-    ]
-  },
-  {
-    "@id": "https://doi.org/10.6069/uwlswd.jfr5-z647#g",
-    "@type": [
-      "http://www.w3.org/2004/02/skos/core#Concept"
-    ],
-    "http://www.w3.org/2004/02/skos/core#definition": [
-      {
-        "@language": "en",
-        "@value": "Substantive articles on legal topics, such as those published in law school reviews."
-      }
-    ],
-    "http://www.w3.org/2004/02/skos/core#inScheme": [
-      {
-        "@id": "https://doi.org/10.6069/uwlswd.jfr5-z647"
-      }
-    ],
-    "http://www.w3.org/2004/02/skos/core#notation": [
-      {
-        "@language": "en",
-        "@value": "g"
-      }
-    ],
-    "http://www.w3.org/2004/02/skos/core#prefLabel": [
-      {
-        "@language": "en",
-        "@value": "legal articles"
-      }
-    ]
-  },
-  {
-    "@id": "https://doi.org/10.6069/uwlswd.jfr5-z647#v",
-    "@type": [
-      "http://www.w3.org/2004/02/skos/core#Concept"
-    ],
-    "http://www.w3.org/2004/02/skos/core#definition": [
-      {
-        "@language": "en",
-        "@value": "Discussions, such as those in the case comments section of law school reviews, of particular legal cases that have been decided by, or that are pending before, courts or administrative agencies."
-      }
-    ],
-    "http://www.w3.org/2004/02/skos/core#inScheme": [
-      {
-        "@id": "https://doi.org/10.6069/uwlswd.jfr5-z647"
-      }
-    ],
-    "http://www.w3.org/2004/02/skos/core#notation": [
-      {
-        "@language": "en",
-        "@value": "v"
-      }
-    ],
-    "http://www.w3.org/2004/02/skos/core#prefLabel": [
-      {
-        "@language": "en",
-        "@value": "legal cases and case notes"
-      }
-    ]
-  },
-  {
-    "@id": "https://doi.org/10.6069/uwlswd.jfr5-z647#z",
-    "@type": [
-      "http://www.w3.org/2004/02/skos/core#Concept"
-    ],
-    "http://www.w3.org/2004/02/skos/core#definition": [
-      {
-        "@language": "en",
-        "@value": "Treaties or accords negotiated between two or more parties to settle a disagreement, establish a relationship, grant rights, etc."
-      }
-    ],
-    "http://www.w3.org/2004/02/skos/core#inScheme": [
-      {
-        "@id": "https://doi.org/10.6069/uwlswd.jfr5-z647"
-      }
-    ],
-    "http://www.w3.org/2004/02/skos/core#notation": [
-      {
-        "@language": "en",
-        "@value": "z"
-      }
-    ],
-    "http://www.w3.org/2004/02/skos/core#prefLabel": [
-      {
-        "@language": "en",
-        "@value": "treaties"
-      }
-    ]
-  },
-  {
-    "@id": "https://doi.org/10.6069/uwlswd.jfr5-z647#5",
-    "@type": [
-      "http://www.w3.org/2004/02/skos/core#Concept"
-    ],
-    "http://www.w3.org/2004/02/skos/core#definition": [
-      {
-        "@language": "en",
-        "@value": "Published systems of organizing days. These may be academic calendars or almanacs, calendars published by bodies, such as labor organizations, library associations, etc."
-      }
-    ],
-    "http://www.w3.org/2004/02/skos/core#inScheme": [
-      {
-        "@id": "https://doi.org/10.6069/uwlswd.jfr5-z647"
-      }
-    ],
-    "http://www.w3.org/2004/02/skos/core#notation": [
-      {
-        "@language": "en",
-        "@value": "5"
-      }
-    ],
-    "http://www.w3.org/2004/02/skos/core#prefLabel": [
-      {
-        "@language": "en",
-        "@value": "calendars"
-      }
-    ]
-  },
-  {
-    "@id": "https://doi.org/10.6069/uwlswd.jfr5-z647#f",
-    "@type": [
-      "http://www.w3.org/2004/02/skos/core#Concept"
-    ],
-    "http://www.w3.org/2004/02/skos/core#inScheme": [
-      {
-        "@id": "https://doi.org/10.6069/uwlswd.jfr5-z647"
-      }
-    ],
-    "http://www.w3.org/2004/02/skos/core#notation": [
-      {
-        "@language": "en",
-        "@value": "f"
-      }
-    ],
-    "http://www.w3.org/2004/02/skos/core#prefLabel": [
-      {
-        "@language": "en",
-        "@value": "handbooks"
-      }
-    ]
-  },
-  {
-    "@id": "https://doi.org/10.6069/uwlswd.jfr5-z647#e",
-    "@type": [
-      "http://www.w3.org/2004/02/skos/core#Concept"
-    ],
-    "http://www.w3.org/2004/02/skos/core#definition": [
-      {
-        "@language": "en",
-        "@value": "Encyclopedia or an encyclopedic treatment of a specific topic."
-      }
-    ],
-    "http://www.w3.org/2004/02/skos/core#inScheme": [
-      {
-        "@id": "https://doi.org/10.6069/uwlswd.jfr5-z647"
-      }
-    ],
-    "http://www.w3.org/2004/02/skos/core#notation": [
-      {
-        "@language": "en",
-        "@value": "e"
-      }
-    ],
-    "http://www.w3.org/2004/02/skos/core#prefLabel": [
-      {
-        "@language": "en",
-        "@value": "encyclopedias"
-      }
-    ]
-  },
-  {
-    "@id": "https://doi.org/10.6069/uwlswd.jfr5-z647#n",
-    "@type": [
-      "http://www.w3.org/2004/02/skos/core#Concept"
-    ],
-    "http://www.w3.org/2004/02/skos/core#definition": [
-      {
-        "@language": "en",
-        "@value": "Authored surveys that summarize what has been published about a subject. Usually has a list of references either in the body of the work or as a bibliography."
-      }
-    ],
-    "http://www.w3.org/2004/02/skos/core#inScheme": [
-      {
-        "@id": "https://doi.org/10.6069/uwlswd.jfr5-z647"
-      }
-    ],
-    "http://www.w3.org/2004/02/skos/core#notation": [
-      {
-        "@language": "en",
-        "@value": "n"
-      }
-    ],
-    "http://www.w3.org/2004/02/skos/core#prefLabel": [
-      {
-        "@language": "en",
-        "@value": "surveys of literature in a subject area"
-      }
-    ]
-  },
-  {
-    "@id": "https://doi.org/10.6069/uwlswd.jfr5-z647#6",
-    "@type": [
-      "http://www.w3.org/2004/02/skos/core#Concept"
-    ],
-    "http://www.w3.org/2004/02/skos/core#definition": [
-      {
-        "@language": "en",
-        "@value": "Instances of \"sequential art\" in which a story (whether fact or fiction) is told primarily through a set of images (often in the form of multiple \"panels\" per page) presented concurrently but meant to be \"read\" sequentially by the viewer. The accompanying narrative and/or dialog text, when it occurs, works integrally with the images to tell the story."
-      }
-    ],
-    "http://www.w3.org/2004/02/skos/core#inScheme": [
-      {
-        "@id": "https://doi.org/10.6069/uwlswd.jfr5-z647"
-      }
-    ],
-    "http://www.w3.org/2004/02/skos/core#notation": [
-      {
-        "@language": "en",
-        "@value": "6"
-      }
-    ],
-    "http://www.w3.org/2004/02/skos/core#prefLabel": [
-      {
-        "@language": "en",
-        "@value": "comics or graphic novels"
-      }
-    ]
-  },
-  {
-    "@id": "https://doi.org/10.6069/uwlswd.jfr5-z647#s",
-    "@type": [
-      "http://www.w3.org/2004/02/skos/core#Concept"
-    ],
-    "http://www.w3.org/2004/02/skos/core#definition": [
-      {
-        "@language": "en",
-        "@value": "Collection of statistical data on a subject."
-      }
-    ],
-    "http://www.w3.org/2004/02/skos/core#inScheme": [
-      {
-        "@id": "https://doi.org/10.6069/uwlswd.jfr5-z647"
-      }
-    ],
-    "http://www.w3.org/2004/02/skos/core#notation": [
-      {
-        "@language": "en",
-        "@value": "s"
-      }
-    ],
-    "http://www.w3.org/2004/02/skos/core#prefLabel": [
-      {
-        "@language": "en",
-        "@value": "statistics"
-      }
-    ],
-    "http://www.w3.org/2004/02/skos/core#scopeNote": [
-      {
-        "@language": "en",
-        "@value": "Not used for works about statistical methodology."
-      }
-    ]
-  },
-  {
-    "@id": "https://doi.org/10.6069/uwlswd.jfr5-z647#b",
-    "@type": [
-      "http://www.w3.org/2004/02/skos/core#Concept"
-    ],
-    "http://www.w3.org/2004/02/skos/core#inScheme": [
-      {
-        "@id": "https://doi.org/10.6069/uwlswd.jfr5-z647"
-      }
-    ],
-    "http://www.w3.org/2004/02/skos/core#notation": [
-      {
-        "@language": "en",
-        "@value": "b"
-      }
-    ],
-    "http://www.w3.org/2004/02/skos/core#prefLabel": [
-      {
-        "@language": "en",
-        "@value": "bibliographies"
-      }
-    ]
-  },
-  {
-    "@id": "https://doi.org/10.6069/uwlswd.jfr5-z647#m",
-    "@type": [
-      "http://www.w3.org/2004/02/skos/core#Concept"
-    ],
-    "http://www.w3.org/2004/02/skos/core#definition": [
-      {
-        "@language": "en",
-        "@value": "Thesis, dissertation, or work identified as having been created to satisfy the requirements for an academic certification or degree."
-      }
-    ],
-    "http://www.w3.org/2004/02/skos/core#inScheme": [
-      {
-        "@id": "https://doi.org/10.6069/uwlswd.jfr5-z647"
-      }
-    ],
-    "http://www.w3.org/2004/02/skos/core#notation": [
-      {
-        "@language": "en",
-        "@value": "m"
-      }
-    ],
-    "http://www.w3.org/2004/02/skos/core#prefLabel": [
-      {
-        "@language": "en",
-        "@value": "theses"
-      }
-    ]
-  },
-  {
-    "@id": "https://doi.org/10.6069/uwlswd.jfr5-z647#u",
-    "@type": [
-      "http://www.w3.org/2004/02/skos/core#Concept"
-    ],
-    "http://www.w3.org/2004/02/skos/core#definition": [
-      {
-        "@language": "en",
-        "@value": "Either an international, national, or industry standard or a specification which gives a precise statement of a process or service requirement."
-      }
-    ],
-    "http://www.w3.org/2004/02/skos/core#inScheme": [
-      {
-        "@id": "https://doi.org/10.6069/uwlswd.jfr5-z647"
-      }
-    ],
-    "http://www.w3.org/2004/02/skos/core#notation": [
-      {
-        "@language": "en",
-        "@value": "u"
-      }
-    ],
-    "http://www.w3.org/2004/02/skos/core#prefLabel": [
-      {
-        "@language": "en",
-        "@value": "standards or specifications"
-      }
-    ]
-  },
-  {
-    "@id": "https://doi.org/10.6069/uwlswd.jfr5-z647#o",
-    "@type": [
-      "http://www.w3.org/2004/02/skos/core#Concept"
-    ],
-    "http://www.w3.org/2004/02/skos/core#definition": [
-      {
-        "@language": "en",
-        "@value": "Critical reviews of published or performed works (e.g., books, films, sound recordings, theater, etc.)."
-      }
-    ],
-    "http://www.w3.org/2004/02/skos/core#inScheme": [
-      {
-        "@id": "https://doi.org/10.6069/uwlswd.jfr5-z647"
-      }
-    ],
-    "http://www.w3.org/2004/02/skos/core#notation": [
-      {
-        "@language": "en",
-        "@value": "o"
-      }
-    ],
-    "http://www.w3.org/2004/02/skos/core#prefLabel": [
-      {
-        "@language": "en",
-        "@value": "reviews"
-      }
-    ]
-  },
-  {
-    "@id": "https://doi.org/10.6069/uwlswd.jfr5-z647#c",
-    "@type": [
-      "http://www.w3.org/2004/02/skos/core#Concept"
-    ],
-    "http://www.w3.org/2004/02/skos/core#definition": [
-      {
-        "@language": "en",
-        "@value": "List of items in a collection, such as a collection of books, a collection of art objects, etc."
-      }
-    ],
-    "http://www.w3.org/2004/02/skos/core#inScheme": [
-      {
-        "@id": "https://doi.org/10.6069/uwlswd.jfr5-z647"
-      }
-    ],
-    "http://www.w3.org/2004/02/skos/core#notation": [
-      {
-        "@language": "en",
-        "@value": "c"
-      }
-    ],
-    "http://www.w3.org/2004/02/skos/core#prefLabel": [
-      {
-        "@language": "en",
-        "@value": "catalogs"
-      }
-    ]
-  },
-  {
-    "@id": "https://doi.org/10.6069/uwlswd.jfr5-z647#q",
-    "@type": [
-      "http://www.w3.org/2004/02/skos/core#Concept"
-    ],
-    "http://www.w3.org/2004/02/skos/core#definition": [
-      {
-        "@language": "en",
-        "@value": "Filmography or other bibliography of moving images."
-      }
-    ],
-    "http://www.w3.org/2004/02/skos/core#inScheme": [
-      {
-        "@id": "https://doi.org/10.6069/uwlswd.jfr5-z647"
+        "@id": "https://doi.org/10.6069/uwlswd.42d2-ca58"
       }
     ],
     "http://www.w3.org/2004/02/skos/core#notation": [
@@ -546,157 +24,122 @@
     "http://www.w3.org/2004/02/skos/core#prefLabel": [
       {
         "@language": "en",
-        "@value": "filmographies"
+        "@value": "direct electronic"
       }
     ]
   },
   {
-    "@id": "https://doi.org/10.6069/uwlswd.jfr5-z647#k",
+    "@id": "https://doi.org/10.6069/uwlswd.42d2-ca58#e",
     "@type": [
       "http://www.w3.org/2004/02/skos/core#Concept"
     ],
     "http://www.w3.org/2004/02/skos/core#definition": [
       {
         "@language": "en",
-        "@value": "Discography or other bibliography of recorded sound."
+        "@value": "On newsprint and/or looks like a newspaper."
       }
     ],
     "http://www.w3.org/2004/02/skos/core#inScheme": [
       {
-        "@id": "https://doi.org/10.6069/uwlswd.jfr5-z647"
+        "@id": "https://doi.org/10.6069/uwlswd.42d2-ca58"
       }
     ],
     "http://www.w3.org/2004/02/skos/core#notation": [
       {
         "@language": "en",
-        "@value": "k"
+        "@value": "e"
       }
     ],
     "http://www.w3.org/2004/02/skos/core#prefLabel": [
       {
         "@language": "en",
-        "@value": "discographies"
+        "@value": "newspaper format"
       }
     ]
   },
   {
-    "@id": "https://doi.org/10.6069/uwlswd.jfr5-z647#pound",
+    "@id": "https://doi.org/10.6069/uwlswd.42d2-ca58#o",
     "@type": [
       "http://www.w3.org/2004/02/skos/core#Concept"
     ],
     "http://www.w3.org/2004/02/skos/core#definition": [
       {
         "@language": "en",
-        "@value": "Nature of the entire item is not specified."
+        "@value": "Accessed by means of hardware and software connections to a communications network."
       }
     ],
     "http://www.w3.org/2004/02/skos/core#inScheme": [
       {
-        "@id": "https://doi.org/10.6069/uwlswd.jfr5-z647"
+        "@id": "https://doi.org/10.6069/uwlswd.42d2-ca58"
       }
     ],
     "http://www.w3.org/2004/02/skos/core#notation": [
       {
         "@language": "en",
-        "@value": "#"
+        "@value": "o"
       }
     ],
     "http://www.w3.org/2004/02/skos/core#prefLabel": [
       {
         "@language": "en",
-        "@value": "not specified"
+        "@value": "online"
       }
     ]
   },
   {
-    "@id": "https://doi.org/10.6069/uwlswd.jfr5-z647#p",
+    "@id": "https://doi.org/10.6069/uwlswd.42d2-ca58#xx",
     "@type": [
       "http://www.w3.org/2004/02/skos/core#Concept"
     ],
     "http://www.w3.org/2004/02/skos/core#inScheme": [
       {
-        "@id": "https://doi.org/10.6069/uwlswd.jfr5-z647"
+        "@id": "https://doi.org/10.6069/uwlswd.42d2-ca58"
       }
     ],
     "http://www.w3.org/2004/02/skos/core#notation": [
       {
         "@language": "en",
-        "@value": "p"
+        "@value": "x"
       }
     ],
     "http://www.w3.org/2004/02/skos/core#prefLabel": [
       {
         "@language": "en",
-        "@value": "programmed texts"
+        "@value": "other physical medium (x) [obsolete]"
       }
     ]
   },
   {
-    "@id": "https://doi.org/10.6069/uwlswd.jfr5-z647#nx",
+    "@id": "https://doi.org/10.6069/uwlswd.42d2-ca58#f",
     "@type": [
       "http://www.w3.org/2004/02/skos/core#Concept"
     ],
     "http://www.w3.org/2004/02/skos/core#inScheme": [
       {
-        "@id": "https://doi.org/10.6069/uwlswd.jfr5-z647"
+        "@id": "https://doi.org/10.6069/uwlswd.42d2-ca58"
       }
     ],
     "http://www.w3.org/2004/02/skos/core#notation": [
       {
         "@language": "en",
-        "@value": "n"
+        "@value": "f"
       }
     ],
     "http://www.w3.org/2004/02/skos/core#prefLabel": [
       {
         "@language": "en",
-        "@value": "legal cases and case notes [obsolete]"
+        "@value": "braille"
       }
     ]
   },
   {
-    "@id": "https://doi.org/10.6069/uwlswd.jfr5-z647#h",
-    "@type": [
-      "http://www.w3.org/2004/02/skos/core#Concept"
-    ],
-    "http://www.w3.org/2004/02/skos/core#definition": [
-      {
-        "@language": "en",
-        "@value": "Biographical material, whether autobiography, individual biography, or collective biography."
-      }
-    ],
-    "http://www.w3.org/2004/02/skos/core#inScheme": [
-      {
-        "@id": "https://doi.org/10.6069/uwlswd.jfr5-z647"
-      }
-    ],
-    "http://www.w3.org/2004/02/skos/core#notation": [
-      {
-        "@language": "en",
-        "@value": "h"
-      }
-    ],
-    "http://www.w3.org/2004/02/skos/core#prefLabel": [
-      {
-        "@language": "en",
-        "@value": "biography"
-      }
-    ],
-    "http://www.w3.org/2004/02/skos/core#scopeNote": [
-      {
-        "@language": "en",
-        "@value": "Not used for genealogy."
-      }
-    ]
-  },
-  {
-    "@id": "https://doi.org/10.6069/uwlswd.jfr5-z647#d",
+    "@id": "https://doi.org/10.6069/uwlswd.42d2-ca58#d",
     "@type": [
       "http://www.w3.org/2004/02/skos/core#Concept"
     ],
     "http://www.w3.org/2004/02/skos/core#inScheme": [
       {
-        "@id": "https://doi.org/10.6069/uwlswd.jfr5-z647"
+        "@id": "https://doi.org/10.6069/uwlswd.42d2-ca58"
       }
     ],
     "http://www.w3.org/2004/02/skos/core#notation": [
@@ -708,53 +151,76 @@
     "http://www.w3.org/2004/02/skos/core#prefLabel": [
       {
         "@language": "en",
-        "@value": "dictionaries"
-      }
-    ],
-    "http://www.w3.org/2004/02/skos/core#scopeNote": [
-      {
-        "@language": "en",
-        "@value": "Also includes glossaries or gazetteers. Not used for concordances or serial biographical dictionaries."
+        "@value": "large print"
       }
     ]
   },
   {
-    "@id": "https://doi.org/10.6069/uwlswd.jfr5-z647#y",
+    "@id": "https://doi.org/10.6069/uwlswd.42d2-ca58pound",
     "@type": [
       "http://www.w3.org/2004/02/skos/core#Concept"
     ],
     "http://www.w3.org/2004/02/skos/core#definition": [
       {
         "@language": "en",
-        "@value": "Reference publication issued on an annual or less frequent basis that contains articles summarizing the accomplishments or events of a particular year within a specific discipline or area of endeavor."
+        "@value": "Form of original item other than microfilm, microfiche, microopaque, large print, newspaper format, braille, online, direct electronic, or electronic."
       }
     ],
     "http://www.w3.org/2004/02/skos/core#inScheme": [
       {
-        "@id": "https://doi.org/10.6069/uwlswd.jfr5-z647"
+        "@id": "https://doi.org/10.6069/uwlswd.42d2-ca58"
       }
     ],
     "http://www.w3.org/2004/02/skos/core#notation": [
       {
         "@language": "en",
-        "@value": "y"
+        "@value": "#"
       }
     ],
     "http://www.w3.org/2004/02/skos/core#prefLabel": [
       {
         "@language": "en",
-        "@value": "yearbooks"
+        "@value": "none of the following"
+      }
+    ]
+  },
+  {
+    "@id": "https://doi.org/10.6069/uwlswd.42d2-ca58#s",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#definition": [
+      {
+        "@language": "en",
+        "@value": "Intended for manipulation by a computer. May reside in a carrier accessed either directly or remotely, in some cases requiring the use of peripheral devices attached to the computer (e.g., a CD-ROM player)."
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#inScheme": [
+      {
+        "@id": "https://doi.org/10.6069/uwlswd.42d2-ca58"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#notation": [
+      {
+        "@language": "en",
+        "@value": "s"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "electronic"
       }
     ],
     "http://www.w3.org/2004/02/skos/core#scopeNote": [
       {
         "@language": "en",
-        "@value": "Not used for annual reports, which are administrative overviews of an organization."
+        "@value": "Not used for items that do not require the use of a computer (e.g., music compact discs, videodiscs)."
       }
     ]
   },
   {
-    "@id": "https://doi.org/10.6069/uwlswd.jfr5-z647",
+    "@id": "https://doi.org/10.6069/uwlswd.42d2-ca58",
     "@type": [
       "http://www.w3.org/2004/02/skos/core#ConceptScheme"
     ],
@@ -770,7 +236,7 @@
     ],
     "http://purl.org/dc/terms/alternative": [
       {
-        "@value": "MARC21 008/24 values for continuing resources expressed using RDF"
+        "@value": "MARC21 008/22 values for continuing resources expressed using RDF"
       }
     ],
     "http://purl.org/dc/terms/contributor": [
@@ -785,7 +251,7 @@
     ],
     "http://purl.org/dc/terms/description": [
       {
-        "@value": "Indicates the nature of an item if it consists entirely of a certain type of material."
+        "@value": "Indicates the form of material in which an item was originally published."
       }
     ],
     "http://purl.org/dc/terms/issued": [
@@ -818,7 +284,7 @@
     ],
     "http://purl.org/dc/terms/title": [
       {
-        "@value": "Continuing: nature of entire work"
+        "@value": "Continuing: form of original item"
       }
     ],
     "http://purl.org/dc/terms/type": [
@@ -833,19 +299,82 @@
     ]
   },
   {
-    "@id": "https://doi.org/10.6069/uwlswd.jfr5-z647#a",
+    "@id": "https://doi.org/10.6069/uwlswd.42d2-ca58#hx",
     "@type": [
       "http://www.w3.org/2004/02/skos/core#Concept"
     ],
-    "http://www.w3.org/2004/02/skos/core#definition": [
+    "http://www.w3.org/2004/02/skos/core#inScheme": [
+      {
+        "@id": "https://doi.org/10.6069/uwlswd.42d2-ca58"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#notation": [
       {
         "@language": "en",
-        "@value": "Abstracts or summaries of other publications."
+        "@value": "h"
       }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "magnetic tape [obsolete]"
+      }
+    ]
+  },
+  {
+    "@id": "https://doi.org/10.6069/uwlswd.42d2-ca58#b",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
     ],
     "http://www.w3.org/2004/02/skos/core#inScheme": [
       {
-        "@id": "https://doi.org/10.6069/uwlswd.jfr5-z647"
+        "@id": "https://doi.org/10.6069/uwlswd.42d2-ca58"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#notation": [
+      {
+        "@language": "en",
+        "@value": "b"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "microfiche"
+      }
+    ]
+  },
+  {
+    "@id": "https://doi.org/10.6069/uwlswd.42d2-ca58#gx",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#inScheme": [
+      {
+        "@id": "https://doi.org/10.6069/uwlswd.42d2-ca58"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#notation": [
+      {
+        "@language": "en",
+        "@value": "g"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "punched paper tape [obsolete]"
+      }
+    ]
+  },
+  {
+    "@id": "https://doi.org/10.6069/uwlswd.42d2-ca58#a",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#inScheme": [
+      {
+        "@id": "https://doi.org/10.6069/uwlswd.42d2-ca58"
       }
     ],
     "http://www.w3.org/2004/02/skos/core#notation": [
@@ -857,59 +386,64 @@
     "http://www.w3.org/2004/02/skos/core#prefLabel": [
       {
         "@language": "en",
-        "@value": "abstracts or summaries"
+        "@value": "microfilm"
       }
     ]
   },
   {
-    "@id": "https://doi.org/10.6069/uwlswd.jfr5-z647#l",
+    "@id": "https://doi.org/10.6069/uwlswd.42d2-ca58#c",
     "@type": [
       "http://www.w3.org/2004/02/skos/core#Concept"
     ],
-    "http://www.w3.org/2004/02/skos/core#definition": [
-      {
-        "@language": "en",
-        "@value": "Full or partial texts of enactments of legislative bodies or texts of rules and regulations issued by executive or administrative agencies."
-      }
-    ],
     "http://www.w3.org/2004/02/skos/core#inScheme": [
       {
-        "@id": "https://doi.org/10.6069/uwlswd.jfr5-z647"
+        "@id": "https://doi.org/10.6069/uwlswd.42d2-ca58"
       }
     ],
     "http://www.w3.org/2004/02/skos/core#notation": [
       {
         "@language": "en",
-        "@value": "l"
+        "@value": "c"
       }
     ],
     "http://www.w3.org/2004/02/skos/core#prefLabel": [
       {
         "@language": "en",
-        "@value": "legislation"
-      }
-    ],
-    "http://www.w3.org/2004/02/skos/core#scopeNote": [
-      {
-        "@language": "en",
-        "@value": "Also used when a work consists of texts of rules and regulations issued by executive or administrative agencies."
+        "@value": "microopaque"
       }
     ]
   },
   {
-    "@id": "https://doi.org/10.6069/uwlswd.jfr5-z647#i",
+    "@id": "https://doi.org/10.6069/uwlswd.42d2-ca58#zx",
     "@type": [
       "http://www.w3.org/2004/02/skos/core#Concept"
     ],
-    "http://www.w3.org/2004/02/skos/core#definition": [
+    "http://www.w3.org/2004/02/skos/core#inScheme": [
+      {
+        "@id": "https://doi.org/10.6069/uwlswd.42d2-ca58"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#notation": [
       {
         "@language": "en",
-        "@value": "Index to bibliographical material other than itself (e.g., an indexing journal)."
+        "@value": "z"
       }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "other physical medium (z) [obsolete]"
+      }
+    ]
+  },
+  {
+    "@id": "https://doi.org/10.6069/uwlswd.42d2-ca58#ix",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
     ],
     "http://www.w3.org/2004/02/skos/core#inScheme": [
       {
-        "@id": "https://doi.org/10.6069/uwlswd.jfr5-z647"
+        "@id": "https://doi.org/10.6069/uwlswd.42d2-ca58"
       }
     ],
     "http://www.w3.org/2004/02/skos/core#notation": [
@@ -921,7 +455,7 @@
     "http://www.w3.org/2004/02/skos/core#prefLabel": [
       {
         "@language": "en",
-        "@value": "indexes"
+        "@value": "multimedia [obsolete]"
       }
     ]
   }
