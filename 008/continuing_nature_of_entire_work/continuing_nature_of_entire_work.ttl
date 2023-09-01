@@ -1,0 +1,198 @@
+@prefix dc: <http://purl.org/dc/elements/1.1/> .
+@prefix dcmitype: <http://purl.org/dc/dcmitype/> .
+@prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix schema: <https://schema.org/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<https://doi.org/10.6069/uwlswd.jfr5-z647#5> a skos:Concept ;
+    skos:definition "Published systems of organizing days. These may be academic calendars or almanacs, calendars published by bodies, such as labor organizations, library associations, etc."@en ;
+    skos:inScheme <https://doi.org/10.6069/uwlswd.jfr5-z647> ;
+    skos:notation "5"@en ;
+    skos:prefLabel "calendars"@en .
+
+<https://doi.org/10.6069/uwlswd.jfr5-z647#6> a skos:Concept ;
+    skos:definition "Instances of \"sequential art\" in which a story (whether fact or fiction) is told primarily through a set of images (often in the form of multiple \"panels\" per page) presented concurrently but meant to be \"read\" sequentially by the viewer. The accompanying narrative and/or dialog text, when it occurs, works integrally with the images to tell the story."@en ;
+    skos:inScheme <https://doi.org/10.6069/uwlswd.jfr5-z647> ;
+    skos:notation "6"@en ;
+    skos:prefLabel "comics or graphic novels"@en .
+
+<https://doi.org/10.6069/uwlswd.jfr5-z647#a> a skos:Concept ;
+    skos:definition "Abstracts or summaries of other publications."@en ;
+    skos:inScheme <https://doi.org/10.6069/uwlswd.jfr5-z647> ;
+    skos:notation "a"@en ;
+    skos:prefLabel "abstracts or summaries"@en .
+
+<https://doi.org/10.6069/uwlswd.jfr5-z647#b> a skos:Concept ;
+    skos:inScheme <https://doi.org/10.6069/uwlswd.jfr5-z647> ;
+    skos:notation "b"@en ;
+    skos:prefLabel "bibliographies"@en .
+
+<https://doi.org/10.6069/uwlswd.jfr5-z647#c> a skos:Concept ;
+    skos:definition "List of items in a collection, such as a collection of books, a collection of art objects, etc."@en ;
+    skos:inScheme <https://doi.org/10.6069/uwlswd.jfr5-z647> ;
+    skos:notation "c"@en ;
+    skos:prefLabel "catalogs"@en .
+
+<https://doi.org/10.6069/uwlswd.jfr5-z647#d> a skos:Concept ;
+    skos:inScheme <https://doi.org/10.6069/uwlswd.jfr5-z647> ;
+    skos:notation "d"@en ;
+    skos:prefLabel "dictionaries"@en ;
+    skos:scopeNote "Also includes glossaries or gazetteers. Not used for concordances or serial biographical dictionaries."@en .
+
+<https://doi.org/10.6069/uwlswd.jfr5-z647#e> a skos:Concept ;
+    skos:definition "Encyclopedia or an encyclopedic treatment of a specific topic."@en ;
+    skos:inScheme <https://doi.org/10.6069/uwlswd.jfr5-z647> ;
+    skos:notation "e"@en ;
+    skos:prefLabel "encyclopedias"@en .
+
+<https://doi.org/10.6069/uwlswd.jfr5-z647#f> a skos:Concept ;
+    skos:inScheme <https://doi.org/10.6069/uwlswd.jfr5-z647> ;
+    skos:notation "f"@en ;
+    skos:prefLabel "handbooks"@en .
+
+<https://doi.org/10.6069/uwlswd.jfr5-z647#g> a skos:Concept ;
+    skos:definition "Substantive articles on legal topics, such as those published in law school reviews."@en ;
+    skos:inScheme <https://doi.org/10.6069/uwlswd.jfr5-z647> ;
+    skos:notation "g"@en ;
+    skos:prefLabel "legal articles"@en .
+
+<https://doi.org/10.6069/uwlswd.jfr5-z647#h> a skos:Concept ;
+    skos:definition "Biographical material, whether autobiography, individual biography, or collective biography."@en ;
+    skos:inScheme <https://doi.org/10.6069/uwlswd.jfr5-z647> ;
+    skos:notation "h"@en ;
+    skos:prefLabel "biography"@en ;
+    skos:scopeNote "Not used for genealogy."@en .
+
+<https://doi.org/10.6069/uwlswd.jfr5-z647#i> a skos:Concept ;
+    skos:definition "Index to bibliographical material other than itself (e.g., an indexing journal)."@en ;
+    skos:inScheme <https://doi.org/10.6069/uwlswd.jfr5-z647> ;
+    skos:notation "i"@en ;
+    skos:prefLabel "indexes"@en .
+
+<https://doi.org/10.6069/uwlswd.jfr5-z647#k> a skos:Concept ;
+    skos:definition "Discography or other bibliography of recorded sound."@en ;
+    skos:inScheme <https://doi.org/10.6069/uwlswd.jfr5-z647> ;
+    skos:notation "k"@en ;
+    skos:prefLabel "discographies"@en .
+
+<https://doi.org/10.6069/uwlswd.jfr5-z647#l> a skos:Concept ;
+    skos:definition "Full or partial texts of enactments of legislative bodies or texts of rules and regulations issued by executive or administrative agencies."@en ;
+    skos:inScheme <https://doi.org/10.6069/uwlswd.jfr5-z647> ;
+    skos:notation "l"@en ;
+    skos:prefLabel "legislation"@en ;
+    skos:scopeNote "Also used when a work consists of texts of rules and regulations issued by executive or administrative agencies."@en .
+
+<https://doi.org/10.6069/uwlswd.jfr5-z647#m> a skos:Concept ;
+    skos:definition "Thesis, dissertation, or work identified as having been created to satisfy the requirements for an academic certification or degree."@en ;
+    skos:inScheme <https://doi.org/10.6069/uwlswd.jfr5-z647> ;
+    skos:notation "m"@en ;
+    skos:prefLabel "theses"@en .
+
+<https://doi.org/10.6069/uwlswd.jfr5-z647#n> a skos:Concept ;
+    skos:definition "Authored surveys that summarize what has been published about a subject. Usually has a list of references either in the body of the work or as a bibliography."@en ;
+    skos:inScheme <https://doi.org/10.6069/uwlswd.jfr5-z647> ;
+    skos:notation "n"@en ;
+    skos:prefLabel "surveys of literature in a subject area"@en .
+
+<https://doi.org/10.6069/uwlswd.jfr5-z647#nx> a skos:Concept ;
+    skos:inScheme <https://doi.org/10.6069/uwlswd.jfr5-z647> ;
+    skos:notation "n"@en ;
+    skos:prefLabel "legal cases and case notes [obsolete]"@en .
+
+<https://doi.org/10.6069/uwlswd.jfr5-z647#o> a skos:Concept ;
+    skos:definition "Critical reviews of published or performed works (e.g., books, films, sound recordings, theater, etc.)."@en ;
+    skos:inScheme <https://doi.org/10.6069/uwlswd.jfr5-z647> ;
+    skos:notation "o"@en ;
+    skos:prefLabel "reviews"@en .
+
+<https://doi.org/10.6069/uwlswd.jfr5-z647#p> a skos:Concept ;
+    skos:inScheme <https://doi.org/10.6069/uwlswd.jfr5-z647> ;
+    skos:notation "p"@en ;
+    skos:prefLabel "programmed texts"@en .
+
+<https://doi.org/10.6069/uwlswd.jfr5-z647#pound> a skos:Concept ;
+    skos:definition "Nature of the entire item is not specified."@en ;
+    skos:inScheme <https://doi.org/10.6069/uwlswd.jfr5-z647> ;
+    skos:notation "#"@en ;
+    skos:prefLabel "not specified"@en .
+
+<https://doi.org/10.6069/uwlswd.jfr5-z647#q> a skos:Concept ;
+    skos:definition "Filmography or other bibliography of moving images."@en ;
+    skos:inScheme <https://doi.org/10.6069/uwlswd.jfr5-z647> ;
+    skos:notation "q"@en ;
+    skos:prefLabel "filmographies"@en .
+
+<https://doi.org/10.6069/uwlswd.jfr5-z647#r> a skos:Concept ;
+    skos:definition "Directory or register of persons or corporate bodies."@en ;
+    skos:inScheme <https://doi.org/10.6069/uwlswd.jfr5-z647> ;
+    skos:notation "r"@en ;
+    skos:prefLabel "directories"@en ;
+    skos:scopeNote "Not used for serial biographical dictionaries."@en .
+
+<https://doi.org/10.6069/uwlswd.jfr5-z647#s> a skos:Concept ;
+    skos:definition "Collection of statistical data on a subject."@en ;
+    skos:inScheme <https://doi.org/10.6069/uwlswd.jfr5-z647> ;
+    skos:notation "s"@en ;
+    skos:prefLabel "statistics"@en ;
+    skos:scopeNote "Not used for works about statistical methodology."@en .
+
+<https://doi.org/10.6069/uwlswd.jfr5-z647#t> a skos:Concept ;
+    skos:definition "The result of scientific investigation or technical development, testing, or evaluation, presented in a form suitable for dissemination to the technical community."@en ;
+    skos:inScheme <https://doi.org/10.6069/uwlswd.jfr5-z647> ;
+    skos:notation "t"@en ;
+    skos:prefLabel "technical reports"@en .
+
+<https://doi.org/10.6069/uwlswd.jfr5-z647#u> a skos:Concept ;
+    skos:definition "Either an international, national, or industry standard or a specification which gives a precise statement of a process or service requirement."@en ;
+    skos:inScheme <https://doi.org/10.6069/uwlswd.jfr5-z647> ;
+    skos:notation "u"@en ;
+    skos:prefLabel "standards or specifications"@en .
+
+<https://doi.org/10.6069/uwlswd.jfr5-z647#v> a skos:Concept ;
+    skos:definition "Discussions, such as those in the case comments section of law school reviews, of particular legal cases that have been decided by, or that are pending before, courts or administrative agencies."@en ;
+    skos:inScheme <https://doi.org/10.6069/uwlswd.jfr5-z647> ;
+    skos:notation "v"@en ;
+    skos:prefLabel "legal cases and case notes"@en .
+
+<https://doi.org/10.6069/uwlswd.jfr5-z647#w> a skos:Concept ;
+    skos:definition "Texts of decisions of courts or administrative agencies."@en ;
+    skos:inScheme <https://doi.org/10.6069/uwlswd.jfr5-z647> ;
+    skos:notation "w"@en ;
+    skos:prefLabel "law reports and digests"@en ;
+    skos:scopeNote "Also used when a work consists of texts of digests of such decisions."@en .
+
+<https://doi.org/10.6069/uwlswd.jfr5-z647#y> a skos:Concept ;
+    skos:definition "Reference publication issued on an annual or less frequent basis that contains articles summarizing the accomplishments or events of a particular year within a specific discipline or area of endeavor."@en ;
+    skos:inScheme <https://doi.org/10.6069/uwlswd.jfr5-z647> ;
+    skos:notation "y"@en ;
+    skos:prefLabel "yearbooks"@en ;
+    skos:scopeNote "Not used for annual reports, which are administrative overviews of an organization."@en .
+
+<https://doi.org/10.6069/uwlswd.jfr5-z647#yx> a skos:Concept ;
+    skos:inScheme <https://doi.org/10.6069/uwlswd.jfr5-z647> ;
+    skos:notation "y"@en ;
+    skos:prefLabel "yearbook [obsolete]"@en .
+
+<https://doi.org/10.6069/uwlswd.jfr5-z647#z> a skos:Concept ;
+    skos:definition "Treaties or accords negotiated between two or more parties to settle a disagreement, establish a relationship, grant rights, etc."@en ;
+    skos:inScheme <https://doi.org/10.6069/uwlswd.jfr5-z647> ;
+    skos:notation "z"@en ;
+    skos:prefLabel "treaties"@en .
+
+<https://doi.org/10.6069/uwlswd.jfr5-z647> a skos:ConceptScheme ;
+    dc:contributor "Metadata Management Associates" ;
+    dc:language "en" ;
+    dcterms:alternative "MARC21 008/24 values for continuing resources expressed using RDF" ;
+    dcterms:contributor <http://viaf.org/viaf/151962300> ;
+    dcterms:creator <http://viaf.org/viaf/139541794> ;
+    dcterms:description "Indicates the nature of an item if it consists entirely of a certain type of material." ;
+    dcterms:issued "2023" ;
+    dcterms:license <http://creativecommons.org/publicdomain/zero/1.0> ;
+    dcterms:provenance <https://doi.org/10.6069/uwlswd.2e2b-y833> ;
+    dcterms:publisher <http://viaf.org/viaf/139541794> ;
+    dcterms:source <http://marc21rdf.info>,
+        <https://www.loc.gov/marc/bibliographic/bd008.html> ;
+    dcterms:title "Continuing: nature of entire work" ;
+    dcterms:type dcmitype:Dataset ;
+    schema:version "1-0-0" .
+

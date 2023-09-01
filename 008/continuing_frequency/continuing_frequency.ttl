@@ -1,0 +1,137 @@
+@prefix dc: <http://purl.org/dc/elements/1.1/> .
+@prefix dcmitype: <http://purl.org/dc/dcmitype/> .
+@prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix schema: <https://schema.org/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<https://doi.org/10.6069/uwlswd.ggnh-4s58#a> a skos:Concept ;
+    skos:definition "Once a year."@en ;
+    skos:inScheme <https://doi.org/10.6069/uwlswd.ggnh-4s58> ;
+    skos:notation "a"@en ;
+    skos:prefLabel "annual"@en .
+
+<https://doi.org/10.6069/uwlswd.ggnh-4s58#b> a skos:Concept ;
+    skos:definition "Every two months."@en ;
+    skos:inScheme <https://doi.org/10.6069/uwlswd.ggnh-4s58> ;
+    skos:notation "b"@en ;
+    skos:prefLabel "bimonthly"@en ;
+    skos:scopeNote "Includes publications whose frequency is 6, 7, or 8 times a year."@en .
+
+<https://doi.org/10.6069/uwlswd.ggnh-4s58#c> a skos:Concept ;
+    skos:definition "Twice a week."@en ;
+    skos:inScheme <https://doi.org/10.6069/uwlswd.ggnh-4s58> ;
+    skos:notation "c"@en ;
+    skos:prefLabel "semiweekly"@en .
+
+<https://doi.org/10.6069/uwlswd.ggnh-4s58#d> a skos:Concept ;
+    skos:definition "Once a day."@en ;
+    skos:inScheme <https://doi.org/10.6069/uwlswd.ggnh-4s58> ;
+    skos:notation "d"@en ;
+    skos:prefLabel "daily"@en ;
+    skos:scopeNote "This may include Saturday and Sunday."@en .
+
+<https://doi.org/10.6069/uwlswd.ggnh-4s58#e> a skos:Concept ;
+    skos:definition "Every two weeks."@en ;
+    skos:inScheme <https://doi.org/10.6069/uwlswd.ggnh-4s58> ;
+    skos:notation "e"@en ;
+    skos:prefLabel "biweekly"@en .
+
+<https://doi.org/10.6069/uwlswd.ggnh-4s58#f> a skos:Concept ;
+    skos:definition "Twice a year."@en ;
+    skos:inScheme <https://doi.org/10.6069/uwlswd.ggnh-4s58> ;
+    skos:notation "f"@en ;
+    skos:prefLabel "semiannual"@en .
+
+<https://doi.org/10.6069/uwlswd.ggnh-4s58#g> a skos:Concept ;
+    skos:definition "Every two years."@en ;
+    skos:inScheme <https://doi.org/10.6069/uwlswd.ggnh-4s58> ;
+    skos:notation "g"@en ;
+    skos:prefLabel "biennial"@en .
+
+<https://doi.org/10.6069/uwlswd.ggnh-4s58#h> a skos:Concept ;
+    skos:definition "Every three years."@en ;
+    skos:inScheme <https://doi.org/10.6069/uwlswd.ggnh-4s58> ;
+    skos:notation "h"@en ;
+    skos:prefLabel "triennial"@en .
+
+<https://doi.org/10.6069/uwlswd.ggnh-4s58#i> a skos:Concept ;
+    skos:inScheme <https://doi.org/10.6069/uwlswd.ggnh-4s58> ;
+    skos:notation "i"@en ;
+    skos:prefLabel "three times a week"@en .
+
+<https://doi.org/10.6069/uwlswd.ggnh-4s58#j> a skos:Concept ;
+    skos:inScheme <https://doi.org/10.6069/uwlswd.ggnh-4s58> ;
+    skos:notation "j"@en ;
+    skos:prefLabel "three times a month"@en .
+
+<https://doi.org/10.6069/uwlswd.ggnh-4s58#k> a skos:Concept ;
+    skos:definition "More frequent than daily."@en ;
+    skos:inScheme <https://doi.org/10.6069/uwlswd.ggnh-4s58> ;
+    skos:notation "k"@en ;
+    skos:prefLabel "continuously updated"@en .
+
+<https://doi.org/10.6069/uwlswd.ggnh-4s58#m> a skos:Concept ;
+    skos:inScheme <https://doi.org/10.6069/uwlswd.ggnh-4s58> ;
+    skos:notation "m"@en ;
+    skos:prefLabel "monthly"@en ;
+    skos:scopeNote "Includes publications whose frequency is 9, 10, 11, or 12 times a year."@en .
+
+<https://doi.org/10.6069/uwlswd.ggnh-4s58#pound> a skos:Concept ;
+    skos:definition "Used when the frequency is known to be intentionally irregular."@en ;
+    skos:inScheme <https://doi.org/10.6069/uwlswd.ggnh-4s58> ;
+    skos:notation "#"@en ;
+    skos:prefLabel "no determinable frequency"@en .
+
+<https://doi.org/10.6069/uwlswd.ggnh-4s58#q> a skos:Concept ;
+    skos:definition "Every three months."@en ;
+    skos:inScheme <https://doi.org/10.6069/uwlswd.ggnh-4s58> ;
+    skos:notation "q"@en ;
+    skos:prefLabel "quarterly"@en ;
+    skos:scopeNote "Includes publications whose frequency is 4 times a year."@en .
+
+<https://doi.org/10.6069/uwlswd.ggnh-4s58#s> a skos:Concept ;
+    skos:definition "Twice a month."@en ;
+    skos:inScheme <https://doi.org/10.6069/uwlswd.ggnh-4s58> ;
+    skos:notation "s"@en ;
+    skos:prefLabel "semimonthly"@en .
+
+<https://doi.org/10.6069/uwlswd.ggnh-4s58#t> a skos:Concept ;
+    skos:inScheme <https://doi.org/10.6069/uwlswd.ggnh-4s58> ;
+    skos:notation "t"@en ;
+    skos:prefLabel "three times a year"@en .
+
+<https://doi.org/10.6069/uwlswd.ggnh-4s58#u> a skos:Concept ;
+    skos:definition "Current frequency of the item is unknown."@en ;
+    skos:inScheme <https://doi.org/10.6069/uwlswd.ggnh-4s58> ;
+    skos:notation "u"@en ;
+    skos:prefLabel "unknown"@en .
+
+<https://doi.org/10.6069/uwlswd.ggnh-4s58#w> a skos:Concept ;
+    skos:definition "Once a week."@en ;
+    skos:inScheme <https://doi.org/10.6069/uwlswd.ggnh-4s58> ;
+    skos:notation "w"@en ;
+    skos:prefLabel "weekly"@en .
+
+<https://doi.org/10.6069/uwlswd.ggnh-4s58#z> a skos:Concept ;
+    skos:definition "Frequency other than intentionally irregulay, annual, bimonthly, semiweekly, daily, biweekly, semiannual, biennial, triennial, three times a week, three times a month, continuously updated, monthly, quarterly, semimonthly, three times a year, weekly, or unknown."@en ;
+    skos:inScheme <https://doi.org/10.6069/uwlswd.ggnh-4s58> ;
+    skos:notation "z"@en ;
+    skos:prefLabel "other"@en .
+
+<https://doi.org/10.6069/uwlswd.ggnh-4s58> a skos:ConceptScheme ;
+    dc:contributor "Metadata Management Associates" ;
+    dc:language "en" ;
+    dcterms:alternative "MARC21 008/18 values for continuing resources expressed using RDF" ;
+    dcterms:contributor <http://viaf.org/viaf/151962300> ;
+    dcterms:creator <http://viaf.org/viaf/139541794> ;
+    dcterms:description "Indicates the frequency of an item. In the case of integrating resources, updates to an item." ;
+    dcterms:issued "2023" ;
+    dcterms:license <http://creativecommons.org/publicdomain/zero/1.0> ;
+    dcterms:provenance <https://doi.org/10.6069/uwlswd.2e2b-y833> ;
+    dcterms:publisher <http://viaf.org/viaf/139541794> ;
+    dcterms:source <http://marc21rdf.info>,
+        <https://www.loc.gov/marc/bibliographic/bd008.html> ;
+    dcterms:title "Continuing: frequency" ;
+    dcterms:type dcmitype:Dataset ;
+    schema:version "1-0-0" .
+
