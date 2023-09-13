@@ -1,0 +1,129 @@
+@prefix dc: <http://purl.org/dc/elements/1.1/> .
+@prefix dct: <http://purl.org/dc/terms/> .
+@prefix schema: <https://schema.org/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<https://doi.org/10.6069/uwlswd.25z4-e963#a> a skos:Concept ;
+    skos:definition "Nonserial language material."@en ;
+    skos:inScheme <https://doi.org/10.6069/uwlswd.25z4-e963> ;
+    skos:notation "a"@en ;
+    skos:prefLabel "language material"@en .
+
+<https://doi.org/10.6069/uwlswd.25z4-e963#c> a skos:Concept ;
+    skos:definition "Notated music."@en ;
+    skos:inScheme <https://doi.org/10.6069/uwlswd.25z4-e963> ;
+    skos:notation "c"@en ;
+    skos:prefLabel "notated music"@en .
+
+<https://doi.org/10.6069/uwlswd.25z4-e963#d> a skos:Concept ;
+    skos:definition "Manuscript notated music."@en ;
+    skos:inScheme <https://doi.org/10.6069/uwlswd.25z4-e963> ;
+    skos:notation "d"@en ;
+    skos:prefLabel "manuscript notated music"@en .
+
+<https://doi.org/10.6069/uwlswd.25z4-e963#e> a skos:Concept ;
+    skos:definition "Nonmanuscript cartographic material."@en ;
+    skos:inScheme <https://doi.org/10.6069/uwlswd.25z4-e963> ;
+    skos:notation "e"@en ;
+    skos:prefLabel "cartographic material"@en .
+
+<https://doi.org/10.6069/uwlswd.25z4-e963#f> a skos:Concept ;
+    skos:definition "Manuscript cartographic material ."@en ;
+    skos:inScheme <https://doi.org/10.6069/uwlswd.25z4-e963> ;
+    skos:notation "f"@en ;
+    skos:prefLabel "manuscript cartographic material"@en .
+
+<https://doi.org/10.6069/uwlswd.25z4-e963#g> a skos:Concept ;
+    skos:definition "Projected medium."@en ;
+    skos:inScheme <https://doi.org/10.6069/uwlswd.25z4-e963> ;
+    skos:notation "g"@en ;
+    skos:prefLabel "projected medium"@en .
+
+<https://doi.org/10.6069/uwlswd.25z4-e963#i> a skos:Concept ;
+    skos:definition "Nonmusical sound recording."@en ;
+    skos:inScheme <https://doi.org/10.6069/uwlswd.25z4-e963> ;
+    skos:notation "i"@en ;
+    skos:prefLabel "nonmusical sound recording"@en .
+
+<https://doi.org/10.6069/uwlswd.25z4-e963#j> a skos:Concept ;
+    skos:definition "Musical sound recording."@en ;
+    skos:inScheme <https://doi.org/10.6069/uwlswd.25z4-e963> ;
+    skos:notation "j"@en ;
+    skos:prefLabel "musical sound recording"@en .
+
+<https://doi.org/10.6069/uwlswd.25z4-e963#k> a skos:Concept ;
+    skos:definition "Two-dimensional nonprojectable graphic."@en ;
+    skos:inScheme <https://doi.org/10.6069/uwlswd.25z4-e963> ;
+    skos:notation "k"@en ;
+    skos:prefLabel "two-dimensional nonprojectable graphic"@en .
+
+<https://doi.org/10.6069/uwlswd.25z4-e963#m> a skos:Concept ;
+    skos:definition """Computer file or an electronic resource in
+         form."""@en ;
+    skos:inScheme <https://doi.org/10.6069/uwlswd.25z4-e963> ;
+    skos:notation "m"@en ;
+    skos:prefLabel "computer file or electronic resource"@en .
+
+<https://doi.org/10.6069/uwlswd.25z4-e963#o> a skos:Concept ;
+    skos:definition "Kit."@en ;
+    skos:inScheme <https://doi.org/10.6069/uwlswd.25z4-e963> ;
+    skos:notation "o"@en ;
+    skos:prefLabel "kit"@en .
+
+<https://doi.org/10.6069/uwlswd.25z4-e963#p> a skos:Concept ;
+    skos:definition "Mixed material."@en ;
+    skos:inScheme <https://doi.org/10.6069/uwlswd.25z4-e963> ;
+    skos:notation "p"@en ;
+    skos:prefLabel "mixed material"@en .
+
+<https://doi.org/10.6069/uwlswd.25z4-e963#r> a skos:Concept ;
+    skos:definition """Three-dimensional artifact or naturally occurring
+         object."""@en ;
+    skos:inScheme <https://doi.org/10.6069/uwlswd.25z4-e963> ;
+    skos:notation "r"@en ;
+    skos:prefLabel """three-dimensional artifact or naturally occurring
+         object"""@en .
+
+<https://doi.org/10.6069/uwlswd.25z4-e963#s> a skos:Concept ;
+    skos:definition """Control aspects of a non-printed continuing
+         resource."""@en ;
+    skos:inScheme <https://doi.org/10.6069/uwlswd.25z4-e963> ;
+    skos:notation "s"@en ;
+    skos:prefLabel "serial or integrating resource"@en .
+
+<https://doi.org/10.6069/uwlswd.25z4-e963#t> a skos:Concept ;
+    skos:definition "Manuscript language material."@en ;
+    skos:inScheme <https://doi.org/10.6069/uwlswd.25z4-e963> ;
+    skos:notation "t"@en ;
+    skos:prefLabel "manuscript language material"@en .
+
+<https://doi.org/10.6069/uwlswd.25z4-e963> a skos:ConceptScheme ;
+    dc:contributor "Library of Congress"@en,
+        "Metadata Management Associates"@en ;
+    dc:creator "University of Washington Libraries"@en ;
+    dc:language "en" ;
+    dc:publisher "University of Washington Libraries"@en ;
+    dct:alternative """MARC21 006/00 values for all materials expressed using
+         RDF"""@en ;
+    dct:contributor <http://viaf.org/viaf/151962300> ;
+    dct:creator <http://viaf.org/viaf/139541794> ;
+    dct:description "Identifies a form of material."@en ;
+    dct:format <http://www.w3.org/ns/formats/RDF_XML> ;
+    dct:hasFormat <http://www.w3.org/ns/formats/JSON-LD>,
+        <http://www.w3.org/ns/formats/N-Triples>,
+        <http://www.w3.org/ns/formats/RDFa>,
+        <http://www.w3.org/ns/formats/Turtle>,
+        <https://uwlib-cams.github.io/uwlswd_vocabs_marc_006_008/006/form_of_material.html>,
+        <https://uwlib-cams.github.io/uwlswd_vocabs_marc_006_008/006/form_of_material.jsonld>,
+        <https://uwlib-cams.github.io/uwlswd_vocabs_marc_006_008/006/form_of_material.nt>,
+        <https://uwlib-cams.github.io/uwlswd_vocabs_marc_006_008/006/form_of_material.rdf> ;
+    dct:issued "2023" ;
+    dct:license <http://creativecommons.org/publicdomain/zero/1.0> ;
+    dct:provenance <https://doi.org/10.6069/uwlswd.2e2b-y833#marc00Xvalues> ;
+    dct:publisher <http://viaf.org/viaf/139541794> ;
+    dct:source <http://marc21rdf.info>,
+        <https://www.loc.gov/marc/bibliographic/bd008.html> ;
+    dct:title "Form of material"@en ;
+    schema:additionalType "Dataset"@en ;
+    schema:version "1-0-0" .
+
