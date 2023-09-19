@@ -30,7 +30,7 @@
     <dct:hasFormat rdf:resource="https://uwlib-cams.github.io/uwlswd_vocabs_marc_006_008/006/form_of_material.html"/>
     <dct:license rdf:resource="http://creativecommons.org/publicdomain/zero/1.0"/>
     <dct:description xml:lang="en">Identifies a form of material.</dct:description>
-    <schema:version>1-1-0</schema:version>
+    <schema:version>1-1-1</schema:version>
     <dct:provenance rdf:resource="https://doi.org/10.6069/uwlswd.2e2b-y833#marc00Xvalues"/>
   </rdf:Description>
   <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.25z4-e963#s">
@@ -39,21 +39,21 @@
     <skos:prefLabel xml:lang="en">serial or integrating resource</skos:prefLabel>
     <skos:definition xml:lang="en">Control aspects of a non-printed continuing
          resource.</skos:definition>
-    <skos:notation xml:lang="en">s</skos:notation>
+    <skos:notation>s</skos:notation>
   </rdf:Description>
   <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.25z4-e963#d">
     <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
     <skos:inScheme rdf:resource="https://doi.org/10.6069/uwlswd.25z4-e963"/>
     <skos:prefLabel xml:lang="en">manuscript notated music</skos:prefLabel>
     <skos:definition xml:lang="en">Manuscript notated music.</skos:definition>
-    <skos:notation xml:lang="en">d</skos:notation>
+    <skos:notation>d</skos:notation>
   </rdf:Description>
   <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.25z4-e963#e">
     <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
     <skos:inScheme rdf:resource="https://doi.org/10.6069/uwlswd.25z4-e963"/>
     <skos:prefLabel xml:lang="en">cartographic material</skos:prefLabel>
     <skos:definition xml:lang="en">Nonmanuscript cartographic material.</skos:definition>
-    <skos:notation xml:lang="en">e</skos:notation>
+    <skos:notation>e</skos:notation>
   </rdf:Description>
   <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.25z4-e963#r">
     <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
@@ -62,14 +62,14 @@
          object</skos:prefLabel>
     <skos:definition xml:lang="en">Three-dimensional artifact or naturally occurring
          object.</skos:definition>
-    <skos:notation xml:lang="en">r</skos:notation>
+    <skos:notation>r</skos:notation>
   </rdf:Description>
   <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.25z4-e963#t">
     <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
     <skos:inScheme rdf:resource="https://doi.org/10.6069/uwlswd.25z4-e963"/>
     <skos:prefLabel xml:lang="en">manuscript language material</skos:prefLabel>
     <skos:definition xml:lang="en">Manuscript language material.</skos:definition>
-    <skos:notation xml:lang="en">t</skos:notation>
+    <skos:notation>t</skos:notation>
   </rdf:Description>
   <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.25z4-e963#m">
     <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
@@ -77,69 +77,69 @@
     <skos:prefLabel xml:lang="en">computer file or electronic resource</skos:prefLabel>
     <skos:definition xml:lang="en">Computer file or an electronic resource in
          form.</skos:definition>
-    <skos:notation xml:lang="en">m</skos:notation>
+    <skos:notation>m</skos:notation>
   </rdf:Description>
   <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.25z4-e963#g">
     <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
     <skos:inScheme rdf:resource="https://doi.org/10.6069/uwlswd.25z4-e963"/>
     <skos:prefLabel xml:lang="en">projected medium</skos:prefLabel>
     <skos:definition xml:lang="en">Projected medium.</skos:definition>
-    <skos:notation xml:lang="en">g</skos:notation>
+    <skos:notation>g</skos:notation>
   </rdf:Description>
   <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.25z4-e963#k">
     <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
     <skos:inScheme rdf:resource="https://doi.org/10.6069/uwlswd.25z4-e963"/>
     <skos:prefLabel xml:lang="en">two-dimensional nonprojectable graphic</skos:prefLabel>
     <skos:definition xml:lang="en">Two-dimensional nonprojectable graphic.</skos:definition>
-    <skos:notation xml:lang="en">k</skos:notation>
+    <skos:notation>k</skos:notation>
   </rdf:Description>
   <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.25z4-e963#j">
     <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
     <skos:inScheme rdf:resource="https://doi.org/10.6069/uwlswd.25z4-e963"/>
     <skos:prefLabel xml:lang="en">musical sound recording</skos:prefLabel>
     <skos:definition xml:lang="en">Musical sound recording.</skos:definition>
-    <skos:notation xml:lang="en">j</skos:notation>
+    <skos:notation>j</skos:notation>
   </rdf:Description>
   <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.25z4-e963#o">
     <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
     <skos:inScheme rdf:resource="https://doi.org/10.6069/uwlswd.25z4-e963"/>
     <skos:prefLabel xml:lang="en">kit</skos:prefLabel>
     <skos:definition xml:lang="en">Kit.</skos:definition>
-    <skos:notation xml:lang="en">o</skos:notation>
+    <skos:notation>o</skos:notation>
   </rdf:Description>
   <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.25z4-e963#a">
     <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
     <skos:inScheme rdf:resource="https://doi.org/10.6069/uwlswd.25z4-e963"/>
     <skos:prefLabel xml:lang="en">language material</skos:prefLabel>
     <skos:definition xml:lang="en">Nonserial language material.</skos:definition>
-    <skos:notation xml:lang="en">a</skos:notation>
+    <skos:notation>a</skos:notation>
   </rdf:Description>
   <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.25z4-e963#i">
     <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
     <skos:inScheme rdf:resource="https://doi.org/10.6069/uwlswd.25z4-e963"/>
     <skos:prefLabel xml:lang="en">nonmusical sound recording</skos:prefLabel>
     <skos:definition xml:lang="en">Nonmusical sound recording.</skos:definition>
-    <skos:notation xml:lang="en">i</skos:notation>
+    <skos:notation>i</skos:notation>
   </rdf:Description>
   <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.25z4-e963#p">
     <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
     <skos:inScheme rdf:resource="https://doi.org/10.6069/uwlswd.25z4-e963"/>
     <skos:prefLabel xml:lang="en">mixed material</skos:prefLabel>
     <skos:definition xml:lang="en">Mixed material.</skos:definition>
-    <skos:notation xml:lang="en">p</skos:notation>
+    <skos:notation>p</skos:notation>
   </rdf:Description>
   <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.25z4-e963#f">
     <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
     <skos:inScheme rdf:resource="https://doi.org/10.6069/uwlswd.25z4-e963"/>
     <skos:prefLabel xml:lang="en">manuscript cartographic material</skos:prefLabel>
     <skos:definition xml:lang="en">Manuscript cartographic material .</skos:definition>
-    <skos:notation xml:lang="en">f</skos:notation>
+    <skos:notation>f</skos:notation>
   </rdf:Description>
   <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.25z4-e963#c">
     <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
     <skos:inScheme rdf:resource="https://doi.org/10.6069/uwlswd.25z4-e963"/>
     <skos:prefLabel xml:lang="en">notated music</skos:prefLabel>
     <skos:definition xml:lang="en">Notated music.</skos:definition>
-    <skos:notation xml:lang="en">c</skos:notation>
+    <skos:notation>c</skos:notation>
   </rdf:Description>
 </rdf:RDF>
