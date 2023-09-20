@@ -1,7 +1,8 @@
 # uwlswd_vocabs_marc_006_008
+See also [uwlswd_vocabs_marc007](https://github.com/uwlib-cams/uwlswd_vocabs_marc_007)   
+*For further information please visit [uwlswd.wiki](https://github.com/uwlib-cams/uwlswd/wiki)*  
 
-[ add brief description, [link to 007 vocabs](https://github.com/uwlib-cams/uwlswd_vocabs_marc_007), here ]
-
+## folder/file structure
 - uwlswd_vocabs_marc_006_008 (root directory)/
   - marc_006
     - form_of_material/
