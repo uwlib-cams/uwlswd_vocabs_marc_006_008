@@ -1,179 +1,5 @@
 [
   {
-    "@id": "https://doi.org/10.6069/uwlswd.25z4-e963#d",
-    "@type": [
-      "http://www.w3.org/2004/02/skos/core#Concept"
-    ],
-    "http://www.w3.org/2004/02/skos/core#definition": [
-      {
-        "@language": "en",
-        "@value": "Manuscript notated music."
-      }
-    ],
-    "http://www.w3.org/2004/02/skos/core#inScheme": [
-      {
-        "@id": "https://doi.org/10.6069/uwlswd.25z4-e963"
-      }
-    ],
-    "http://www.w3.org/2004/02/skos/core#notation": [
-      {
-        "@language": "en",
-        "@value": "d"
-      }
-    ],
-    "http://www.w3.org/2004/02/skos/core#prefLabel": [
-      {
-        "@language": "en",
-        "@value": "manuscript notated music"
-      }
-    ]
-  },
-  {
-    "@id": "https://doi.org/10.6069/uwlswd.25z4-e963#s",
-    "@type": [
-      "http://www.w3.org/2004/02/skos/core#Concept"
-    ],
-    "http://www.w3.org/2004/02/skos/core#definition": [
-      {
-        "@language": "en",
-        "@value": "Control aspects of a non-printed continuing\n         resource."
-      }
-    ],
-    "http://www.w3.org/2004/02/skos/core#inScheme": [
-      {
-        "@id": "https://doi.org/10.6069/uwlswd.25z4-e963"
-      }
-    ],
-    "http://www.w3.org/2004/02/skos/core#notation": [
-      {
-        "@language": "en",
-        "@value": "s"
-      }
-    ],
-    "http://www.w3.org/2004/02/skos/core#prefLabel": [
-      {
-        "@language": "en",
-        "@value": "serial or integrating resource"
-      }
-    ]
-  },
-  {
-    "@id": "https://doi.org/10.6069/uwlswd.25z4-e963#k",
-    "@type": [
-      "http://www.w3.org/2004/02/skos/core#Concept"
-    ],
-    "http://www.w3.org/2004/02/skos/core#definition": [
-      {
-        "@language": "en",
-        "@value": "Two-dimensional nonprojectable graphic."
-      }
-    ],
-    "http://www.w3.org/2004/02/skos/core#inScheme": [
-      {
-        "@id": "https://doi.org/10.6069/uwlswd.25z4-e963"
-      }
-    ],
-    "http://www.w3.org/2004/02/skos/core#notation": [
-      {
-        "@language": "en",
-        "@value": "k"
-      }
-    ],
-    "http://www.w3.org/2004/02/skos/core#prefLabel": [
-      {
-        "@language": "en",
-        "@value": "two-dimensional nonprojectable graphic"
-      }
-    ]
-  },
-  {
-    "@id": "https://doi.org/10.6069/uwlswd.25z4-e963#a",
-    "@type": [
-      "http://www.w3.org/2004/02/skos/core#Concept"
-    ],
-    "http://www.w3.org/2004/02/skos/core#definition": [
-      {
-        "@language": "en",
-        "@value": "Nonserial language material."
-      }
-    ],
-    "http://www.w3.org/2004/02/skos/core#inScheme": [
-      {
-        "@id": "https://doi.org/10.6069/uwlswd.25z4-e963"
-      }
-    ],
-    "http://www.w3.org/2004/02/skos/core#notation": [
-      {
-        "@language": "en",
-        "@value": "a"
-      }
-    ],
-    "http://www.w3.org/2004/02/skos/core#prefLabel": [
-      {
-        "@language": "en",
-        "@value": "language material"
-      }
-    ]
-  },
-  {
-    "@id": "https://doi.org/10.6069/uwlswd.25z4-e963#t",
-    "@type": [
-      "http://www.w3.org/2004/02/skos/core#Concept"
-    ],
-    "http://www.w3.org/2004/02/skos/core#definition": [
-      {
-        "@language": "en",
-        "@value": "Manuscript language material."
-      }
-    ],
-    "http://www.w3.org/2004/02/skos/core#inScheme": [
-      {
-        "@id": "https://doi.org/10.6069/uwlswd.25z4-e963"
-      }
-    ],
-    "http://www.w3.org/2004/02/skos/core#notation": [
-      {
-        "@language": "en",
-        "@value": "t"
-      }
-    ],
-    "http://www.w3.org/2004/02/skos/core#prefLabel": [
-      {
-        "@language": "en",
-        "@value": "manuscript language material"
-      }
-    ]
-  },
-  {
-    "@id": "https://doi.org/10.6069/uwlswd.25z4-e963#j",
-    "@type": [
-      "http://www.w3.org/2004/02/skos/core#Concept"
-    ],
-    "http://www.w3.org/2004/02/skos/core#definition": [
-      {
-        "@language": "en",
-        "@value": "Musical sound recording."
-      }
-    ],
-    "http://www.w3.org/2004/02/skos/core#inScheme": [
-      {
-        "@id": "https://doi.org/10.6069/uwlswd.25z4-e963"
-      }
-    ],
-    "http://www.w3.org/2004/02/skos/core#notation": [
-      {
-        "@language": "en",
-        "@value": "j"
-      }
-    ],
-    "http://www.w3.org/2004/02/skos/core#prefLabel": [
-      {
-        "@language": "en",
-        "@value": "musical sound recording"
-      }
-    ]
-  },
-  {
     "@id": "https://doi.org/10.6069/uwlswd.25z4-e963#i",
     "@type": [
       "http://www.w3.org/2004/02/skos/core#Concept"
@@ -191,7 +17,6 @@
     ],
     "http://www.w3.org/2004/02/skos/core#notation": [
       {
-        "@language": "en",
         "@value": "i"
       }
     ],
@@ -220,7 +45,6 @@
     ],
     "http://www.w3.org/2004/02/skos/core#notation": [
       {
-        "@language": "en",
         "@value": "f"
       }
     ],
@@ -228,35 +52,6 @@
       {
         "@language": "en",
         "@value": "manuscript cartographic material"
-      }
-    ]
-  },
-  {
-    "@id": "https://doi.org/10.6069/uwlswd.25z4-e963#r",
-    "@type": [
-      "http://www.w3.org/2004/02/skos/core#Concept"
-    ],
-    "http://www.w3.org/2004/02/skos/core#definition": [
-      {
-        "@language": "en",
-        "@value": "Three-dimensional artifact or naturally occurring\n         object."
-      }
-    ],
-    "http://www.w3.org/2004/02/skos/core#inScheme": [
-      {
-        "@id": "https://doi.org/10.6069/uwlswd.25z4-e963"
-      }
-    ],
-    "http://www.w3.org/2004/02/skos/core#notation": [
-      {
-        "@language": "en",
-        "@value": "r"
-      }
-    ],
-    "http://www.w3.org/2004/02/skos/core#prefLabel": [
-      {
-        "@language": "en",
-        "@value": "three-dimensional artifact or naturally occurring\n         object"
       }
     ]
   },
@@ -278,7 +73,6 @@
     ],
     "http://www.w3.org/2004/02/skos/core#notation": [
       {
-        "@language": "en",
         "@value": "c"
       }
     ],
@@ -286,35 +80,6 @@
       {
         "@language": "en",
         "@value": "notated music"
-      }
-    ]
-  },
-  {
-    "@id": "https://doi.org/10.6069/uwlswd.25z4-e963#o",
-    "@type": [
-      "http://www.w3.org/2004/02/skos/core#Concept"
-    ],
-    "http://www.w3.org/2004/02/skos/core#definition": [
-      {
-        "@language": "en",
-        "@value": "Kit."
-      }
-    ],
-    "http://www.w3.org/2004/02/skos/core#inScheme": [
-      {
-        "@id": "https://doi.org/10.6069/uwlswd.25z4-e963"
-      }
-    ],
-    "http://www.w3.org/2004/02/skos/core#notation": [
-      {
-        "@language": "en",
-        "@value": "o"
-      }
-    ],
-    "http://www.w3.org/2004/02/skos/core#prefLabel": [
-      {
-        "@language": "en",
-        "@value": "kit"
       }
     ]
   },
@@ -327,16 +92,6 @@
       {
         "@language": "en",
         "@value": "Metadata Management Associates"
-      },
-      {
-        "@language": "en",
-        "@value": "Library of Congress"
-      }
-    ],
-    "http://purl.org/dc/elements/1.1/creator": [
-      {
-        "@language": "en",
-        "@value": "University of Washington Libraries"
       }
     ],
     "http://purl.org/dc/elements/1.1/language": [
@@ -344,16 +99,10 @@
         "@value": "en"
       }
     ],
-    "http://purl.org/dc/elements/1.1/publisher": [
-      {
-        "@language": "en",
-        "@value": "University of Washington Libraries"
-      }
-    ],
     "http://purl.org/dc/terms/alternative": [
       {
         "@language": "en",
-        "@value": "MARC21 006/00 values for all materials expressed using\n         RDF"
+        "@value": "MARC21 006/00 values for all materials expressed using RDF"
       }
     ],
     "http://purl.org/dc/terms/contributor": [
@@ -374,22 +123,10 @@
     ],
     "http://purl.org/dc/terms/format": [
       {
-        "@id": "http://www.w3.org/ns/formats/RDF_XML"
+        "@id": "http://www.w3.org/ns/formats/JSON-LD"
       }
     ],
     "http://purl.org/dc/terms/hasFormat": [
-      {
-        "@id": "http://www.w3.org/ns/formats/JSON-LD"
-      },
-      {
-        "@id": "http://www.w3.org/ns/formats/N-Triples"
-      },
-      {
-        "@id": "http://www.w3.org/ns/formats/Turtle"
-      },
-      {
-        "@id": "http://www.w3.org/ns/formats/RDFa"
-      },
       {
         "@id": "https://uwlib-cams.github.io/uwlswd_vocabs_marc_006_008/006/form_of_material.html"
       },
@@ -443,9 +180,42 @@
         "@value": "Dataset"
       }
     ],
+    "https://schema.org/disambiguatingDescription": [
+      {
+        "@value": "SKOS Concept Scheme for MARC 00X Values"
+      }
+    ],
     "https://schema.org/version": [
       {
-        "@value": "1-0-0"
+        "@value": "1-2-0"
+      }
+    ]
+  },
+  {
+    "@id": "https://doi.org/10.6069/uwlswd.25z4-e963#a",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#definition": [
+      {
+        "@language": "en",
+        "@value": "Nonserial language material."
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#inScheme": [
+      {
+        "@id": "https://doi.org/10.6069/uwlswd.25z4-e963"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#notation": [
+      {
+        "@value": "a"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "language material"
       }
     ]
   },
@@ -457,7 +227,7 @@
     "http://www.w3.org/2004/02/skos/core#definition": [
       {
         "@language": "en",
-        "@value": "Computer file or an electronic resource in\n         form."
+        "@value": "Computer file or an electronic resource in form."
       }
     ],
     "http://www.w3.org/2004/02/skos/core#inScheme": [
@@ -467,7 +237,6 @@
     ],
     "http://www.w3.org/2004/02/skos/core#notation": [
       {
-        "@language": "en",
         "@value": "m"
       }
     ],
@@ -475,35 +244,6 @@
       {
         "@language": "en",
         "@value": "computer file or electronic resource"
-      }
-    ]
-  },
-  {
-    "@id": "https://doi.org/10.6069/uwlswd.25z4-e963#p",
-    "@type": [
-      "http://www.w3.org/2004/02/skos/core#Concept"
-    ],
-    "http://www.w3.org/2004/02/skos/core#definition": [
-      {
-        "@language": "en",
-        "@value": "Mixed material."
-      }
-    ],
-    "http://www.w3.org/2004/02/skos/core#inScheme": [
-      {
-        "@id": "https://doi.org/10.6069/uwlswd.25z4-e963"
-      }
-    ],
-    "http://www.w3.org/2004/02/skos/core#notation": [
-      {
-        "@language": "en",
-        "@value": "p"
-      }
-    ],
-    "http://www.w3.org/2004/02/skos/core#prefLabel": [
-      {
-        "@language": "en",
-        "@value": "mixed material"
       }
     ]
   },
@@ -525,7 +265,6 @@
     ],
     "http://www.w3.org/2004/02/skos/core#notation": [
       {
-        "@language": "en",
         "@value": "e"
       }
     ],
@@ -533,6 +272,230 @@
       {
         "@language": "en",
         "@value": "cartographic material"
+      }
+    ]
+  },
+  {
+    "@id": "https://doi.org/10.6069/uwlswd.25z4-e963#j",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#definition": [
+      {
+        "@language": "en",
+        "@value": "Musical sound recording."
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#inScheme": [
+      {
+        "@id": "https://doi.org/10.6069/uwlswd.25z4-e963"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#notation": [
+      {
+        "@value": "j"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "musical sound recording"
+      }
+    ]
+  },
+  {
+    "@id": "https://doi.org/10.6069/uwlswd.25z4-e963#k",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#definition": [
+      {
+        "@language": "en",
+        "@value": "Two-dimensional nonprojectable graphic."
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#inScheme": [
+      {
+        "@id": "https://doi.org/10.6069/uwlswd.25z4-e963"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#notation": [
+      {
+        "@value": "k"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "two-dimensional nonprojectable graphic"
+      }
+    ]
+  },
+  {
+    "@id": "https://doi.org/10.6069/uwlswd.25z4-e963#r",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#definition": [
+      {
+        "@language": "en",
+        "@value": "Three-dimensional artifact or naturally occurring object."
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#inScheme": [
+      {
+        "@id": "https://doi.org/10.6069/uwlswd.25z4-e963"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#notation": [
+      {
+        "@value": "r"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "three-dimensional artifact or naturally occurring object"
+      }
+    ]
+  },
+  {
+    "@id": "https://doi.org/10.6069/uwlswd.25z4-e963#o",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#definition": [
+      {
+        "@language": "en",
+        "@value": "Kit."
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#inScheme": [
+      {
+        "@id": "https://doi.org/10.6069/uwlswd.25z4-e963"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#notation": [
+      {
+        "@value": "o"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "kit"
+      }
+    ]
+  },
+  {
+    "@id": "https://doi.org/10.6069/uwlswd.25z4-e963#d",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#definition": [
+      {
+        "@language": "en",
+        "@value": "Manuscript notated music."
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#inScheme": [
+      {
+        "@id": "https://doi.org/10.6069/uwlswd.25z4-e963"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#notation": [
+      {
+        "@value": "d"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "manuscript notated music"
+      }
+    ]
+  },
+  {
+    "@id": "https://doi.org/10.6069/uwlswd.25z4-e963#p",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#definition": [
+      {
+        "@language": "en",
+        "@value": "Mixed material."
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#inScheme": [
+      {
+        "@id": "https://doi.org/10.6069/uwlswd.25z4-e963"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#notation": [
+      {
+        "@value": "p"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "mixed material"
+      }
+    ]
+  },
+  {
+    "@id": "https://doi.org/10.6069/uwlswd.25z4-e963#s",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#definition": [
+      {
+        "@language": "en",
+        "@value": "Control aspects of a non-printed continuing resource."
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#inScheme": [
+      {
+        "@id": "https://doi.org/10.6069/uwlswd.25z4-e963"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#notation": [
+      {
+        "@value": "s"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "serial or integrating resource"
+      }
+    ]
+  },
+  {
+    "@id": "https://doi.org/10.6069/uwlswd.25z4-e963#t",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#definition": [
+      {
+        "@language": "en",
+        "@value": "Manuscript language material."
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#inScheme": [
+      {
+        "@id": "https://doi.org/10.6069/uwlswd.25z4-e963"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#notation": [
+      {
+        "@value": "t"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "manuscript language material"
       }
     ]
   },
@@ -554,7 +517,6 @@
     ],
     "http://www.w3.org/2004/02/skos/core#notation": [
       {
-        "@language": "en",
         "@value": "g"
       }
     ],

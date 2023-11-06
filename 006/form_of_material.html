@@ -10,31 +10,77 @@
         "@type" : "Dataset" , 
         "@id" : "https://doi.org/10.6069/uwlswd.25z4-e963", 
         "name" : "Form of material" , 
-        "description" : "VALUE MISSING" , 
-        "creator" : { 
-            "@id" : "http://viaf.org/viaf/139541794" 
-             } ,  
-        "publisher" : { 
-            "@id" : "http://viaf.org/viaf/139541794" 
+         
+        "alternateName" : "MARC21 006/00 values for all materials expressed using RDF" ,
+        "description" : "Identifies a form of material." , 
+            
+        "isBasedOn" : [ 
+            "https://www.loc.gov/marc/bibliographic/bd008.html" , 
+            
+            "http://marc21rdf.info"
+            ] , 
+        "creator" : 
+            {
+            "@id" : "http://viaf.org/viaf/139541794", 
+            "name" : "University of Washington Libraries" ,  
+            "sameAs" : "http://viaf.org/viaf/139541794" 
+            } ,        
+                    
+        "publisher" : {
+            "@id" : "http://viaf.org/viaf/139541794", 
+            "name" : "University of Washington Libraries" ,  
+            "sameAs" : "http://viaf.org/viaf/139541794"
             } , 
-        "contributer" : { 
-            "@id" : http://viaf.org/viaf/151962300
+    
+        "contributor" : [
+            {
+            "@id" : "http://viaf.org/viaf/151962300", 
+            "name" : "Library of Congress" , 
+            "sameAs" : "http://viaf.org/viaf/151962300"
             } , 
+        
+            {
+            "name" : "Metadata Management Associates"
+            }
+            ] , 
+            
         "datePublished" : "2023", 
-        "inLanguage" : "en", 
-        "encodingFormat" : "text/html" ,  
+       
+        "inLanguage" : "en" ,  
         "license" : "http://creativecommons.org/publicdomain/zero/1.0", 
-        "version" : "1-0-0" 
+        
+        "version" : "1-2-0" , 
+             
+        "distribution" : [
+            { "@type" : "DataDownload" , 
+              "url" : "https://uwlib-cams.github.io/uwlswd_vocabs_marc_006_008/006/form_of_material.ttl" ,
+              "encodingFormat" : "text/turtle" 
+            } , 
+            { "@type" : "DataDownload" , 
+              "url" : "https://uwlib-cams.github.io/uwlswd_vocabs_marc_006_008/006/form_of_material.nt" ,
+              "encodingFormat" : "application/n-triples"  
+            } , 
+            { "@type" : "DataDownload" , 
+              "url" : "https://uwlib-cams.github.io/uwlswd_vocabs_marc_006_008/006/form_of_material.jsonld" ,
+              "encodingFormat" : "application/ld+json" 
+            } , 
+            { "@type" : "DataDownload" , 
+              "url" : "https://uwlib-cams.github.io/uwlswd_vocabs_marc_006_008/006/form_of_material.rdf" ,
+              "encodingFormat" : "application/rdf+xml"
+            } 
+            ] , 
+        "encodingFormat" : "text/html" 
         } 
     </script>
         <link rel="alternate" type="application/n-triples" href="https://uwlib-cams.github.io/uwlswd_vocabs_marc_006_008/006/form_of_material.nt">
         <link rel="alternate" type="application/rdf+xml" href="https://uwlib-cams.github.io/uwlswd_vocabs_marc_006_008/006/form_of_material.rdf">
-        <link rel="alternate" type="application/turtle" href="https://uwlib-cams.github.io/uwlswd_vocabs_marc_006_008/006/form_of_material.ttl">
+        <link rel="alternate" type="text/turtle" href="https://uwlib-cams.github.io/uwlswd_vocabs_marc_006_008/006/form_of_material.ttl">
         <link rel="alternate" type="application/ld+json" href="https://uwlib-cams.github.io/uwlswd_vocabs_marc_006_008/006/form_of_material.jsonld">
     </head>
     <body about="https://doi.org/10.6069/uwlswd.25z4-e963">
         <script type="text/javascript" src="https://uwlib-cams.github.io/webviews/js/uwlswd.js"></script>
         <h1>Form of material</h1>
+        <h2 id="altTitle">(MARC21 006/00 values for all materials expressed using RDF)</h2>
         <p>Identifies a form of material.</p>
         <h2 id="triples">RDF Triples for Form of material</h2>
         <div class="tab">
@@ -59,7 +105,7 @@
                             <a href="https://doi.org/10.6069/uwlswd.25z4-e963">https://doi.org/10.6069/uwlswd.25z4-e963</a>
                         </td>
                         <td>
-                            <a href="http://purl.org/dc/elements/1.1/">dc:contributor</a>
+                            <a href="http://purl.org/dc/elements/1.1/contributor">dc:contributor</a>
                         </td>
                         <td property="dc:contributor" xml:lang="en">Metadata Management Associates</td>
                     </tr>
@@ -68,25 +114,7 @@
                             <a href="https://doi.org/10.6069/uwlswd.25z4-e963">https://doi.org/10.6069/uwlswd.25z4-e963</a>
                         </td>
                         <td>
-                            <a href="http://purl.org/dc/elements/1.1/">dc:contributor</a>
-                        </td>
-                        <td property="dc:contributor" xml:lang="en">Library of Congress</td>
-                    </tr>
-                    <tr about="https://doi.org/10.6069/uwlswd.25z4-e963">
-                        <td>
-                            <a href="https://doi.org/10.6069/uwlswd.25z4-e963">https://doi.org/10.6069/uwlswd.25z4-e963</a>
-                        </td>
-                        <td>
-                            <a href="http://purl.org/dc/elements/1.1/">dc:creator</a>
-                        </td>
-                        <td property="dc:creator" xml:lang="en">University of Washington Libraries</td>
-                    </tr>
-                    <tr about="https://doi.org/10.6069/uwlswd.25z4-e963">
-                        <td>
-                            <a href="https://doi.org/10.6069/uwlswd.25z4-e963">https://doi.org/10.6069/uwlswd.25z4-e963</a>
-                        </td>
-                        <td>
-                            <a href="http://purl.org/dc/elements/1.1/">dc:language</a>
+                            <a href="http://purl.org/dc/elements/1.1/language">dc:language</a>
                         </td>
                         <td property="dc:language">en</td>
                     </tr>
@@ -95,26 +123,16 @@
                             <a href="https://doi.org/10.6069/uwlswd.25z4-e963">https://doi.org/10.6069/uwlswd.25z4-e963</a>
                         </td>
                         <td>
-                            <a href="http://purl.org/dc/elements/1.1/">dc:publisher</a>
+                            <a href="http://purl.org/dc/terms/alternative">dct:alternative</a>
                         </td>
-                        <td property="dc:publisher" xml:lang="en">University of Washington Libraries</td>
+                        <td property="dct:alternative" xml:lang="en">MARC21 006/00 values for all materials expressed using RDF</td>
                     </tr>
                     <tr about="https://doi.org/10.6069/uwlswd.25z4-e963">
                         <td>
                             <a href="https://doi.org/10.6069/uwlswd.25z4-e963">https://doi.org/10.6069/uwlswd.25z4-e963</a>
                         </td>
                         <td>
-                            <a href="http://purl.org/dc/terms/">dct:alternative</a>
-                        </td>
-                        <td property="dct:alternative" xml:lang="en">MARC21 006/00 values for all materials expressed using
-                  RDF</td>
-                    </tr>
-                    <tr about="https://doi.org/10.6069/uwlswd.25z4-e963">
-                        <td>
-                            <a href="https://doi.org/10.6069/uwlswd.25z4-e963">https://doi.org/10.6069/uwlswd.25z4-e963</a>
-                        </td>
-                        <td>
-                            <a href="http://purl.org/dc/terms/">dct:contributor</a>
+                            <a href="http://purl.org/dc/terms/contributor">dct:contributor</a>
                         </td>
                         <td property="dct:contributor" resource="http://viaf.org/viaf/151962300">
                             <a href="http://viaf.org/viaf/151962300">http://viaf.org/viaf/151962300</a>
@@ -125,7 +143,7 @@
                             <a href="https://doi.org/10.6069/uwlswd.25z4-e963">https://doi.org/10.6069/uwlswd.25z4-e963</a>
                         </td>
                         <td>
-                            <a href="http://purl.org/dc/terms/">dct:creator</a>
+                            <a href="http://purl.org/dc/terms/creator">dct:creator</a>
                         </td>
                         <td property="dct:creator" resource="http://viaf.org/viaf/139541794">
                             <a href="http://viaf.org/viaf/139541794">http://viaf.org/viaf/139541794</a>
@@ -136,7 +154,7 @@
                             <a href="https://doi.org/10.6069/uwlswd.25z4-e963">https://doi.org/10.6069/uwlswd.25z4-e963</a>
                         </td>
                         <td>
-                            <a href="http://purl.org/dc/terms/">dct:description</a>
+                            <a href="http://purl.org/dc/terms/description">dct:description</a>
                         </td>
                         <td property="dct:description" xml:lang="en">Identifies a form of material.</td>
                     </tr>
@@ -145,53 +163,9 @@
                             <a href="https://doi.org/10.6069/uwlswd.25z4-e963">https://doi.org/10.6069/uwlswd.25z4-e963</a>
                         </td>
                         <td>
-                            <a href="http://purl.org/dc/terms/">dct:format</a>
+                            <a href="http://purl.org/dc/terms/format">dct:format</a>
                         </td>
-                        <td property="dct:format" resource="http://www.w3.org/ns/formats/RDF_XML">
-                            <a href="http://www.w3.org/ns/formats/RDF_XML">http://www.w3.org/ns/formats/RDF_XML</a>
-                        </td>
-                    </tr>
-                    <tr about="https://doi.org/10.6069/uwlswd.25z4-e963">
-                        <td>
-                            <a href="https://doi.org/10.6069/uwlswd.25z4-e963">https://doi.org/10.6069/uwlswd.25z4-e963</a>
-                        </td>
-                        <td>
-                            <a href="http://purl.org/dc/terms/">dct:hasFormat</a>
-                        </td>
-                        <td property="dct:hasFormat" resource="http://www.w3.org/ns/formats/JSON-LD">
-                            <a href="http://www.w3.org/ns/formats/JSON-LD">http://www.w3.org/ns/formats/JSON-LD</a>
-                        </td>
-                    </tr>
-                    <tr about="https://doi.org/10.6069/uwlswd.25z4-e963">
-                        <td>
-                            <a href="https://doi.org/10.6069/uwlswd.25z4-e963">https://doi.org/10.6069/uwlswd.25z4-e963</a>
-                        </td>
-                        <td>
-                            <a href="http://purl.org/dc/terms/">dct:hasFormat</a>
-                        </td>
-                        <td property="dct:hasFormat" resource="http://www.w3.org/ns/formats/N-Triples">
-                            <a href="http://www.w3.org/ns/formats/N-Triples">http://www.w3.org/ns/formats/N-Triples</a>
-                        </td>
-                    </tr>
-                    <tr about="https://doi.org/10.6069/uwlswd.25z4-e963">
-                        <td>
-                            <a href="https://doi.org/10.6069/uwlswd.25z4-e963">https://doi.org/10.6069/uwlswd.25z4-e963</a>
-                        </td>
-                        <td>
-                            <a href="http://purl.org/dc/terms/">dct:hasFormat</a>
-                        </td>
-                        <td property="dct:hasFormat" resource="http://www.w3.org/ns/formats/Turtle">
-                            <a href="http://www.w3.org/ns/formats/Turtle">http://www.w3.org/ns/formats/Turtle</a>
-                        </td>
-                    </tr>
-                    <tr about="https://doi.org/10.6069/uwlswd.25z4-e963">
-                        <td>
-                            <a href="https://doi.org/10.6069/uwlswd.25z4-e963">https://doi.org/10.6069/uwlswd.25z4-e963</a>
-                        </td>
-                        <td>
-                            <a href="http://purl.org/dc/terms/">dct:hasFormat</a>
-                        </td>
-                        <td property="dct:hasFormat" resource="http://www.w3.org/ns/formats/RDFa">
+                        <td property="dct:format" resource="http://www.w3.org/ns/formats/RDFa">
                             <a href="http://www.w3.org/ns/formats/RDFa">http://www.w3.org/ns/formats/RDFa</a>
                         </td>
                     </tr>
@@ -200,7 +174,7 @@
                             <a href="https://doi.org/10.6069/uwlswd.25z4-e963">https://doi.org/10.6069/uwlswd.25z4-e963</a>
                         </td>
                         <td>
-                            <a href="http://purl.org/dc/terms/">dct:hasFormat</a>
+                            <a href="http://purl.org/dc/terms/hasFormat">dct:hasFormat</a>
                         </td>
                         <td property="dct:hasFormat" resource="https://uwlib-cams.github.io/uwlswd_vocabs_marc_006_008/006/form_of_material.ttl">
                             <a href="https://uwlib-cams.github.io/uwlswd_vocabs_marc_006_008/006/form_of_material.ttl">https://uwlib-cams.github.io/uwlswd_vocabs_marc_006_008/006/form_of_material.ttl</a>
@@ -211,7 +185,7 @@
                             <a href="https://doi.org/10.6069/uwlswd.25z4-e963">https://doi.org/10.6069/uwlswd.25z4-e963</a>
                         </td>
                         <td>
-                            <a href="http://purl.org/dc/terms/">dct:hasFormat</a>
+                            <a href="http://purl.org/dc/terms/hasFormat">dct:hasFormat</a>
                         </td>
                         <td property="dct:hasFormat" resource="https://uwlib-cams.github.io/uwlswd_vocabs_marc_006_008/006/form_of_material.nt">
                             <a href="https://uwlib-cams.github.io/uwlswd_vocabs_marc_006_008/006/form_of_material.nt">https://uwlib-cams.github.io/uwlswd_vocabs_marc_006_008/006/form_of_material.nt</a>
@@ -222,7 +196,7 @@
                             <a href="https://doi.org/10.6069/uwlswd.25z4-e963">https://doi.org/10.6069/uwlswd.25z4-e963</a>
                         </td>
                         <td>
-                            <a href="http://purl.org/dc/terms/">dct:hasFormat</a>
+                            <a href="http://purl.org/dc/terms/hasFormat">dct:hasFormat</a>
                         </td>
                         <td property="dct:hasFormat" resource="https://uwlib-cams.github.io/uwlswd_vocabs_marc_006_008/006/form_of_material.jsonld">
                             <a href="https://uwlib-cams.github.io/uwlswd_vocabs_marc_006_008/006/form_of_material.jsonld">https://uwlib-cams.github.io/uwlswd_vocabs_marc_006_008/006/form_of_material.jsonld</a>
@@ -233,18 +207,7 @@
                             <a href="https://doi.org/10.6069/uwlswd.25z4-e963">https://doi.org/10.6069/uwlswd.25z4-e963</a>
                         </td>
                         <td>
-                            <a href="http://purl.org/dc/terms/">dct:hasFormat</a>
-                        </td>
-                        <td property="dct:hasFormat" resource="https://uwlib-cams.github.io/uwlswd_vocabs_marc_006_008/006/form_of_material.html">
-                            <a href="https://uwlib-cams.github.io/uwlswd_vocabs_marc_006_008/006/form_of_material.html">https://uwlib-cams.github.io/uwlswd_vocabs_marc_006_008/006/form_of_material.html</a>
-                        </td>
-                    </tr>
-                    <tr about="https://doi.org/10.6069/uwlswd.25z4-e963">
-                        <td>
-                            <a href="https://doi.org/10.6069/uwlswd.25z4-e963">https://doi.org/10.6069/uwlswd.25z4-e963</a>
-                        </td>
-                        <td>
-                            <a href="http://purl.org/dc/terms/">dct:hasFormat</a>
+                            <a href="http://purl.org/dc/terms/hasFormat">dct:hasFormat</a>
                         </td>
                         <td property="dct:hasFormat" resource="https://uwlib-cams.github.io/uwlswd_vocabs_marc_006_008/006/form_of_material.rdf">
                             <a href="https://uwlib-cams.github.io/uwlswd_vocabs_marc_006_008/006/form_of_material.rdf">https://uwlib-cams.github.io/uwlswd_vocabs_marc_006_008/006/form_of_material.rdf</a>
@@ -255,7 +218,7 @@
                             <a href="https://doi.org/10.6069/uwlswd.25z4-e963">https://doi.org/10.6069/uwlswd.25z4-e963</a>
                         </td>
                         <td>
-                            <a href="http://purl.org/dc/terms/">dct:issued</a>
+                            <a href="http://purl.org/dc/terms/issued">dct:issued</a>
                         </td>
                         <td property="dct:issued">2023</td>
                     </tr>
@@ -264,7 +227,7 @@
                             <a href="https://doi.org/10.6069/uwlswd.25z4-e963">https://doi.org/10.6069/uwlswd.25z4-e963</a>
                         </td>
                         <td>
-                            <a href="http://purl.org/dc/terms/">dct:license</a>
+                            <a href="http://purl.org/dc/terms/license">dct:license</a>
                         </td>
                         <td property="dct:license" resource="http://creativecommons.org/publicdomain/zero/1.0">
                             <a href="http://creativecommons.org/publicdomain/zero/1.0">http://creativecommons.org/publicdomain/zero/1.0</a>
@@ -275,7 +238,7 @@
                             <a href="https://doi.org/10.6069/uwlswd.25z4-e963">https://doi.org/10.6069/uwlswd.25z4-e963</a>
                         </td>
                         <td>
-                            <a href="http://purl.org/dc/terms/">dct:provenance</a>
+                            <a href="http://purl.org/dc/terms/provenance">dct:provenance</a>
                         </td>
                         <td property="dct:provenance" resource="https://doi.org/10.6069/uwlswd.2e2b-y833#marc00Xvalues">
                             <a href="https://doi.org/10.6069/uwlswd.2e2b-y833#marc00Xvalues">https://doi.org/10.6069/uwlswd.2e2b-y833#marc00Xvalues</a>
@@ -286,7 +249,7 @@
                             <a href="https://doi.org/10.6069/uwlswd.25z4-e963">https://doi.org/10.6069/uwlswd.25z4-e963</a>
                         </td>
                         <td>
-                            <a href="http://purl.org/dc/terms/">dct:publisher</a>
+                            <a href="http://purl.org/dc/terms/publisher">dct:publisher</a>
                         </td>
                         <td property="dct:publisher" resource="http://viaf.org/viaf/139541794">
                             <a href="http://viaf.org/viaf/139541794">http://viaf.org/viaf/139541794</a>
@@ -297,7 +260,7 @@
                             <a href="https://doi.org/10.6069/uwlswd.25z4-e963">https://doi.org/10.6069/uwlswd.25z4-e963</a>
                         </td>
                         <td>
-                            <a href="http://purl.org/dc/terms/">dct:source</a>
+                            <a href="http://purl.org/dc/terms/source">dct:source</a>
                         </td>
                         <td property="dct:source" resource="https://www.loc.gov/marc/bibliographic/bd008.html">
                             <a href="https://www.loc.gov/marc/bibliographic/bd008.html">https://www.loc.gov/marc/bibliographic/bd008.html</a>
@@ -308,7 +271,7 @@
                             <a href="https://doi.org/10.6069/uwlswd.25z4-e963">https://doi.org/10.6069/uwlswd.25z4-e963</a>
                         </td>
                         <td>
-                            <a href="http://purl.org/dc/terms/">dct:source</a>
+                            <a href="http://purl.org/dc/terms/source">dct:source</a>
                         </td>
                         <td property="dct:source" resource="http://marc21rdf.info">
                             <a href="http://marc21rdf.info">http://marc21rdf.info</a>
@@ -319,7 +282,7 @@
                             <a href="https://doi.org/10.6069/uwlswd.25z4-e963">https://doi.org/10.6069/uwlswd.25z4-e963</a>
                         </td>
                         <td>
-                            <a href="http://purl.org/dc/terms/">dct:title</a>
+                            <a href="http://purl.org/dc/terms/title">dct:title</a>
                         </td>
                         <td property="dct:title" xml:lang="en">Form of material</td>
                     </tr>
@@ -328,7 +291,7 @@
                             <a href="https://doi.org/10.6069/uwlswd.25z4-e963">https://doi.org/10.6069/uwlswd.25z4-e963</a>
                         </td>
                         <td>
-                            <a href="http://www.w3.org/1999/02/22-rdf-syntax-ns#">rdf:type</a>
+                            <a href="http://www.w3.org/1999/02/22-rdf-syntax-ns#type">rdf:type</a>
                         </td>
                         <td property="rdf:type" resource="http://www.w3.org/2004/02/skos/core#ConceptScheme">
                             <a href="http://www.w3.org/2004/02/skos/core#ConceptScheme">http://www.w3.org/2004/02/skos/core#ConceptScheme</a>
@@ -339,7 +302,7 @@
                             <a href="https://doi.org/10.6069/uwlswd.25z4-e963">https://doi.org/10.6069/uwlswd.25z4-e963</a>
                         </td>
                         <td>
-                            <a href="https://schema.org/">schema:additionalType</a>
+                            <a href="https://schema.org/additionalType">schema:additionalType</a>
                         </td>
                         <td property="schema:additionalType" xml:lang="en">Dataset</td>
                     </tr>
@@ -348,16 +311,25 @@
                             <a href="https://doi.org/10.6069/uwlswd.25z4-e963">https://doi.org/10.6069/uwlswd.25z4-e963</a>
                         </td>
                         <td>
-                            <a href="https://schema.org/">schema:version</a>
+                            <a href="https://schema.org/disambiguatingDescription">schema:disambiguatingDescription</a>
                         </td>
-                        <td property="schema:version">1-0-0</td>
+                        <td property="schema:disambiguatingDescription">SKOS Concept Scheme for MARC 00X Values</td>
+                    </tr>
+                    <tr about="https://doi.org/10.6069/uwlswd.25z4-e963">
+                        <td>
+                            <a href="https://doi.org/10.6069/uwlswd.25z4-e963">https://doi.org/10.6069/uwlswd.25z4-e963</a>
+                        </td>
+                        <td>
+                            <a href="https://schema.org/version">schema:version</a>
+                        </td>
+                        <td property="schema:version">1-2-0</td>
                     </tr>
                     <tr about="https://doi.org/10.6069/uwlswd.25z4-e963#a">
                         <td id="a">
                             <a href="https://doi.org/10.6069/uwlswd.25z4-e963#a">https://doi.org/10.6069/uwlswd.25z4-e963#a</a>
                         </td>
                         <td>
-                            <a href="http://www.w3.org/1999/02/22-rdf-syntax-ns#">rdf:type</a>
+                            <a href="http://www.w3.org/1999/02/22-rdf-syntax-ns#type">rdf:type</a>
                         </td>
                         <td property="rdf:type" resource="http://www.w3.org/2004/02/skos/core#Concept">
                             <a href="http://www.w3.org/2004/02/skos/core#Concept">http://www.w3.org/2004/02/skos/core#Concept</a>
@@ -368,7 +340,7 @@
                             <a href="https://doi.org/10.6069/uwlswd.25z4-e963#a">https://doi.org/10.6069/uwlswd.25z4-e963#a</a>
                         </td>
                         <td>
-                            <a href="http://www.w3.org/2004/02/skos/core#">skos:definition</a>
+                            <a href="http://www.w3.org/2004/02/skos/core#definition">skos:definition</a>
                         </td>
                         <td property="skos:definition" xml:lang="en">Nonserial language material.</td>
                     </tr>
@@ -377,7 +349,7 @@
                             <a href="https://doi.org/10.6069/uwlswd.25z4-e963#a">https://doi.org/10.6069/uwlswd.25z4-e963#a</a>
                         </td>
                         <td>
-                            <a href="http://www.w3.org/2004/02/skos/core#">skos:inScheme</a>
+                            <a href="http://www.w3.org/2004/02/skos/core#inScheme">skos:inScheme</a>
                         </td>
                         <td property="skos:inScheme" resource="https://doi.org/10.6069/uwlswd.25z4-e963">
                             <a href="https://doi.org/10.6069/uwlswd.25z4-e963">https://doi.org/10.6069/uwlswd.25z4-e963</a>
@@ -388,16 +360,16 @@
                             <a href="https://doi.org/10.6069/uwlswd.25z4-e963#a">https://doi.org/10.6069/uwlswd.25z4-e963#a</a>
                         </td>
                         <td>
-                            <a href="http://www.w3.org/2004/02/skos/core#">skos:notation</a>
+                            <a href="http://www.w3.org/2004/02/skos/core#notation">skos:notation</a>
                         </td>
-                        <td property="skos:notation" xml:lang="en">a</td>
+                        <td property="skos:notation">a</td>
                     </tr>
                     <tr about="https://doi.org/10.6069/uwlswd.25z4-e963#a">
                         <td>
                             <a href="https://doi.org/10.6069/uwlswd.25z4-e963#a">https://doi.org/10.6069/uwlswd.25z4-e963#a</a>
                         </td>
                         <td>
-                            <a href="http://www.w3.org/2004/02/skos/core#">skos:prefLabel</a>
+                            <a href="http://www.w3.org/2004/02/skos/core#prefLabel">skos:prefLabel</a>
                         </td>
                         <td property="skos:prefLabel" xml:lang="en">language material</td>
                     </tr>
@@ -406,7 +378,7 @@
                             <a href="https://doi.org/10.6069/uwlswd.25z4-e963#c">https://doi.org/10.6069/uwlswd.25z4-e963#c</a>
                         </td>
                         <td>
-                            <a href="http://www.w3.org/1999/02/22-rdf-syntax-ns#">rdf:type</a>
+                            <a href="http://www.w3.org/1999/02/22-rdf-syntax-ns#type">rdf:type</a>
                         </td>
                         <td property="rdf:type" resource="http://www.w3.org/2004/02/skos/core#Concept">
                             <a href="http://www.w3.org/2004/02/skos/core#Concept">http://www.w3.org/2004/02/skos/core#Concept</a>
@@ -417,7 +389,7 @@
                             <a href="https://doi.org/10.6069/uwlswd.25z4-e963#c">https://doi.org/10.6069/uwlswd.25z4-e963#c</a>
                         </td>
                         <td>
-                            <a href="http://www.w3.org/2004/02/skos/core#">skos:definition</a>
+                            <a href="http://www.w3.org/2004/02/skos/core#definition">skos:definition</a>
                         </td>
                         <td property="skos:definition" xml:lang="en">Notated music.</td>
                     </tr>
@@ -426,7 +398,7 @@
                             <a href="https://doi.org/10.6069/uwlswd.25z4-e963#c">https://doi.org/10.6069/uwlswd.25z4-e963#c</a>
                         </td>
                         <td>
-                            <a href="http://www.w3.org/2004/02/skos/core#">skos:inScheme</a>
+                            <a href="http://www.w3.org/2004/02/skos/core#inScheme">skos:inScheme</a>
                         </td>
                         <td property="skos:inScheme" resource="https://doi.org/10.6069/uwlswd.25z4-e963">
                             <a href="https://doi.org/10.6069/uwlswd.25z4-e963">https://doi.org/10.6069/uwlswd.25z4-e963</a>
@@ -437,16 +409,16 @@
                             <a href="https://doi.org/10.6069/uwlswd.25z4-e963#c">https://doi.org/10.6069/uwlswd.25z4-e963#c</a>
                         </td>
                         <td>
-                            <a href="http://www.w3.org/2004/02/skos/core#">skos:notation</a>
+                            <a href="http://www.w3.org/2004/02/skos/core#notation">skos:notation</a>
                         </td>
-                        <td property="skos:notation" xml:lang="en">c</td>
+                        <td property="skos:notation">c</td>
                     </tr>
                     <tr about="https://doi.org/10.6069/uwlswd.25z4-e963#c">
                         <td>
                             <a href="https://doi.org/10.6069/uwlswd.25z4-e963#c">https://doi.org/10.6069/uwlswd.25z4-e963#c</a>
                         </td>
                         <td>
-                            <a href="http://www.w3.org/2004/02/skos/core#">skos:prefLabel</a>
+                            <a href="http://www.w3.org/2004/02/skos/core#prefLabel">skos:prefLabel</a>
                         </td>
                         <td property="skos:prefLabel" xml:lang="en">notated music</td>
                     </tr>
@@ -455,7 +427,7 @@
                             <a href="https://doi.org/10.6069/uwlswd.25z4-e963#d">https://doi.org/10.6069/uwlswd.25z4-e963#d</a>
                         </td>
                         <td>
-                            <a href="http://www.w3.org/1999/02/22-rdf-syntax-ns#">rdf:type</a>
+                            <a href="http://www.w3.org/1999/02/22-rdf-syntax-ns#type">rdf:type</a>
                         </td>
                         <td property="rdf:type" resource="http://www.w3.org/2004/02/skos/core#Concept">
                             <a href="http://www.w3.org/2004/02/skos/core#Concept">http://www.w3.org/2004/02/skos/core#Concept</a>
@@ -466,7 +438,7 @@
                             <a href="https://doi.org/10.6069/uwlswd.25z4-e963#d">https://doi.org/10.6069/uwlswd.25z4-e963#d</a>
                         </td>
                         <td>
-                            <a href="http://www.w3.org/2004/02/skos/core#">skos:definition</a>
+                            <a href="http://www.w3.org/2004/02/skos/core#definition">skos:definition</a>
                         </td>
                         <td property="skos:definition" xml:lang="en">Manuscript notated music.</td>
                     </tr>
@@ -475,7 +447,7 @@
                             <a href="https://doi.org/10.6069/uwlswd.25z4-e963#d">https://doi.org/10.6069/uwlswd.25z4-e963#d</a>
                         </td>
                         <td>
-                            <a href="http://www.w3.org/2004/02/skos/core#">skos:inScheme</a>
+                            <a href="http://www.w3.org/2004/02/skos/core#inScheme">skos:inScheme</a>
                         </td>
                         <td property="skos:inScheme" resource="https://doi.org/10.6069/uwlswd.25z4-e963">
                             <a href="https://doi.org/10.6069/uwlswd.25z4-e963">https://doi.org/10.6069/uwlswd.25z4-e963</a>
@@ -486,16 +458,16 @@
                             <a href="https://doi.org/10.6069/uwlswd.25z4-e963#d">https://doi.org/10.6069/uwlswd.25z4-e963#d</a>
                         </td>
                         <td>
-                            <a href="http://www.w3.org/2004/02/skos/core#">skos:notation</a>
+                            <a href="http://www.w3.org/2004/02/skos/core#notation">skos:notation</a>
                         </td>
-                        <td property="skos:notation" xml:lang="en">d</td>
+                        <td property="skos:notation">d</td>
                     </tr>
                     <tr about="https://doi.org/10.6069/uwlswd.25z4-e963#d">
                         <td>
                             <a href="https://doi.org/10.6069/uwlswd.25z4-e963#d">https://doi.org/10.6069/uwlswd.25z4-e963#d</a>
                         </td>
                         <td>
-                            <a href="http://www.w3.org/2004/02/skos/core#">skos:prefLabel</a>
+                            <a href="http://www.w3.org/2004/02/skos/core#prefLabel">skos:prefLabel</a>
                         </td>
                         <td property="skos:prefLabel" xml:lang="en">manuscript notated music</td>
                     </tr>
@@ -504,7 +476,7 @@
                             <a href="https://doi.org/10.6069/uwlswd.25z4-e963#e">https://doi.org/10.6069/uwlswd.25z4-e963#e</a>
                         </td>
                         <td>
-                            <a href="http://www.w3.org/1999/02/22-rdf-syntax-ns#">rdf:type</a>
+                            <a href="http://www.w3.org/1999/02/22-rdf-syntax-ns#type">rdf:type</a>
                         </td>
                         <td property="rdf:type" resource="http://www.w3.org/2004/02/skos/core#Concept">
                             <a href="http://www.w3.org/2004/02/skos/core#Concept">http://www.w3.org/2004/02/skos/core#Concept</a>
@@ -515,7 +487,7 @@
                             <a href="https://doi.org/10.6069/uwlswd.25z4-e963#e">https://doi.org/10.6069/uwlswd.25z4-e963#e</a>
                         </td>
                         <td>
-                            <a href="http://www.w3.org/2004/02/skos/core#">skos:definition</a>
+                            <a href="http://www.w3.org/2004/02/skos/core#definition">skos:definition</a>
                         </td>
                         <td property="skos:definition" xml:lang="en">Nonmanuscript cartographic material.</td>
                     </tr>
@@ -524,7 +496,7 @@
                             <a href="https://doi.org/10.6069/uwlswd.25z4-e963#e">https://doi.org/10.6069/uwlswd.25z4-e963#e</a>
                         </td>
                         <td>
-                            <a href="http://www.w3.org/2004/02/skos/core#">skos:inScheme</a>
+                            <a href="http://www.w3.org/2004/02/skos/core#inScheme">skos:inScheme</a>
                         </td>
                         <td property="skos:inScheme" resource="https://doi.org/10.6069/uwlswd.25z4-e963">
                             <a href="https://doi.org/10.6069/uwlswd.25z4-e963">https://doi.org/10.6069/uwlswd.25z4-e963</a>
@@ -535,16 +507,16 @@
                             <a href="https://doi.org/10.6069/uwlswd.25z4-e963#e">https://doi.org/10.6069/uwlswd.25z4-e963#e</a>
                         </td>
                         <td>
-                            <a href="http://www.w3.org/2004/02/skos/core#">skos:notation</a>
+                            <a href="http://www.w3.org/2004/02/skos/core#notation">skos:notation</a>
                         </td>
-                        <td property="skos:notation" xml:lang="en">e</td>
+                        <td property="skos:notation">e</td>
                     </tr>
                     <tr about="https://doi.org/10.6069/uwlswd.25z4-e963#e">
                         <td>
                             <a href="https://doi.org/10.6069/uwlswd.25z4-e963#e">https://doi.org/10.6069/uwlswd.25z4-e963#e</a>
                         </td>
                         <td>
-                            <a href="http://www.w3.org/2004/02/skos/core#">skos:prefLabel</a>
+                            <a href="http://www.w3.org/2004/02/skos/core#prefLabel">skos:prefLabel</a>
                         </td>
                         <td property="skos:prefLabel" xml:lang="en">cartographic material</td>
                     </tr>
@@ -553,7 +525,7 @@
                             <a href="https://doi.org/10.6069/uwlswd.25z4-e963#f">https://doi.org/10.6069/uwlswd.25z4-e963#f</a>
                         </td>
                         <td>
-                            <a href="http://www.w3.org/1999/02/22-rdf-syntax-ns#">rdf:type</a>
+                            <a href="http://www.w3.org/1999/02/22-rdf-syntax-ns#type">rdf:type</a>
                         </td>
                         <td property="rdf:type" resource="http://www.w3.org/2004/02/skos/core#Concept">
                             <a href="http://www.w3.org/2004/02/skos/core#Concept">http://www.w3.org/2004/02/skos/core#Concept</a>
@@ -564,7 +536,7 @@
                             <a href="https://doi.org/10.6069/uwlswd.25z4-e963#f">https://doi.org/10.6069/uwlswd.25z4-e963#f</a>
                         </td>
                         <td>
-                            <a href="http://www.w3.org/2004/02/skos/core#">skos:definition</a>
+                            <a href="http://www.w3.org/2004/02/skos/core#definition">skos:definition</a>
                         </td>
                         <td property="skos:definition" xml:lang="en">Manuscript cartographic material .</td>
                     </tr>
@@ -573,7 +545,7 @@
                             <a href="https://doi.org/10.6069/uwlswd.25z4-e963#f">https://doi.org/10.6069/uwlswd.25z4-e963#f</a>
                         </td>
                         <td>
-                            <a href="http://www.w3.org/2004/02/skos/core#">skos:inScheme</a>
+                            <a href="http://www.w3.org/2004/02/skos/core#inScheme">skos:inScheme</a>
                         </td>
                         <td property="skos:inScheme" resource="https://doi.org/10.6069/uwlswd.25z4-e963">
                             <a href="https://doi.org/10.6069/uwlswd.25z4-e963">https://doi.org/10.6069/uwlswd.25z4-e963</a>
@@ -584,16 +556,16 @@
                             <a href="https://doi.org/10.6069/uwlswd.25z4-e963#f">https://doi.org/10.6069/uwlswd.25z4-e963#f</a>
                         </td>
                         <td>
-                            <a href="http://www.w3.org/2004/02/skos/core#">skos:notation</a>
+                            <a href="http://www.w3.org/2004/02/skos/core#notation">skos:notation</a>
                         </td>
-                        <td property="skos:notation" xml:lang="en">f</td>
+                        <td property="skos:notation">f</td>
                     </tr>
                     <tr about="https://doi.org/10.6069/uwlswd.25z4-e963#f">
                         <td>
                             <a href="https://doi.org/10.6069/uwlswd.25z4-e963#f">https://doi.org/10.6069/uwlswd.25z4-e963#f</a>
                         </td>
                         <td>
-                            <a href="http://www.w3.org/2004/02/skos/core#">skos:prefLabel</a>
+                            <a href="http://www.w3.org/2004/02/skos/core#prefLabel">skos:prefLabel</a>
                         </td>
                         <td property="skos:prefLabel" xml:lang="en">manuscript cartographic material</td>
                     </tr>
@@ -602,7 +574,7 @@
                             <a href="https://doi.org/10.6069/uwlswd.25z4-e963#g">https://doi.org/10.6069/uwlswd.25z4-e963#g</a>
                         </td>
                         <td>
-                            <a href="http://www.w3.org/1999/02/22-rdf-syntax-ns#">rdf:type</a>
+                            <a href="http://www.w3.org/1999/02/22-rdf-syntax-ns#type">rdf:type</a>
                         </td>
                         <td property="rdf:type" resource="http://www.w3.org/2004/02/skos/core#Concept">
                             <a href="http://www.w3.org/2004/02/skos/core#Concept">http://www.w3.org/2004/02/skos/core#Concept</a>
@@ -613,7 +585,7 @@
                             <a href="https://doi.org/10.6069/uwlswd.25z4-e963#g">https://doi.org/10.6069/uwlswd.25z4-e963#g</a>
                         </td>
                         <td>
-                            <a href="http://www.w3.org/2004/02/skos/core#">skos:definition</a>
+                            <a href="http://www.w3.org/2004/02/skos/core#definition">skos:definition</a>
                         </td>
                         <td property="skos:definition" xml:lang="en">Projected medium.</td>
                     </tr>
@@ -622,7 +594,7 @@
                             <a href="https://doi.org/10.6069/uwlswd.25z4-e963#g">https://doi.org/10.6069/uwlswd.25z4-e963#g</a>
                         </td>
                         <td>
-                            <a href="http://www.w3.org/2004/02/skos/core#">skos:inScheme</a>
+                            <a href="http://www.w3.org/2004/02/skos/core#inScheme">skos:inScheme</a>
                         </td>
                         <td property="skos:inScheme" resource="https://doi.org/10.6069/uwlswd.25z4-e963">
                             <a href="https://doi.org/10.6069/uwlswd.25z4-e963">https://doi.org/10.6069/uwlswd.25z4-e963</a>
@@ -633,16 +605,16 @@
                             <a href="https://doi.org/10.6069/uwlswd.25z4-e963#g">https://doi.org/10.6069/uwlswd.25z4-e963#g</a>
                         </td>
                         <td>
-                            <a href="http://www.w3.org/2004/02/skos/core#">skos:notation</a>
+                            <a href="http://www.w3.org/2004/02/skos/core#notation">skos:notation</a>
                         </td>
-                        <td property="skos:notation" xml:lang="en">g</td>
+                        <td property="skos:notation">g</td>
                     </tr>
                     <tr about="https://doi.org/10.6069/uwlswd.25z4-e963#g">
                         <td>
                             <a href="https://doi.org/10.6069/uwlswd.25z4-e963#g">https://doi.org/10.6069/uwlswd.25z4-e963#g</a>
                         </td>
                         <td>
-                            <a href="http://www.w3.org/2004/02/skos/core#">skos:prefLabel</a>
+                            <a href="http://www.w3.org/2004/02/skos/core#prefLabel">skos:prefLabel</a>
                         </td>
                         <td property="skos:prefLabel" xml:lang="en">projected medium</td>
                     </tr>
@@ -651,7 +623,7 @@
                             <a href="https://doi.org/10.6069/uwlswd.25z4-e963#i">https://doi.org/10.6069/uwlswd.25z4-e963#i</a>
                         </td>
                         <td>
-                            <a href="http://www.w3.org/1999/02/22-rdf-syntax-ns#">rdf:type</a>
+                            <a href="http://www.w3.org/1999/02/22-rdf-syntax-ns#type">rdf:type</a>
                         </td>
                         <td property="rdf:type" resource="http://www.w3.org/2004/02/skos/core#Concept">
                             <a href="http://www.w3.org/2004/02/skos/core#Concept">http://www.w3.org/2004/02/skos/core#Concept</a>
@@ -662,7 +634,7 @@
                             <a href="https://doi.org/10.6069/uwlswd.25z4-e963#i">https://doi.org/10.6069/uwlswd.25z4-e963#i</a>
                         </td>
                         <td>
-                            <a href="http://www.w3.org/2004/02/skos/core#">skos:definition</a>
+                            <a href="http://www.w3.org/2004/02/skos/core#definition">skos:definition</a>
                         </td>
                         <td property="skos:definition" xml:lang="en">Nonmusical sound recording.</td>
                     </tr>
@@ -671,7 +643,7 @@
                             <a href="https://doi.org/10.6069/uwlswd.25z4-e963#i">https://doi.org/10.6069/uwlswd.25z4-e963#i</a>
                         </td>
                         <td>
-                            <a href="http://www.w3.org/2004/02/skos/core#">skos:inScheme</a>
+                            <a href="http://www.w3.org/2004/02/skos/core#inScheme">skos:inScheme</a>
                         </td>
                         <td property="skos:inScheme" resource="https://doi.org/10.6069/uwlswd.25z4-e963">
                             <a href="https://doi.org/10.6069/uwlswd.25z4-e963">https://doi.org/10.6069/uwlswd.25z4-e963</a>
@@ -682,16 +654,16 @@
                             <a href="https://doi.org/10.6069/uwlswd.25z4-e963#i">https://doi.org/10.6069/uwlswd.25z4-e963#i</a>
                         </td>
                         <td>
-                            <a href="http://www.w3.org/2004/02/skos/core#">skos:notation</a>
+                            <a href="http://www.w3.org/2004/02/skos/core#notation">skos:notation</a>
                         </td>
-                        <td property="skos:notation" xml:lang="en">i</td>
+                        <td property="skos:notation">i</td>
                     </tr>
                     <tr about="https://doi.org/10.6069/uwlswd.25z4-e963#i">
                         <td>
                             <a href="https://doi.org/10.6069/uwlswd.25z4-e963#i">https://doi.org/10.6069/uwlswd.25z4-e963#i</a>
                         </td>
                         <td>
-                            <a href="http://www.w3.org/2004/02/skos/core#">skos:prefLabel</a>
+                            <a href="http://www.w3.org/2004/02/skos/core#prefLabel">skos:prefLabel</a>
                         </td>
                         <td property="skos:prefLabel" xml:lang="en">nonmusical sound recording</td>
                     </tr>
@@ -700,7 +672,7 @@
                             <a href="https://doi.org/10.6069/uwlswd.25z4-e963#j">https://doi.org/10.6069/uwlswd.25z4-e963#j</a>
                         </td>
                         <td>
-                            <a href="http://www.w3.org/1999/02/22-rdf-syntax-ns#">rdf:type</a>
+                            <a href="http://www.w3.org/1999/02/22-rdf-syntax-ns#type">rdf:type</a>
                         </td>
                         <td property="rdf:type" resource="http://www.w3.org/2004/02/skos/core#Concept">
                             <a href="http://www.w3.org/2004/02/skos/core#Concept">http://www.w3.org/2004/02/skos/core#Concept</a>
@@ -711,7 +683,7 @@
                             <a href="https://doi.org/10.6069/uwlswd.25z4-e963#j">https://doi.org/10.6069/uwlswd.25z4-e963#j</a>
                         </td>
                         <td>
-                            <a href="http://www.w3.org/2004/02/skos/core#">skos:definition</a>
+                            <a href="http://www.w3.org/2004/02/skos/core#definition">skos:definition</a>
                         </td>
                         <td property="skos:definition" xml:lang="en">Musical sound recording.</td>
                     </tr>
@@ -720,7 +692,7 @@
                             <a href="https://doi.org/10.6069/uwlswd.25z4-e963#j">https://doi.org/10.6069/uwlswd.25z4-e963#j</a>
                         </td>
                         <td>
-                            <a href="http://www.w3.org/2004/02/skos/core#">skos:inScheme</a>
+                            <a href="http://www.w3.org/2004/02/skos/core#inScheme">skos:inScheme</a>
                         </td>
                         <td property="skos:inScheme" resource="https://doi.org/10.6069/uwlswd.25z4-e963">
                             <a href="https://doi.org/10.6069/uwlswd.25z4-e963">https://doi.org/10.6069/uwlswd.25z4-e963</a>
@@ -731,16 +703,16 @@
                             <a href="https://doi.org/10.6069/uwlswd.25z4-e963#j">https://doi.org/10.6069/uwlswd.25z4-e963#j</a>
                         </td>
                         <td>
-                            <a href="http://www.w3.org/2004/02/skos/core#">skos:notation</a>
+                            <a href="http://www.w3.org/2004/02/skos/core#notation">skos:notation</a>
                         </td>
-                        <td property="skos:notation" xml:lang="en">j</td>
+                        <td property="skos:notation">j</td>
                     </tr>
                     <tr about="https://doi.org/10.6069/uwlswd.25z4-e963#j">
                         <td>
                             <a href="https://doi.org/10.6069/uwlswd.25z4-e963#j">https://doi.org/10.6069/uwlswd.25z4-e963#j</a>
                         </td>
                         <td>
-                            <a href="http://www.w3.org/2004/02/skos/core#">skos:prefLabel</a>
+                            <a href="http://www.w3.org/2004/02/skos/core#prefLabel">skos:prefLabel</a>
                         </td>
                         <td property="skos:prefLabel" xml:lang="en">musical sound recording</td>
                     </tr>
@@ -749,7 +721,7 @@
                             <a href="https://doi.org/10.6069/uwlswd.25z4-e963#k">https://doi.org/10.6069/uwlswd.25z4-e963#k</a>
                         </td>
                         <td>
-                            <a href="http://www.w3.org/1999/02/22-rdf-syntax-ns#">rdf:type</a>
+                            <a href="http://www.w3.org/1999/02/22-rdf-syntax-ns#type">rdf:type</a>
                         </td>
                         <td property="rdf:type" resource="http://www.w3.org/2004/02/skos/core#Concept">
                             <a href="http://www.w3.org/2004/02/skos/core#Concept">http://www.w3.org/2004/02/skos/core#Concept</a>
@@ -760,7 +732,7 @@
                             <a href="https://doi.org/10.6069/uwlswd.25z4-e963#k">https://doi.org/10.6069/uwlswd.25z4-e963#k</a>
                         </td>
                         <td>
-                            <a href="http://www.w3.org/2004/02/skos/core#">skos:definition</a>
+                            <a href="http://www.w3.org/2004/02/skos/core#definition">skos:definition</a>
                         </td>
                         <td property="skos:definition" xml:lang="en">Two-dimensional nonprojectable graphic.</td>
                     </tr>
@@ -769,7 +741,7 @@
                             <a href="https://doi.org/10.6069/uwlswd.25z4-e963#k">https://doi.org/10.6069/uwlswd.25z4-e963#k</a>
                         </td>
                         <td>
-                            <a href="http://www.w3.org/2004/02/skos/core#">skos:inScheme</a>
+                            <a href="http://www.w3.org/2004/02/skos/core#inScheme">skos:inScheme</a>
                         </td>
                         <td property="skos:inScheme" resource="https://doi.org/10.6069/uwlswd.25z4-e963">
                             <a href="https://doi.org/10.6069/uwlswd.25z4-e963">https://doi.org/10.6069/uwlswd.25z4-e963</a>
@@ -780,16 +752,16 @@
                             <a href="https://doi.org/10.6069/uwlswd.25z4-e963#k">https://doi.org/10.6069/uwlswd.25z4-e963#k</a>
                         </td>
                         <td>
-                            <a href="http://www.w3.org/2004/02/skos/core#">skos:notation</a>
+                            <a href="http://www.w3.org/2004/02/skos/core#notation">skos:notation</a>
                         </td>
-                        <td property="skos:notation" xml:lang="en">k</td>
+                        <td property="skos:notation">k</td>
                     </tr>
                     <tr about="https://doi.org/10.6069/uwlswd.25z4-e963#k">
                         <td>
                             <a href="https://doi.org/10.6069/uwlswd.25z4-e963#k">https://doi.org/10.6069/uwlswd.25z4-e963#k</a>
                         </td>
                         <td>
-                            <a href="http://www.w3.org/2004/02/skos/core#">skos:prefLabel</a>
+                            <a href="http://www.w3.org/2004/02/skos/core#prefLabel">skos:prefLabel</a>
                         </td>
                         <td property="skos:prefLabel" xml:lang="en">two-dimensional nonprojectable graphic</td>
                     </tr>
@@ -798,7 +770,7 @@
                             <a href="https://doi.org/10.6069/uwlswd.25z4-e963#m">https://doi.org/10.6069/uwlswd.25z4-e963#m</a>
                         </td>
                         <td>
-                            <a href="http://www.w3.org/1999/02/22-rdf-syntax-ns#">rdf:type</a>
+                            <a href="http://www.w3.org/1999/02/22-rdf-syntax-ns#type">rdf:type</a>
                         </td>
                         <td property="rdf:type" resource="http://www.w3.org/2004/02/skos/core#Concept">
                             <a href="http://www.w3.org/2004/02/skos/core#Concept">http://www.w3.org/2004/02/skos/core#Concept</a>
@@ -809,17 +781,16 @@
                             <a href="https://doi.org/10.6069/uwlswd.25z4-e963#m">https://doi.org/10.6069/uwlswd.25z4-e963#m</a>
                         </td>
                         <td>
-                            <a href="http://www.w3.org/2004/02/skos/core#">skos:definition</a>
+                            <a href="http://www.w3.org/2004/02/skos/core#definition">skos:definition</a>
                         </td>
-                        <td property="skos:definition" xml:lang="en">Computer file or an electronic resource in
-                  form.</td>
+                        <td property="skos:definition" xml:lang="en">Computer file or an electronic resource in form.</td>
                     </tr>
                     <tr about="https://doi.org/10.6069/uwlswd.25z4-e963#m">
                         <td>
                             <a href="https://doi.org/10.6069/uwlswd.25z4-e963#m">https://doi.org/10.6069/uwlswd.25z4-e963#m</a>
                         </td>
                         <td>
-                            <a href="http://www.w3.org/2004/02/skos/core#">skos:inScheme</a>
+                            <a href="http://www.w3.org/2004/02/skos/core#inScheme">skos:inScheme</a>
                         </td>
                         <td property="skos:inScheme" resource="https://doi.org/10.6069/uwlswd.25z4-e963">
                             <a href="https://doi.org/10.6069/uwlswd.25z4-e963">https://doi.org/10.6069/uwlswd.25z4-e963</a>
@@ -830,16 +801,16 @@
                             <a href="https://doi.org/10.6069/uwlswd.25z4-e963#m">https://doi.org/10.6069/uwlswd.25z4-e963#m</a>
                         </td>
                         <td>
-                            <a href="http://www.w3.org/2004/02/skos/core#">skos:notation</a>
+                            <a href="http://www.w3.org/2004/02/skos/core#notation">skos:notation</a>
                         </td>
-                        <td property="skos:notation" xml:lang="en">m</td>
+                        <td property="skos:notation">m</td>
                     </tr>
                     <tr about="https://doi.org/10.6069/uwlswd.25z4-e963#m">
                         <td>
                             <a href="https://doi.org/10.6069/uwlswd.25z4-e963#m">https://doi.org/10.6069/uwlswd.25z4-e963#m</a>
                         </td>
                         <td>
-                            <a href="http://www.w3.org/2004/02/skos/core#">skos:prefLabel</a>
+                            <a href="http://www.w3.org/2004/02/skos/core#prefLabel">skos:prefLabel</a>
                         </td>
                         <td property="skos:prefLabel" xml:lang="en">computer file or electronic resource</td>
                     </tr>
@@ -848,7 +819,7 @@
                             <a href="https://doi.org/10.6069/uwlswd.25z4-e963#o">https://doi.org/10.6069/uwlswd.25z4-e963#o</a>
                         </td>
                         <td>
-                            <a href="http://www.w3.org/1999/02/22-rdf-syntax-ns#">rdf:type</a>
+                            <a href="http://www.w3.org/1999/02/22-rdf-syntax-ns#type">rdf:type</a>
                         </td>
                         <td property="rdf:type" resource="http://www.w3.org/2004/02/skos/core#Concept">
                             <a href="http://www.w3.org/2004/02/skos/core#Concept">http://www.w3.org/2004/02/skos/core#Concept</a>
@@ -859,7 +830,7 @@
                             <a href="https://doi.org/10.6069/uwlswd.25z4-e963#o">https://doi.org/10.6069/uwlswd.25z4-e963#o</a>
                         </td>
                         <td>
-                            <a href="http://www.w3.org/2004/02/skos/core#">skos:definition</a>
+                            <a href="http://www.w3.org/2004/02/skos/core#definition">skos:definition</a>
                         </td>
                         <td property="skos:definition" xml:lang="en">Kit.</td>
                     </tr>
@@ -868,7 +839,7 @@
                             <a href="https://doi.org/10.6069/uwlswd.25z4-e963#o">https://doi.org/10.6069/uwlswd.25z4-e963#o</a>
                         </td>
                         <td>
-                            <a href="http://www.w3.org/2004/02/skos/core#">skos:inScheme</a>
+                            <a href="http://www.w3.org/2004/02/skos/core#inScheme">skos:inScheme</a>
                         </td>
                         <td property="skos:inScheme" resource="https://doi.org/10.6069/uwlswd.25z4-e963">
                             <a href="https://doi.org/10.6069/uwlswd.25z4-e963">https://doi.org/10.6069/uwlswd.25z4-e963</a>
@@ -879,16 +850,16 @@
                             <a href="https://doi.org/10.6069/uwlswd.25z4-e963#o">https://doi.org/10.6069/uwlswd.25z4-e963#o</a>
                         </td>
                         <td>
-                            <a href="http://www.w3.org/2004/02/skos/core#">skos:notation</a>
+                            <a href="http://www.w3.org/2004/02/skos/core#notation">skos:notation</a>
                         </td>
-                        <td property="skos:notation" xml:lang="en">o</td>
+                        <td property="skos:notation">o</td>
                     </tr>
                     <tr about="https://doi.org/10.6069/uwlswd.25z4-e963#o">
                         <td>
                             <a href="https://doi.org/10.6069/uwlswd.25z4-e963#o">https://doi.org/10.6069/uwlswd.25z4-e963#o</a>
                         </td>
                         <td>
-                            <a href="http://www.w3.org/2004/02/skos/core#">skos:prefLabel</a>
+                            <a href="http://www.w3.org/2004/02/skos/core#prefLabel">skos:prefLabel</a>
                         </td>
                         <td property="skos:prefLabel" xml:lang="en">kit</td>
                     </tr>
@@ -897,7 +868,7 @@
                             <a href="https://doi.org/10.6069/uwlswd.25z4-e963#p">https://doi.org/10.6069/uwlswd.25z4-e963#p</a>
                         </td>
                         <td>
-                            <a href="http://www.w3.org/1999/02/22-rdf-syntax-ns#">rdf:type</a>
+                            <a href="http://www.w3.org/1999/02/22-rdf-syntax-ns#type">rdf:type</a>
                         </td>
                         <td property="rdf:type" resource="http://www.w3.org/2004/02/skos/core#Concept">
                             <a href="http://www.w3.org/2004/02/skos/core#Concept">http://www.w3.org/2004/02/skos/core#Concept</a>
@@ -908,7 +879,7 @@
                             <a href="https://doi.org/10.6069/uwlswd.25z4-e963#p">https://doi.org/10.6069/uwlswd.25z4-e963#p</a>
                         </td>
                         <td>
-                            <a href="http://www.w3.org/2004/02/skos/core#">skos:definition</a>
+                            <a href="http://www.w3.org/2004/02/skos/core#definition">skos:definition</a>
                         </td>
                         <td property="skos:definition" xml:lang="en">Mixed material.</td>
                     </tr>
@@ -917,7 +888,7 @@
                             <a href="https://doi.org/10.6069/uwlswd.25z4-e963#p">https://doi.org/10.6069/uwlswd.25z4-e963#p</a>
                         </td>
                         <td>
-                            <a href="http://www.w3.org/2004/02/skos/core#">skos:inScheme</a>
+                            <a href="http://www.w3.org/2004/02/skos/core#inScheme">skos:inScheme</a>
                         </td>
                         <td property="skos:inScheme" resource="https://doi.org/10.6069/uwlswd.25z4-e963">
                             <a href="https://doi.org/10.6069/uwlswd.25z4-e963">https://doi.org/10.6069/uwlswd.25z4-e963</a>
@@ -928,16 +899,16 @@
                             <a href="https://doi.org/10.6069/uwlswd.25z4-e963#p">https://doi.org/10.6069/uwlswd.25z4-e963#p</a>
                         </td>
                         <td>
-                            <a href="http://www.w3.org/2004/02/skos/core#">skos:notation</a>
+                            <a href="http://www.w3.org/2004/02/skos/core#notation">skos:notation</a>
                         </td>
-                        <td property="skos:notation" xml:lang="en">p</td>
+                        <td property="skos:notation">p</td>
                     </tr>
                     <tr about="https://doi.org/10.6069/uwlswd.25z4-e963#p">
                         <td>
                             <a href="https://doi.org/10.6069/uwlswd.25z4-e963#p">https://doi.org/10.6069/uwlswd.25z4-e963#p</a>
                         </td>
                         <td>
-                            <a href="http://www.w3.org/2004/02/skos/core#">skos:prefLabel</a>
+                            <a href="http://www.w3.org/2004/02/skos/core#prefLabel">skos:prefLabel</a>
                         </td>
                         <td property="skos:prefLabel" xml:lang="en">mixed material</td>
                     </tr>
@@ -946,7 +917,7 @@
                             <a href="https://doi.org/10.6069/uwlswd.25z4-e963#r">https://doi.org/10.6069/uwlswd.25z4-e963#r</a>
                         </td>
                         <td>
-                            <a href="http://www.w3.org/1999/02/22-rdf-syntax-ns#">rdf:type</a>
+                            <a href="http://www.w3.org/1999/02/22-rdf-syntax-ns#type">rdf:type</a>
                         </td>
                         <td property="rdf:type" resource="http://www.w3.org/2004/02/skos/core#Concept">
                             <a href="http://www.w3.org/2004/02/skos/core#Concept">http://www.w3.org/2004/02/skos/core#Concept</a>
@@ -957,17 +928,16 @@
                             <a href="https://doi.org/10.6069/uwlswd.25z4-e963#r">https://doi.org/10.6069/uwlswd.25z4-e963#r</a>
                         </td>
                         <td>
-                            <a href="http://www.w3.org/2004/02/skos/core#">skos:definition</a>
+                            <a href="http://www.w3.org/2004/02/skos/core#definition">skos:definition</a>
                         </td>
-                        <td property="skos:definition" xml:lang="en">Three-dimensional artifact or naturally occurring
-                  object.</td>
+                        <td property="skos:definition" xml:lang="en">Three-dimensional artifact or naturally occurring object.</td>
                     </tr>
                     <tr about="https://doi.org/10.6069/uwlswd.25z4-e963#r">
                         <td>
                             <a href="https://doi.org/10.6069/uwlswd.25z4-e963#r">https://doi.org/10.6069/uwlswd.25z4-e963#r</a>
                         </td>
                         <td>
-                            <a href="http://www.w3.org/2004/02/skos/core#">skos:inScheme</a>
+                            <a href="http://www.w3.org/2004/02/skos/core#inScheme">skos:inScheme</a>
                         </td>
                         <td property="skos:inScheme" resource="https://doi.org/10.6069/uwlswd.25z4-e963">
                             <a href="https://doi.org/10.6069/uwlswd.25z4-e963">https://doi.org/10.6069/uwlswd.25z4-e963</a>
@@ -978,26 +948,25 @@
                             <a href="https://doi.org/10.6069/uwlswd.25z4-e963#r">https://doi.org/10.6069/uwlswd.25z4-e963#r</a>
                         </td>
                         <td>
-                            <a href="http://www.w3.org/2004/02/skos/core#">skos:notation</a>
+                            <a href="http://www.w3.org/2004/02/skos/core#notation">skos:notation</a>
                         </td>
-                        <td property="skos:notation" xml:lang="en">r</td>
+                        <td property="skos:notation">r</td>
                     </tr>
                     <tr about="https://doi.org/10.6069/uwlswd.25z4-e963#r">
                         <td>
                             <a href="https://doi.org/10.6069/uwlswd.25z4-e963#r">https://doi.org/10.6069/uwlswd.25z4-e963#r</a>
                         </td>
                         <td>
-                            <a href="http://www.w3.org/2004/02/skos/core#">skos:prefLabel</a>
+                            <a href="http://www.w3.org/2004/02/skos/core#prefLabel">skos:prefLabel</a>
                         </td>
-                        <td property="skos:prefLabel" xml:lang="en">three-dimensional artifact or naturally occurring
-                  object</td>
+                        <td property="skos:prefLabel" xml:lang="en">three-dimensional artifact or naturally occurring object</td>
                     </tr>
                     <tr about="https://doi.org/10.6069/uwlswd.25z4-e963#s">
                         <td id="s">
                             <a href="https://doi.org/10.6069/uwlswd.25z4-e963#s">https://doi.org/10.6069/uwlswd.25z4-e963#s</a>
                         </td>
                         <td>
-                            <a href="http://www.w3.org/1999/02/22-rdf-syntax-ns#">rdf:type</a>
+                            <a href="http://www.w3.org/1999/02/22-rdf-syntax-ns#type">rdf:type</a>
                         </td>
                         <td property="rdf:type" resource="http://www.w3.org/2004/02/skos/core#Concept">
                             <a href="http://www.w3.org/2004/02/skos/core#Concept">http://www.w3.org/2004/02/skos/core#Concept</a>
@@ -1008,17 +977,16 @@
                             <a href="https://doi.org/10.6069/uwlswd.25z4-e963#s">https://doi.org/10.6069/uwlswd.25z4-e963#s</a>
                         </td>
                         <td>
-                            <a href="http://www.w3.org/2004/02/skos/core#">skos:definition</a>
+                            <a href="http://www.w3.org/2004/02/skos/core#definition">skos:definition</a>
                         </td>
-                        <td property="skos:definition" xml:lang="en">Control aspects of a non-printed continuing
-                  resource.</td>
+                        <td property="skos:definition" xml:lang="en">Control aspects of a non-printed continuing resource.</td>
                     </tr>
                     <tr about="https://doi.org/10.6069/uwlswd.25z4-e963#s">
                         <td>
                             <a href="https://doi.org/10.6069/uwlswd.25z4-e963#s">https://doi.org/10.6069/uwlswd.25z4-e963#s</a>
                         </td>
                         <td>
-                            <a href="http://www.w3.org/2004/02/skos/core#">skos:inScheme</a>
+                            <a href="http://www.w3.org/2004/02/skos/core#inScheme">skos:inScheme</a>
                         </td>
                         <td property="skos:inScheme" resource="https://doi.org/10.6069/uwlswd.25z4-e963">
                             <a href="https://doi.org/10.6069/uwlswd.25z4-e963">https://doi.org/10.6069/uwlswd.25z4-e963</a>
@@ -1029,16 +997,16 @@
                             <a href="https://doi.org/10.6069/uwlswd.25z4-e963#s">https://doi.org/10.6069/uwlswd.25z4-e963#s</a>
                         </td>
                         <td>
-                            <a href="http://www.w3.org/2004/02/skos/core#">skos:notation</a>
+                            <a href="http://www.w3.org/2004/02/skos/core#notation">skos:notation</a>
                         </td>
-                        <td property="skos:notation" xml:lang="en">s</td>
+                        <td property="skos:notation">s</td>
                     </tr>
                     <tr about="https://doi.org/10.6069/uwlswd.25z4-e963#s">
                         <td>
                             <a href="https://doi.org/10.6069/uwlswd.25z4-e963#s">https://doi.org/10.6069/uwlswd.25z4-e963#s</a>
                         </td>
                         <td>
-                            <a href="http://www.w3.org/2004/02/skos/core#">skos:prefLabel</a>
+                            <a href="http://www.w3.org/2004/02/skos/core#prefLabel">skos:prefLabel</a>
                         </td>
                         <td property="skos:prefLabel" xml:lang="en">serial or integrating resource</td>
                     </tr>
@@ -1047,7 +1015,7 @@
                             <a href="https://doi.org/10.6069/uwlswd.25z4-e963#t">https://doi.org/10.6069/uwlswd.25z4-e963#t</a>
                         </td>
                         <td>
-                            <a href="http://www.w3.org/1999/02/22-rdf-syntax-ns#">rdf:type</a>
+                            <a href="http://www.w3.org/1999/02/22-rdf-syntax-ns#type">rdf:type</a>
                         </td>
                         <td property="rdf:type" resource="http://www.w3.org/2004/02/skos/core#Concept">
                             <a href="http://www.w3.org/2004/02/skos/core#Concept">http://www.w3.org/2004/02/skos/core#Concept</a>
@@ -1058,7 +1026,7 @@
                             <a href="https://doi.org/10.6069/uwlswd.25z4-e963#t">https://doi.org/10.6069/uwlswd.25z4-e963#t</a>
                         </td>
                         <td>
-                            <a href="http://www.w3.org/2004/02/skos/core#">skos:definition</a>
+                            <a href="http://www.w3.org/2004/02/skos/core#definition">skos:definition</a>
                         </td>
                         <td property="skos:definition" xml:lang="en">Manuscript language material.</td>
                     </tr>
@@ -1067,7 +1035,7 @@
                             <a href="https://doi.org/10.6069/uwlswd.25z4-e963#t">https://doi.org/10.6069/uwlswd.25z4-e963#t</a>
                         </td>
                         <td>
-                            <a href="http://www.w3.org/2004/02/skos/core#">skos:inScheme</a>
+                            <a href="http://www.w3.org/2004/02/skos/core#inScheme">skos:inScheme</a>
                         </td>
                         <td property="skos:inScheme" resource="https://doi.org/10.6069/uwlswd.25z4-e963">
                             <a href="https://doi.org/10.6069/uwlswd.25z4-e963">https://doi.org/10.6069/uwlswd.25z4-e963</a>
@@ -1078,16 +1046,16 @@
                             <a href="https://doi.org/10.6069/uwlswd.25z4-e963#t">https://doi.org/10.6069/uwlswd.25z4-e963#t</a>
                         </td>
                         <td>
-                            <a href="http://www.w3.org/2004/02/skos/core#">skos:notation</a>
+                            <a href="http://www.w3.org/2004/02/skos/core#notation">skos:notation</a>
                         </td>
-                        <td property="skos:notation" xml:lang="en">t</td>
+                        <td property="skos:notation">t</td>
                     </tr>
                     <tr about="https://doi.org/10.6069/uwlswd.25z4-e963#t">
                         <td>
                             <a href="https://doi.org/10.6069/uwlswd.25z4-e963#t">https://doi.org/10.6069/uwlswd.25z4-e963#t</a>
                         </td>
                         <td>
-                            <a href="http://www.w3.org/2004/02/skos/core#">skos:prefLabel</a>
+                            <a href="http://www.w3.org/2004/02/skos/core#prefLabel">skos:prefLabel</a>
                         </td>
                         <td property="skos:prefLabel" xml:lang="en">manuscript language material</td>
                     </tr>
@@ -1104,145 +1072,134 @@
    xmlns:schema="https://schema.org/"
    xmlns:skos="http://www.w3.org/2004/02/skos/core#"
 &gt;
-  &lt;rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.25z4-e963"&gt;
-    &lt;rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#ConceptScheme"/&gt;
-    &lt;schema:additionalType xml:lang="en"&gt;Dataset&lt;/schema:additionalType&gt;
-    &lt;dct:creator rdf:resource="http://viaf.org/viaf/139541794"/&gt;
-    &lt;dc:creator xml:lang="en"&gt;University of Washington Libraries&lt;/dc:creator&gt;
-    &lt;dct:title xml:lang="en"&gt;Form of material&lt;/dct:title&gt;
-    &lt;dct:alternative xml:lang="en"&gt;MARC21 006/00 values for all materials expressed using
-         RDF&lt;/dct:alternative&gt;
-    &lt;dct:publisher rdf:resource="http://viaf.org/viaf/139541794"/&gt;
-    &lt;dc:publisher xml:lang="en"&gt;University of Washington Libraries&lt;/dc:publisher&gt;
-    &lt;dct:issued&gt;2023&lt;/dct:issued&gt;
-    &lt;dct:contributor rdf:resource="http://viaf.org/viaf/151962300"/&gt;
-    &lt;dc:contributor xml:lang="en"&gt;Metadata Management Associates&lt;/dc:contributor&gt;
-    &lt;dc:contributor xml:lang="en"&gt;Library of Congress&lt;/dc:contributor&gt;
-    &lt;dc:language&gt;en&lt;/dc:language&gt;
-    &lt;dct:source rdf:resource="https://www.loc.gov/marc/bibliographic/bd008.html"/&gt;
-    &lt;dct:source rdf:resource="http://marc21rdf.info"/&gt;
-    &lt;dct:format rdf:resource="http://www.w3.org/ns/formats/RDF_XML"/&gt;
-    &lt;dct:hasFormat rdf:resource="http://www.w3.org/ns/formats/JSON-LD"/&gt;
-    &lt;dct:hasFormat rdf:resource="http://www.w3.org/ns/formats/N-Triples"/&gt;
-    &lt;dct:hasFormat rdf:resource="http://www.w3.org/ns/formats/Turtle"/&gt;
-    &lt;dct:hasFormat rdf:resource="http://www.w3.org/ns/formats/RDFa"/&gt;
-    &lt;dct:hasFormat rdf:resource="https://uwlib-cams.github.io/uwlswd_vocabs_marc_006_008/006/form_of_material.ttl"/&gt;
-    &lt;dct:hasFormat rdf:resource="https://uwlib-cams.github.io/uwlswd_vocabs_marc_006_008/006/form_of_material.nt"/&gt;
-    &lt;dct:hasFormat rdf:resource="https://uwlib-cams.github.io/uwlswd_vocabs_marc_006_008/006/form_of_material.jsonld"/&gt;
-    &lt;dct:hasFormat rdf:resource="https://uwlib-cams.github.io/uwlswd_vocabs_marc_006_008/006/form_of_material.html"/&gt;
-    &lt;dct:license rdf:resource="http://creativecommons.org/publicdomain/zero/1.0"/&gt;
-    &lt;dct:description xml:lang="en"&gt;Identifies a form of material.&lt;/dct:description&gt;
-    &lt;schema:version&gt;1-0-0&lt;/schema:version&gt;
-    &lt;dct:provenance rdf:resource="https://doi.org/10.6069/uwlswd.2e2b-y833#marc00Xvalues"/&gt;
-  &lt;/rdf:Description&gt;
-  &lt;rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.25z4-e963#s"&gt;
+  &lt;rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.25z4-e963#r"&gt;
     &lt;rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/&gt;
     &lt;skos:inScheme rdf:resource="https://doi.org/10.6069/uwlswd.25z4-e963"/&gt;
-    &lt;skos:prefLabel xml:lang="en"&gt;serial or integrating resource&lt;/skos:prefLabel&gt;
-    &lt;skos:definition xml:lang="en"&gt;Control aspects of a non-printed continuing
-         resource.&lt;/skos:definition&gt;
-    &lt;skos:notation xml:lang="en"&gt;s&lt;/skos:notation&gt;
+    &lt;skos:prefLabel xml:lang="en"&gt;three-dimensional artifact or naturally occurring object&lt;/skos:prefLabel&gt;
+    &lt;skos:definition xml:lang="en"&gt;Three-dimensional artifact or naturally occurring object.&lt;/skos:definition&gt;
+    &lt;skos:notation&gt;r&lt;/skos:notation&gt;
   &lt;/rdf:Description&gt;
   &lt;rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.25z4-e963#d"&gt;
     &lt;rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/&gt;
     &lt;skos:inScheme rdf:resource="https://doi.org/10.6069/uwlswd.25z4-e963"/&gt;
     &lt;skos:prefLabel xml:lang="en"&gt;manuscript notated music&lt;/skos:prefLabel&gt;
     &lt;skos:definition xml:lang="en"&gt;Manuscript notated music.&lt;/skos:definition&gt;
-    &lt;skos:notation xml:lang="en"&gt;d&lt;/skos:notation&gt;
-  &lt;/rdf:Description&gt;
-  &lt;rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.25z4-e963#e"&gt;
-    &lt;rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/&gt;
-    &lt;skos:inScheme rdf:resource="https://doi.org/10.6069/uwlswd.25z4-e963"/&gt;
-    &lt;skos:prefLabel xml:lang="en"&gt;cartographic material&lt;/skos:prefLabel&gt;
-    &lt;skos:definition xml:lang="en"&gt;Nonmanuscript cartographic material.&lt;/skos:definition&gt;
-    &lt;skos:notation xml:lang="en"&gt;e&lt;/skos:notation&gt;
-  &lt;/rdf:Description&gt;
-  &lt;rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.25z4-e963#r"&gt;
-    &lt;rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/&gt;
-    &lt;skos:inScheme rdf:resource="https://doi.org/10.6069/uwlswd.25z4-e963"/&gt;
-    &lt;skos:prefLabel xml:lang="en"&gt;three-dimensional artifact or naturally occurring
-         object&lt;/skos:prefLabel&gt;
-    &lt;skos:definition xml:lang="en"&gt;Three-dimensional artifact or naturally occurring
-         object.&lt;/skos:definition&gt;
-    &lt;skos:notation xml:lang="en"&gt;r&lt;/skos:notation&gt;
-  &lt;/rdf:Description&gt;
-  &lt;rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.25z4-e963#t"&gt;
-    &lt;rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/&gt;
-    &lt;skos:inScheme rdf:resource="https://doi.org/10.6069/uwlswd.25z4-e963"/&gt;
-    &lt;skos:prefLabel xml:lang="en"&gt;manuscript language material&lt;/skos:prefLabel&gt;
-    &lt;skos:definition xml:lang="en"&gt;Manuscript language material.&lt;/skos:definition&gt;
-    &lt;skos:notation xml:lang="en"&gt;t&lt;/skos:notation&gt;
+    &lt;skos:notation&gt;d&lt;/skos:notation&gt;
   &lt;/rdf:Description&gt;
   &lt;rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.25z4-e963#m"&gt;
     &lt;rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/&gt;
     &lt;skos:inScheme rdf:resource="https://doi.org/10.6069/uwlswd.25z4-e963"/&gt;
     &lt;skos:prefLabel xml:lang="en"&gt;computer file or electronic resource&lt;/skos:prefLabel&gt;
-    &lt;skos:definition xml:lang="en"&gt;Computer file or an electronic resource in
-         form.&lt;/skos:definition&gt;
-    &lt;skos:notation xml:lang="en"&gt;m&lt;/skos:notation&gt;
+    &lt;skos:definition xml:lang="en"&gt;Computer file or an electronic resource in form.&lt;/skos:definition&gt;
+    &lt;skos:notation&gt;m&lt;/skos:notation&gt;
   &lt;/rdf:Description&gt;
-  &lt;rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.25z4-e963#g"&gt;
-    &lt;rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/&gt;
-    &lt;skos:inScheme rdf:resource="https://doi.org/10.6069/uwlswd.25z4-e963"/&gt;
-    &lt;skos:prefLabel xml:lang="en"&gt;projected medium&lt;/skos:prefLabel&gt;
-    &lt;skos:definition xml:lang="en"&gt;Projected medium.&lt;/skos:definition&gt;
-    &lt;skos:notation xml:lang="en"&gt;g&lt;/skos:notation&gt;
-  &lt;/rdf:Description&gt;
-  &lt;rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.25z4-e963#k"&gt;
-    &lt;rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/&gt;
-    &lt;skos:inScheme rdf:resource="https://doi.org/10.6069/uwlswd.25z4-e963"/&gt;
-    &lt;skos:prefLabel xml:lang="en"&gt;two-dimensional nonprojectable graphic&lt;/skos:prefLabel&gt;
-    &lt;skos:definition xml:lang="en"&gt;Two-dimensional nonprojectable graphic.&lt;/skos:definition&gt;
-    &lt;skos:notation xml:lang="en"&gt;k&lt;/skos:notation&gt;
-  &lt;/rdf:Description&gt;
-  &lt;rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.25z4-e963#j"&gt;
-    &lt;rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/&gt;
-    &lt;skos:inScheme rdf:resource="https://doi.org/10.6069/uwlswd.25z4-e963"/&gt;
-    &lt;skos:prefLabel xml:lang="en"&gt;musical sound recording&lt;/skos:prefLabel&gt;
-    &lt;skos:definition xml:lang="en"&gt;Musical sound recording.&lt;/skos:definition&gt;
-    &lt;skos:notation xml:lang="en"&gt;j&lt;/skos:notation&gt;
-  &lt;/rdf:Description&gt;
-  &lt;rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.25z4-e963#o"&gt;
-    &lt;rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/&gt;
-    &lt;skos:inScheme rdf:resource="https://doi.org/10.6069/uwlswd.25z4-e963"/&gt;
-    &lt;skos:prefLabel xml:lang="en"&gt;kit&lt;/skos:prefLabel&gt;
-    &lt;skos:definition xml:lang="en"&gt;Kit.&lt;/skos:definition&gt;
-    &lt;skos:notation xml:lang="en"&gt;o&lt;/skos:notation&gt;
-  &lt;/rdf:Description&gt;
-  &lt;rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.25z4-e963#a"&gt;
-    &lt;rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/&gt;
-    &lt;skos:inScheme rdf:resource="https://doi.org/10.6069/uwlswd.25z4-e963"/&gt;
-    &lt;skos:prefLabel xml:lang="en"&gt;language material&lt;/skos:prefLabel&gt;
-    &lt;skos:definition xml:lang="en"&gt;Nonserial language material.&lt;/skos:definition&gt;
-    &lt;skos:notation xml:lang="en"&gt;a&lt;/skos:notation&gt;
+  &lt;rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.25z4-e963"&gt;
+    &lt;rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#ConceptScheme"/&gt;
+    &lt;schema:additionalType xml:lang="en"&gt;Dataset&lt;/schema:additionalType&gt;
+    &lt;dct:creator rdf:resource="http://viaf.org/viaf/139541794"/&gt;
+    &lt;dct:title xml:lang="en"&gt;Form of material&lt;/dct:title&gt;
+    &lt;dct:alternative xml:lang="en"&gt;MARC21 006/00 values for all materials expressed using RDF&lt;/dct:alternative&gt;
+    &lt;dct:publisher rdf:resource="http://viaf.org/viaf/139541794"/&gt;
+    &lt;dct:issued&gt;2023&lt;/dct:issued&gt;
+    &lt;dct:contributor rdf:resource="http://viaf.org/viaf/151962300"/&gt;
+    &lt;dc:contributor xml:lang="en"&gt;Metadata Management Associates&lt;/dc:contributor&gt;
+    &lt;dc:language&gt;en&lt;/dc:language&gt;
+    &lt;dct:source rdf:resource="https://www.loc.gov/marc/bibliographic/bd008.html"/&gt;
+    &lt;dct:source rdf:resource="http://marc21rdf.info"/&gt;
+    &lt;dct:format rdf:resource="http://www.w3.org/ns/formats/RDF_XML"/&gt;
+    &lt;dct:hasFormat rdf:resource="https://uwlib-cams.github.io/uwlswd_vocabs_marc_006_008/006/form_of_material.ttl"/&gt;
+    &lt;dct:hasFormat rdf:resource="https://uwlib-cams.github.io/uwlswd_vocabs_marc_006_008/006/form_of_material.nt"/&gt;
+    &lt;dct:hasFormat rdf:resource="https://uwlib-cams.github.io/uwlswd_vocabs_marc_006_008/006/form_of_material.jsonld"/&gt;
+    &lt;dct:hasFormat rdf:resource="https://uwlib-cams.github.io/uwlswd_vocabs_marc_006_008/006/form_of_material.html"/&gt;
+    &lt;dct:license rdf:resource="http://creativecommons.org/publicdomain/zero/1.0"/&gt;
+    &lt;dct:description xml:lang="en"&gt;Identifies a form of material.&lt;/dct:description&gt;
+    &lt;schema:disambiguatingDescription&gt;SKOS Concept Scheme for MARC 00X Values&lt;/schema:disambiguatingDescription&gt;
+    &lt;schema:version&gt;1-2-0&lt;/schema:version&gt;
+    &lt;dct:provenance rdf:resource="https://doi.org/10.6069/uwlswd.2e2b-y833#marc00Xvalues"/&gt;
   &lt;/rdf:Description&gt;
   &lt;rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.25z4-e963#i"&gt;
     &lt;rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/&gt;
     &lt;skos:inScheme rdf:resource="https://doi.org/10.6069/uwlswd.25z4-e963"/&gt;
     &lt;skos:prefLabel xml:lang="en"&gt;nonmusical sound recording&lt;/skos:prefLabel&gt;
     &lt;skos:definition xml:lang="en"&gt;Nonmusical sound recording.&lt;/skos:definition&gt;
-    &lt;skos:notation xml:lang="en"&gt;i&lt;/skos:notation&gt;
+    &lt;skos:notation&gt;i&lt;/skos:notation&gt;
   &lt;/rdf:Description&gt;
-  &lt;rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.25z4-e963#p"&gt;
+  &lt;rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.25z4-e963#s"&gt;
     &lt;rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/&gt;
     &lt;skos:inScheme rdf:resource="https://doi.org/10.6069/uwlswd.25z4-e963"/&gt;
-    &lt;skos:prefLabel xml:lang="en"&gt;mixed material&lt;/skos:prefLabel&gt;
-    &lt;skos:definition xml:lang="en"&gt;Mixed material.&lt;/skos:definition&gt;
-    &lt;skos:notation xml:lang="en"&gt;p&lt;/skos:notation&gt;
+    &lt;skos:prefLabel xml:lang="en"&gt;serial or integrating resource&lt;/skos:prefLabel&gt;
+    &lt;skos:definition xml:lang="en"&gt;Control aspects of a non-printed continuing resource.&lt;/skos:definition&gt;
+    &lt;skos:notation&gt;s&lt;/skos:notation&gt;
   &lt;/rdf:Description&gt;
-  &lt;rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.25z4-e963#f"&gt;
+  &lt;rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.25z4-e963#e"&gt;
     &lt;rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/&gt;
     &lt;skos:inScheme rdf:resource="https://doi.org/10.6069/uwlswd.25z4-e963"/&gt;
-    &lt;skos:prefLabel xml:lang="en"&gt;manuscript cartographic material&lt;/skos:prefLabel&gt;
-    &lt;skos:definition xml:lang="en"&gt;Manuscript cartographic material .&lt;/skos:definition&gt;
-    &lt;skos:notation xml:lang="en"&gt;f&lt;/skos:notation&gt;
+    &lt;skos:prefLabel xml:lang="en"&gt;cartographic material&lt;/skos:prefLabel&gt;
+    &lt;skos:definition xml:lang="en"&gt;Nonmanuscript cartographic material.&lt;/skos:definition&gt;
+    &lt;skos:notation&gt;e&lt;/skos:notation&gt;
+  &lt;/rdf:Description&gt;
+  &lt;rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.25z4-e963#g"&gt;
+    &lt;rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/&gt;
+    &lt;skos:inScheme rdf:resource="https://doi.org/10.6069/uwlswd.25z4-e963"/&gt;
+    &lt;skos:prefLabel xml:lang="en"&gt;projected medium&lt;/skos:prefLabel&gt;
+    &lt;skos:definition xml:lang="en"&gt;Projected medium.&lt;/skos:definition&gt;
+    &lt;skos:notation&gt;g&lt;/skos:notation&gt;
+  &lt;/rdf:Description&gt;
+  &lt;rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.25z4-e963#o"&gt;
+    &lt;rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/&gt;
+    &lt;skos:inScheme rdf:resource="https://doi.org/10.6069/uwlswd.25z4-e963"/&gt;
+    &lt;skos:prefLabel xml:lang="en"&gt;kit&lt;/skos:prefLabel&gt;
+    &lt;skos:definition xml:lang="en"&gt;Kit.&lt;/skos:definition&gt;
+    &lt;skos:notation&gt;o&lt;/skos:notation&gt;
+  &lt;/rdf:Description&gt;
+  &lt;rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.25z4-e963#t"&gt;
+    &lt;rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/&gt;
+    &lt;skos:inScheme rdf:resource="https://doi.org/10.6069/uwlswd.25z4-e963"/&gt;
+    &lt;skos:prefLabel xml:lang="en"&gt;manuscript language material&lt;/skos:prefLabel&gt;
+    &lt;skos:definition xml:lang="en"&gt;Manuscript language material.&lt;/skos:definition&gt;
+    &lt;skos:notation&gt;t&lt;/skos:notation&gt;
   &lt;/rdf:Description&gt;
   &lt;rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.25z4-e963#c"&gt;
     &lt;rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/&gt;
     &lt;skos:inScheme rdf:resource="https://doi.org/10.6069/uwlswd.25z4-e963"/&gt;
     &lt;skos:prefLabel xml:lang="en"&gt;notated music&lt;/skos:prefLabel&gt;
     &lt;skos:definition xml:lang="en"&gt;Notated music.&lt;/skos:definition&gt;
-    &lt;skos:notation xml:lang="en"&gt;c&lt;/skos:notation&gt;
+    &lt;skos:notation&gt;c&lt;/skos:notation&gt;
+  &lt;/rdf:Description&gt;
+  &lt;rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.25z4-e963#k"&gt;
+    &lt;rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/&gt;
+    &lt;skos:inScheme rdf:resource="https://doi.org/10.6069/uwlswd.25z4-e963"/&gt;
+    &lt;skos:prefLabel xml:lang="en"&gt;two-dimensional nonprojectable graphic&lt;/skos:prefLabel&gt;
+    &lt;skos:definition xml:lang="en"&gt;Two-dimensional nonprojectable graphic.&lt;/skos:definition&gt;
+    &lt;skos:notation&gt;k&lt;/skos:notation&gt;
+  &lt;/rdf:Description&gt;
+  &lt;rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.25z4-e963#a"&gt;
+    &lt;rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/&gt;
+    &lt;skos:inScheme rdf:resource="https://doi.org/10.6069/uwlswd.25z4-e963"/&gt;
+    &lt;skos:prefLabel xml:lang="en"&gt;language material&lt;/skos:prefLabel&gt;
+    &lt;skos:definition xml:lang="en"&gt;Nonserial language material.&lt;/skos:definition&gt;
+    &lt;skos:notation&gt;a&lt;/skos:notation&gt;
+  &lt;/rdf:Description&gt;
+  &lt;rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.25z4-e963#f"&gt;
+    &lt;rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/&gt;
+    &lt;skos:inScheme rdf:resource="https://doi.org/10.6069/uwlswd.25z4-e963"/&gt;
+    &lt;skos:prefLabel xml:lang="en"&gt;manuscript cartographic material&lt;/skos:prefLabel&gt;
+    &lt;skos:definition xml:lang="en"&gt;Manuscript cartographic material .&lt;/skos:definition&gt;
+    &lt;skos:notation&gt;f&lt;/skos:notation&gt;
+  &lt;/rdf:Description&gt;
+  &lt;rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.25z4-e963#j"&gt;
+    &lt;rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/&gt;
+    &lt;skos:inScheme rdf:resource="https://doi.org/10.6069/uwlswd.25z4-e963"/&gt;
+    &lt;skos:prefLabel xml:lang="en"&gt;musical sound recording&lt;/skos:prefLabel&gt;
+    &lt;skos:definition xml:lang="en"&gt;Musical sound recording.&lt;/skos:definition&gt;
+    &lt;skos:notation&gt;j&lt;/skos:notation&gt;
+  &lt;/rdf:Description&gt;
+  &lt;rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.25z4-e963#p"&gt;
+    &lt;rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/&gt;
+    &lt;skos:inScheme rdf:resource="https://doi.org/10.6069/uwlswd.25z4-e963"/&gt;
+    &lt;skos:prefLabel xml:lang="en"&gt;mixed material&lt;/skos:prefLabel&gt;
+    &lt;skos:definition xml:lang="en"&gt;Mixed material.&lt;/skos:definition&gt;
+    &lt;skos:notation&gt;p&lt;/skos:notation&gt;
   &lt;/rdf:Description&gt;
 &lt;/rdf:RDF&gt;
 </pre>
@@ -1257,114 +1214,102 @@
 &lt;https://doi.org/10.6069/uwlswd.25z4-e963#a&gt; a skos:Concept ;
     skos:definition "Nonserial language material."@en ;
     skos:inScheme &lt;https://doi.org/10.6069/uwlswd.25z4-e963&gt; ;
-    skos:notation "a"@en ;
+    skos:notation "a" ;
     skos:prefLabel "language material"@en .
 
 &lt;https://doi.org/10.6069/uwlswd.25z4-e963#c&gt; a skos:Concept ;
     skos:definition "Notated music."@en ;
     skos:inScheme &lt;https://doi.org/10.6069/uwlswd.25z4-e963&gt; ;
-    skos:notation "c"@en ;
+    skos:notation "c" ;
     skos:prefLabel "notated music"@en .
 
 &lt;https://doi.org/10.6069/uwlswd.25z4-e963#d&gt; a skos:Concept ;
     skos:definition "Manuscript notated music."@en ;
     skos:inScheme &lt;https://doi.org/10.6069/uwlswd.25z4-e963&gt; ;
-    skos:notation "d"@en ;
+    skos:notation "d" ;
     skos:prefLabel "manuscript notated music"@en .
 
 &lt;https://doi.org/10.6069/uwlswd.25z4-e963#e&gt; a skos:Concept ;
     skos:definition "Nonmanuscript cartographic material."@en ;
     skos:inScheme &lt;https://doi.org/10.6069/uwlswd.25z4-e963&gt; ;
-    skos:notation "e"@en ;
+    skos:notation "e" ;
     skos:prefLabel "cartographic material"@en .
 
 &lt;https://doi.org/10.6069/uwlswd.25z4-e963#f&gt; a skos:Concept ;
     skos:definition "Manuscript cartographic material ."@en ;
     skos:inScheme &lt;https://doi.org/10.6069/uwlswd.25z4-e963&gt; ;
-    skos:notation "f"@en ;
+    skos:notation "f" ;
     skos:prefLabel "manuscript cartographic material"@en .
 
 &lt;https://doi.org/10.6069/uwlswd.25z4-e963#g&gt; a skos:Concept ;
     skos:definition "Projected medium."@en ;
     skos:inScheme &lt;https://doi.org/10.6069/uwlswd.25z4-e963&gt; ;
-    skos:notation "g"@en ;
+    skos:notation "g" ;
     skos:prefLabel "projected medium"@en .
 
 &lt;https://doi.org/10.6069/uwlswd.25z4-e963#i&gt; a skos:Concept ;
     skos:definition "Nonmusical sound recording."@en ;
     skos:inScheme &lt;https://doi.org/10.6069/uwlswd.25z4-e963&gt; ;
-    skos:notation "i"@en ;
+    skos:notation "i" ;
     skos:prefLabel "nonmusical sound recording"@en .
 
 &lt;https://doi.org/10.6069/uwlswd.25z4-e963#j&gt; a skos:Concept ;
     skos:definition "Musical sound recording."@en ;
     skos:inScheme &lt;https://doi.org/10.6069/uwlswd.25z4-e963&gt; ;
-    skos:notation "j"@en ;
+    skos:notation "j" ;
     skos:prefLabel "musical sound recording"@en .
 
 &lt;https://doi.org/10.6069/uwlswd.25z4-e963#k&gt; a skos:Concept ;
     skos:definition "Two-dimensional nonprojectable graphic."@en ;
     skos:inScheme &lt;https://doi.org/10.6069/uwlswd.25z4-e963&gt; ;
-    skos:notation "k"@en ;
+    skos:notation "k" ;
     skos:prefLabel "two-dimensional nonprojectable graphic"@en .
 
 &lt;https://doi.org/10.6069/uwlswd.25z4-e963#m&gt; a skos:Concept ;
-    skos:definition """Computer file or an electronic resource in
-         form."""@en ;
+    skos:definition "Computer file or an electronic resource in form."@en ;
     skos:inScheme &lt;https://doi.org/10.6069/uwlswd.25z4-e963&gt; ;
-    skos:notation "m"@en ;
+    skos:notation "m" ;
     skos:prefLabel "computer file or electronic resource"@en .
 
 &lt;https://doi.org/10.6069/uwlswd.25z4-e963#o&gt; a skos:Concept ;
     skos:definition "Kit."@en ;
     skos:inScheme &lt;https://doi.org/10.6069/uwlswd.25z4-e963&gt; ;
-    skos:notation "o"@en ;
+    skos:notation "o" ;
     skos:prefLabel "kit"@en .
 
 &lt;https://doi.org/10.6069/uwlswd.25z4-e963#p&gt; a skos:Concept ;
     skos:definition "Mixed material."@en ;
     skos:inScheme &lt;https://doi.org/10.6069/uwlswd.25z4-e963&gt; ;
-    skos:notation "p"@en ;
+    skos:notation "p" ;
     skos:prefLabel "mixed material"@en .
 
 &lt;https://doi.org/10.6069/uwlswd.25z4-e963#r&gt; a skos:Concept ;
-    skos:definition """Three-dimensional artifact or naturally occurring
-         object."""@en ;
+    skos:definition "Three-dimensional artifact or naturally occurring object."@en ;
     skos:inScheme &lt;https://doi.org/10.6069/uwlswd.25z4-e963&gt; ;
-    skos:notation "r"@en ;
-    skos:prefLabel """three-dimensional artifact or naturally occurring
-         object"""@en .
+    skos:notation "r" ;
+    skos:prefLabel "three-dimensional artifact or naturally occurring object"@en .
 
 &lt;https://doi.org/10.6069/uwlswd.25z4-e963#s&gt; a skos:Concept ;
-    skos:definition """Control aspects of a non-printed continuing
-         resource."""@en ;
+    skos:definition "Control aspects of a non-printed continuing resource."@en ;
     skos:inScheme &lt;https://doi.org/10.6069/uwlswd.25z4-e963&gt; ;
-    skos:notation "s"@en ;
+    skos:notation "s" ;
     skos:prefLabel "serial or integrating resource"@en .
 
 &lt;https://doi.org/10.6069/uwlswd.25z4-e963#t&gt; a skos:Concept ;
     skos:definition "Manuscript language material."@en ;
     skos:inScheme &lt;https://doi.org/10.6069/uwlswd.25z4-e963&gt; ;
-    skos:notation "t"@en ;
+    skos:notation "t" ;
     skos:prefLabel "manuscript language material"@en .
 
 &lt;https://doi.org/10.6069/uwlswd.25z4-e963&gt; a skos:ConceptScheme ;
-    dc:contributor "Library of Congress"@en,
-        "Metadata Management Associates"@en ;
-    dc:creator "University of Washington Libraries"@en ;
+    dc:contributor "Metadata Management Associates"@en ;
     dc:language "en" ;
-    dc:publisher "University of Washington Libraries"@en ;
-    dct:alternative """MARC21 006/00 values for all materials expressed using
-         RDF"""@en ;
+    dct:alternative "MARC21 006/00 values for all materials expressed using RDF"@en ;
     dct:contributor &lt;http://viaf.org/viaf/151962300&gt; ;
     dct:creator &lt;http://viaf.org/viaf/139541794&gt; ;
     dct:description "Identifies a form of material."@en ;
-    dct:format &lt;http://www.w3.org/ns/formats/RDF_XML&gt; ;
-    dct:hasFormat &lt;http://www.w3.org/ns/formats/JSON-LD&gt;,
-        &lt;http://www.w3.org/ns/formats/N-Triples&gt;,
-        &lt;http://www.w3.org/ns/formats/RDFa&gt;,
-        &lt;http://www.w3.org/ns/formats/Turtle&gt;,
-        &lt;https://uwlib-cams.github.io/uwlswd_vocabs_marc_006_008/006/form_of_material.html&gt;,
+    dct:format &lt;http://www.w3.org/ns/formats/Turtle&gt; ;
+    dct:hasFormat &lt;https://uwlib-cams.github.io/uwlswd_vocabs_marc_006_008/006/form_of_material.html&gt;,
         &lt;https://uwlib-cams.github.io/uwlswd_vocabs_marc_006_008/006/form_of_material.jsonld&gt;,
         &lt;https://uwlib-cams.github.io/uwlswd_vocabs_marc_006_008/006/form_of_material.nt&gt;,
         &lt;https://uwlib-cams.github.io/uwlswd_vocabs_marc_006_008/006/form_of_material.rdf&gt; ;
@@ -1376,294 +1321,115 @@
         &lt;https://www.loc.gov/marc/bibliographic/bd008.html&gt; ;
     dct:title "Form of material"@en ;
     schema:additionalType "Dataset"@en ;
-    schema:version "1-0-0" .
+    schema:disambiguatingDescription "SKOS Concept Scheme for MARC 00X Values" ;
+    schema:version "1-2-0" .
 
 </pre>
         </div>
         <div id="nt" class="tabcontent">
             <a class="download" href="https://uwlib-cams.github.io/uwlswd_vocabs_marc_006_008/006/form_of_material.nt" download="" target="_blank" rel="noopener noreferrer">Download N-Triples</a>
-            <pre>&lt;https://doi.org/10.6069/uwlswd.25z4-e963&gt; &lt;http://purl.org/dc/elements/1.1/creator&gt; "University of Washington Libraries"@en .
-&lt;https://doi.org/10.6069/uwlswd.25z4-e963#s&gt; &lt;http://www.w3.org/2004/02/skos/core#notation&gt; "s"@en .
-&lt;https://doi.org/10.6069/uwlswd.25z4-e963#d&gt; &lt;http://www.w3.org/1999/02/22-rdf-syntax-ns#type&gt; &lt;http://www.w3.org/2004/02/skos/core#Concept&gt; .
-&lt;https://doi.org/10.6069/uwlswd.25z4-e963#e&gt; &lt;http://www.w3.org/2004/02/skos/core#prefLabel&gt; "cartographic material"@en .
-&lt;https://doi.org/10.6069/uwlswd.25z4-e963&gt; &lt;http://purl.org/dc/terms/hasFormat&gt; &lt;http://www.w3.org/ns/formats/Turtle&gt; .
-&lt;https://doi.org/10.6069/uwlswd.25z4-e963#e&gt; &lt;http://www.w3.org/2004/02/skos/core#inScheme&gt; &lt;https://doi.org/10.6069/uwlswd.25z4-e963&gt; .
-&lt;https://doi.org/10.6069/uwlswd.25z4-e963#r&gt; &lt;http://www.w3.org/2004/02/skos/core#definition&gt; "Three-dimensional artifact or naturally occurring\n         object."@en .
-&lt;https://doi.org/10.6069/uwlswd.25z4-e963#t&gt; &lt;http://www.w3.org/1999/02/22-rdf-syntax-ns#type&gt; &lt;http://www.w3.org/2004/02/skos/core#Concept&gt; .
-&lt;https://doi.org/10.6069/uwlswd.25z4-e963&gt; &lt;http://purl.org/dc/terms/creator&gt; &lt;http://viaf.org/viaf/139541794&gt; .
-&lt;https://doi.org/10.6069/uwlswd.25z4-e963&gt; &lt;http://purl.org/dc/elements/1.1/contributor&gt; "Metadata Management Associates"@en .
-&lt;https://doi.org/10.6069/uwlswd.25z4-e963&gt; &lt;http://purl.org/dc/terms/hasFormat&gt; &lt;http://www.w3.org/ns/formats/N-Triples&gt; .
-&lt;https://doi.org/10.6069/uwlswd.25z4-e963&gt; &lt;http://purl.org/dc/terms/license&gt; &lt;http://creativecommons.org/publicdomain/zero/1.0&gt; .
-&lt;https://doi.org/10.6069/uwlswd.25z4-e963#m&gt; &lt;http://www.w3.org/2004/02/skos/core#notation&gt; "m"@en .
-&lt;https://doi.org/10.6069/uwlswd.25z4-e963#g&gt; &lt;http://www.w3.org/2004/02/skos/core#notation&gt; "g"@en .
-&lt;https://doi.org/10.6069/uwlswd.25z4-e963#k&gt; &lt;http://www.w3.org/2004/02/skos/core#inScheme&gt; &lt;https://doi.org/10.6069/uwlswd.25z4-e963&gt; .
-&lt;https://doi.org/10.6069/uwlswd.25z4-e963#j&gt; &lt;http://www.w3.org/2004/02/skos/core#notation&gt; "j"@en .
-&lt;https://doi.org/10.6069/uwlswd.25z4-e963#d&gt; &lt;http://www.w3.org/2004/02/skos/core#notation&gt; "d"@en .
-&lt;https://doi.org/10.6069/uwlswd.25z4-e963#g&gt; &lt;http://www.w3.org/1999/02/22-rdf-syntax-ns#type&gt; &lt;http://www.w3.org/2004/02/skos/core#Concept&gt; .
-&lt;https://doi.org/10.6069/uwlswd.25z4-e963#m&gt; &lt;http://www.w3.org/2004/02/skos/core#inScheme&gt; &lt;https://doi.org/10.6069/uwlswd.25z4-e963&gt; .
-&lt;https://doi.org/10.6069/uwlswd.25z4-e963#t&gt; &lt;http://www.w3.org/2004/02/skos/core#definition&gt; "Manuscript language material."@en .
-&lt;https://doi.org/10.6069/uwlswd.25z4-e963&gt; &lt;http://purl.org/dc/terms/description&gt; "Identifies a form of material."@en .
-&lt;https://doi.org/10.6069/uwlswd.25z4-e963#s&gt; &lt;http://www.w3.org/1999/02/22-rdf-syntax-ns#type&gt; &lt;http://www.w3.org/2004/02/skos/core#Concept&gt; .
+            <pre>&lt;https://doi.org/10.6069/uwlswd.25z4-e963#r&gt; &lt;http://www.w3.org/2004/02/skos/core#inScheme&gt; &lt;https://doi.org/10.6069/uwlswd.25z4-e963&gt; .
 &lt;https://doi.org/10.6069/uwlswd.25z4-e963#d&gt; &lt;http://www.w3.org/2004/02/skos/core#definition&gt; "Manuscript notated music."@en .
-&lt;https://doi.org/10.6069/uwlswd.25z4-e963&gt; &lt;http://purl.org/dc/elements/1.1/contributor&gt; "Library of Congress"@en .
-&lt;https://doi.org/10.6069/uwlswd.25z4-e963&gt; &lt;http://purl.org/dc/terms/contributor&gt; &lt;http://viaf.org/viaf/151962300&gt; .
-&lt;https://doi.org/10.6069/uwlswd.25z4-e963#o&gt; &lt;http://www.w3.org/2004/02/skos/core#definition&gt; "Kit."@en .
-&lt;https://doi.org/10.6069/uwlswd.25z4-e963#a&gt; &lt;http://www.w3.org/2004/02/skos/core#notation&gt; "a"@en .
-&lt;https://doi.org/10.6069/uwlswd.25z4-e963#t&gt; &lt;http://www.w3.org/2004/02/skos/core#inScheme&gt; &lt;https://doi.org/10.6069/uwlswd.25z4-e963&gt; .
-&lt;https://doi.org/10.6069/uwlswd.25z4-e963#o&gt; &lt;http://www.w3.org/1999/02/22-rdf-syntax-ns#type&gt; &lt;http://www.w3.org/2004/02/skos/core#Concept&gt; .
-&lt;https://doi.org/10.6069/uwlswd.25z4-e963#i&gt; &lt;http://www.w3.org/2004/02/skos/core#inScheme&gt; &lt;https://doi.org/10.6069/uwlswd.25z4-e963&gt; .
-&lt;https://doi.org/10.6069/uwlswd.25z4-e963#p&gt; &lt;http://www.w3.org/2004/02/skos/core#notation&gt; "p"@en .
-&lt;https://doi.org/10.6069/uwlswd.25z4-e963&gt; &lt;http://purl.org/dc/terms/hasFormat&gt; &lt;https://uwlib-cams.github.io/uwlswd_vocabs_marc_006_008/006/form_of_material.jsonld&gt; .
-&lt;https://doi.org/10.6069/uwlswd.25z4-e963#f&gt; &lt;http://www.w3.org/1999/02/22-rdf-syntax-ns#type&gt; &lt;http://www.w3.org/2004/02/skos/core#Concept&gt; .
-&lt;https://doi.org/10.6069/uwlswd.25z4-e963#a&gt; &lt;http://www.w3.org/1999/02/22-rdf-syntax-ns#type&gt; &lt;http://www.w3.org/2004/02/skos/core#Concept&gt; .
-&lt;https://doi.org/10.6069/uwlswd.25z4-e963#p&gt; &lt;http://www.w3.org/2004/02/skos/core#prefLabel&gt; "mixed material"@en .
-&lt;https://doi.org/10.6069/uwlswd.25z4-e963&gt; &lt;http://purl.org/dc/terms/format&gt; &lt;http://www.w3.org/ns/formats/RDF_XML&gt; .
-&lt;https://doi.org/10.6069/uwlswd.25z4-e963&gt; &lt;http://purl.org/dc/terms/hasFormat&gt; &lt;http://www.w3.org/ns/formats/JSON-LD&gt; .
-&lt;https://doi.org/10.6069/uwlswd.25z4-e963&gt; &lt;http://purl.org/dc/terms/source&gt; &lt;http://marc21rdf.info&gt; .
-&lt;https://doi.org/10.6069/uwlswd.25z4-e963&gt; &lt;http://purl.org/dc/terms/publisher&gt; &lt;http://viaf.org/viaf/139541794&gt; .
-&lt;https://doi.org/10.6069/uwlswd.25z4-e963&gt; &lt;http://purl.org/dc/terms/source&gt; &lt;https://www.loc.gov/marc/bibliographic/bd008.html&gt; .
-&lt;https://doi.org/10.6069/uwlswd.25z4-e963#e&gt; &lt;http://www.w3.org/1999/02/22-rdf-syntax-ns#type&gt; &lt;http://www.w3.org/2004/02/skos/core#Concept&gt; .
-&lt;https://doi.org/10.6069/uwlswd.25z4-e963&gt; &lt;http://purl.org/dc/terms/alternative&gt; "MARC21 006/00 values for all materials expressed using\n         RDF"@en .
-&lt;https://doi.org/10.6069/uwlswd.25z4-e963&gt; &lt;http://purl.org/dc/terms/hasFormat&gt; &lt;http://www.w3.org/ns/formats/RDFa&gt; .
-&lt;https://doi.org/10.6069/uwlswd.25z4-e963#r&gt; &lt;http://www.w3.org/2004/02/skos/core#inScheme&gt; &lt;https://doi.org/10.6069/uwlswd.25z4-e963&gt; .
 &lt;https://doi.org/10.6069/uwlswd.25z4-e963#m&gt; &lt;http://www.w3.org/2004/02/skos/core#prefLabel&gt; "computer file or electronic resource"@en .
-&lt;https://doi.org/10.6069/uwlswd.25z4-e963#c&gt; &lt;http://www.w3.org/1999/02/22-rdf-syntax-ns#type&gt; &lt;http://www.w3.org/2004/02/skos/core#Concept&gt; .
-&lt;https://doi.org/10.6069/uwlswd.25z4-e963#e&gt; &lt;http://www.w3.org/2004/02/skos/core#notation&gt; "e"@en .
-&lt;https://doi.org/10.6069/uwlswd.25z4-e963&gt; &lt;http://purl.org/dc/terms/hasFormat&gt; &lt;https://uwlib-cams.github.io/uwlswd_vocabs_marc_006_008/006/form_of_material.ttl&gt; .
-&lt;https://doi.org/10.6069/uwlswd.25z4-e963#a&gt; &lt;http://www.w3.org/2004/02/skos/core#prefLabel&gt; "language material"@en .
-&lt;https://doi.org/10.6069/uwlswd.25z4-e963#p&gt; &lt;http://www.w3.org/2004/02/skos/core#inScheme&gt; &lt;https://doi.org/10.6069/uwlswd.25z4-e963&gt; .
-&lt;https://doi.org/10.6069/uwlswd.25z4-e963#o&gt; &lt;http://www.w3.org/2004/02/skos/core#inScheme&gt; &lt;https://doi.org/10.6069/uwlswd.25z4-e963&gt; .
-&lt;https://doi.org/10.6069/uwlswd.25z4-e963#p&gt; &lt;http://www.w3.org/2004/02/skos/core#definition&gt; "Mixed material."@en .
-&lt;https://doi.org/10.6069/uwlswd.25z4-e963#k&gt; &lt;http://www.w3.org/1999/02/22-rdf-syntax-ns#type&gt; &lt;http://www.w3.org/2004/02/skos/core#Concept&gt; .
-&lt;https://doi.org/10.6069/uwlswd.25z4-e963#s&gt; &lt;http://www.w3.org/2004/02/skos/core#definition&gt; "Control aspects of a non-printed continuing\n         resource."@en .
-&lt;https://doi.org/10.6069/uwlswd.25z4-e963&gt; &lt;http://purl.org/dc/elements/1.1/language&gt; "en" .
-&lt;https://doi.org/10.6069/uwlswd.25z4-e963&gt; &lt;http://www.w3.org/1999/02/22-rdf-syntax-ns#type&gt; &lt;http://www.w3.org/2004/02/skos/core#ConceptScheme&gt; .
-&lt;https://doi.org/10.6069/uwlswd.25z4-e963#m&gt; &lt;http://www.w3.org/1999/02/22-rdf-syntax-ns#type&gt; &lt;http://www.w3.org/2004/02/skos/core#Concept&gt; .
-&lt;https://doi.org/10.6069/uwlswd.25z4-e963#i&gt; &lt;http://www.w3.org/2004/02/skos/core#prefLabel&gt; "nonmusical sound recording"@en .
-&lt;https://doi.org/10.6069/uwlswd.25z4-e963#k&gt; &lt;http://www.w3.org/2004/02/skos/core#definition&gt; "Two-dimensional nonprojectable graphic."@en .
-&lt;https://doi.org/10.6069/uwlswd.25z4-e963#t&gt; &lt;http://www.w3.org/2004/02/skos/core#notation&gt; "t"@en .
-&lt;https://doi.org/10.6069/uwlswd.25z4-e963#j&gt; &lt;http://www.w3.org/2004/02/skos/core#inScheme&gt; &lt;https://doi.org/10.6069/uwlswd.25z4-e963&gt; .
-&lt;https://doi.org/10.6069/uwlswd.25z4-e963&gt; &lt;http://purl.org/dc/elements/1.1/publisher&gt; "University of Washington Libraries"@en .
-&lt;https://doi.org/10.6069/uwlswd.25z4-e963#c&gt; &lt;http://www.w3.org/2004/02/skos/core#definition&gt; "Notated music."@en .
-&lt;https://doi.org/10.6069/uwlswd.25z4-e963&gt; &lt;https://schema.org/version&gt; "1-0-0" .
-&lt;https://doi.org/10.6069/uwlswd.25z4-e963&gt; &lt;http://purl.org/dc/terms/provenance&gt; &lt;https://doi.org/10.6069/uwlswd.2e2b-y833#marc00Xvalues&gt; .
-&lt;https://doi.org/10.6069/uwlswd.25z4-e963#a&gt; &lt;http://www.w3.org/2004/02/skos/core#definition&gt; "Nonserial language material."@en .
-&lt;https://doi.org/10.6069/uwlswd.25z4-e963#g&gt; &lt;http://www.w3.org/2004/02/skos/core#prefLabel&gt; "projected medium"@en .
-&lt;https://doi.org/10.6069/uwlswd.25z4-e963#d&gt; &lt;http://www.w3.org/2004/02/skos/core#prefLabel&gt; "manuscript notated music"@en .
-&lt;https://doi.org/10.6069/uwlswd.25z4-e963#c&gt; &lt;http://www.w3.org/2004/02/skos/core#notation&gt; "c"@en .
-&lt;https://doi.org/10.6069/uwlswd.25z4-e963#i&gt; &lt;http://www.w3.org/1999/02/22-rdf-syntax-ns#type&gt; &lt;http://www.w3.org/2004/02/skos/core#Concept&gt; .
-&lt;https://doi.org/10.6069/uwlswd.25z4-e963#c&gt; &lt;http://www.w3.org/2004/02/skos/core#inScheme&gt; &lt;https://doi.org/10.6069/uwlswd.25z4-e963&gt; .
-&lt;https://doi.org/10.6069/uwlswd.25z4-e963#f&gt; &lt;http://www.w3.org/2004/02/skos/core#notation&gt; "f"@en .
-&lt;https://doi.org/10.6069/uwlswd.25z4-e963&gt; &lt;http://purl.org/dc/terms/hasFormat&gt; &lt;https://uwlib-cams.github.io/uwlswd_vocabs_marc_006_008/006/form_of_material.rdf&gt; .
-&lt;https://doi.org/10.6069/uwlswd.25z4-e963#d&gt; &lt;http://www.w3.org/2004/02/skos/core#inScheme&gt; &lt;https://doi.org/10.6069/uwlswd.25z4-e963&gt; .
-&lt;https://doi.org/10.6069/uwlswd.25z4-e963&gt; &lt;http://purl.org/dc/terms/issued&gt; "2023" .
-&lt;https://doi.org/10.6069/uwlswd.25z4-e963#j&gt; &lt;http://www.w3.org/2004/02/skos/core#definition&gt; "Musical sound recording."@en .
-&lt;https://doi.org/10.6069/uwlswd.25z4-e963#g&gt; &lt;http://www.w3.org/2004/02/skos/core#definition&gt; "Projected medium."@en .
-&lt;https://doi.org/10.6069/uwlswd.25z4-e963#r&gt; &lt;http://www.w3.org/1999/02/22-rdf-syntax-ns#type&gt; &lt;http://www.w3.org/2004/02/skos/core#Concept&gt; .
-&lt;https://doi.org/10.6069/uwlswd.25z4-e963#f&gt; &lt;http://www.w3.org/2004/02/skos/core#definition&gt; "Manuscript cartographic material ."@en .
-&lt;https://doi.org/10.6069/uwlswd.25z4-e963#s&gt; &lt;http://www.w3.org/2004/02/skos/core#prefLabel&gt; "serial or integrating resource"@en .
-&lt;https://doi.org/10.6069/uwlswd.25z4-e963#g&gt; &lt;http://www.w3.org/2004/02/skos/core#inScheme&gt; &lt;https://doi.org/10.6069/uwlswd.25z4-e963&gt; .
-&lt;https://doi.org/10.6069/uwlswd.25z4-e963#r&gt; &lt;http://www.w3.org/2004/02/skos/core#notation&gt; "r"@en .
-&lt;https://doi.org/10.6069/uwlswd.25z4-e963#p&gt; &lt;http://www.w3.org/1999/02/22-rdf-syntax-ns#type&gt; &lt;http://www.w3.org/2004/02/skos/core#Concept&gt; .
-&lt;https://doi.org/10.6069/uwlswd.25z4-e963#k&gt; &lt;http://www.w3.org/2004/02/skos/core#prefLabel&gt; "two-dimensional nonprojectable graphic"@en .
-&lt;https://doi.org/10.6069/uwlswd.25z4-e963#e&gt; &lt;http://www.w3.org/2004/02/skos/core#definition&gt; "Nonmanuscript cartographic material."@en .
-&lt;https://doi.org/10.6069/uwlswd.25z4-e963#j&gt; &lt;http://www.w3.org/2004/02/skos/core#prefLabel&gt; "musical sound recording"@en .
-&lt;https://doi.org/10.6069/uwlswd.25z4-e963#f&gt; &lt;http://www.w3.org/2004/02/skos/core#prefLabel&gt; "manuscript cartographic material"@en .
-&lt;https://doi.org/10.6069/uwlswd.25z4-e963#s&gt; &lt;http://www.w3.org/2004/02/skos/core#inScheme&gt; &lt;https://doi.org/10.6069/uwlswd.25z4-e963&gt; .
-&lt;https://doi.org/10.6069/uwlswd.25z4-e963#t&gt; &lt;http://www.w3.org/2004/02/skos/core#prefLabel&gt; "manuscript language material"@en .
-&lt;https://doi.org/10.6069/uwlswd.25z4-e963&gt; &lt;http://purl.org/dc/terms/hasFormat&gt; &lt;https://uwlib-cams.github.io/uwlswd_vocabs_marc_006_008/006/form_of_material.html&gt; .
-&lt;https://doi.org/10.6069/uwlswd.25z4-e963#j&gt; &lt;http://www.w3.org/1999/02/22-rdf-syntax-ns#type&gt; &lt;http://www.w3.org/2004/02/skos/core#Concept&gt; .
-&lt;https://doi.org/10.6069/uwlswd.25z4-e963#c&gt; &lt;http://www.w3.org/2004/02/skos/core#prefLabel&gt; "notated music"@en .
-&lt;https://doi.org/10.6069/uwlswd.25z4-e963&gt; &lt;https://schema.org/additionalType&gt; "Dataset"@en .
-&lt;https://doi.org/10.6069/uwlswd.25z4-e963#m&gt; &lt;http://www.w3.org/2004/02/skos/core#definition&gt; "Computer file or an electronic resource in\n         form."@en .
-&lt;https://doi.org/10.6069/uwlswd.25z4-e963#r&gt; &lt;http://www.w3.org/2004/02/skos/core#prefLabel&gt; "three-dimensional artifact or naturally occurring\n         object"@en .
-&lt;https://doi.org/10.6069/uwlswd.25z4-e963#o&gt; &lt;http://www.w3.org/2004/02/skos/core#notation&gt; "o"@en .
-&lt;https://doi.org/10.6069/uwlswd.25z4-e963#i&gt; &lt;http://www.w3.org/2004/02/skos/core#notation&gt; "i"@en .
-&lt;https://doi.org/10.6069/uwlswd.25z4-e963#o&gt; &lt;http://www.w3.org/2004/02/skos/core#prefLabel&gt; "kit"@en .
-&lt;https://doi.org/10.6069/uwlswd.25z4-e963#k&gt; &lt;http://www.w3.org/2004/02/skos/core#notation&gt; "k"@en .
+&lt;https://doi.org/10.6069/uwlswd.25z4-e963#r&gt; &lt;http://www.w3.org/2004/02/skos/core#notation&gt; "r" .
 &lt;https://doi.org/10.6069/uwlswd.25z4-e963&gt; &lt;http://purl.org/dc/terms/title&gt; "Form of material"@en .
-&lt;https://doi.org/10.6069/uwlswd.25z4-e963#f&gt; &lt;http://www.w3.org/2004/02/skos/core#inScheme&gt; &lt;https://doi.org/10.6069/uwlswd.25z4-e963&gt; .
+&lt;https://doi.org/10.6069/uwlswd.25z4-e963&gt; &lt;http://purl.org/dc/terms/hasFormat&gt; &lt;https://uwlib-cams.github.io/uwlswd_vocabs_marc_006_008/006/form_of_material.ttl&gt; .
+&lt;https://doi.org/10.6069/uwlswd.25z4-e963&gt; &lt;http://purl.org/dc/terms/source&gt; &lt;http://marc21rdf.info&gt; .
+&lt;https://doi.org/10.6069/uwlswd.25z4-e963#i&gt; &lt;http://www.w3.org/2004/02/skos/core#prefLabel&gt; "nonmusical sound recording"@en .
+&lt;https://doi.org/10.6069/uwlswd.25z4-e963#s&gt; &lt;http://www.w3.org/2004/02/skos/core#inScheme&gt; &lt;https://doi.org/10.6069/uwlswd.25z4-e963&gt; .
+&lt;https://doi.org/10.6069/uwlswd.25z4-e963#e&gt; &lt;http://www.w3.org/1999/02/22-rdf-syntax-ns#type&gt; &lt;http://www.w3.org/2004/02/skos/core#Concept&gt; .
+&lt;https://doi.org/10.6069/uwlswd.25z4-e963#g&gt; &lt;http://www.w3.org/2004/02/skos/core#inScheme&gt; &lt;https://doi.org/10.6069/uwlswd.25z4-e963&gt; .
+&lt;https://doi.org/10.6069/uwlswd.25z4-e963#s&gt; &lt;http://www.w3.org/2004/02/skos/core#prefLabel&gt; "serial or integrating resource"@en .
+&lt;https://doi.org/10.6069/uwlswd.25z4-e963#e&gt; &lt;http://www.w3.org/2004/02/skos/core#notation&gt; "e" .
+&lt;https://doi.org/10.6069/uwlswd.25z4-e963#g&gt; &lt;http://www.w3.org/2004/02/skos/core#definition&gt; "Projected medium."@en .
+&lt;https://doi.org/10.6069/uwlswd.25z4-e963#o&gt; &lt;http://www.w3.org/2004/02/skos/core#prefLabel&gt; "kit"@en .
+&lt;https://doi.org/10.6069/uwlswd.25z4-e963#s&gt; &lt;http://www.w3.org/2004/02/skos/core#notation&gt; "s" .
+&lt;https://doi.org/10.6069/uwlswd.25z4-e963#g&gt; &lt;http://www.w3.org/2004/02/skos/core#notation&gt; "g" .
+&lt;https://doi.org/10.6069/uwlswd.25z4-e963#t&gt; &lt;http://www.w3.org/2004/02/skos/core#definition&gt; "Manuscript language material."@en .
+&lt;https://doi.org/10.6069/uwlswd.25z4-e963#e&gt; &lt;http://www.w3.org/2004/02/skos/core#definition&gt; "Nonmanuscript cartographic material."@en .
+&lt;https://doi.org/10.6069/uwlswd.25z4-e963&gt; &lt;http://purl.org/dc/terms/source&gt; &lt;https://www.loc.gov/marc/bibliographic/bd008.html&gt; .
+&lt;https://doi.org/10.6069/uwlswd.25z4-e963#c&gt; &lt;http://www.w3.org/1999/02/22-rdf-syntax-ns#type&gt; &lt;http://www.w3.org/2004/02/skos/core#Concept&gt; .
+&lt;https://doi.org/10.6069/uwlswd.25z4-e963#m&gt; &lt;http://www.w3.org/1999/02/22-rdf-syntax-ns#type&gt; &lt;http://www.w3.org/2004/02/skos/core#Concept&gt; .
+&lt;https://doi.org/10.6069/uwlswd.25z4-e963#k&gt; &lt;http://www.w3.org/1999/02/22-rdf-syntax-ns#type&gt; &lt;http://www.w3.org/2004/02/skos/core#Concept&gt; .
+&lt;https://doi.org/10.6069/uwlswd.25z4-e963#o&gt; &lt;http://www.w3.org/1999/02/22-rdf-syntax-ns#type&gt; &lt;http://www.w3.org/2004/02/skos/core#Concept&gt; .
 &lt;https://doi.org/10.6069/uwlswd.25z4-e963#a&gt; &lt;http://www.w3.org/2004/02/skos/core#inScheme&gt; &lt;https://doi.org/10.6069/uwlswd.25z4-e963&gt; .
+&lt;https://doi.org/10.6069/uwlswd.25z4-e963#d&gt; &lt;http://www.w3.org/2004/02/skos/core#inScheme&gt; &lt;https://doi.org/10.6069/uwlswd.25z4-e963&gt; .
+&lt;https://doi.org/10.6069/uwlswd.25z4-e963#r&gt; &lt;http://www.w3.org/2004/02/skos/core#prefLabel&gt; "three-dimensional artifact or naturally occurring object"@en .
+&lt;https://doi.org/10.6069/uwlswd.25z4-e963&gt; &lt;http://purl.org/dc/terms/license&gt; &lt;http://creativecommons.org/publicdomain/zero/1.0&gt; .
+&lt;https://doi.org/10.6069/uwlswd.25z4-e963#f&gt; &lt;http://www.w3.org/2004/02/skos/core#definition&gt; "Manuscript cartographic material ."@en .
+&lt;https://doi.org/10.6069/uwlswd.25z4-e963#j&gt; &lt;http://www.w3.org/2004/02/skos/core#notation&gt; "j" .
+&lt;https://doi.org/10.6069/uwlswd.25z4-e963#e&gt; &lt;http://www.w3.org/2004/02/skos/core#prefLabel&gt; "cartographic material"@en .
+&lt;https://doi.org/10.6069/uwlswd.25z4-e963&gt; &lt;https://schema.org/version&gt; "1-2-0" .
+&lt;https://doi.org/10.6069/uwlswd.25z4-e963#p&gt; &lt;http://www.w3.org/2004/02/skos/core#inScheme&gt; &lt;https://doi.org/10.6069/uwlswd.25z4-e963&gt; .
+&lt;https://doi.org/10.6069/uwlswd.25z4-e963#d&gt; &lt;http://www.w3.org/2004/02/skos/core#prefLabel&gt; "manuscript notated music"@en .
+&lt;https://doi.org/10.6069/uwlswd.25z4-e963#f&gt; &lt;http://www.w3.org/1999/02/22-rdf-syntax-ns#type&gt; &lt;http://www.w3.org/2004/02/skos/core#Concept&gt; .
+&lt;https://doi.org/10.6069/uwlswd.25z4-e963#r&gt; &lt;http://www.w3.org/1999/02/22-rdf-syntax-ns#type&gt; &lt;http://www.w3.org/2004/02/skos/core#Concept&gt; .
+&lt;https://doi.org/10.6069/uwlswd.25z4-e963&gt; &lt;http://purl.org/dc/terms/publisher&gt; &lt;http://viaf.org/viaf/139541794&gt; .
+&lt;https://doi.org/10.6069/uwlswd.25z4-e963#c&gt; &lt;http://www.w3.org/2004/02/skos/core#notation&gt; "c" .
+&lt;https://doi.org/10.6069/uwlswd.25z4-e963#p&gt; &lt;http://www.w3.org/2004/02/skos/core#prefLabel&gt; "mixed material"@en .
+&lt;https://doi.org/10.6069/uwlswd.25z4-e963#d&gt; &lt;http://www.w3.org/2004/02/skos/core#notation&gt; "d" .
+&lt;https://doi.org/10.6069/uwlswd.25z4-e963#k&gt; &lt;http://www.w3.org/2004/02/skos/core#notation&gt; "k" .
+&lt;https://doi.org/10.6069/uwlswd.25z4-e963#s&gt; &lt;http://www.w3.org/1999/02/22-rdf-syntax-ns#type&gt; &lt;http://www.w3.org/2004/02/skos/core#Concept&gt; .
+&lt;https://doi.org/10.6069/uwlswd.25z4-e963#t&gt; &lt;http://www.w3.org/2004/02/skos/core#prefLabel&gt; "manuscript language material"@en .
+&lt;https://doi.org/10.6069/uwlswd.25z4-e963&gt; &lt;http://purl.org/dc/terms/hasFormat&gt; &lt;https://uwlib-cams.github.io/uwlswd_vocabs_marc_006_008/006/form_of_material.rdf&gt; .
+&lt;https://doi.org/10.6069/uwlswd.25z4-e963&gt; &lt;http://purl.org/dc/elements/1.1/contributor&gt; "Metadata Management Associates"@en .
+&lt;https://doi.org/10.6069/uwlswd.25z4-e963#g&gt; &lt;http://www.w3.org/1999/02/22-rdf-syntax-ns#type&gt; &lt;http://www.w3.org/2004/02/skos/core#Concept&gt; .
+&lt;https://doi.org/10.6069/uwlswd.25z4-e963&gt; &lt;http://purl.org/dc/terms/hasFormat&gt; &lt;https://uwlib-cams.github.io/uwlswd_vocabs_marc_006_008/006/form_of_material.html&gt; .
+&lt;https://doi.org/10.6069/uwlswd.25z4-e963#i&gt; &lt;http://www.w3.org/1999/02/22-rdf-syntax-ns#type&gt; &lt;http://www.w3.org/2004/02/skos/core#Concept&gt; .
+&lt;https://doi.org/10.6069/uwlswd.25z4-e963&gt; &lt;http://purl.org/dc/elements/1.1/language&gt; "en" .
+&lt;https://doi.org/10.6069/uwlswd.25z4-e963#t&gt; &lt;http://www.w3.org/2004/02/skos/core#notation&gt; "t" .
+&lt;https://doi.org/10.6069/uwlswd.25z4-e963&gt; &lt;https://schema.org/additionalType&gt; "Dataset"@en .
+&lt;https://doi.org/10.6069/uwlswd.25z4-e963#j&gt; &lt;http://www.w3.org/2004/02/skos/core#inScheme&gt; &lt;https://doi.org/10.6069/uwlswd.25z4-e963&gt; .
+&lt;https://doi.org/10.6069/uwlswd.25z4-e963&gt; &lt;http://purl.org/dc/terms/creator&gt; &lt;http://viaf.org/viaf/139541794&gt; .
 &lt;https://doi.org/10.6069/uwlswd.25z4-e963#i&gt; &lt;http://www.w3.org/2004/02/skos/core#definition&gt; "Nonmusical sound recording."@en .
+&lt;https://doi.org/10.6069/uwlswd.25z4-e963&gt; &lt;http://purl.org/dc/terms/provenance&gt; &lt;https://doi.org/10.6069/uwlswd.2e2b-y833#marc00Xvalues&gt; .
+&lt;https://doi.org/10.6069/uwlswd.25z4-e963#m&gt; &lt;http://www.w3.org/2004/02/skos/core#notation&gt; "m" .
+&lt;https://doi.org/10.6069/uwlswd.25z4-e963&gt; &lt;https://schema.org/disambiguatingDescription&gt; "SKOS Concept Scheme for MARC 00X Values" .
+&lt;https://doi.org/10.6069/uwlswd.25z4-e963#i&gt; &lt;http://www.w3.org/2004/02/skos/core#inScheme&gt; &lt;https://doi.org/10.6069/uwlswd.25z4-e963&gt; .
+&lt;https://doi.org/10.6069/uwlswd.25z4-e963#p&gt; &lt;http://www.w3.org/1999/02/22-rdf-syntax-ns#type&gt; &lt;http://www.w3.org/2004/02/skos/core#Concept&gt; .
+&lt;https://doi.org/10.6069/uwlswd.25z4-e963#f&gt; &lt;http://www.w3.org/2004/02/skos/core#notation&gt; "f" .
+&lt;https://doi.org/10.6069/uwlswd.25z4-e963&gt; &lt;http://purl.org/dc/terms/alternative&gt; "MARC21 006/00 values for all materials expressed using RDF"@en .
+&lt;https://doi.org/10.6069/uwlswd.25z4-e963#t&gt; &lt;http://www.w3.org/2004/02/skos/core#inScheme&gt; &lt;https://doi.org/10.6069/uwlswd.25z4-e963&gt; .
+&lt;https://doi.org/10.6069/uwlswd.25z4-e963#d&gt; &lt;http://www.w3.org/1999/02/22-rdf-syntax-ns#type&gt; &lt;http://www.w3.org/2004/02/skos/core#Concept&gt; .
+&lt;https://doi.org/10.6069/uwlswd.25z4-e963#j&gt; &lt;http://www.w3.org/2004/02/skos/core#definition&gt; "Musical sound recording."@en .
+&lt;https://doi.org/10.6069/uwlswd.25z4-e963#a&gt; &lt;http://www.w3.org/1999/02/22-rdf-syntax-ns#type&gt; &lt;http://www.w3.org/2004/02/skos/core#Concept&gt; .
+&lt;https://doi.org/10.6069/uwlswd.25z4-e963&gt; &lt;http://purl.org/dc/terms/hasFormat&gt; &lt;https://uwlib-cams.github.io/uwlswd_vocabs_marc_006_008/006/form_of_material.jsonld&gt; .
+&lt;https://doi.org/10.6069/uwlswd.25z4-e963#c&gt; &lt;http://www.w3.org/2004/02/skos/core#prefLabel&gt; "notated music"@en .
+&lt;https://doi.org/10.6069/uwlswd.25z4-e963&gt; &lt;http://purl.org/dc/terms/format&gt; &lt;http://www.w3.org/ns/formats/N-Triples&gt; .
+&lt;https://doi.org/10.6069/uwlswd.25z4-e963#g&gt; &lt;http://www.w3.org/2004/02/skos/core#prefLabel&gt; "projected medium"@en .
+&lt;https://doi.org/10.6069/uwlswd.25z4-e963#f&gt; &lt;http://www.w3.org/2004/02/skos/core#inScheme&gt; &lt;https://doi.org/10.6069/uwlswd.25z4-e963&gt; .
+&lt;https://doi.org/10.6069/uwlswd.25z4-e963#j&gt; &lt;http://www.w3.org/2004/02/skos/core#prefLabel&gt; "musical sound recording"@en .
+&lt;https://doi.org/10.6069/uwlswd.25z4-e963#m&gt; &lt;http://www.w3.org/2004/02/skos/core#definition&gt; "Computer file or an electronic resource in form."@en .
+&lt;https://doi.org/10.6069/uwlswd.25z4-e963&gt; &lt;http://purl.org/dc/terms/contributor&gt; &lt;http://viaf.org/viaf/151962300&gt; .
+&lt;https://doi.org/10.6069/uwlswd.25z4-e963#c&gt; &lt;http://www.w3.org/2004/02/skos/core#definition&gt; "Notated music."@en .
+&lt;https://doi.org/10.6069/uwlswd.25z4-e963#r&gt; &lt;http://www.w3.org/2004/02/skos/core#definition&gt; "Three-dimensional artifact or naturally occurring object."@en .
+&lt;https://doi.org/10.6069/uwlswd.25z4-e963#e&gt; &lt;http://www.w3.org/2004/02/skos/core#inScheme&gt; &lt;https://doi.org/10.6069/uwlswd.25z4-e963&gt; .
+&lt;https://doi.org/10.6069/uwlswd.25z4-e963#a&gt; &lt;http://www.w3.org/2004/02/skos/core#definition&gt; "Nonserial language material."@en .
+&lt;https://doi.org/10.6069/uwlswd.25z4-e963#k&gt; &lt;http://www.w3.org/2004/02/skos/core#definition&gt; "Two-dimensional nonprojectable graphic."@en .
+&lt;https://doi.org/10.6069/uwlswd.25z4-e963#k&gt; &lt;http://www.w3.org/2004/02/skos/core#prefLabel&gt; "two-dimensional nonprojectable graphic"@en .
+&lt;https://doi.org/10.6069/uwlswd.25z4-e963&gt; &lt;http://purl.org/dc/terms/description&gt; "Identifies a form of material."@en .
+&lt;https://doi.org/10.6069/uwlswd.25z4-e963&gt; &lt;http://purl.org/dc/terms/issued&gt; "2023" .
+&lt;https://doi.org/10.6069/uwlswd.25z4-e963#p&gt; &lt;http://www.w3.org/2004/02/skos/core#definition&gt; "Mixed material."@en .
+&lt;https://doi.org/10.6069/uwlswd.25z4-e963#c&gt; &lt;http://www.w3.org/2004/02/skos/core#inScheme&gt; &lt;https://doi.org/10.6069/uwlswd.25z4-e963&gt; .
+&lt;https://doi.org/10.6069/uwlswd.25z4-e963#m&gt; &lt;http://www.w3.org/2004/02/skos/core#inScheme&gt; &lt;https://doi.org/10.6069/uwlswd.25z4-e963&gt; .
+&lt;https://doi.org/10.6069/uwlswd.25z4-e963#k&gt; &lt;http://www.w3.org/2004/02/skos/core#inScheme&gt; &lt;https://doi.org/10.6069/uwlswd.25z4-e963&gt; .
+&lt;https://doi.org/10.6069/uwlswd.25z4-e963#i&gt; &lt;http://www.w3.org/2004/02/skos/core#notation&gt; "i" .
+&lt;https://doi.org/10.6069/uwlswd.25z4-e963#s&gt; &lt;http://www.w3.org/2004/02/skos/core#definition&gt; "Control aspects of a non-printed continuing resource."@en .
+&lt;https://doi.org/10.6069/uwlswd.25z4-e963#o&gt; &lt;http://www.w3.org/2004/02/skos/core#inScheme&gt; &lt;https://doi.org/10.6069/uwlswd.25z4-e963&gt; .
+&lt;https://doi.org/10.6069/uwlswd.25z4-e963&gt; &lt;http://www.w3.org/1999/02/22-rdf-syntax-ns#type&gt; &lt;http://www.w3.org/2004/02/skos/core#ConceptScheme&gt; .
+&lt;https://doi.org/10.6069/uwlswd.25z4-e963#p&gt; &lt;http://www.w3.org/2004/02/skos/core#notation&gt; "p" .
+&lt;https://doi.org/10.6069/uwlswd.25z4-e963#o&gt; &lt;http://www.w3.org/2004/02/skos/core#definition&gt; "Kit."@en .
+&lt;https://doi.org/10.6069/uwlswd.25z4-e963#j&gt; &lt;http://www.w3.org/1999/02/22-rdf-syntax-ns#type&gt; &lt;http://www.w3.org/2004/02/skos/core#Concept&gt; .
+&lt;https://doi.org/10.6069/uwlswd.25z4-e963#t&gt; &lt;http://www.w3.org/1999/02/22-rdf-syntax-ns#type&gt; &lt;http://www.w3.org/2004/02/skos/core#Concept&gt; .
+&lt;https://doi.org/10.6069/uwlswd.25z4-e963#o&gt; &lt;http://www.w3.org/2004/02/skos/core#notation&gt; "o" .
+&lt;https://doi.org/10.6069/uwlswd.25z4-e963#a&gt; &lt;http://www.w3.org/2004/02/skos/core#prefLabel&gt; "language material"@en .
+&lt;https://doi.org/10.6069/uwlswd.25z4-e963#f&gt; &lt;http://www.w3.org/2004/02/skos/core#prefLabel&gt; "manuscript cartographic material"@en .
+&lt;https://doi.org/10.6069/uwlswd.25z4-e963#a&gt; &lt;http://www.w3.org/2004/02/skos/core#notation&gt; "a" .
 </pre>
         </div>
         <div id="json" class="tabcontent">
             <a class="download" href="https://uwlib-cams.github.io/uwlswd_vocabs_marc_006_008/006/form_of_material.jsonld" download="" target="_blank" rel="noopener noreferrer">Download JSON-LD</a>
             <pre>[
-  {
-    "@id": "https://doi.org/10.6069/uwlswd.25z4-e963#d",
-    "@type": [
-      "http://www.w3.org/2004/02/skos/core#Concept"
-    ],
-    "http://www.w3.org/2004/02/skos/core#definition": [
-      {
-        "@language": "en",
-        "@value": "Manuscript notated music."
-      }
-    ],
-    "http://www.w3.org/2004/02/skos/core#inScheme": [
-      {
-        "@id": "https://doi.org/10.6069/uwlswd.25z4-e963"
-      }
-    ],
-    "http://www.w3.org/2004/02/skos/core#notation": [
-      {
-        "@language": "en",
-        "@value": "d"
-      }
-    ],
-    "http://www.w3.org/2004/02/skos/core#prefLabel": [
-      {
-        "@language": "en",
-        "@value": "manuscript notated music"
-      }
-    ]
-  },
-  {
-    "@id": "https://doi.org/10.6069/uwlswd.25z4-e963#s",
-    "@type": [
-      "http://www.w3.org/2004/02/skos/core#Concept"
-    ],
-    "http://www.w3.org/2004/02/skos/core#definition": [
-      {
-        "@language": "en",
-        "@value": "Control aspects of a non-printed continuing\n         resource."
-      }
-    ],
-    "http://www.w3.org/2004/02/skos/core#inScheme": [
-      {
-        "@id": "https://doi.org/10.6069/uwlswd.25z4-e963"
-      }
-    ],
-    "http://www.w3.org/2004/02/skos/core#notation": [
-      {
-        "@language": "en",
-        "@value": "s"
-      }
-    ],
-    "http://www.w3.org/2004/02/skos/core#prefLabel": [
-      {
-        "@language": "en",
-        "@value": "serial or integrating resource"
-      }
-    ]
-  },
-  {
-    "@id": "https://doi.org/10.6069/uwlswd.25z4-e963#k",
-    "@type": [
-      "http://www.w3.org/2004/02/skos/core#Concept"
-    ],
-    "http://www.w3.org/2004/02/skos/core#definition": [
-      {
-        "@language": "en",
-        "@value": "Two-dimensional nonprojectable graphic."
-      }
-    ],
-    "http://www.w3.org/2004/02/skos/core#inScheme": [
-      {
-        "@id": "https://doi.org/10.6069/uwlswd.25z4-e963"
-      }
-    ],
-    "http://www.w3.org/2004/02/skos/core#notation": [
-      {
-        "@language": "en",
-        "@value": "k"
-      }
-    ],
-    "http://www.w3.org/2004/02/skos/core#prefLabel": [
-      {
-        "@language": "en",
-        "@value": "two-dimensional nonprojectable graphic"
-      }
-    ]
-  },
-  {
-    "@id": "https://doi.org/10.6069/uwlswd.25z4-e963#a",
-    "@type": [
-      "http://www.w3.org/2004/02/skos/core#Concept"
-    ],
-    "http://www.w3.org/2004/02/skos/core#definition": [
-      {
-        "@language": "en",
-        "@value": "Nonserial language material."
-      }
-    ],
-    "http://www.w3.org/2004/02/skos/core#inScheme": [
-      {
-        "@id": "https://doi.org/10.6069/uwlswd.25z4-e963"
-      }
-    ],
-    "http://www.w3.org/2004/02/skos/core#notation": [
-      {
-        "@language": "en",
-        "@value": "a"
-      }
-    ],
-    "http://www.w3.org/2004/02/skos/core#prefLabel": [
-      {
-        "@language": "en",
-        "@value": "language material"
-      }
-    ]
-  },
-  {
-    "@id": "https://doi.org/10.6069/uwlswd.25z4-e963#t",
-    "@type": [
-      "http://www.w3.org/2004/02/skos/core#Concept"
-    ],
-    "http://www.w3.org/2004/02/skos/core#definition": [
-      {
-        "@language": "en",
-        "@value": "Manuscript language material."
-      }
-    ],
-    "http://www.w3.org/2004/02/skos/core#inScheme": [
-      {
-        "@id": "https://doi.org/10.6069/uwlswd.25z4-e963"
-      }
-    ],
-    "http://www.w3.org/2004/02/skos/core#notation": [
-      {
-        "@language": "en",
-        "@value": "t"
-      }
-    ],
-    "http://www.w3.org/2004/02/skos/core#prefLabel": [
-      {
-        "@language": "en",
-        "@value": "manuscript language material"
-      }
-    ]
-  },
-  {
-    "@id": "https://doi.org/10.6069/uwlswd.25z4-e963#j",
-    "@type": [
-      "http://www.w3.org/2004/02/skos/core#Concept"
-    ],
-    "http://www.w3.org/2004/02/skos/core#definition": [
-      {
-        "@language": "en",
-        "@value": "Musical sound recording."
-      }
-    ],
-    "http://www.w3.org/2004/02/skos/core#inScheme": [
-      {
-        "@id": "https://doi.org/10.6069/uwlswd.25z4-e963"
-      }
-    ],
-    "http://www.w3.org/2004/02/skos/core#notation": [
-      {
-        "@language": "en",
-        "@value": "j"
-      }
-    ],
-    "http://www.w3.org/2004/02/skos/core#prefLabel": [
-      {
-        "@language": "en",
-        "@value": "musical sound recording"
-      }
-    ]
-  },
   {
     "@id": "https://doi.org/10.6069/uwlswd.25z4-e963#i",
     "@type": [
@@ -1682,7 +1448,6 @@
     ],
     "http://www.w3.org/2004/02/skos/core#notation": [
       {
-        "@language": "en",
         "@value": "i"
       }
     ],
@@ -1711,7 +1476,6 @@
     ],
     "http://www.w3.org/2004/02/skos/core#notation": [
       {
-        "@language": "en",
         "@value": "f"
       }
     ],
@@ -1719,35 +1483,6 @@
       {
         "@language": "en",
         "@value": "manuscript cartographic material"
-      }
-    ]
-  },
-  {
-    "@id": "https://doi.org/10.6069/uwlswd.25z4-e963#r",
-    "@type": [
-      "http://www.w3.org/2004/02/skos/core#Concept"
-    ],
-    "http://www.w3.org/2004/02/skos/core#definition": [
-      {
-        "@language": "en",
-        "@value": "Three-dimensional artifact or naturally occurring\n         object."
-      }
-    ],
-    "http://www.w3.org/2004/02/skos/core#inScheme": [
-      {
-        "@id": "https://doi.org/10.6069/uwlswd.25z4-e963"
-      }
-    ],
-    "http://www.w3.org/2004/02/skos/core#notation": [
-      {
-        "@language": "en",
-        "@value": "r"
-      }
-    ],
-    "http://www.w3.org/2004/02/skos/core#prefLabel": [
-      {
-        "@language": "en",
-        "@value": "three-dimensional artifact or naturally occurring\n         object"
       }
     ]
   },
@@ -1769,7 +1504,6 @@
     ],
     "http://www.w3.org/2004/02/skos/core#notation": [
       {
-        "@language": "en",
         "@value": "c"
       }
     ],
@@ -1777,35 +1511,6 @@
       {
         "@language": "en",
         "@value": "notated music"
-      }
-    ]
-  },
-  {
-    "@id": "https://doi.org/10.6069/uwlswd.25z4-e963#o",
-    "@type": [
-      "http://www.w3.org/2004/02/skos/core#Concept"
-    ],
-    "http://www.w3.org/2004/02/skos/core#definition": [
-      {
-        "@language": "en",
-        "@value": "Kit."
-      }
-    ],
-    "http://www.w3.org/2004/02/skos/core#inScheme": [
-      {
-        "@id": "https://doi.org/10.6069/uwlswd.25z4-e963"
-      }
-    ],
-    "http://www.w3.org/2004/02/skos/core#notation": [
-      {
-        "@language": "en",
-        "@value": "o"
-      }
-    ],
-    "http://www.w3.org/2004/02/skos/core#prefLabel": [
-      {
-        "@language": "en",
-        "@value": "kit"
       }
     ]
   },
@@ -1818,16 +1523,6 @@
       {
         "@language": "en",
         "@value": "Metadata Management Associates"
-      },
-      {
-        "@language": "en",
-        "@value": "Library of Congress"
-      }
-    ],
-    "http://purl.org/dc/elements/1.1/creator": [
-      {
-        "@language": "en",
-        "@value": "University of Washington Libraries"
       }
     ],
     "http://purl.org/dc/elements/1.1/language": [
@@ -1835,16 +1530,10 @@
         "@value": "en"
       }
     ],
-    "http://purl.org/dc/elements/1.1/publisher": [
-      {
-        "@language": "en",
-        "@value": "University of Washington Libraries"
-      }
-    ],
     "http://purl.org/dc/terms/alternative": [
       {
         "@language": "en",
-        "@value": "MARC21 006/00 values for all materials expressed using\n         RDF"
+        "@value": "MARC21 006/00 values for all materials expressed using RDF"
       }
     ],
     "http://purl.org/dc/terms/contributor": [
@@ -1865,22 +1554,10 @@
     ],
     "http://purl.org/dc/terms/format": [
       {
-        "@id": "http://www.w3.org/ns/formats/RDF_XML"
+        "@id": "http://www.w3.org/ns/formats/JSON-LD"
       }
     ],
     "http://purl.org/dc/terms/hasFormat": [
-      {
-        "@id": "http://www.w3.org/ns/formats/JSON-LD"
-      },
-      {
-        "@id": "http://www.w3.org/ns/formats/N-Triples"
-      },
-      {
-        "@id": "http://www.w3.org/ns/formats/Turtle"
-      },
-      {
-        "@id": "http://www.w3.org/ns/formats/RDFa"
-      },
       {
         "@id": "https://uwlib-cams.github.io/uwlswd_vocabs_marc_006_008/006/form_of_material.html"
       },
@@ -1934,9 +1611,42 @@
         "@value": "Dataset"
       }
     ],
+    "https://schema.org/disambiguatingDescription": [
+      {
+        "@value": "SKOS Concept Scheme for MARC 00X Values"
+      }
+    ],
     "https://schema.org/version": [
       {
-        "@value": "1-0-0"
+        "@value": "1-2-0"
+      }
+    ]
+  },
+  {
+    "@id": "https://doi.org/10.6069/uwlswd.25z4-e963#a",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#definition": [
+      {
+        "@language": "en",
+        "@value": "Nonserial language material."
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#inScheme": [
+      {
+        "@id": "https://doi.org/10.6069/uwlswd.25z4-e963"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#notation": [
+      {
+        "@value": "a"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "language material"
       }
     ]
   },
@@ -1948,7 +1658,7 @@
     "http://www.w3.org/2004/02/skos/core#definition": [
       {
         "@language": "en",
-        "@value": "Computer file or an electronic resource in\n         form."
+        "@value": "Computer file or an electronic resource in form."
       }
     ],
     "http://www.w3.org/2004/02/skos/core#inScheme": [
@@ -1958,7 +1668,6 @@
     ],
     "http://www.w3.org/2004/02/skos/core#notation": [
       {
-        "@language": "en",
         "@value": "m"
       }
     ],
@@ -1966,35 +1675,6 @@
       {
         "@language": "en",
         "@value": "computer file or electronic resource"
-      }
-    ]
-  },
-  {
-    "@id": "https://doi.org/10.6069/uwlswd.25z4-e963#p",
-    "@type": [
-      "http://www.w3.org/2004/02/skos/core#Concept"
-    ],
-    "http://www.w3.org/2004/02/skos/core#definition": [
-      {
-        "@language": "en",
-        "@value": "Mixed material."
-      }
-    ],
-    "http://www.w3.org/2004/02/skos/core#inScheme": [
-      {
-        "@id": "https://doi.org/10.6069/uwlswd.25z4-e963"
-      }
-    ],
-    "http://www.w3.org/2004/02/skos/core#notation": [
-      {
-        "@language": "en",
-        "@value": "p"
-      }
-    ],
-    "http://www.w3.org/2004/02/skos/core#prefLabel": [
-      {
-        "@language": "en",
-        "@value": "mixed material"
       }
     ]
   },
@@ -2016,7 +1696,6 @@
     ],
     "http://www.w3.org/2004/02/skos/core#notation": [
       {
-        "@language": "en",
         "@value": "e"
       }
     ],
@@ -2024,6 +1703,230 @@
       {
         "@language": "en",
         "@value": "cartographic material"
+      }
+    ]
+  },
+  {
+    "@id": "https://doi.org/10.6069/uwlswd.25z4-e963#j",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#definition": [
+      {
+        "@language": "en",
+        "@value": "Musical sound recording."
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#inScheme": [
+      {
+        "@id": "https://doi.org/10.6069/uwlswd.25z4-e963"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#notation": [
+      {
+        "@value": "j"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "musical sound recording"
+      }
+    ]
+  },
+  {
+    "@id": "https://doi.org/10.6069/uwlswd.25z4-e963#k",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#definition": [
+      {
+        "@language": "en",
+        "@value": "Two-dimensional nonprojectable graphic."
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#inScheme": [
+      {
+        "@id": "https://doi.org/10.6069/uwlswd.25z4-e963"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#notation": [
+      {
+        "@value": "k"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "two-dimensional nonprojectable graphic"
+      }
+    ]
+  },
+  {
+    "@id": "https://doi.org/10.6069/uwlswd.25z4-e963#r",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#definition": [
+      {
+        "@language": "en",
+        "@value": "Three-dimensional artifact or naturally occurring object."
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#inScheme": [
+      {
+        "@id": "https://doi.org/10.6069/uwlswd.25z4-e963"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#notation": [
+      {
+        "@value": "r"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "three-dimensional artifact or naturally occurring object"
+      }
+    ]
+  },
+  {
+    "@id": "https://doi.org/10.6069/uwlswd.25z4-e963#o",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#definition": [
+      {
+        "@language": "en",
+        "@value": "Kit."
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#inScheme": [
+      {
+        "@id": "https://doi.org/10.6069/uwlswd.25z4-e963"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#notation": [
+      {
+        "@value": "o"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "kit"
+      }
+    ]
+  },
+  {
+    "@id": "https://doi.org/10.6069/uwlswd.25z4-e963#d",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#definition": [
+      {
+        "@language": "en",
+        "@value": "Manuscript notated music."
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#inScheme": [
+      {
+        "@id": "https://doi.org/10.6069/uwlswd.25z4-e963"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#notation": [
+      {
+        "@value": "d"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "manuscript notated music"
+      }
+    ]
+  },
+  {
+    "@id": "https://doi.org/10.6069/uwlswd.25z4-e963#p",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#definition": [
+      {
+        "@language": "en",
+        "@value": "Mixed material."
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#inScheme": [
+      {
+        "@id": "https://doi.org/10.6069/uwlswd.25z4-e963"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#notation": [
+      {
+        "@value": "p"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "mixed material"
+      }
+    ]
+  },
+  {
+    "@id": "https://doi.org/10.6069/uwlswd.25z4-e963#s",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#definition": [
+      {
+        "@language": "en",
+        "@value": "Control aspects of a non-printed continuing resource."
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#inScheme": [
+      {
+        "@id": "https://doi.org/10.6069/uwlswd.25z4-e963"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#notation": [
+      {
+        "@value": "s"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "serial or integrating resource"
+      }
+    ]
+  },
+  {
+    "@id": "https://doi.org/10.6069/uwlswd.25z4-e963#t",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#definition": [
+      {
+        "@language": "en",
+        "@value": "Manuscript language material."
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#inScheme": [
+      {
+        "@id": "https://doi.org/10.6069/uwlswd.25z4-e963"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#notation": [
+      {
+        "@value": "t"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "manuscript language material"
       }
     ]
   },
@@ -2045,7 +1948,6 @@
     ],
     "http://www.w3.org/2004/02/skos/core#notation": [
       {
-        "@language": "en",
         "@value": "g"
       }
     ],
@@ -2070,13 +1972,18 @@
         </div>
         <div class="footer_workaround"></div>
         <footer>
-            <div class="footer_container">
-                <a href="http://creativecommons.org/publicdomain/zero/1.0/">
-                    <img src="http://i.creativecommons.org/p/zero/1.0/88x31.png" style="border-style: none;" alt="CC0">
-                </a>
-            To the extent possible under law, the University of Washington Libraries has waived
-            all copyright and related or neighboring rights to the Form of material. This work was published in the United States.
-            </div>
+            <section xmlns:dct="http://purl.org/dc/terms/" xmlns:vcard="http://www.w3.org/2001/vcard-rdf/3.0#">
+                <div class="footer_container">
+                    <a rel="license" href="http://creativecommons.org/publicdomain/zero/1.0/">
+                        <img src="http://i.creativecommons.org/p/zero/1.0/88x31.png" style="border-style: none;" alt="CC0">
+                    </a>
+                    <div>To the extent possible under law, <a rel="dct:publisher" href="https://www.lib.washington.edu/cams">
+                            <span property="dct:title">Cataloging and Metadata Services, University of Washington Libraries</span>
+                        </a> has waived all copyright and related or neighboring rights to <span property="dct:title">
+                            <strong>Form of material</strong>
+                        </span>. This work is published in the <span property="vcard:Country" datatype="dct:ISO3166" content="US" about="https://www.lib.washington.edu/cams">United States</span>. </div>
+                </div>
+            </section>
         </footer>
     </body>
 </html>
