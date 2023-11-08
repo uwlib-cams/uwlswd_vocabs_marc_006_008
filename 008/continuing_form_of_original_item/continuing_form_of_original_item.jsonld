@@ -1,14 +1,8 @@
 [
   {
-    "@id": "https://doi.org/10.6069/uwlswd.42d2-ca58#q",
+    "@id": "https://doi.org/10.6069/uwlswd.42d2-ca58#c",
     "@type": [
       "http://www.w3.org/2004/02/skos/core#Concept"
-    ],
-    "http://www.w3.org/2004/02/skos/core#definition": [
-      {
-        "@language": "en",
-        "@value": "Storage on a directly accessible tangible recording medium, e.g. disc, tape, playaway device, flashdrive, portable hard drive, etc."
-      }
     ],
     "http://www.w3.org/2004/02/skos/core#inScheme": [
       {
@@ -18,71 +12,13 @@
     "http://www.w3.org/2004/02/skos/core#notation": [
       {
         "@language": "en",
-        "@value": "q"
+        "@value": "c"
       }
     ],
     "http://www.w3.org/2004/02/skos/core#prefLabel": [
       {
         "@language": "en",
-        "@value": "direct electronic"
-      }
-    ]
-  },
-  {
-    "@id": "https://doi.org/10.6069/uwlswd.42d2-ca58#e",
-    "@type": [
-      "http://www.w3.org/2004/02/skos/core#Concept"
-    ],
-    "http://www.w3.org/2004/02/skos/core#definition": [
-      {
-        "@language": "en",
-        "@value": "On newsprint and/or looks like a newspaper."
-      }
-    ],
-    "http://www.w3.org/2004/02/skos/core#inScheme": [
-      {
-        "@id": "https://doi.org/10.6069/uwlswd.42d2-ca58"
-      }
-    ],
-    "http://www.w3.org/2004/02/skos/core#notation": [
-      {
-        "@language": "en",
-        "@value": "e"
-      }
-    ],
-    "http://www.w3.org/2004/02/skos/core#prefLabel": [
-      {
-        "@language": "en",
-        "@value": "newspaper format"
-      }
-    ]
-  },
-  {
-    "@id": "https://doi.org/10.6069/uwlswd.42d2-ca58#o",
-    "@type": [
-      "http://www.w3.org/2004/02/skos/core#Concept"
-    ],
-    "http://www.w3.org/2004/02/skos/core#definition": [
-      {
-        "@language": "en",
-        "@value": "Accessed by means of hardware and software connections to a communications network."
-      }
-    ],
-    "http://www.w3.org/2004/02/skos/core#inScheme": [
-      {
-        "@id": "https://doi.org/10.6069/uwlswd.42d2-ca58"
-      }
-    ],
-    "http://www.w3.org/2004/02/skos/core#notation": [
-      {
-        "@language": "en",
-        "@value": "o"
-      }
-    ],
-    "http://www.w3.org/2004/02/skos/core#prefLabel": [
-      {
-        "@language": "en",
-        "@value": "online"
+        "@value": "microopaque"
       }
     ]
   },
@@ -106,81 +42,6 @@
       {
         "@language": "en",
         "@value": "other physical medium (x) [obsolete]"
-      }
-    ]
-  },
-  {
-    "@id": "https://doi.org/10.6069/uwlswd.42d2-ca58#f",
-    "@type": [
-      "http://www.w3.org/2004/02/skos/core#Concept"
-    ],
-    "http://www.w3.org/2004/02/skos/core#inScheme": [
-      {
-        "@id": "https://doi.org/10.6069/uwlswd.42d2-ca58"
-      }
-    ],
-    "http://www.w3.org/2004/02/skos/core#notation": [
-      {
-        "@language": "en",
-        "@value": "f"
-      }
-    ],
-    "http://www.w3.org/2004/02/skos/core#prefLabel": [
-      {
-        "@language": "en",
-        "@value": "braille"
-      }
-    ]
-  },
-  {
-    "@id": "https://doi.org/10.6069/uwlswd.42d2-ca58#d",
-    "@type": [
-      "http://www.w3.org/2004/02/skos/core#Concept"
-    ],
-    "http://www.w3.org/2004/02/skos/core#inScheme": [
-      {
-        "@id": "https://doi.org/10.6069/uwlswd.42d2-ca58"
-      }
-    ],
-    "http://www.w3.org/2004/02/skos/core#notation": [
-      {
-        "@language": "en",
-        "@value": "d"
-      }
-    ],
-    "http://www.w3.org/2004/02/skos/core#prefLabel": [
-      {
-        "@language": "en",
-        "@value": "large print"
-      }
-    ]
-  },
-  {
-    "@id": "https://doi.org/10.6069/uwlswd.42d2-ca58pound",
-    "@type": [
-      "http://www.w3.org/2004/02/skos/core#Concept"
-    ],
-    "http://www.w3.org/2004/02/skos/core#definition": [
-      {
-        "@language": "en",
-        "@value": "Form of original item other than microfilm, microfiche, microopaque, large print, newspaper format, braille, online, direct electronic, or electronic."
-      }
-    ],
-    "http://www.w3.org/2004/02/skos/core#inScheme": [
-      {
-        "@id": "https://doi.org/10.6069/uwlswd.42d2-ca58"
-      }
-    ],
-    "http://www.w3.org/2004/02/skos/core#notation": [
-      {
-        "@language": "en",
-        "@value": "#"
-      }
-    ],
-    "http://www.w3.org/2004/02/skos/core#prefLabel": [
-      {
-        "@language": "en",
-        "@value": "none of the following"
       }
     ]
   },
@@ -220,12 +81,221 @@
     ]
   },
   {
+    "@id": "https://doi.org/10.6069/uwlswd.42d2-ca58#o",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#definition": [
+      {
+        "@language": "en",
+        "@value": "Accessed by means of hardware and software connections to a communications network."
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#inScheme": [
+      {
+        "@id": "https://doi.org/10.6069/uwlswd.42d2-ca58"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#notation": [
+      {
+        "@language": "en",
+        "@value": "o"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "online"
+      }
+    ]
+  },
+  {
+    "@id": "https://doi.org/10.6069/uwlswd.42d2-ca58#d",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#inScheme": [
+      {
+        "@id": "https://doi.org/10.6069/uwlswd.42d2-ca58"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#notation": [
+      {
+        "@language": "en",
+        "@value": "d"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "large print"
+      }
+    ]
+  },
+  {
+    "@id": "https://doi.org/10.6069/uwlswd.42d2-ca58#ix",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#inScheme": [
+      {
+        "@id": "https://doi.org/10.6069/uwlswd.42d2-ca58"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#notation": [
+      {
+        "@language": "en",
+        "@value": "i"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "multimedia [obsolete]"
+      }
+    ]
+  },
+  {
+    "@id": "https://doi.org/10.6069/uwlswd.42d2-ca58#hx",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#inScheme": [
+      {
+        "@id": "https://doi.org/10.6069/uwlswd.42d2-ca58"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#notation": [
+      {
+        "@language": "en",
+        "@value": "h"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "magnetic tape [obsolete]"
+      }
+    ]
+  },
+  {
+    "@id": "https://doi.org/10.6069/uwlswd.42d2-ca58#pound",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#definition": [
+      {
+        "@language": "en",
+        "@value": "Form of original item other than microfilm, microfiche, microopaque, large print, newspaper format, braille, online, direct electronic, or electronic."
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#inScheme": [
+      {
+        "@id": "https://doi.org/10.6069/uwlswd.42d2-ca58"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#notation": [
+      {
+        "@language": "en",
+        "@value": "#"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "none of the following"
+      }
+    ]
+  },
+  {
+    "@id": "https://doi.org/10.6069/uwlswd.42d2-ca58#a",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#inScheme": [
+      {
+        "@id": "https://doi.org/10.6069/uwlswd.42d2-ca58"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#notation": [
+      {
+        "@language": "en",
+        "@value": "a"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "microfilm"
+      }
+    ]
+  },
+  {
+    "@id": "https://doi.org/10.6069/uwlswd.42d2-ca58#e",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#definition": [
+      {
+        "@language": "en",
+        "@value": "On newsprint and/or looks like a newspaper."
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#inScheme": [
+      {
+        "@id": "https://doi.org/10.6069/uwlswd.42d2-ca58"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#notation": [
+      {
+        "@language": "en",
+        "@value": "e"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "newspaper format"
+      }
+    ]
+  },
+  {
+    "@id": "https://doi.org/10.6069/uwlswd.42d2-ca58#q",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#definition": [
+      {
+        "@language": "en",
+        "@value": "Storage on a directly accessible tangible recording medium, e.g. disc, tape, playaway device, flashdrive, portable hard drive, etc."
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#inScheme": [
+      {
+        "@id": "https://doi.org/10.6069/uwlswd.42d2-ca58"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#notation": [
+      {
+        "@language": "en",
+        "@value": "q"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "direct electronic"
+      }
+    ]
+  },
+  {
     "@id": "https://doi.org/10.6069/uwlswd.42d2-ca58",
     "@type": [
       "http://www.w3.org/2004/02/skos/core#ConceptScheme"
     ],
     "http://purl.org/dc/elements/1.1/contributor": [
       {
+        "@language": "en",
         "@value": "Metadata Management Associates"
       }
     ],
@@ -236,6 +306,7 @@
     ],
     "http://purl.org/dc/terms/alternative": [
       {
+        "@language": "en",
         "@value": "MARC21 008/22 values for continuing resources expressed using RDF"
       }
     ],
@@ -251,7 +322,27 @@
     ],
     "http://purl.org/dc/terms/description": [
       {
+        "@language": "en",
         "@value": "Indicates the form of material in which an item was originally published."
+      }
+    ],
+    "http://purl.org/dc/terms/format": [
+      {
+        "@id": "http://www.w3.org/ns/formats/JSON-LD"
+      }
+    ],
+    "http://purl.org/dc/terms/hasFormat": [
+      {
+        "@id": "https://uwlib-cams.github.io/uwlswd_vocabs_marc_006_008/008/continuing_form_of_original_item/continuing_form_of_original_item.html"
+      },
+      {
+        "@id": "https://uwlib-cams.github.io/uwlswd_vocabs_marc_006_008/008/continuing_form_of_original_item/continuing_form_of_original_item.rdf"
+      },
+      {
+        "@id": "https://uwlib-cams.github.io/uwlswd_vocabs_marc_006_008/008/continuing_form_of_original_item/continuing_form_of_original_item.nt"
+      },
+      {
+        "@id": "https://uwlib-cams.github.io/uwlswd_vocabs_marc_006_008/008/continuing_form_of_original_item/continuing_form_of_original_item.ttl"
       }
     ],
     "http://purl.org/dc/terms/issued": [
@@ -284,6 +375,7 @@
     ],
     "http://purl.org/dc/terms/title": [
       {
+        "@language": "en",
         "@value": "Continuing: form of original item"
       }
     ],
@@ -292,124 +384,14 @@
         "@id": "http://purl.org/dc/dcmitype/Dataset"
       }
     ],
+    "https://schema.org/disambiguatingDescription": [
+      {
+        "@value": "SKOS Concept Scheme for MARC 00X Values"
+      }
+    ],
     "https://schema.org/version": [
       {
-        "@value": "1-0-0"
-      }
-    ]
-  },
-  {
-    "@id": "https://doi.org/10.6069/uwlswd.42d2-ca58#hx",
-    "@type": [
-      "http://www.w3.org/2004/02/skos/core#Concept"
-    ],
-    "http://www.w3.org/2004/02/skos/core#inScheme": [
-      {
-        "@id": "https://doi.org/10.6069/uwlswd.42d2-ca58"
-      }
-    ],
-    "http://www.w3.org/2004/02/skos/core#notation": [
-      {
-        "@language": "en",
-        "@value": "h"
-      }
-    ],
-    "http://www.w3.org/2004/02/skos/core#prefLabel": [
-      {
-        "@language": "en",
-        "@value": "magnetic tape [obsolete]"
-      }
-    ]
-  },
-  {
-    "@id": "https://doi.org/10.6069/uwlswd.42d2-ca58#b",
-    "@type": [
-      "http://www.w3.org/2004/02/skos/core#Concept"
-    ],
-    "http://www.w3.org/2004/02/skos/core#inScheme": [
-      {
-        "@id": "https://doi.org/10.6069/uwlswd.42d2-ca58"
-      }
-    ],
-    "http://www.w3.org/2004/02/skos/core#notation": [
-      {
-        "@language": "en",
-        "@value": "b"
-      }
-    ],
-    "http://www.w3.org/2004/02/skos/core#prefLabel": [
-      {
-        "@language": "en",
-        "@value": "microfiche"
-      }
-    ]
-  },
-  {
-    "@id": "https://doi.org/10.6069/uwlswd.42d2-ca58#gx",
-    "@type": [
-      "http://www.w3.org/2004/02/skos/core#Concept"
-    ],
-    "http://www.w3.org/2004/02/skos/core#inScheme": [
-      {
-        "@id": "https://doi.org/10.6069/uwlswd.42d2-ca58"
-      }
-    ],
-    "http://www.w3.org/2004/02/skos/core#notation": [
-      {
-        "@language": "en",
-        "@value": "g"
-      }
-    ],
-    "http://www.w3.org/2004/02/skos/core#prefLabel": [
-      {
-        "@language": "en",
-        "@value": "punched paper tape [obsolete]"
-      }
-    ]
-  },
-  {
-    "@id": "https://doi.org/10.6069/uwlswd.42d2-ca58#a",
-    "@type": [
-      "http://www.w3.org/2004/02/skos/core#Concept"
-    ],
-    "http://www.w3.org/2004/02/skos/core#inScheme": [
-      {
-        "@id": "https://doi.org/10.6069/uwlswd.42d2-ca58"
-      }
-    ],
-    "http://www.w3.org/2004/02/skos/core#notation": [
-      {
-        "@language": "en",
-        "@value": "a"
-      }
-    ],
-    "http://www.w3.org/2004/02/skos/core#prefLabel": [
-      {
-        "@language": "en",
-        "@value": "microfilm"
-      }
-    ]
-  },
-  {
-    "@id": "https://doi.org/10.6069/uwlswd.42d2-ca58#c",
-    "@type": [
-      "http://www.w3.org/2004/02/skos/core#Concept"
-    ],
-    "http://www.w3.org/2004/02/skos/core#inScheme": [
-      {
-        "@id": "https://doi.org/10.6069/uwlswd.42d2-ca58"
-      }
-    ],
-    "http://www.w3.org/2004/02/skos/core#notation": [
-      {
-        "@language": "en",
-        "@value": "c"
-      }
-    ],
-    "http://www.w3.org/2004/02/skos/core#prefLabel": [
-      {
-        "@language": "en",
-        "@value": "microopaque"
+        "@value": "1-0-1"
       }
     ]
   },
@@ -437,7 +419,7 @@
     ]
   },
   {
-    "@id": "https://doi.org/10.6069/uwlswd.42d2-ca58#ix",
+    "@id": "https://doi.org/10.6069/uwlswd.42d2-ca58#gx",
     "@type": [
       "http://www.w3.org/2004/02/skos/core#Concept"
     ],
@@ -449,13 +431,59 @@
     "http://www.w3.org/2004/02/skos/core#notation": [
       {
         "@language": "en",
-        "@value": "i"
+        "@value": "g"
       }
     ],
     "http://www.w3.org/2004/02/skos/core#prefLabel": [
       {
         "@language": "en",
-        "@value": "multimedia [obsolete]"
+        "@value": "punched paper tape [obsolete]"
+      }
+    ]
+  },
+  {
+    "@id": "https://doi.org/10.6069/uwlswd.42d2-ca58#b",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#inScheme": [
+      {
+        "@id": "https://doi.org/10.6069/uwlswd.42d2-ca58"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#notation": [
+      {
+        "@language": "en",
+        "@value": "b"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "microfiche"
+      }
+    ]
+  },
+  {
+    "@id": "https://doi.org/10.6069/uwlswd.42d2-ca58#f",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#inScheme": [
+      {
+        "@id": "https://doi.org/10.6069/uwlswd.42d2-ca58"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#notation": [
+      {
+        "@language": "en",
+        "@value": "f"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "braille"
       }
     ]
   }

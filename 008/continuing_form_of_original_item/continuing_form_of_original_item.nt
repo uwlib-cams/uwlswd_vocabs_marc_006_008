@@ -1,83 +1,88 @@
-<https://doi.org/10.6069/uwlswd.42d2-ca58#q> <http://www.w3.org/2004/02/skos/core#notation> "q"@en .
-<https://doi.org/10.6069/uwlswd.42d2-ca58#a> <http://www.w3.org/2004/02/skos/core#prefLabel> "microfilm"@en .
+<https://doi.org/10.6069/uwlswd.42d2-ca58#c> <http://www.w3.org/2004/02/skos/core#inScheme> <https://doi.org/10.6069/uwlswd.42d2-ca58> .
 <https://doi.org/10.6069/uwlswd.42d2-ca58#d> <http://www.w3.org/2004/02/skos/core#notation> "d"@en .
-<https://doi.org/10.6069/uwlswd.42d2-ca58#b> <http://www.w3.org/2004/02/skos/core#prefLabel> "microfiche"@en .
-<https://doi.org/10.6069/uwlswd.42d2-ca58> <http://purl.org/dc/terms/source> <http://marc21rdf.info> .
-<https://doi.org/10.6069/uwlswd.42d2-ca58#gx> <http://www.w3.org/2004/02/skos/core#prefLabel> "punched paper tape [obsolete]"@en .
-<https://doi.org/10.6069/uwlswd.42d2-ca58#xx> <http://www.w3.org/2004/02/skos/core#inScheme> <https://doi.org/10.6069/uwlswd.42d2-ca58> .
-<https://doi.org/10.6069/uwlswd.42d2-ca58#c> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
-<https://doi.org/10.6069/uwlswd.42d2-ca58> <http://purl.org/dc/terms/description> "Indicates the form of material in which an item was originally published." .
+<https://doi.org/10.6069/uwlswd.42d2-ca58#f> <http://www.w3.org/2004/02/skos/core#prefLabel> "braille"@en .
+<https://doi.org/10.6069/uwlswd.42d2-ca58> <http://purl.org/dc/terms/publisher> <http://viaf.org/viaf/139541794> .
+<https://doi.org/10.6069/uwlswd.42d2-ca58#b> <http://www.w3.org/2004/02/skos/core#notation> "b"@en .
+<https://doi.org/10.6069/uwlswd.42d2-ca58#pound> <http://www.w3.org/2004/02/skos/core#notation> "#"@en .
+<https://doi.org/10.6069/uwlswd.42d2-ca58#pound> <http://www.w3.org/2004/02/skos/core#inScheme> <https://doi.org/10.6069/uwlswd.42d2-ca58> .
+<https://doi.org/10.6069/uwlswd.42d2-ca58#e> <http://www.w3.org/2004/02/skos/core#definition> "On newsprint and/or looks like a newspaper."@en .
+<https://doi.org/10.6069/uwlswd.42d2-ca58#q> <http://www.w3.org/2004/02/skos/core#inScheme> <https://doi.org/10.6069/uwlswd.42d2-ca58> .
+<https://doi.org/10.6069/uwlswd.42d2-ca58#zx> <http://www.w3.org/2004/02/skos/core#prefLabel> "other physical medium (z) [obsolete]"@en .
+<https://doi.org/10.6069/uwlswd.42d2-ca58#xx> <http://www.w3.org/2004/02/skos/core#prefLabel> "other physical medium (x) [obsolete]"@en .
+<https://doi.org/10.6069/uwlswd.42d2-ca58> <http://purl.org/dc/terms/alternative> "MARC21 008/22 values for continuing resources expressed using RDF"@en .
+<https://doi.org/10.6069/uwlswd.42d2-ca58#b> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<https://doi.org/10.6069/uwlswd.42d2-ca58#gx> <http://www.w3.org/2004/02/skos/core#inScheme> <https://doi.org/10.6069/uwlswd.42d2-ca58> .
+<https://doi.org/10.6069/uwlswd.42d2-ca58> <http://purl.org/dc/terms/creator> <http://viaf.org/viaf/139541794> .
+<https://doi.org/10.6069/uwlswd.42d2-ca58#zx> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<https://doi.org/10.6069/uwlswd.42d2-ca58#s> <http://www.w3.org/2004/02/skos/core#scopeNote> "Not used for items that do not require the use of a computer (e.g., music compact discs, videodiscs)."@en .
 <https://doi.org/10.6069/uwlswd.42d2-ca58#f> <http://www.w3.org/2004/02/skos/core#notation> "f"@en .
+<https://doi.org/10.6069/uwlswd.42d2-ca58#zx> <http://www.w3.org/2004/02/skos/core#notation> "z"@en .
+<https://doi.org/10.6069/uwlswd.42d2-ca58#o> <http://www.w3.org/2004/02/skos/core#prefLabel> "online"@en .
+<https://doi.org/10.6069/uwlswd.42d2-ca58#q> <http://www.w3.org/2004/02/skos/core#notation> "q"@en .
+<https://doi.org/10.6069/uwlswd.42d2-ca58#c> <http://www.w3.org/2004/02/skos/core#prefLabel> "microopaque"@en .
+<https://doi.org/10.6069/uwlswd.42d2-ca58#ix> <http://www.w3.org/2004/02/skos/core#prefLabel> "multimedia [obsolete]"@en .
+<https://doi.org/10.6069/uwlswd.42d2-ca58#o> <http://www.w3.org/2004/02/skos/core#inScheme> <https://doi.org/10.6069/uwlswd.42d2-ca58> .
+<https://doi.org/10.6069/uwlswd.42d2-ca58> <http://purl.org/dc/terms/provenance> <https://doi.org/10.6069/uwlswd.2e2b-y833> .
+<https://doi.org/10.6069/uwlswd.42d2-ca58#ix> <http://www.w3.org/2004/02/skos/core#notation> "i"@en .
+<https://doi.org/10.6069/uwlswd.42d2-ca58#gx> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<https://doi.org/10.6069/uwlswd.42d2-ca58#b> <http://www.w3.org/2004/02/skos/core#inScheme> <https://doi.org/10.6069/uwlswd.42d2-ca58> .
+<https://doi.org/10.6069/uwlswd.42d2-ca58> <http://purl.org/dc/terms/hasFormat> <https://uwlib-cams.github.io/uwlswd_vocabs_marc_006_008/008/continuing_form_of_original_item/continuing_form_of_original_item.html> .
+<https://doi.org/10.6069/uwlswd.42d2-ca58> <http://purl.org/dc/terms/format> <http://www.w3.org/ns/formats/N-Triples> .
+<https://doi.org/10.6069/uwlswd.42d2-ca58#a> <http://www.w3.org/2004/02/skos/core#inScheme> <https://doi.org/10.6069/uwlswd.42d2-ca58> .
+<https://doi.org/10.6069/uwlswd.42d2-ca58#ix> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<https://doi.org/10.6069/uwlswd.42d2-ca58#pound> <http://www.w3.org/2004/02/skos/core#definition> "Form of original item other than microfilm, microfiche, microopaque, large print, newspaper format, braille, online, direct electronic, or electronic."@en .
+<https://doi.org/10.6069/uwlswd.42d2-ca58#o> <http://www.w3.org/2004/02/skos/core#definition> "Accessed by means of hardware and software connections to a communications network."@en .
+<https://doi.org/10.6069/uwlswd.42d2-ca58#e> <http://www.w3.org/2004/02/skos/core#notation> "e"@en .
+<https://doi.org/10.6069/uwlswd.42d2-ca58#a> <http://www.w3.org/2004/02/skos/core#notation> "a"@en .
+<https://doi.org/10.6069/uwlswd.42d2-ca58> <http://purl.org/dc/terms/contributor> <http://viaf.org/viaf/151962300> .
+<https://doi.org/10.6069/uwlswd.42d2-ca58> <http://purl.org/dc/elements/1.1/contributor> "Metadata Management Associates"@en .
+<https://doi.org/10.6069/uwlswd.42d2-ca58> <http://purl.org/dc/terms/license> <http://creativecommons.org/publicdomain/zero/1.0> .
+<https://doi.org/10.6069/uwlswd.42d2-ca58#o> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<https://doi.org/10.6069/uwlswd.42d2-ca58> <https://schema.org/version> "1-0-1" .
+<https://doi.org/10.6069/uwlswd.42d2-ca58#d> <http://www.w3.org/2004/02/skos/core#inScheme> <https://doi.org/10.6069/uwlswd.42d2-ca58> .
 <https://doi.org/10.6069/uwlswd.42d2-ca58#hx> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
 <https://doi.org/10.6069/uwlswd.42d2-ca58#q> <http://www.w3.org/2004/02/skos/core#definition> "Storage on a directly accessible tangible recording medium, e.g. disc, tape, playaway device, flashdrive, portable hard drive, etc."@en .
-<https://doi.org/10.6069/uwlswd.42d2-ca58#e> <http://www.w3.org/2004/02/skos/core#definition> "On newsprint and/or looks like a newspaper."@en .
-<https://doi.org/10.6069/uwlswd.42d2-ca58#s> <http://www.w3.org/2004/02/skos/core#notation> "s"@en .
-<https://doi.org/10.6069/uwlswd.42d2-ca58#b> <http://www.w3.org/2004/02/skos/core#inScheme> <https://doi.org/10.6069/uwlswd.42d2-ca58> .
-<https://doi.org/10.6069/uwlswd.42d2-ca58> <http://purl.org/dc/terms/alternative> "MARC21 008/22 values for continuing resources expressed using RDF" .
-<https://doi.org/10.6069/uwlswd.42d2-ca58#e> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
-<https://doi.org/10.6069/uwlswd.42d2-ca58pound> <http://www.w3.org/2004/02/skos/core#prefLabel> "none of the following"@en .
-<https://doi.org/10.6069/uwlswd.42d2-ca58> <http://purl.org/dc/terms/contributor> <http://viaf.org/viaf/151962300> .
-<https://doi.org/10.6069/uwlswd.42d2-ca58#ix> <http://www.w3.org/2004/02/skos/core#inScheme> <https://doi.org/10.6069/uwlswd.42d2-ca58> .
-<https://doi.org/10.6069/uwlswd.42d2-ca58#xx> <http://www.w3.org/2004/02/skos/core#prefLabel> "other physical medium (x) [obsolete]"@en .
-<https://doi.org/10.6069/uwlswd.42d2-ca58#a> <http://www.w3.org/2004/02/skos/core#inScheme> <https://doi.org/10.6069/uwlswd.42d2-ca58> .
-<https://doi.org/10.6069/uwlswd.42d2-ca58#ix> <http://www.w3.org/2004/02/skos/core#prefLabel> "multimedia [obsolete]"@en .
-<https://doi.org/10.6069/uwlswd.42d2-ca58#zx> <http://www.w3.org/2004/02/skos/core#notation> "z"@en .
-<https://doi.org/10.6069/uwlswd.42d2-ca58#hx> <http://www.w3.org/2004/02/skos/core#inScheme> <https://doi.org/10.6069/uwlswd.42d2-ca58> .
-<https://doi.org/10.6069/uwlswd.42d2-ca58#q> <http://www.w3.org/2004/02/skos/core#inScheme> <https://doi.org/10.6069/uwlswd.42d2-ca58> .
-<https://doi.org/10.6069/uwlswd.42d2-ca58#a> <http://www.w3.org/2004/02/skos/core#notation> "a"@en .
-<https://doi.org/10.6069/uwlswd.42d2-ca58#o> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
-<https://doi.org/10.6069/uwlswd.42d2-ca58pound> <http://www.w3.org/2004/02/skos/core#notation> "#"@en .
-<https://doi.org/10.6069/uwlswd.42d2-ca58#e> <http://www.w3.org/2004/02/skos/core#inScheme> <https://doi.org/10.6069/uwlswd.42d2-ca58> .
-<https://doi.org/10.6069/uwlswd.42d2-ca58#gx> <http://www.w3.org/2004/02/skos/core#inScheme> <https://doi.org/10.6069/uwlswd.42d2-ca58> .
-<https://doi.org/10.6069/uwlswd.42d2-ca58#s> <http://www.w3.org/2004/02/skos/core#scopeNote> "Not used for items that do not require the use of a computer (e.g., music compact discs, videodiscs)."@en .
-<https://doi.org/10.6069/uwlswd.42d2-ca58> <http://purl.org/dc/terms/publisher> <http://viaf.org/viaf/139541794> .
-<https://doi.org/10.6069/uwlswd.42d2-ca58> <http://purl.org/dc/terms/source> <https://www.loc.gov/marc/bibliographic/bd008.html> .
-<https://doi.org/10.6069/uwlswd.42d2-ca58#hx> <http://www.w3.org/2004/02/skos/core#prefLabel> "magnetic tape [obsolete]"@en .
-<https://doi.org/10.6069/uwlswd.42d2-ca58> <http://purl.org/dc/terms/license> <http://creativecommons.org/publicdomain/zero/1.0> .
-<https://doi.org/10.6069/uwlswd.42d2-ca58#ix> <http://www.w3.org/2004/02/skos/core#notation> "i"@en .
-<https://doi.org/10.6069/uwlswd.42d2-ca58#zx> <http://www.w3.org/2004/02/skos/core#inScheme> <https://doi.org/10.6069/uwlswd.42d2-ca58> .
 <https://doi.org/10.6069/uwlswd.42d2-ca58#hx> <http://www.w3.org/2004/02/skos/core#notation> "h"@en .
-<https://doi.org/10.6069/uwlswd.42d2-ca58#d> <http://www.w3.org/2004/02/skos/core#inScheme> <https://doi.org/10.6069/uwlswd.42d2-ca58> .
-<https://doi.org/10.6069/uwlswd.42d2-ca58#e> <http://www.w3.org/2004/02/skos/core#prefLabel> "newspaper format"@en .
-<https://doi.org/10.6069/uwlswd.42d2-ca58#zx> <http://www.w3.org/2004/02/skos/core#prefLabel> "other physical medium (z) [obsolete]"@en .
-<https://doi.org/10.6069/uwlswd.42d2-ca58> <http://purl.org/dc/terms/title> "Continuing: form of original item" .
-<https://doi.org/10.6069/uwlswd.42d2-ca58pound> <http://www.w3.org/2004/02/skos/core#inScheme> <https://doi.org/10.6069/uwlswd.42d2-ca58> .
-<https://doi.org/10.6069/uwlswd.42d2-ca58#f> <http://www.w3.org/2004/02/skos/core#inScheme> <https://doi.org/10.6069/uwlswd.42d2-ca58> .
-<https://doi.org/10.6069/uwlswd.42d2-ca58#o> <http://www.w3.org/2004/02/skos/core#notation> "o"@en .
-<https://doi.org/10.6069/uwlswd.42d2-ca58#c> <http://www.w3.org/2004/02/skos/core#prefLabel> "microopaque"@en .
-<https://doi.org/10.6069/uwlswd.42d2-ca58> <http://purl.org/dc/elements/1.1/contributor> "Metadata Management Associates" .
-<https://doi.org/10.6069/uwlswd.42d2-ca58#s> <http://www.w3.org/2004/02/skos/core#definition> "Intended for manipulation by a computer. May reside in a carrier accessed either directly or remotely, in some cases requiring the use of peripheral devices attached to the computer (e.g., a CD-ROM player)."@en .
-<https://doi.org/10.6069/uwlswd.42d2-ca58#b> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
-<https://doi.org/10.6069/uwlswd.42d2-ca58#d> <http://www.w3.org/2004/02/skos/core#prefLabel> "large print"@en .
-<https://doi.org/10.6069/uwlswd.42d2-ca58> <http://purl.org/dc/terms/creator> <http://viaf.org/viaf/139541794> .
-<https://doi.org/10.6069/uwlswd.42d2-ca58#b> <http://www.w3.org/2004/02/skos/core#notation> "b"@en .
-<https://doi.org/10.6069/uwlswd.42d2-ca58#ix> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
-<https://doi.org/10.6069/uwlswd.42d2-ca58#a> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
-<https://doi.org/10.6069/uwlswd.42d2-ca58#s> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
-<https://doi.org/10.6069/uwlswd.42d2-ca58#c> <http://www.w3.org/2004/02/skos/core#inScheme> <https://doi.org/10.6069/uwlswd.42d2-ca58> .
-<https://doi.org/10.6069/uwlswd.42d2-ca58#s> <http://www.w3.org/2004/02/skos/core#inScheme> <https://doi.org/10.6069/uwlswd.42d2-ca58> .
-<https://doi.org/10.6069/uwlswd.42d2-ca58#q> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
-<https://doi.org/10.6069/uwlswd.42d2-ca58#s> <http://www.w3.org/2004/02/skos/core#prefLabel> "electronic"@en .
-<https://doi.org/10.6069/uwlswd.42d2-ca58> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#ConceptScheme> .
-<https://doi.org/10.6069/uwlswd.42d2-ca58> <https://schema.org/version> "1-0-0" .
-<https://doi.org/10.6069/uwlswd.42d2-ca58#o> <http://www.w3.org/2004/02/skos/core#definition> "Accessed by means of hardware and software connections to a communications network."@en .
-<https://doi.org/10.6069/uwlswd.42d2-ca58#gx> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
-<https://doi.org/10.6069/uwlswd.42d2-ca58> <http://purl.org/dc/terms/type> <http://purl.org/dc/dcmitype/Dataset> .
-<https://doi.org/10.6069/uwlswd.42d2-ca58> <http://purl.org/dc/elements/1.1/language> "en" .
-<https://doi.org/10.6069/uwlswd.42d2-ca58#c> <http://www.w3.org/2004/02/skos/core#notation> "c"@en .
-<https://doi.org/10.6069/uwlswd.42d2-ca58#xx> <http://www.w3.org/2004/02/skos/core#notation> "x"@en .
-<https://doi.org/10.6069/uwlswd.42d2-ca58#f> <http://www.w3.org/2004/02/skos/core#prefLabel> "braille"@en .
-<https://doi.org/10.6069/uwlswd.42d2-ca58pound> <http://www.w3.org/2004/02/skos/core#definition> "Form of original item other than microfilm, microfiche, microopaque, large print, newspaper format, braille, online, direct electronic, or electronic."@en .
-<https://doi.org/10.6069/uwlswd.42d2-ca58#zx> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
-<https://doi.org/10.6069/uwlswd.42d2-ca58> <http://purl.org/dc/terms/provenance> <https://doi.org/10.6069/uwlswd.2e2b-y833> .
-<https://doi.org/10.6069/uwlswd.42d2-ca58#o> <http://www.w3.org/2004/02/skos/core#inScheme> <https://doi.org/10.6069/uwlswd.42d2-ca58> .
-<https://doi.org/10.6069/uwlswd.42d2-ca58#o> <http://www.w3.org/2004/02/skos/core#prefLabel> "online"@en .
 <https://doi.org/10.6069/uwlswd.42d2-ca58#q> <http://www.w3.org/2004/02/skos/core#prefLabel> "direct electronic"@en .
-<https://doi.org/10.6069/uwlswd.42d2-ca58#gx> <http://www.w3.org/2004/02/skos/core#notation> "g"@en .
-<https://doi.org/10.6069/uwlswd.42d2-ca58> <http://purl.org/dc/terms/issued> "2023" .
+<https://doi.org/10.6069/uwlswd.42d2-ca58#pound> <http://www.w3.org/2004/02/skos/core#prefLabel> "none of the following"@en .
+<https://doi.org/10.6069/uwlswd.42d2-ca58> <http://purl.org/dc/terms/source> <http://marc21rdf.info> .
+<https://doi.org/10.6069/uwlswd.42d2-ca58#xx> <http://www.w3.org/2004/02/skos/core#inScheme> <https://doi.org/10.6069/uwlswd.42d2-ca58> .
+<https://doi.org/10.6069/uwlswd.42d2-ca58#f> <http://www.w3.org/2004/02/skos/core#inScheme> <https://doi.org/10.6069/uwlswd.42d2-ca58> .
+<https://doi.org/10.6069/uwlswd.42d2-ca58> <https://schema.org/disambiguatingDescription> "SKOS Concept Scheme for MARC 00X Values" .
+<https://doi.org/10.6069/uwlswd.42d2-ca58#e> <http://www.w3.org/2004/02/skos/core#prefLabel> "newspaper format"@en .
+<https://doi.org/10.6069/uwlswd.42d2-ca58#ix> <http://www.w3.org/2004/02/skos/core#inScheme> <https://doi.org/10.6069/uwlswd.42d2-ca58> .
+<https://doi.org/10.6069/uwlswd.42d2-ca58#a> <http://www.w3.org/2004/02/skos/core#prefLabel> "microfilm"@en .
+<https://doi.org/10.6069/uwlswd.42d2-ca58> <http://purl.org/dc/terms/hasFormat> <https://uwlib-cams.github.io/uwlswd_vocabs_marc_006_008/008/continuing_form_of_original_item/continuing_form_of_original_item.jsonld> .
+<https://doi.org/10.6069/uwlswd.42d2-ca58#b> <http://www.w3.org/2004/02/skos/core#prefLabel> "microfiche"@en .
+<https://doi.org/10.6069/uwlswd.42d2-ca58> <http://purl.org/dc/terms/type> <http://purl.org/dc/dcmitype/Dataset> .
+<https://doi.org/10.6069/uwlswd.42d2-ca58#c> <http://www.w3.org/2004/02/skos/core#notation> "c"@en .
+<https://doi.org/10.6069/uwlswd.42d2-ca58> <http://purl.org/dc/terms/title> "Continuing: form of original item"@en .
+<https://doi.org/10.6069/uwlswd.42d2-ca58#q> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<https://doi.org/10.6069/uwlswd.42d2-ca58#a> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
 <https://doi.org/10.6069/uwlswd.42d2-ca58#d> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
-<https://doi.org/10.6069/uwlswd.42d2-ca58#e> <http://www.w3.org/2004/02/skos/core#notation> "e"@en .
 <https://doi.org/10.6069/uwlswd.42d2-ca58#f> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
-<https://doi.org/10.6069/uwlswd.42d2-ca58pound> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<https://doi.org/10.6069/uwlswd.42d2-ca58#e> <http://www.w3.org/2004/02/skos/core#inScheme> <https://doi.org/10.6069/uwlswd.42d2-ca58> .
+<https://doi.org/10.6069/uwlswd.42d2-ca58#d> <http://www.w3.org/2004/02/skos/core#prefLabel> "large print"@en .
+<https://doi.org/10.6069/uwlswd.42d2-ca58#hx> <http://www.w3.org/2004/02/skos/core#inScheme> <https://doi.org/10.6069/uwlswd.42d2-ca58> .
+<https://doi.org/10.6069/uwlswd.42d2-ca58> <http://purl.org/dc/terms/source> <https://www.loc.gov/marc/bibliographic/bd008.html> .
+<https://doi.org/10.6069/uwlswd.42d2-ca58> <http://purl.org/dc/terms/issued> "2023" .
+<https://doi.org/10.6069/uwlswd.42d2-ca58#s> <http://www.w3.org/2004/02/skos/core#inScheme> <https://doi.org/10.6069/uwlswd.42d2-ca58> .
+<https://doi.org/10.6069/uwlswd.42d2-ca58> <http://purl.org/dc/terms/description> "Indicates the form of material in which an item was originally published."@en .
 <https://doi.org/10.6069/uwlswd.42d2-ca58#xx> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
-
+<https://doi.org/10.6069/uwlswd.42d2-ca58#c> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<https://doi.org/10.6069/uwlswd.42d2-ca58#gx> <http://www.w3.org/2004/02/skos/core#notation> "g"@en .
+<https://doi.org/10.6069/uwlswd.42d2-ca58#pound> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<https://doi.org/10.6069/uwlswd.42d2-ca58> <http://purl.org/dc/terms/hasFormat> <https://uwlib-cams.github.io/uwlswd_vocabs_marc_006_008/008/continuing_form_of_original_item/continuing_form_of_original_item.rdf> .
+<https://doi.org/10.6069/uwlswd.42d2-ca58> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#ConceptScheme> .
+<https://doi.org/10.6069/uwlswd.42d2-ca58> <http://purl.org/dc/elements/1.1/language> "en" .
+<https://doi.org/10.6069/uwlswd.42d2-ca58#zx> <http://www.w3.org/2004/02/skos/core#inScheme> <https://doi.org/10.6069/uwlswd.42d2-ca58> .
+<https://doi.org/10.6069/uwlswd.42d2-ca58#hx> <http://www.w3.org/2004/02/skos/core#prefLabel> "magnetic tape [obsolete]"@en .
+<https://doi.org/10.6069/uwlswd.42d2-ca58#s> <http://www.w3.org/2004/02/skos/core#definition> "Intended for manipulation by a computer. May reside in a carrier accessed either directly or remotely, in some cases requiring the use of peripheral devices attached to the computer (e.g., a CD-ROM player)."@en .
+<https://doi.org/10.6069/uwlswd.42d2-ca58#o> <http://www.w3.org/2004/02/skos/core#notation> "o"@en .
+<https://doi.org/10.6069/uwlswd.42d2-ca58#e> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<https://doi.org/10.6069/uwlswd.42d2-ca58#xx> <http://www.w3.org/2004/02/skos/core#notation> "x"@en .
+<https://doi.org/10.6069/uwlswd.42d2-ca58#gx> <http://www.w3.org/2004/02/skos/core#prefLabel> "punched paper tape [obsolete]"@en .
+<https://doi.org/10.6069/uwlswd.42d2-ca58#s> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<https://doi.org/10.6069/uwlswd.42d2-ca58#s> <http://www.w3.org/2004/02/skos/core#prefLabel> "electronic"@en .
+<https://doi.org/10.6069/uwlswd.42d2-ca58#s> <http://www.w3.org/2004/02/skos/core#notation> "s"@en .
+<https://doi.org/10.6069/uwlswd.42d2-ca58> <http://purl.org/dc/terms/hasFormat> <https://uwlib-cams.github.io/uwlswd_vocabs_marc_006_008/008/continuing_form_of_original_item/continuing_form_of_original_item.ttl> .
