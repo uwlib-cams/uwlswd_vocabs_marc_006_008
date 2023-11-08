@@ -1,390 +1,395 @@
-<https://doi.org/10.6069/uwlswd.8rpj-ek77> <http://purl.org/dc/terms/description> "Indicates the form of composition." .
-<https://doi.org/10.6069/uwlswd.8rpj-ek77#fg> <http://www.w3.org/2004/02/skos/core#definition> "Fugues."@en .
-<https://doi.org/10.6069/uwlswd.8rpj-ek77#tc> <http://www.w3.org/2004/02/skos/core#notation> "tc"@en .
-<https://doi.org/10.6069/uwlswd.8rpj-ek77#ms> <http://www.w3.org/2004/02/skos/core#definition> "Masses."@en .
-<https://doi.org/10.6069/uwlswd.8rpj-ek77#rg> <http://www.w3.org/2004/02/skos/core#inScheme> <https://doi.org/10.6069/uwlswd.8rpj-ek77> .
-<https://doi.org/10.6069/uwlswd.8rpj-ek77#pg> <http://www.w3.org/2004/02/skos/core#definition> "Program music."@en .
-<https://doi.org/10.6069/uwlswd.8rpj-ek77#md> <http://www.w3.org/2004/02/skos/core#notation> "md"@en .
-<https://doi.org/10.6069/uwlswd.8rpj-ek77#cn> <http://www.w3.org/2004/02/skos/core#definition> "Canons and rounds. Compositions employing strict imitation throughout."@en .
-<https://doi.org/10.6069/uwlswd.8rpj-ek77#an> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
-<https://doi.org/10.6069/uwlswd.8rpj-ek77#df> <http://www.w3.org/2004/02/skos/core#inScheme> <https://doi.org/10.6069/uwlswd.8rpj-ek77> .
-<https://doi.org/10.6069/uwlswd.8rpj-ek77#df> <http://www.w3.org/2004/02/skos/core#notation> "df"@en .
-<https://doi.org/10.6069/uwlswd.8rpj-ek77#bl> <http://www.w3.org/2004/02/skos/core#notation> "bl"@en .
-<https://doi.org/10.6069/uwlswd.8rpj-ek77#nn> <http://www.w3.org/2004/02/skos/core#prefLabel> "not applicable"@en .
-<https://doi.org/10.6069/uwlswd.8rpj-ek77#dv> <http://www.w3.org/2004/02/skos/core#notation> "dv"@en .
-<https://doi.org/10.6069/uwlswd.8rpj-ek77#uu> <http://www.w3.org/2004/02/skos/core#inScheme> <https://doi.org/10.6069/uwlswd.8rpj-ek77> .
-<https://doi.org/10.6069/uwlswd.8rpj-ek77#su> <http://www.w3.org/2004/02/skos/core#definition> "Suites."@en .
-<https://doi.org/10.6069/uwlswd.8rpj-ek77#pt> <http://www.w3.org/2004/02/skos/core#inScheme> <https://doi.org/10.6069/uwlswd.8rpj-ek77> .
-<https://doi.org/10.6069/uwlswd.8rpj-ek77#pt> <http://www.w3.org/2004/02/skos/core#prefLabel> "part-songs"@en .
-<https://doi.org/10.6069/uwlswd.8rpj-ek77#fl> <http://www.w3.org/2004/02/skos/core#scopeNote> "All the Flamenco styles, or \"palos\", and other forms of song and dance coming from the folkloric tradition of Spanish gypsies."@en .
-<https://doi.org/10.6069/uwlswd.8rpj-ek77> <http://purl.org/dc/elements/1.1/language> "en" .
-<https://doi.org/10.6069/uwlswd.8rpj-ek77#rd> <http://www.w3.org/2004/02/skos/core#prefLabel> "rondos"@en .
-<https://doi.org/10.6069/uwlswd.8rpj-ek77#zz> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
-<https://doi.org/10.6069/uwlswd.8rpj-ek77#or> <http://www.w3.org/2004/02/skos/core#prefLabel> "oratorios"@en .
-<https://doi.org/10.6069/uwlswd.8rpj-ek77#vr> <http://www.w3.org/2004/02/skos/core#notation> "vr"@en .
-<https://doi.org/10.6069/uwlswd.8rpj-ek77#cl> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
-<https://doi.org/10.6069/uwlswd.8rpj-ek77#rg> <http://www.w3.org/2004/02/skos/core#notation> "rg"@en .
 <https://doi.org/10.6069/uwlswd.8rpj-ek77#su> <http://www.w3.org/2004/02/skos/core#inScheme> <https://doi.org/10.6069/uwlswd.8rpj-ek77> .
-<https://doi.org/10.6069/uwlswd.8rpj-ek77#cz> <http://www.w3.org/2004/02/skos/core#prefLabel> "canzonas"@en .
-<https://doi.org/10.6069/uwlswd.8rpj-ek77#sg> <http://www.w3.org/2004/02/skos/core#inScheme> <https://doi.org/10.6069/uwlswd.8rpj-ek77> .
-<https://doi.org/10.6069/uwlswd.8rpj-ek77#ft> <http://www.w3.org/2004/02/skos/core#inScheme> <https://doi.org/10.6069/uwlswd.8rpj-ek77> .
-<https://doi.org/10.6069/uwlswd.8rpj-ek77#md> <http://www.w3.org/2004/02/skos/core#definition> "Madrigals."@en .
-<https://doi.org/10.6069/uwlswd.8rpj-ek77#pp> <http://www.w3.org/2004/02/skos/core#definition> "Popular music."@en .
-<https://doi.org/10.6069/uwlswd.8rpj-ek77> <https://schema.org/version> "1-0-0" .
-<https://doi.org/10.6069/uwlswd.8rpj-ek77#cc> <http://www.w3.org/2004/02/skos/core#notation> "cc"@en .
-<https://doi.org/10.6069/uwlswd.8rpj-ek77#pg> <http://www.w3.org/2004/02/skos/core#prefLabel> "program music"@en .
-<https://doi.org/10.6069/uwlswd.8rpj-ek77#ts> <http://www.w3.org/2004/02/skos/core#notation> "ts"@en .
-<https://doi.org/10.6069/uwlswd.8rpj-ek77#cp> <http://www.w3.org/2004/02/skos/core#definition> "Chansons, polyphonic."@en .
-<https://doi.org/10.6069/uwlswd.8rpj-ek77> <http://purl.org/dc/terms/title> "Music: form of composition" .
-<https://doi.org/10.6069/uwlswd.8rpj-ek77#mi> <http://www.w3.org/2004/02/skos/core#inScheme> <https://doi.org/10.6069/uwlswd.8rpj-ek77> .
-<https://doi.org/10.6069/uwlswd.8rpj-ek77#rq> <http://www.w3.org/2004/02/skos/core#prefLabel> "requiems"@en .
-<https://doi.org/10.6069/uwlswd.8rpj-ek77#nn> <http://www.w3.org/2004/02/skos/core#inScheme> <https://doi.org/10.6069/uwlswd.8rpj-ek77> .
-<https://doi.org/10.6069/uwlswd.8rpj-ek77#an> <http://www.w3.org/2004/02/skos/core#inScheme> <https://doi.org/10.6069/uwlswd.8rpj-ek77> .
-<https://doi.org/10.6069/uwlswd.8rpj-ek77#su> <http://www.w3.org/2004/02/skos/core#notation> "su"@en .
-<https://doi.org/10.6069/uwlswd.8rpj-ek77#pp> <http://www.w3.org/2004/02/skos/core#prefLabel> "popular music"@en .
-<https://doi.org/10.6069/uwlswd.8rpj-ek77#pg> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
-<https://doi.org/10.6069/uwlswd.8rpj-ek77#or> <http://www.w3.org/2004/02/skos/core#notation> "or"@en .
-<https://doi.org/10.6069/uwlswd.8rpj-ek77#sn> <http://www.w3.org/2004/02/skos/core#prefLabel> "sonatas"@en .
-<https://doi.org/10.6069/uwlswd.8rpj-ek77#mo> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
-<https://doi.org/10.6069/uwlswd.8rpj-ek77#fl> <http://www.w3.org/2004/02/skos/core#prefLabel> "flamenco"@en .
-<https://doi.org/10.6069/uwlswd.8rpj-ek77#pv> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
-<https://doi.org/10.6069/uwlswd.8rpj-ek77#ri> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
-<https://doi.org/10.6069/uwlswd.8rpj-ek77#sd> <http://www.w3.org/2004/02/skos/core#notation> "sd"@en .
-<https://doi.org/10.6069/uwlswd.8rpj-ek77#cs> <http://www.w3.org/2004/02/skos/core#notation> "cs"@en .
-<https://doi.org/10.6069/uwlswd.8rpj-ek77#ts> <http://www.w3.org/2004/02/skos/core#inScheme> <https://doi.org/10.6069/uwlswd.8rpj-ek77> .
-<https://doi.org/10.6069/uwlswd.8rpj-ek77#bd> <http://www.w3.org/2004/02/skos/core#definition> "Ballads."@en .
-<https://doi.org/10.6069/uwlswd.8rpj-ek77#dv> <http://www.w3.org/2004/02/skos/core#prefLabel> "divertimentos, serenades, cassations, divertissements, and notturni"@en .
-<https://doi.org/10.6069/uwlswd.8rpj-ek77#fg> <http://www.w3.org/2004/02/skos/core#prefLabel> "fugues"@en .
-<https://doi.org/10.6069/uwlswd.8rpj-ek77#or> <http://www.w3.org/2004/02/skos/core#inScheme> <https://doi.org/10.6069/uwlswd.8rpj-ek77> .
-<https://doi.org/10.6069/uwlswd.8rpj-ek77#zz> <http://www.w3.org/2004/02/skos/core#inScheme> <https://doi.org/10.6069/uwlswd.8rpj-ek77> .
-<https://doi.org/10.6069/uwlswd.8rpj-ek77#ps> <http://www.w3.org/2004/02/skos/core#scopeNote> "Includes all types of ostinato basses."@en .
-<https://doi.org/10.6069/uwlswd.8rpj-ek77#fm> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
-<https://doi.org/10.6069/uwlswd.8rpj-ek77#mu> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
-<https://doi.org/10.6069/uwlswd.8rpj-ek77#cl> <http://www.w3.org/2004/02/skos/core#inScheme> <https://doi.org/10.6069/uwlswd.8rpj-ek77> .
-<https://doi.org/10.6069/uwlswd.8rpj-ek77#uu> <http://www.w3.org/2004/02/skos/core#notation> "uu"@en .
-<https://doi.org/10.6069/uwlswd.8rpj-ek77#ts> <http://www.w3.org/2004/02/skos/core#definition> "Trio-sonatas."@en .
-<https://doi.org/10.6069/uwlswd.8rpj-ek77#st> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
-<https://doi.org/10.6069/uwlswd.8rpj-ek77#cn> <http://www.w3.org/2004/02/skos/core#inScheme> <https://doi.org/10.6069/uwlswd.8rpj-ek77> .
-<https://doi.org/10.6069/uwlswd.8rpj-ek77> <http://purl.org/dc/terms/source> <http://marc21rdf.info> .
-<https://doi.org/10.6069/uwlswd.8rpj-ek77#pg> <http://www.w3.org/2004/02/skos/core#notation> "pg"@en .
-<https://doi.org/10.6069/uwlswd.8rpj-ek77#pm> <http://www.w3.org/2004/02/skos/core#inScheme> <https://doi.org/10.6069/uwlswd.8rpj-ek77> .
-<https://doi.org/10.6069/uwlswd.8rpj-ek77#fl> <http://www.w3.org/2004/02/skos/core#inScheme> <https://doi.org/10.6069/uwlswd.8rpj-ek77> .
-<https://doi.org/10.6069/uwlswd.8rpj-ek77#cl> <http://www.w3.org/2004/02/skos/core#definition> "Chorale preludes."@en .
-<https://doi.org/10.6069/uwlswd.8rpj-ek77#co> <http://www.w3.org/2004/02/skos/core#inScheme> <https://doi.org/10.6069/uwlswd.8rpj-ek77> .
-<https://doi.org/10.6069/uwlswd.8rpj-ek77#ft> <http://www.w3.org/2004/02/skos/core#definition> "Fantasias."@en .
-<https://doi.org/10.6069/uwlswd.8rpj-ek77#ca> <http://www.w3.org/2004/02/skos/core#inScheme> <https://doi.org/10.6069/uwlswd.8rpj-ek77> .
-<https://doi.org/10.6069/uwlswd.8rpj-ek77#rq> <http://www.w3.org/2004/02/skos/core#notation> "rq"@en .
-<https://doi.org/10.6069/uwlswd.8rpj-ek77#rc> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
-<https://doi.org/10.6069/uwlswd.8rpj-ek77#dv> <http://www.w3.org/2004/02/skos/core#definition> "Divertimentos, serenades, cassations, divertissements, and notturni."@en .
-<https://doi.org/10.6069/uwlswd.8rpj-ek77#md> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
-<https://doi.org/10.6069/uwlswd.8rpj-ek77#df> <http://www.w3.org/2004/02/skos/core#scopeNote> "Includes music for individual dances except for mazurkas, minuets, pavans, polonaises, and waltzes."@en .
-<https://doi.org/10.6069/uwlswd.8rpj-ek77#cb> <http://www.w3.org/2004/02/skos/core#prefLabel> "chants, other religions"@en .
-<https://doi.org/10.6069/uwlswd.8rpj-ek77#wz> <http://www.w3.org/2004/02/skos/core#prefLabel> "waltzes"@en .
-<https://doi.org/10.6069/uwlswd.8rpj-ek77#zz> <http://www.w3.org/2004/02/skos/core#definition> "Form of composition other than anthems; ballads; bluegrass music; blues; ballets; chaconnes; chants, other religions; chant, Christian; concerti grossi; chorales; chorale preludes; canons and rounds; concertos; chansons, polyphonic; carols; chance compositions; cantatas; country music; canzonas; dance forms; divertimentos, serenades, cassations, divertissements, and notturni; fugues; flamenco; folk music; fantasias; gospel music; hymns; jazz; musical revues and comedies; madrigals; minuets; motets; motion picture music; marches; masses; multiple forms; mazurkas; nocturnes; operas; oratorios; overtures; program music; passion music; polonaises; popular music; preludes; passacaglias; part-songs; pavans; rock music; rondos; ragtime music; ricercars; rhapsodies; requiems; square dance music; songs; sonatas; symphonic poems; studies and exercises; suites; symphonies; toccatas; teatro lirico; trio-sonatas; villancicos; variations; waltzes, or zarzuelas."@en .
-<https://doi.org/10.6069/uwlswd.8rpj-ek77#jz> <http://www.w3.org/2004/02/skos/core#definition> "Jazz."@en .
-<https://doi.org/10.6069/uwlswd.8rpj-ek77#rc> <http://www.w3.org/2004/02/skos/core#prefLabel> "rock music"@en .
-<https://doi.org/10.6069/uwlswd.8rpj-ek77#za> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
-<https://doi.org/10.6069/uwlswd.8rpj-ek77#df> <http://www.w3.org/2004/02/skos/core#definition> "Dance forms."@en .
-<https://doi.org/10.6069/uwlswd.8rpj-ek77#cg> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
-<https://doi.org/10.6069/uwlswd.8rpj-ek77> <http://purl.org/dc/terms/alternative> "MARC21 008/18-19 values for music expressed using RDF" .
-<https://doi.org/10.6069/uwlswd.8rpj-ek77#wz> <http://www.w3.org/2004/02/skos/core#definition> "Waltzes."@en .
-<https://doi.org/10.6069/uwlswd.8rpj-ek77#tl> <http://www.w3.org/2004/02/skos/core#definition> "Spanish and Spanish American theatre music."@en .
-<https://doi.org/10.6069/uwlswd.8rpj-ek77#su> <http://www.w3.org/2004/02/skos/core#prefLabel> "suites"@en .
-<https://doi.org/10.6069/uwlswd.8rpj-ek77#mz> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
-<https://doi.org/10.6069/uwlswd.8rpj-ek77#mi> <http://www.w3.org/2004/02/skos/core#prefLabel> "minuets"@en .
-<https://doi.org/10.6069/uwlswd.8rpj-ek77#fl> <http://www.w3.org/2004/02/skos/core#definition> "Flamenco."@en .
-<https://doi.org/10.6069/uwlswd.8rpj-ek77#pr> <http://www.w3.org/2004/02/skos/core#inScheme> <https://doi.org/10.6069/uwlswd.8rpj-ek77> .
-<https://doi.org/10.6069/uwlswd.8rpj-ek77#cp> <http://www.w3.org/2004/02/skos/core#prefLabel> "chansons, polyphonic"@en .
-<https://doi.org/10.6069/uwlswd.8rpj-ek77#pv> <http://www.w3.org/2004/02/skos/core#notation> "pv"@en .
-<https://doi.org/10.6069/uwlswd.8rpj-ek77#ct> <http://www.w3.org/2004/02/skos/core#definition> "Cantatas."@en .
-<https://doi.org/10.6069/uwlswd.8rpj-ek77#pr> <http://www.w3.org/2004/02/skos/core#definition> "Preludes."@en .
-<https://doi.org/10.6069/uwlswd.8rpj-ek77#tc> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
-<https://doi.org/10.6069/uwlswd.8rpj-ek77#cy> <http://www.w3.org/2004/02/skos/core#notation> "cy"@en .
-<https://doi.org/10.6069/uwlswd.8rpj-ek77#ov> <http://www.w3.org/2004/02/skos/core#definition> "Overtures."@en .
-<https://doi.org/10.6069/uwlswd.8rpj-ek77> <http://purl.org/dc/terms/license> <http://creativecommons.org/publicdomain/zero/1.0> .
-<https://doi.org/10.6069/uwlswd.8rpj-ek77#sg> <http://www.w3.org/2004/02/skos/core#definition> "Songs."@en .
-<https://doi.org/10.6069/uwlswd.8rpj-ek77> <http://purl.org/dc/terms/source> <https://www.loc.gov/marc/bibliographic/bd008.html> .
-<https://doi.org/10.6069/uwlswd.8rpj-ek77#pm> <http://www.w3.org/2004/02/skos/core#notation> "pm"@en .
-<https://doi.org/10.6069/uwlswd.8rpj-ek77#sd> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
-<https://doi.org/10.6069/uwlswd.8rpj-ek77#po> <http://www.w3.org/2004/02/skos/core#inScheme> <https://doi.org/10.6069/uwlswd.8rpj-ek77> .
-<https://doi.org/10.6069/uwlswd.8rpj-ek77#ct> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
-<https://doi.org/10.6069/uwlswd.8rpj-ek77#bt> <http://www.w3.org/2004/02/skos/core#notation> "bt"@en .
-<https://doi.org/10.6069/uwlswd.8rpj-ek77#md> <http://www.w3.org/2004/02/skos/core#prefLabel> "madrigals"@en .
-<https://doi.org/10.6069/uwlswd.8rpj-ek77> <http://purl.org/dc/terms/provenance> <https://doi.org/10.6069/uwlswd.2e2b-y833> .
-<https://doi.org/10.6069/uwlswd.8rpj-ek77#hy> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
-<https://doi.org/10.6069/uwlswd.8rpj-ek77#gm> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
-<https://doi.org/10.6069/uwlswd.8rpj-ek77#cr> <http://www.w3.org/2004/02/skos/core#inScheme> <https://doi.org/10.6069/uwlswd.8rpj-ek77> .
-<https://doi.org/10.6069/uwlswd.8rpj-ek77#nc> <http://www.w3.org/2004/02/skos/core#inScheme> <https://doi.org/10.6069/uwlswd.8rpj-ek77> .
-<https://doi.org/10.6069/uwlswd.8rpj-ek77#vi> <http://www.w3.org/2004/02/skos/core#inScheme> <https://doi.org/10.6069/uwlswd.8rpj-ek77> .
-<https://doi.org/10.6069/uwlswd.8rpj-ek77#za> <http://www.w3.org/2004/02/skos/core#inScheme> <https://doi.org/10.6069/uwlswd.8rpj-ek77> .
-<https://doi.org/10.6069/uwlswd.8rpj-ek77#pt> <http://www.w3.org/2004/02/skos/core#notation> "pt"@en .
-<https://doi.org/10.6069/uwlswd.8rpj-ek77#tl> <http://www.w3.org/2004/02/skos/core#notation> "tl"@en .
-<https://doi.org/10.6069/uwlswd.8rpj-ek77#cs> <http://www.w3.org/2004/02/skos/core#prefLabel> "chance compositions"@en .
-<https://doi.org/10.6069/uwlswd.8rpj-ek77#op> <http://www.w3.org/2004/02/skos/core#prefLabel> "operas"@en .
-<https://doi.org/10.6069/uwlswd.8rpj-ek77#vr> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
-<https://doi.org/10.6069/uwlswd.8rpj-ek77#cc> <http://www.w3.org/2004/02/skos/core#definition> "Chant, Christian."@en .
-<https://doi.org/10.6069/uwlswd.8rpj-ek77#mu> <http://www.w3.org/2004/02/skos/core#definition> "Multiple forms."@en .
-<https://doi.org/10.6069/uwlswd.8rpj-ek77#mo> <http://www.w3.org/2004/02/skos/core#prefLabel> "motets"@en .
-<https://doi.org/10.6069/uwlswd.8rpj-ek77#pr> <http://www.w3.org/2004/02/skos/core#prefLabel> "preludes"@en .
-<https://doi.org/10.6069/uwlswd.8rpj-ek77#tc> <http://www.w3.org/2004/02/skos/core#inScheme> <https://doi.org/10.6069/uwlswd.8rpj-ek77> .
-<https://doi.org/10.6069/uwlswd.8rpj-ek77#cz> <http://www.w3.org/2004/02/skos/core#definition> "Canzonas."@en .
-<https://doi.org/10.6069/uwlswd.8rpj-ek77#df> <http://www.w3.org/2004/02/skos/core#prefLabel> "dance forms"@en .
-<https://doi.org/10.6069/uwlswd.8rpj-ek77#sg> <http://www.w3.org/2004/02/skos/core#notation> "sg"@en .
-<https://doi.org/10.6069/uwlswd.8rpj-ek77#nn> <http://www.w3.org/2004/02/skos/core#scopeNote> "Used for any item that is a non-music sound recording."@en .
-<https://doi.org/10.6069/uwlswd.8rpj-ek77#sp> <http://www.w3.org/2004/02/skos/core#prefLabel> "symphonic poems"@en .
-<https://doi.org/10.6069/uwlswd.8rpj-ek77#fm> <http://www.w3.org/2004/02/skos/core#notation> "fm"@en .
-<https://doi.org/10.6069/uwlswd.8rpj-ek77#rc> <http://www.w3.org/2004/02/skos/core#definition> "Rock music."@en .
-<https://doi.org/10.6069/uwlswd.8rpj-ek77#rd> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
-<https://doi.org/10.6069/uwlswd.8rpj-ek77#rq> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
-<https://doi.org/10.6069/uwlswd.8rpj-ek77#nn> <http://www.w3.org/2004/02/skos/core#notation> "nn"@en .
-<https://doi.org/10.6069/uwlswd.8rpj-ek77#bt> <http://www.w3.org/2004/02/skos/core#definition> "Ballets."@en .
-<https://doi.org/10.6069/uwlswd.8rpj-ek77#fm> <http://www.w3.org/2004/02/skos/core#prefLabel> "folk music"@en .
-<https://doi.org/10.6069/uwlswd.8rpj-ek77#bd> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
-<https://doi.org/10.6069/uwlswd.8rpj-ek77#cz> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
-<https://doi.org/10.6069/uwlswd.8rpj-ek77#op> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
-<https://doi.org/10.6069/uwlswd.8rpj-ek77#cb> <http://www.w3.org/2004/02/skos/core#inScheme> <https://doi.org/10.6069/uwlswd.8rpj-ek77> .
-<https://doi.org/10.6069/uwlswd.8rpj-ek77#cn> <http://www.w3.org/2004/02/skos/core#prefLabel> "canons and rounds"@en .
-<https://doi.org/10.6069/uwlswd.8rpj-ek77#mz> <http://www.w3.org/2004/02/skos/core#prefLabel> "mazurkas"@en .
-<https://doi.org/10.6069/uwlswd.8rpj-ek77#cg> <http://www.w3.org/2004/02/skos/core#notation> "cg"@en .
-<https://doi.org/10.6069/uwlswd.8rpj-ek77#cp> <http://www.w3.org/2004/02/skos/core#notation> "cp"@en .
-<https://doi.org/10.6069/uwlswd.8rpj-ek77#bg> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
-<https://doi.org/10.6069/uwlswd.8rpj-ek77#ms> <http://www.w3.org/2004/02/skos/core#prefLabel> "masses"@en .
-<https://doi.org/10.6069/uwlswd.8rpj-ek77#nc> <http://www.w3.org/2004/02/skos/core#definition> "Nocturnes."@en .
-<https://doi.org/10.6069/uwlswd.8rpj-ek77#wz> <http://www.w3.org/2004/02/skos/core#notation> "wz"@en .
-<https://doi.org/10.6069/uwlswd.8rpj-ek77#uu> <http://www.w3.org/2004/02/skos/core#definition> "Unknown."@en .
-<https://doi.org/10.6069/uwlswd.8rpj-ek77#cs> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
-<https://doi.org/10.6069/uwlswd.8rpj-ek77#dv> <http://www.w3.org/2004/02/skos/core#scopeNote> "Used for instrumental music designated as a divertimento, serenade, cassation, divertissement, or a notturno."@en .
-<https://doi.org/10.6069/uwlswd.8rpj-ek77#rp> <http://www.w3.org/2004/02/skos/core#definition> "Rhapsodies."@en .
-<https://doi.org/10.6069/uwlswd.8rpj-ek77#fm> <http://www.w3.org/2004/02/skos/core#scopeNote> "Includes folk songs, etc."@en .
-<https://doi.org/10.6069/uwlswd.8rpj-ek77#bl> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
-<https://doi.org/10.6069/uwlswd.8rpj-ek77#fg> <http://www.w3.org/2004/02/skos/core#notation> "fg"@en .
-<https://doi.org/10.6069/uwlswd.8rpj-ek77#zz> <http://www.w3.org/2004/02/skos/core#notation> "zz"@en .
-<https://doi.org/10.6069/uwlswd.8rpj-ek77#sn> <http://www.w3.org/2004/02/skos/core#inScheme> <https://doi.org/10.6069/uwlswd.8rpj-ek77> .
-<https://doi.org/10.6069/uwlswd.8rpj-ek77#nn> <http://www.w3.org/2004/02/skos/core#definition> "Not applicable"@en .
-<https://doi.org/10.6069/uwlswd.8rpj-ek77#ms> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
-<https://doi.org/10.6069/uwlswd.8rpj-ek77#mi> <http://www.w3.org/2004/02/skos/core#notation> "mi"@en .
-<https://doi.org/10.6069/uwlswd.8rpj-ek77#bl> <http://www.w3.org/2004/02/skos/core#prefLabel> "blues"@en .
-<https://doi.org/10.6069/uwlswd.8rpj-ek77#cc> <http://www.w3.org/2004/02/skos/core#prefLabel> "chant, Christian"@en .
-<https://doi.org/10.6069/uwlswd.8rpj-ek77#bg> <http://www.w3.org/2004/02/skos/core#notation> "bg"@en .
-<https://doi.org/10.6069/uwlswd.8rpj-ek77#hy> <http://www.w3.org/2004/02/skos/core#notation> "hy"@en .
-<https://doi.org/10.6069/uwlswd.8rpj-ek77#cr> <http://www.w3.org/2004/02/skos/core#notation> "cr"@en .
-<https://doi.org/10.6069/uwlswd.8rpj-ek77#tl> <http://www.w3.org/2004/02/skos/core#inScheme> <https://doi.org/10.6069/uwlswd.8rpj-ek77> .
-<https://doi.org/10.6069/uwlswd.8rpj-ek77#rg> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
-<https://doi.org/10.6069/uwlswd.8rpj-ek77#rp> <http://www.w3.org/2004/02/skos/core#inScheme> <https://doi.org/10.6069/uwlswd.8rpj-ek77> .
-<https://doi.org/10.6069/uwlswd.8rpj-ek77#dv> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
-<https://doi.org/10.6069/uwlswd.8rpj-ek77#ch> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
-<https://doi.org/10.6069/uwlswd.8rpj-ek77#za> <http://www.w3.org/2004/02/skos/core#notation> "za"@en .
-<https://doi.org/10.6069/uwlswd.8rpj-ek77#cc> <http://www.w3.org/2004/02/skos/core#inScheme> <https://doi.org/10.6069/uwlswd.8rpj-ek77> .
-<https://doi.org/10.6069/uwlswd.8rpj-ek77#gm> <http://www.w3.org/2004/02/skos/core#prefLabel> "gospel music"@en .
-<https://doi.org/10.6069/uwlswd.8rpj-ek77#df> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
-<https://doi.org/10.6069/uwlswd.8rpj-ek77#mu> <http://www.w3.org/2004/02/skos/core#notation> "mu"@en .
-<https://doi.org/10.6069/uwlswd.8rpj-ek77#uu> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
-<https://doi.org/10.6069/uwlswd.8rpj-ek77> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#ConceptScheme> .
-<https://doi.org/10.6069/uwlswd.8rpj-ek77#ft> <http://www.w3.org/2004/02/skos/core#scopeNote> "Includes instrumental music designated as fantasia, fancies, fantasies, etc."@en .
-<https://doi.org/10.6069/uwlswd.8rpj-ek77#zz> <http://www.w3.org/2004/02/skos/core#prefLabel> "other"@en .
-<https://doi.org/10.6069/uwlswd.8rpj-ek77#gm> <http://www.w3.org/2004/02/skos/core#inScheme> <https://doi.org/10.6069/uwlswd.8rpj-ek77> .
-<https://doi.org/10.6069/uwlswd.8rpj-ek77#pm> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
-<https://doi.org/10.6069/uwlswd.8rpj-ek77#ts> <http://www.w3.org/2004/02/skos/core#prefLabel> "trio-sonatas"@en .
-<https://doi.org/10.6069/uwlswd.8rpj-ek77#ch> <http://www.w3.org/2004/02/skos/core#notation> "ch"@en .
-<https://doi.org/10.6069/uwlswd.8rpj-ek77#cy> <http://www.w3.org/2004/02/skos/core#inScheme> <https://doi.org/10.6069/uwlswd.8rpj-ek77> .
-<https://doi.org/10.6069/uwlswd.8rpj-ek77#fl> <http://www.w3.org/2004/02/skos/core#notation> "fl"@en .
-<https://doi.org/10.6069/uwlswd.8rpj-ek77#cr> <http://www.w3.org/2004/02/skos/core#definition> "Carols."@en .
-<https://doi.org/10.6069/uwlswd.8rpj-ek77#bd> <http://www.w3.org/2004/02/skos/core#notation> "bd"@en .
-<https://doi.org/10.6069/uwlswd.8rpj-ek77#vi> <http://www.w3.org/2004/02/skos/core#notation> "vi"@en .
-<https://doi.org/10.6069/uwlswd.8rpj-ek77#ov> <http://www.w3.org/2004/02/skos/core#inScheme> <https://doi.org/10.6069/uwlswd.8rpj-ek77> .
-<https://doi.org/10.6069/uwlswd.8rpj-ek77> <http://www.w3.org/2004/02/skos/core#scopeNote> "Is based on the terminology in the work itself. Also includes musical genres (e.g., Ragtime music)."@en .
-<https://doi.org/10.6069/uwlswd.8rpj-ek77#sp> <http://www.w3.org/2004/02/skos/core#definition> "Symphonic poems."@en .
-<https://doi.org/10.6069/uwlswd.8rpj-ek77#mi> <http://www.w3.org/2004/02/skos/core#definition> "Minuets."@en .
-<https://doi.org/10.6069/uwlswd.8rpj-ek77#pr> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
-<https://doi.org/10.6069/uwlswd.8rpj-ek77#sg> <http://www.w3.org/2004/02/skos/core#prefLabel> "songs"@en .
-<https://doi.org/10.6069/uwlswd.8rpj-ek77#mi> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
-<https://doi.org/10.6069/uwlswd.8rpj-ek77#ps> <http://www.w3.org/2004/02/skos/core#definition> "Passacaglias."@en .
-<https://doi.org/10.6069/uwlswd.8rpj-ek77> <http://purl.org/dc/terms/publisher> <http://viaf.org/viaf/139541794> .
-<https://doi.org/10.6069/uwlswd.8rpj-ek77#st> <http://www.w3.org/2004/02/skos/core#definition> "Studies and exercises."@en .
-<https://doi.org/10.6069/uwlswd.8rpj-ek77#ps> <http://www.w3.org/2004/02/skos/core#prefLabel> "passacaglias"@en .
-<https://doi.org/10.6069/uwlswd.8rpj-ek77#mc> <http://www.w3.org/2004/02/skos/core#prefLabel> "musical revues and comedies"@en .
-<https://doi.org/10.6069/uwlswd.8rpj-ek77#pp> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
-<https://doi.org/10.6069/uwlswd.8rpj-ek77#cl> <http://www.w3.org/2004/02/skos/core#notation> "cl"@en .
-<https://doi.org/10.6069/uwlswd.8rpj-ek77#hy> <http://www.w3.org/2004/02/skos/core#prefLabel> "hymns"@en .
-<https://doi.org/10.6069/uwlswd.8rpj-ek77#cn> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
-<https://doi.org/10.6069/uwlswd.8rpj-ek77#or> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
-<https://doi.org/10.6069/uwlswd.8rpj-ek77#rp> <http://www.w3.org/2004/02/skos/core#prefLabel> "rhapsodies"@en .
-<https://doi.org/10.6069/uwlswd.8rpj-ek77#pm> <http://www.w3.org/2004/02/skos/core#prefLabel> "passion music"@en .
-<https://doi.org/10.6069/uwlswd.8rpj-ek77#ri> <http://www.w3.org/2004/02/skos/core#inScheme> <https://doi.org/10.6069/uwlswd.8rpj-ek77> .
-<https://doi.org/10.6069/uwlswd.8rpj-ek77#jz> <http://www.w3.org/2004/02/skos/core#inScheme> <https://doi.org/10.6069/uwlswd.8rpj-ek77> .
-<https://doi.org/10.6069/uwlswd.8rpj-ek77#ct> <http://www.w3.org/2004/02/skos/core#notation> "ct"@en .
-<https://doi.org/10.6069/uwlswd.8rpj-ek77#hy> <http://www.w3.org/2004/02/skos/core#definition> "Hymns."@en .
-<https://doi.org/10.6069/uwlswd.8rpj-ek77#fl> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
-<https://doi.org/10.6069/uwlswd.8rpj-ek77#sy> <http://www.w3.org/2004/02/skos/core#definition> "Symphonies."@en .
-<https://doi.org/10.6069/uwlswd.8rpj-ek77#vi> <http://www.w3.org/2004/02/skos/core#prefLabel> "villancicos"@en .
-<https://doi.org/10.6069/uwlswd.8rpj-ek77#mo> <http://www.w3.org/2004/02/skos/core#notation> "mo"@en .
-<https://doi.org/10.6069/uwlswd.8rpj-ek77#rg> <http://www.w3.org/2004/02/skos/core#prefLabel> "ragtime music"@en .
-<https://doi.org/10.6069/uwlswd.8rpj-ek77#fm> <http://www.w3.org/2004/02/skos/core#definition> "Folk music."@en .
-<https://doi.org/10.6069/uwlswd.8rpj-ek77#mp> <http://www.w3.org/2004/02/skos/core#prefLabel> "motion picture music"@en .
-<https://doi.org/10.6069/uwlswd.8rpj-ek77#co> <http://www.w3.org/2004/02/skos/core#notation> "co"@en .
-<https://doi.org/10.6069/uwlswd.8rpj-ek77#mr> <http://www.w3.org/2004/02/skos/core#inScheme> <https://doi.org/10.6069/uwlswd.8rpj-ek77> .
-<https://doi.org/10.6069/uwlswd.8rpj-ek77#mp> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
-<https://doi.org/10.6069/uwlswd.8rpj-ek77#rc> <http://www.w3.org/2004/02/skos/core#notation> "rc"@en .
-<https://doi.org/10.6069/uwlswd.8rpj-ek77#gm> <http://www.w3.org/2004/02/skos/core#notation> "gm"@en .
-<https://doi.org/10.6069/uwlswd.8rpj-ek77#st> <http://www.w3.org/2004/02/skos/core#inScheme> <https://doi.org/10.6069/uwlswd.8rpj-ek77> .
-<https://doi.org/10.6069/uwlswd.8rpj-ek77#cp> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
 <https://doi.org/10.6069/uwlswd.8rpj-ek77#bt> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<https://doi.org/10.6069/uwlswd.8rpj-ek77#hy> <http://www.w3.org/2004/02/skos/core#definition> "Hymns."@en .
+<https://doi.org/10.6069/uwlswd.8rpj-ek77#ms> <http://www.w3.org/2004/02/skos/core#inScheme> <https://doi.org/10.6069/uwlswd.8rpj-ek77> .
+<https://doi.org/10.6069/uwlswd.8rpj-ek77#sy> <http://www.w3.org/2004/02/skos/core#prefLabel> "symphonies"@en .
+<https://doi.org/10.6069/uwlswd.8rpj-ek77#zz> <http://www.w3.org/2004/02/skos/core#prefLabel> "other"@en .
 <https://doi.org/10.6069/uwlswd.8rpj-ek77#mc> <http://www.w3.org/2004/02/skos/core#definition> "Musical revues and comedies."@en .
-<https://doi.org/10.6069/uwlswd.8rpj-ek77#sg> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
-<https://doi.org/10.6069/uwlswd.8rpj-ek77#jz> <http://www.w3.org/2004/02/skos/core#notation> "jz"@en .
-<https://doi.org/10.6069/uwlswd.8rpj-ek77#ft> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
-<https://doi.org/10.6069/uwlswd.8rpj-ek77#ms> <http://www.w3.org/2004/02/skos/core#notation> "ms"@en .
-<https://doi.org/10.6069/uwlswd.8rpj-ek77#cb> <http://www.w3.org/2004/02/skos/core#definition> "Chants, Other religions."@en .
-<https://doi.org/10.6069/uwlswd.8rpj-ek77#ca> <http://www.w3.org/2004/02/skos/core#prefLabel> "chaconnes"@en .
-<https://doi.org/10.6069/uwlswd.8rpj-ek77#mc> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
-<https://doi.org/10.6069/uwlswd.8rpj-ek77#cz> <http://www.w3.org/2004/02/skos/core#scopeNote> "Used for instrumental music that is designated as a canzona."@en .
-<https://doi.org/10.6069/uwlswd.8rpj-ek77> <http://purl.org/dc/terms/issued> "2023" .
-<https://doi.org/10.6069/uwlswd.8rpj-ek77#mp> <http://www.w3.org/2004/02/skos/core#notation> "mp"@en .
-<https://doi.org/10.6069/uwlswd.8rpj-ek77#pv> <http://www.w3.org/2004/02/skos/core#prefLabel> "pavans"@en .
-<https://doi.org/10.6069/uwlswd.8rpj-ek77#ft> <http://www.w3.org/2004/02/skos/core#notation> "ft"@en .
-<https://doi.org/10.6069/uwlswd.8rpj-ek77#md> <http://www.w3.org/2004/02/skos/core#inScheme> <https://doi.org/10.6069/uwlswd.8rpj-ek77> .
-<https://doi.org/10.6069/uwlswd.8rpj-ek77#ov> <http://www.w3.org/2004/02/skos/core#notation> "ov"@en .
-<https://doi.org/10.6069/uwlswd.8rpj-ek77#or> <http://www.w3.org/2004/02/skos/core#definition> "Oratorios."@en .
-<https://doi.org/10.6069/uwlswd.8rpj-ek77#rp> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
-<https://doi.org/10.6069/uwlswd.8rpj-ek77#mp> <http://www.w3.org/2004/02/skos/core#definition> "Motion picture music."@en .
-<https://doi.org/10.6069/uwlswd.8rpj-ek77#vr> <http://www.w3.org/2004/02/skos/core#definition> "Variations."@en .
-<https://doi.org/10.6069/uwlswd.8rpj-ek77#mz> <http://www.w3.org/2004/02/skos/core#inScheme> <https://doi.org/10.6069/uwlswd.8rpj-ek77> .
-<https://doi.org/10.6069/uwlswd.8rpj-ek77#tl> <http://www.w3.org/2004/02/skos/core#scopeNote> "Used for a large number of more specific terms which describe Spanish and Spanish American theatre music: \"tonadilla escÈnica\", \"fiestas de m˙sica\", \"sainetes lÌricos\", \"entremeses cÛmico-lÌrico,\" etc."@en .
-<https://doi.org/10.6069/uwlswd.8rpj-ek77#pg> <http://www.w3.org/2004/02/skos/core#inScheme> <https://doi.org/10.6069/uwlswd.8rpj-ek77> .
-<https://doi.org/10.6069/uwlswd.8rpj-ek77#ts> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
-<https://doi.org/10.6069/uwlswd.8rpj-ek77#fg> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
-<https://doi.org/10.6069/uwlswd.8rpj-ek77#ch> <http://www.w3.org/2004/02/skos/core#definition> "Chorales."@en .
-<https://doi.org/10.6069/uwlswd.8rpj-ek77#cr> <http://www.w3.org/2004/02/skos/core#prefLabel> "carols"@en .
-<https://doi.org/10.6069/uwlswd.8rpj-ek77#pv> <http://www.w3.org/2004/02/skos/core#inScheme> <https://doi.org/10.6069/uwlswd.8rpj-ek77> .
-<https://doi.org/10.6069/uwlswd.8rpj-ek77#mr> <http://www.w3.org/2004/02/skos/core#notation> "mr"@en .
-<https://doi.org/10.6069/uwlswd.8rpj-ek77#ps> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
-<https://doi.org/10.6069/uwlswd.8rpj-ek77#po> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
-<https://doi.org/10.6069/uwlswd.8rpj-ek77#sy> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
-<https://doi.org/10.6069/uwlswd.8rpj-ek77#gm> <http://www.w3.org/2004/02/skos/core#definition> "Gospel music."@en .
-<https://doi.org/10.6069/uwlswd.8rpj-ek77#bd> <http://www.w3.org/2004/02/skos/core#prefLabel> "ballads"@en .
+<https://doi.org/10.6069/uwlswd.8rpj-ek77#rq> <http://www.w3.org/2004/02/skos/core#notation> "rq"@en .
 <https://doi.org/10.6069/uwlswd.8rpj-ek77#cg> <http://www.w3.org/2004/02/skos/core#definition> "Concerti grossi."@en .
-<https://doi.org/10.6069/uwlswd.8rpj-ek77#cy> <http://www.w3.org/2004/02/skos/core#prefLabel> "country music"@en .
-<https://doi.org/10.6069/uwlswd.8rpj-ek77#cp> <http://www.w3.org/2004/02/skos/core#inScheme> <https://doi.org/10.6069/uwlswd.8rpj-ek77> .
-<https://doi.org/10.6069/uwlswd.8rpj-ek77#ch> <http://www.w3.org/2004/02/skos/core#prefLabel> "chorales"@en .
-<https://doi.org/10.6069/uwlswd.8rpj-ek77#bt> <http://www.w3.org/2004/02/skos/core#inScheme> <https://doi.org/10.6069/uwlswd.8rpj-ek77> .
-<https://doi.org/10.6069/uwlswd.8rpj-ek77#sd> <http://www.w3.org/2004/02/skos/core#inScheme> <https://doi.org/10.6069/uwlswd.8rpj-ek77> .
-<https://doi.org/10.6069/uwlswd.8rpj-ek77#fm> <http://www.w3.org/2004/02/skos/core#inScheme> <https://doi.org/10.6069/uwlswd.8rpj-ek77> .
-<https://doi.org/10.6069/uwlswd.8rpj-ek77#mo> <http://www.w3.org/2004/02/skos/core#inScheme> <https://doi.org/10.6069/uwlswd.8rpj-ek77> .
-<https://doi.org/10.6069/uwlswd.8rpj-ek77#cg> <http://www.w3.org/2004/02/skos/core#prefLabel> "concerti grossi"@en .
-<https://doi.org/10.6069/uwlswd.8rpj-ek77#cr> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
-<https://doi.org/10.6069/uwlswd.8rpj-ek77#mu> <http://www.w3.org/2004/02/skos/core#inScheme> <https://doi.org/10.6069/uwlswd.8rpj-ek77> .
-<https://doi.org/10.6069/uwlswd.8rpj-ek77#nc> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
-<https://doi.org/10.6069/uwlswd.8rpj-ek77#cb> <http://www.w3.org/2004/02/skos/core#notation> "cb"@en .
-<https://doi.org/10.6069/uwlswd.8rpj-ek77#po> <http://www.w3.org/2004/02/skos/core#prefLabel> "polonaises"@en .
-<https://doi.org/10.6069/uwlswd.8rpj-ek77#bg> <http://www.w3.org/2004/02/skos/core#definition> "Bluegrass music."@en .
-<https://doi.org/10.6069/uwlswd.8rpj-ek77#ov> <http://www.w3.org/2004/02/skos/core#prefLabel> "overtures"@en .
-<https://doi.org/10.6069/uwlswd.8rpj-ek77#mc> <http://www.w3.org/2004/02/skos/core#notation> "mc"@en .
-<https://doi.org/10.6069/uwlswd.8rpj-ek77#wz> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
-<https://doi.org/10.6069/uwlswd.8rpj-ek77#po> <http://www.w3.org/2004/02/skos/core#definition> "Polonaises."@en .
-<https://doi.org/10.6069/uwlswd.8rpj-ek77#co> <http://www.w3.org/2004/02/skos/core#prefLabel> "concertos"@en .
-<https://doi.org/10.6069/uwlswd.8rpj-ek77#vi> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
-<https://doi.org/10.6069/uwlswd.8rpj-ek77> <http://purl.org/dc/terms/type> <http://purl.org/dc/dcmitype/Dataset> .
-<https://doi.org/10.6069/uwlswd.8rpj-ek77#cs> <http://www.w3.org/2004/02/skos/core#inScheme> <https://doi.org/10.6069/uwlswd.8rpj-ek77> .
-<https://doi.org/10.6069/uwlswd.8rpj-ek77#mz> <http://www.w3.org/2004/02/skos/core#notation> "mz"@en .
-<https://doi.org/10.6069/uwlswd.8rpj-ek77#ri> <http://www.w3.org/2004/02/skos/core#prefLabel> "ricercars"@en .
-<https://doi.org/10.6069/uwlswd.8rpj-ek77#cc> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
-<https://doi.org/10.6069/uwlswd.8rpj-ek77#an> <http://www.w3.org/2004/02/skos/core#prefLabel> "anthems"@en .
-<https://doi.org/10.6069/uwlswd.8rpj-ek77#tc> <http://www.w3.org/2004/02/skos/core#prefLabel> "toccatas"@en .
-<https://doi.org/10.6069/uwlswd.8rpj-ek77#cy> <http://www.w3.org/2004/02/skos/core#definition> "Country music."@en .
-<https://doi.org/10.6069/uwlswd.8rpj-ek77#nc> <http://www.w3.org/2004/02/skos/core#prefLabel> "nocturnes"@en .
-<https://doi.org/10.6069/uwlswd.8rpj-ek77#sp> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
-<https://doi.org/10.6069/uwlswd.8rpj-ek77#pp> <http://www.w3.org/2004/02/skos/core#inScheme> <https://doi.org/10.6069/uwlswd.8rpj-ek77> .
-<https://doi.org/10.6069/uwlswd.8rpj-ek77#ft> <http://www.w3.org/2004/02/skos/core#prefLabel> "fantasias"@en .
 <https://doi.org/10.6069/uwlswd.8rpj-ek77#jz> <http://www.w3.org/2004/02/skos/core#prefLabel> "jazz"@en .
+<https://doi.org/10.6069/uwlswd.8rpj-ek77> <http://purl.org/dc/terms/hasFormat> <https://uwlib-cams.github.io/uwlswd_vocabs_marc_006_008/008/music_form_of_composition/music_form_of_composition.rdf> .
+<https://doi.org/10.6069/uwlswd.8rpj-ek77#rc> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<https://doi.org/10.6069/uwlswd.8rpj-ek77#pg> <http://www.w3.org/2004/02/skos/core#inScheme> <https://doi.org/10.6069/uwlswd.8rpj-ek77> .
+<https://doi.org/10.6069/uwlswd.8rpj-ek77> <http://purl.org/dc/terms/title> "Music: form of composition"@en .
+<https://doi.org/10.6069/uwlswd.8rpj-ek77#pt> <http://www.w3.org/2004/02/skos/core#inScheme> <https://doi.org/10.6069/uwlswd.8rpj-ek77> .
+<https://doi.org/10.6069/uwlswd.8rpj-ek77#cl> <http://www.w3.org/2004/02/skos/core#notation> "cl"@en .
+<https://doi.org/10.6069/uwlswd.8rpj-ek77#rc> <http://www.w3.org/2004/02/skos/core#notation> "rc"@en .
+<https://doi.org/10.6069/uwlswd.8rpj-ek77#pg> <http://www.w3.org/2004/02/skos/core#notation> "pg"@en .
+<https://doi.org/10.6069/uwlswd.8rpj-ek77#op> <http://www.w3.org/2004/02/skos/core#definition> "Operas."@en .
+<https://doi.org/10.6069/uwlswd.8rpj-ek77> <http://purl.org/dc/terms/hasFormat> <https://uwlib-cams.github.io/uwlswd_vocabs_marc_006_008/008/music_form_of_composition/music_form_of_composition.html> .
+<https://doi.org/10.6069/uwlswd.8rpj-ek77#vi> <http://www.w3.org/2004/02/skos/core#definition> "Characteristic form of Spanish polyphony, religious or\n            secular, from the 16th to 18th centuries. Religious villancicos were usually sung in\n            important ceremonies (including Christmas, when these songs were sometimes called\n            \"pastoradas\")."@en .
+<https://doi.org/10.6069/uwlswd.8rpj-ek77#tl> <http://www.w3.org/2004/02/skos/core#definition> "Spanish and Spanish American theatre music."@en .
+<https://doi.org/10.6069/uwlswd.8rpj-ek77#pg> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<https://doi.org/10.6069/uwlswd.8rpj-ek77> <http://purl.org/dc/terms/source> <https://www.loc.gov/marc/bibliographic/bd008.html> .
+<https://doi.org/10.6069/uwlswd.8rpj-ek77#su> <http://www.w3.org/2004/02/skos/core#prefLabel> "suites"@en .
+<https://doi.org/10.6069/uwlswd.8rpj-ek77#bl> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<https://doi.org/10.6069/uwlswd.8rpj-ek77#ca> <http://www.w3.org/2004/02/skos/core#prefLabel> "chaconnes"@en .
+<https://doi.org/10.6069/uwlswd.8rpj-ek77#za> <http://www.w3.org/2004/02/skos/core#notation> "za"@en .
+<https://doi.org/10.6069/uwlswd.8rpj-ek77#wz> <http://www.w3.org/2004/02/skos/core#prefLabel> "waltzes"@en .
+<https://doi.org/10.6069/uwlswd.8rpj-ek77#dv> <http://www.w3.org/2004/02/skos/core#definition> "Divertimentos, serenades, cassations, divertissements, and\n            notturni."@en .
+<https://doi.org/10.6069/uwlswd.8rpj-ek77#ri> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<https://doi.org/10.6069/uwlswd.8rpj-ek77#bg> <http://www.w3.org/2004/02/skos/core#notation> "bg"@en .
+<https://doi.org/10.6069/uwlswd.8rpj-ek77#df> <http://www.w3.org/2004/02/skos/core#notation> "df"@en .
+<https://doi.org/10.6069/uwlswd.8rpj-ek77#rg> <http://www.w3.org/2004/02/skos/core#notation> "rg"@en .
+<https://doi.org/10.6069/uwlswd.8rpj-ek77#fl> <http://www.w3.org/2004/02/skos/core#prefLabel> "flamenco"@en .
+<https://doi.org/10.6069/uwlswd.8rpj-ek77#bd> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<https://doi.org/10.6069/uwlswd.8rpj-ek77#cy> <http://www.w3.org/2004/02/skos/core#inScheme> <https://doi.org/10.6069/uwlswd.8rpj-ek77> .
+<https://doi.org/10.6069/uwlswd.8rpj-ek77#mo> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<https://doi.org/10.6069/uwlswd.8rpj-ek77#rg> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<https://doi.org/10.6069/uwlswd.8rpj-ek77#pr> <http://www.w3.org/2004/02/skos/core#notation> "pr"@en .
+<https://doi.org/10.6069/uwlswd.8rpj-ek77#mo> <http://www.w3.org/2004/02/skos/core#notation> "mo"@en .
+<https://doi.org/10.6069/uwlswd.8rpj-ek77#cr> <http://www.w3.org/2004/02/skos/core#inScheme> <https://doi.org/10.6069/uwlswd.8rpj-ek77> .
+<https://doi.org/10.6069/uwlswd.8rpj-ek77#dv> <http://www.w3.org/2004/02/skos/core#prefLabel> "divertimentos, serenades, cassations, divertissements, and\n            notturni"@en .
+<https://doi.org/10.6069/uwlswd.8rpj-ek77#mr> <http://www.w3.org/2004/02/skos/core#prefLabel> "marches"@en .
+<https://doi.org/10.6069/uwlswd.8rpj-ek77#sy> <http://www.w3.org/2004/02/skos/core#inScheme> <https://doi.org/10.6069/uwlswd.8rpj-ek77> .
+<https://doi.org/10.6069/uwlswd.8rpj-ek77#ps> <http://www.w3.org/2004/02/skos/core#scopeNote> "Includes all types of ostinato basses."@en .
+<https://doi.org/10.6069/uwlswd.8rpj-ek77#fl> <http://www.w3.org/2004/02/skos/core#inScheme> <https://doi.org/10.6069/uwlswd.8rpj-ek77> .
+<https://doi.org/10.6069/uwlswd.8rpj-ek77#co> <http://www.w3.org/2004/02/skos/core#notation> "co"@en .
+<https://doi.org/10.6069/uwlswd.8rpj-ek77#ri> <http://www.w3.org/2004/02/skos/core#prefLabel> "ricercars"@en .
+<https://doi.org/10.6069/uwlswd.8rpj-ek77#st> <http://www.w3.org/2004/02/skos/core#inScheme> <https://doi.org/10.6069/uwlswd.8rpj-ek77> .
+<https://doi.org/10.6069/uwlswd.8rpj-ek77#su> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<https://doi.org/10.6069/uwlswd.8rpj-ek77#fm> <http://www.w3.org/2004/02/skos/core#definition> "Folk music."@en .
+<https://doi.org/10.6069/uwlswd.8rpj-ek77#sy> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<https://doi.org/10.6069/uwlswd.8rpj-ek77#pp> <http://www.w3.org/2004/02/skos/core#prefLabel> "popular music"@en .
+<https://doi.org/10.6069/uwlswd.8rpj-ek77#ov> <http://www.w3.org/2004/02/skos/core#prefLabel> "overtures"@en .
+<https://doi.org/10.6069/uwlswd.8rpj-ek77#dv> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<https://doi.org/10.6069/uwlswd.8rpj-ek77#df> <http://www.w3.org/2004/02/skos/core#prefLabel> "dance forms"@en .
+<https://doi.org/10.6069/uwlswd.8rpj-ek77#cc> <http://www.w3.org/2004/02/skos/core#inScheme> <https://doi.org/10.6069/uwlswd.8rpj-ek77> .
+<https://doi.org/10.6069/uwlswd.8rpj-ek77#zz> <http://www.w3.org/2004/02/skos/core#notation> "zz"@en .
+<https://doi.org/10.6069/uwlswd.8rpj-ek77#jz> <http://www.w3.org/2004/02/skos/core#inScheme> <https://doi.org/10.6069/uwlswd.8rpj-ek77> .
+<https://doi.org/10.6069/uwlswd.8rpj-ek77#st> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<https://doi.org/10.6069/uwlswd.8rpj-ek77#tc> <http://www.w3.org/2004/02/skos/core#definition> "Toccatas."@en .
+<https://doi.org/10.6069/uwlswd.8rpj-ek77#za> <http://www.w3.org/2004/02/skos/core#definition> "Zarzuelas."@en .
+<https://doi.org/10.6069/uwlswd.8rpj-ek77#cy> <http://www.w3.org/2004/02/skos/core#prefLabel> "country music"@en .
+<https://doi.org/10.6069/uwlswd.8rpj-ek77#pp> <http://www.w3.org/2004/02/skos/core#inScheme> <https://doi.org/10.6069/uwlswd.8rpj-ek77> .
+<https://doi.org/10.6069/uwlswd.8rpj-ek77#jz> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<https://doi.org/10.6069/uwlswd.8rpj-ek77#rd> <http://www.w3.org/2004/02/skos/core#definition> "Rondos."@en .
 <https://doi.org/10.6069/uwlswd.8rpj-ek77#pp> <http://www.w3.org/2004/02/skos/core#notation> "pp"@en .
+<https://doi.org/10.6069/uwlswd.8rpj-ek77> <http://purl.org/dc/terms/format> <http://www.w3.org/ns/formats/N-Triples> .
+<https://doi.org/10.6069/uwlswd.8rpj-ek77#sp> <http://www.w3.org/2004/02/skos/core#definition> "Symphonic poems."@en .
 <https://doi.org/10.6069/uwlswd.8rpj-ek77#fg> <http://www.w3.org/2004/02/skos/core#inScheme> <https://doi.org/10.6069/uwlswd.8rpj-ek77> .
-<https://doi.org/10.6069/uwlswd.8rpj-ek77#ri> <http://www.w3.org/2004/02/skos/core#definition> "Ricercars."@en .
-<https://doi.org/10.6069/uwlswd.8rpj-ek77#ps> <http://www.w3.org/2004/02/skos/core#notation> "ps"@en .
+<https://doi.org/10.6069/uwlswd.8rpj-ek77#sd> <http://www.w3.org/2004/02/skos/core#definition> "Square dance music."@en .
+<https://doi.org/10.6069/uwlswd.8rpj-ek77#bl> <http://www.w3.org/2004/02/skos/core#inScheme> <https://doi.org/10.6069/uwlswd.8rpj-ek77> .
+<https://doi.org/10.6069/uwlswd.8rpj-ek77#rc> <http://www.w3.org/2004/02/skos/core#definition> "Rock music."@en .
+<https://doi.org/10.6069/uwlswd.8rpj-ek77#sg> <http://www.w3.org/2004/02/skos/core#prefLabel> "songs"@en .
+<https://doi.org/10.6069/uwlswd.8rpj-ek77#rg> <http://www.w3.org/2004/02/skos/core#prefLabel> "ragtime music"@en .
+<https://doi.org/10.6069/uwlswd.8rpj-ek77#wz> <http://www.w3.org/2004/02/skos/core#inScheme> <https://doi.org/10.6069/uwlswd.8rpj-ek77> .
+<https://doi.org/10.6069/uwlswd.8rpj-ek77#bl> <http://www.w3.org/2004/02/skos/core#definition> "Blues."@en .
+<https://doi.org/10.6069/uwlswd.8rpj-ek77#zz> <http://www.w3.org/2004/02/skos/core#definition> "Form of composition other than anthems; ballads; bluegrass\n            music; blues; ballets; chaconnes; chants, other religions; chant, Christian; concerti\n            grossi; chorales; chorale preludes; canons and rounds; concertos; chansons, polyphonic;\n            carols; chance compositions; cantatas; country music; canzonas; dance forms;\n            divertimentos, serenades, cassations, divertissements, and notturni; fugues; flamenco;\n            folk music; fantasias; gospel music; hymns; jazz; musical revues and comedies;\n            madrigals; minuets; motets; motion picture music; marches; masses; multiple forms;\n            mazurkas; nocturnes; operas; oratorios; overtures; program music; passion music;\n            polonaises; popular music; preludes; passacaglias; part-songs; pavans; rock music;\n            rondos; ragtime music; ricercars; rhapsodies; requiems; square dance music; songs;\n            sonatas; symphonic poems; studies and exercises; suites; symphonies; toccatas; teatro\n            lirico; trio-sonatas; villancicos; variations; waltzes, or zarzuelas."@en .
+<https://doi.org/10.6069/uwlswd.8rpj-ek77#mp> <http://www.w3.org/2004/02/skos/core#inScheme> <https://doi.org/10.6069/uwlswd.8rpj-ek77> .
+<https://doi.org/10.6069/uwlswd.8rpj-ek77#cn> <http://www.w3.org/2004/02/skos/core#definition> "Canons and rounds. Compositions employing strict imitation\n            throughout."@en .
+<https://doi.org/10.6069/uwlswd.8rpj-ek77#mr> <http://www.w3.org/2004/02/skos/core#notation> "mr"@en .
+<https://doi.org/10.6069/uwlswd.8rpj-ek77#mi> <http://www.w3.org/2004/02/skos/core#inScheme> <https://doi.org/10.6069/uwlswd.8rpj-ek77> .
+<https://doi.org/10.6069/uwlswd.8rpj-ek77#rp> <http://www.w3.org/2004/02/skos/core#notation> "rp"@en .
+<https://doi.org/10.6069/uwlswd.8rpj-ek77#vi> <http://www.w3.org/2004/02/skos/core#notation> "vi"@en .
+<https://doi.org/10.6069/uwlswd.8rpj-ek77> <http://purl.org/dc/terms/issued> "2023" .
+<https://doi.org/10.6069/uwlswd.8rpj-ek77#cl> <http://www.w3.org/2004/02/skos/core#definition> "Chorale preludes."@en .
+<https://doi.org/10.6069/uwlswd.8rpj-ek77#cy> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<https://doi.org/10.6069/uwlswd.8rpj-ek77#ov> <http://www.w3.org/2004/02/skos/core#inScheme> <https://doi.org/10.6069/uwlswd.8rpj-ek77> .
 <https://doi.org/10.6069/uwlswd.8rpj-ek77#rq> <http://www.w3.org/2004/02/skos/core#definition> "Requiems."@en .
+<https://doi.org/10.6069/uwlswd.8rpj-ek77#df> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<https://doi.org/10.6069/uwlswd.8rpj-ek77#cg> <http://www.w3.org/2004/02/skos/core#notation> "cg"@en .
+<https://doi.org/10.6069/uwlswd.8rpj-ek77#ov> <http://www.w3.org/2004/02/skos/core#notation> "ov"@en .
+<https://doi.org/10.6069/uwlswd.8rpj-ek77#cr> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<https://doi.org/10.6069/uwlswd.8rpj-ek77#ca> <http://www.w3.org/2004/02/skos/core#inScheme> <https://doi.org/10.6069/uwlswd.8rpj-ek77> .
+<https://doi.org/10.6069/uwlswd.8rpj-ek77#cl> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<https://doi.org/10.6069/uwlswd.8rpj-ek77#mi> <http://www.w3.org/2004/02/skos/core#prefLabel> "minuets"@en .
+<https://doi.org/10.6069/uwlswd.8rpj-ek77> <http://purl.org/dc/terms/source> <http://marc21rdf.info> .
+<https://doi.org/10.6069/uwlswd.8rpj-ek77#bt> <http://www.w3.org/2004/02/skos/core#prefLabel> "ballets"@en .
+<https://doi.org/10.6069/uwlswd.8rpj-ek77#pm> <http://www.w3.org/2004/02/skos/core#inScheme> <https://doi.org/10.6069/uwlswd.8rpj-ek77> .
+<https://doi.org/10.6069/uwlswd.8rpj-ek77#ca> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<https://doi.org/10.6069/uwlswd.8rpj-ek77#hy> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<https://doi.org/10.6069/uwlswd.8rpj-ek77#nn> <http://www.w3.org/2004/02/skos/core#inScheme> <https://doi.org/10.6069/uwlswd.8rpj-ek77> .
+<https://doi.org/10.6069/uwlswd.8rpj-ek77#sn> <http://www.w3.org/2004/02/skos/core#prefLabel> "sonatas"@en .
+<https://doi.org/10.6069/uwlswd.8rpj-ek77#za> <http://www.w3.org/2004/02/skos/core#prefLabel> "zarzuelas"@en .
+<https://doi.org/10.6069/uwlswd.8rpj-ek77#pt> <http://www.w3.org/2004/02/skos/core#notation> "pt"@en .
+<https://doi.org/10.6069/uwlswd.8rpj-ek77#mz> <http://www.w3.org/2004/02/skos/core#inScheme> <https://doi.org/10.6069/uwlswd.8rpj-ek77> .
+<https://doi.org/10.6069/uwlswd.8rpj-ek77#za> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<https://doi.org/10.6069/uwlswd.8rpj-ek77#cy> <http://www.w3.org/2004/02/skos/core#notation> "cy"@en .
+<https://doi.org/10.6069/uwlswd.8rpj-ek77#nn> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<https://doi.org/10.6069/uwlswd.8rpj-ek77#mc> <http://www.w3.org/2004/02/skos/core#notation> "mc"@en .
+<https://doi.org/10.6069/uwlswd.8rpj-ek77#mz> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<https://doi.org/10.6069/uwlswd.8rpj-ek77#tl> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<https://doi.org/10.6069/uwlswd.8rpj-ek77#ri> <http://www.w3.org/2004/02/skos/core#notation> "ri"@en .
+<https://doi.org/10.6069/uwlswd.8rpj-ek77#pp> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<https://doi.org/10.6069/uwlswd.8rpj-ek77#rq> <http://www.w3.org/2004/02/skos/core#prefLabel> "requiems"@en .
+<https://doi.org/10.6069/uwlswd.8rpj-ek77#co> <http://www.w3.org/2004/02/skos/core#prefLabel> "concertos"@en .
+<https://doi.org/10.6069/uwlswd.8rpj-ek77#tl> <http://www.w3.org/2004/02/skos/core#inScheme> <https://doi.org/10.6069/uwlswd.8rpj-ek77> .
+<https://doi.org/10.6069/uwlswd.8rpj-ek77#rp> <http://www.w3.org/2004/02/skos/core#prefLabel> "rhapsodies"@en .
+<https://doi.org/10.6069/uwlswd.8rpj-ek77#fg> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<https://doi.org/10.6069/uwlswd.8rpj-ek77#mz> <http://www.w3.org/2004/02/skos/core#definition> "Mazurkas."@en .
+<https://doi.org/10.6069/uwlswd.8rpj-ek77> <http://purl.org/dc/terms/alternative> "MARC21 008/18-19 values for music expressed using RDF"@en .
+<https://doi.org/10.6069/uwlswd.8rpj-ek77#wz> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<https://doi.org/10.6069/uwlswd.8rpj-ek77#mp> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<https://doi.org/10.6069/uwlswd.8rpj-ek77#pv> <http://www.w3.org/2004/02/skos/core#prefLabel> "pavans"@en .
+<https://doi.org/10.6069/uwlswd.8rpj-ek77#cb> <http://www.w3.org/2004/02/skos/core#inScheme> <https://doi.org/10.6069/uwlswd.8rpj-ek77> .
+<https://doi.org/10.6069/uwlswd.8rpj-ek77#fl> <http://www.w3.org/2004/02/skos/core#notation> "fl"@en .
+<https://doi.org/10.6069/uwlswd.8rpj-ek77#bg> <http://www.w3.org/2004/02/skos/core#definition> "Bluegrass music."@en .
+<https://doi.org/10.6069/uwlswd.8rpj-ek77#an> <http://www.w3.org/2004/02/skos/core#definition> "Anthems."@en .
+<https://doi.org/10.6069/uwlswd.8rpj-ek77#mi> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<https://doi.org/10.6069/uwlswd.8rpj-ek77#tc> <http://www.w3.org/2004/02/skos/core#inScheme> <https://doi.org/10.6069/uwlswd.8rpj-ek77> .
+<https://doi.org/10.6069/uwlswd.8rpj-ek77#ca> <http://www.w3.org/2004/02/skos/core#definition> "Chaconnes."@en .
+<https://doi.org/10.6069/uwlswd.8rpj-ek77#tc> <http://www.w3.org/2004/02/skos/core#prefLabel> "toccatas"@en .
+<https://doi.org/10.6069/uwlswd.8rpj-ek77#pr> <http://www.w3.org/2004/02/skos/core#definition> "Preludes."@en .
+<https://doi.org/10.6069/uwlswd.8rpj-ek77#op> <http://www.w3.org/2004/02/skos/core#inScheme> <https://doi.org/10.6069/uwlswd.8rpj-ek77> .
+<https://doi.org/10.6069/uwlswd.8rpj-ek77#rp> <http://www.w3.org/2004/02/skos/core#definition> "Rhapsodies."@en .
+<https://doi.org/10.6069/uwlswd.8rpj-ek77#ca> <http://www.w3.org/2004/02/skos/core#notation> "ca"@en .
+<https://doi.org/10.6069/uwlswd.8rpj-ek77#cb> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<https://doi.org/10.6069/uwlswd.8rpj-ek77#uu> <http://www.w3.org/2004/02/skos/core#scopeNote> "Used when the only indication given is the number of\n            instruments and the medium of performance. No structure or genre is given, although they\n            may be implied or understood."@en .
+<https://doi.org/10.6069/uwlswd.8rpj-ek77#zz> <http://www.w3.org/2004/02/skos/core#inScheme> <https://doi.org/10.6069/uwlswd.8rpj-ek77> .
+<https://doi.org/10.6069/uwlswd.8rpj-ek77#pm> <http://www.w3.org/2004/02/skos/core#notation> "pm"@en .
+<https://doi.org/10.6069/uwlswd.8rpj-ek77#vr> <http://www.w3.org/2004/02/skos/core#inScheme> <https://doi.org/10.6069/uwlswd.8rpj-ek77> .
+<https://doi.org/10.6069/uwlswd.8rpj-ek77#st> <http://www.w3.org/2004/02/skos/core#definition> "Studies and exercises."@en .
+<https://doi.org/10.6069/uwlswd.8rpj-ek77#gm> <http://www.w3.org/2004/02/skos/core#inScheme> <https://doi.org/10.6069/uwlswd.8rpj-ek77> .
+<https://doi.org/10.6069/uwlswd.8rpj-ek77#pt> <http://www.w3.org/2004/02/skos/core#prefLabel> "part-songs"@en .
+<https://doi.org/10.6069/uwlswd.8rpj-ek77#cl> <http://www.w3.org/2004/02/skos/core#inScheme> <https://doi.org/10.6069/uwlswd.8rpj-ek77> .
+<https://doi.org/10.6069/uwlswd.8rpj-ek77#ch> <http://www.w3.org/2004/02/skos/core#inScheme> <https://doi.org/10.6069/uwlswd.8rpj-ek77> .
+<https://doi.org/10.6069/uwlswd.8rpj-ek77#sg> <http://www.w3.org/2004/02/skos/core#inScheme> <https://doi.org/10.6069/uwlswd.8rpj-ek77> .
+<https://doi.org/10.6069/uwlswd.8rpj-ek77#dv> <http://www.w3.org/2004/02/skos/core#notation> "dv"@en .
+<https://doi.org/10.6069/uwlswd.8rpj-ek77#cl> <http://www.w3.org/2004/02/skos/core#prefLabel> "chorale preludes"@en .
+<https://doi.org/10.6069/uwlswd.8rpj-ek77#uu> <http://www.w3.org/2004/02/skos/core#definition> "Unknown."@en .
+<https://doi.org/10.6069/uwlswd.8rpj-ek77#ct> <http://www.w3.org/2004/02/skos/core#inScheme> <https://doi.org/10.6069/uwlswd.8rpj-ek77> .
+<https://doi.org/10.6069/uwlswd.8rpj-ek77#gm> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<https://doi.org/10.6069/uwlswd.8rpj-ek77#hy> <http://www.w3.org/2004/02/skos/core#inScheme> <https://doi.org/10.6069/uwlswd.8rpj-ek77> .
+<https://doi.org/10.6069/uwlswd.8rpj-ek77#an> <http://www.w3.org/2004/02/skos/core#notation> "an"@en .
+<https://doi.org/10.6069/uwlswd.8rpj-ek77#cn> <http://www.w3.org/2004/02/skos/core#prefLabel> "canons and rounds"@en .
+<https://doi.org/10.6069/uwlswd.8rpj-ek77#mp> <http://www.w3.org/2004/02/skos/core#prefLabel> "motion picture music"@en .
+<https://doi.org/10.6069/uwlswd.8rpj-ek77#sg> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<https://doi.org/10.6069/uwlswd.8rpj-ek77#fl> <http://www.w3.org/2004/02/skos/core#definition> "Flamenco."@en .
+<https://doi.org/10.6069/uwlswd.8rpj-ek77#an> <http://www.w3.org/2004/02/skos/core#inScheme> <https://doi.org/10.6069/uwlswd.8rpj-ek77> .
+<https://doi.org/10.6069/uwlswd.8rpj-ek77#md> <http://www.w3.org/2004/02/skos/core#definition> "Madrigals."@en .
+<https://doi.org/10.6069/uwlswd.8rpj-ek77#op> <http://www.w3.org/2004/02/skos/core#notation> "op"@en .
+<https://doi.org/10.6069/uwlswd.8rpj-ek77#sg> <http://www.w3.org/2004/02/skos/core#notation> "sg"@en .
+<https://doi.org/10.6069/uwlswd.8rpj-ek77#uu> <http://www.w3.org/2004/02/skos/core#inScheme> <https://doi.org/10.6069/uwlswd.8rpj-ek77> .
+<https://doi.org/10.6069/uwlswd.8rpj-ek77#rp> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<https://doi.org/10.6069/uwlswd.8rpj-ek77#rd> <http://www.w3.org/2004/02/skos/core#notation> "rd"@en .
+<https://doi.org/10.6069/uwlswd.8rpj-ek77#mr> <http://www.w3.org/2004/02/skos/core#definition> "Marches."@en .
+<https://doi.org/10.6069/uwlswd.8rpj-ek77> <http://purl.org/dc/terms/contributor> <http://viaf.org/viaf/151962300> .
+<https://doi.org/10.6069/uwlswd.8rpj-ek77#mo> <http://www.w3.org/2004/02/skos/core#definition> "Motets."@en .
+<https://doi.org/10.6069/uwlswd.8rpj-ek77#cy> <http://www.w3.org/2004/02/skos/core#definition> "Country music."@en .
+<https://doi.org/10.6069/uwlswd.8rpj-ek77#uu> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<https://doi.org/10.6069/uwlswd.8rpj-ek77#md> <http://www.w3.org/2004/02/skos/core#notation> "md"@en .
+<https://doi.org/10.6069/uwlswd.8rpj-ek77#rp> <http://www.w3.org/2004/02/skos/core#inScheme> <https://doi.org/10.6069/uwlswd.8rpj-ek77> .
+<https://doi.org/10.6069/uwlswd.8rpj-ek77#sp> <http://www.w3.org/2004/02/skos/core#inScheme> <https://doi.org/10.6069/uwlswd.8rpj-ek77> .
+<https://doi.org/10.6069/uwlswd.8rpj-ek77#cz> <http://www.w3.org/2004/02/skos/core#prefLabel> "canzonas"@en .
+<https://doi.org/10.6069/uwlswd.8rpj-ek77#sp> <http://www.w3.org/2004/02/skos/core#prefLabel> "symphonic poems"@en .
+<https://doi.org/10.6069/uwlswd.8rpj-ek77#sg> <http://www.w3.org/2004/02/skos/core#definition> "Songs."@en .
+<https://doi.org/10.6069/uwlswd.8rpj-ek77#bg> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<https://doi.org/10.6069/uwlswd.8rpj-ek77#ft> <http://www.w3.org/2004/02/skos/core#scopeNote> "Includes instrumental music designated as fantasia, fancies,\n            fantasies, etc."@en .
+<https://doi.org/10.6069/uwlswd.8rpj-ek77#su> <http://www.w3.org/2004/02/skos/core#notation> "su"@en .
+<https://doi.org/10.6069/uwlswd.8rpj-ek77#gm> <http://www.w3.org/2004/02/skos/core#prefLabel> "gospel music"@en .
+<https://doi.org/10.6069/uwlswd.8rpj-ek77#bg> <http://www.w3.org/2004/02/skos/core#prefLabel> "bluegrass music"@en .
+<https://doi.org/10.6069/uwlswd.8rpj-ek77#bt> <http://www.w3.org/2004/02/skos/core#definition> "Ballets."@en .
+<https://doi.org/10.6069/uwlswd.8rpj-ek77> <https://schema.org/version> "1-0-1" .
+<https://doi.org/10.6069/uwlswd.8rpj-ek77#mi> <http://www.w3.org/2004/02/skos/core#definition> "Minuets."@en .
+<https://doi.org/10.6069/uwlswd.8rpj-ek77#op> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<https://doi.org/10.6069/uwlswd.8rpj-ek77#zz> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<https://doi.org/10.6069/uwlswd.8rpj-ek77#fm> <http://www.w3.org/2004/02/skos/core#inScheme> <https://doi.org/10.6069/uwlswd.8rpj-ek77> .
+<https://doi.org/10.6069/uwlswd.8rpj-ek77#nn> <http://www.w3.org/2004/02/skos/core#prefLabel> "not applicable"@en .
+<https://doi.org/10.6069/uwlswd.8rpj-ek77#cr> <http://www.w3.org/2004/02/skos/core#prefLabel> "carols"@en .
+<https://doi.org/10.6069/uwlswd.8rpj-ek77#cg> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<https://doi.org/10.6069/uwlswd.8rpj-ek77#bl> <http://www.w3.org/2004/02/skos/core#notation> "bl"@en .
+<https://doi.org/10.6069/uwlswd.8rpj-ek77#cs> <http://www.w3.org/2004/02/skos/core#inScheme> <https://doi.org/10.6069/uwlswd.8rpj-ek77> .
+<https://doi.org/10.6069/uwlswd.8rpj-ek77#ch> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<https://doi.org/10.6069/uwlswd.8rpj-ek77#fm> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<https://doi.org/10.6069/uwlswd.8rpj-ek77#cg> <http://www.w3.org/2004/02/skos/core#inScheme> <https://doi.org/10.6069/uwlswd.8rpj-ek77> .
+<https://doi.org/10.6069/uwlswd.8rpj-ek77#po> <http://www.w3.org/2004/02/skos/core#notation> "po"@en .
+<https://doi.org/10.6069/uwlswd.8rpj-ek77#cc> <http://www.w3.org/2004/02/skos/core#prefLabel> "chant, Christian"@en .
+<https://doi.org/10.6069/uwlswd.8rpj-ek77#cp> <http://www.w3.org/2004/02/skos/core#notation> "cp"@en .
+<https://doi.org/10.6069/uwlswd.8rpj-ek77#sd> <http://www.w3.org/2004/02/skos/core#inScheme> <https://doi.org/10.6069/uwlswd.8rpj-ek77> .
+<https://doi.org/10.6069/uwlswd.8rpj-ek77#ct> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<https://doi.org/10.6069/uwlswd.8rpj-ek77#cs> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<https://doi.org/10.6069/uwlswd.8rpj-ek77> <http://purl.org/dc/terms/type> <http://purl.org/dc/dcmitype/Dataset> .
+<https://doi.org/10.6069/uwlswd.8rpj-ek77#sd> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<https://doi.org/10.6069/uwlswd.8rpj-ek77#st> <http://www.w3.org/2004/02/skos/core#prefLabel> "studies and exercises"@en .
+<https://doi.org/10.6069/uwlswd.8rpj-ek77#pt> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<https://doi.org/10.6069/uwlswd.8rpj-ek77#sp> <http://www.w3.org/2004/02/skos/core#notation> "sp"@en .
+<https://doi.org/10.6069/uwlswd.8rpj-ek77#sn> <http://www.w3.org/2004/02/skos/core#inScheme> <https://doi.org/10.6069/uwlswd.8rpj-ek77> .
+<https://doi.org/10.6069/uwlswd.8rpj-ek77#tl> <http://www.w3.org/2004/02/skos/core#prefLabel> "teatro lirico"@en .
+<https://doi.org/10.6069/uwlswd.8rpj-ek77#df> <http://www.w3.org/2004/02/skos/core#definition> "Dance forms."@en .
+<https://doi.org/10.6069/uwlswd.8rpj-ek77#sp> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<https://doi.org/10.6069/uwlswd.8rpj-ek77#rc> <http://www.w3.org/2004/02/skos/core#prefLabel> "rock music"@en .
+<https://doi.org/10.6069/uwlswd.8rpj-ek77#sn> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<https://doi.org/10.6069/uwlswd.8rpj-ek77#mz> <http://www.w3.org/2004/02/skos/core#notation> "mz"@en .
+<https://doi.org/10.6069/uwlswd.8rpj-ek77#fm> <http://www.w3.org/2004/02/skos/core#prefLabel> "folk music"@en .
+<https://doi.org/10.6069/uwlswd.8rpj-ek77#bg> <http://www.w3.org/2004/02/skos/core#inScheme> <https://doi.org/10.6069/uwlswd.8rpj-ek77> .
+<https://doi.org/10.6069/uwlswd.8rpj-ek77#or> <http://www.w3.org/2004/02/skos/core#prefLabel> "oratorios"@en .
+<https://doi.org/10.6069/uwlswd.8rpj-ek77#fg> <http://www.w3.org/2004/02/skos/core#definition> "Fugues."@en .
+<https://doi.org/10.6069/uwlswd.8rpj-ek77#cz> <http://www.w3.org/2004/02/skos/core#definition> "Canzonas."@en .
+<https://doi.org/10.6069/uwlswd.8rpj-ek77#st> <http://www.w3.org/2004/02/skos/core#scopeNote> "Used only when the work is intended for teaching purposes\n            (usually entitled Studies, Etudes, etc.)."@en .
+<https://doi.org/10.6069/uwlswd.8rpj-ek77#jz> <http://www.w3.org/2004/02/skos/core#definition> "Jazz."@en .
+<https://doi.org/10.6069/uwlswd.8rpj-ek77#tc> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<https://doi.org/10.6069/uwlswd.8rpj-ek77#ts> <http://www.w3.org/2004/02/skos/core#definition> "Trio-sonatas."@en .
+<https://doi.org/10.6069/uwlswd.8rpj-ek77#gm> <http://www.w3.org/2004/02/skos/core#notation> "gm"@en .
+<https://doi.org/10.6069/uwlswd.8rpj-ek77#pm> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<https://doi.org/10.6069/uwlswd.8rpj-ek77#bd> <http://www.w3.org/2004/02/skos/core#prefLabel> "ballads"@en .
+<https://doi.org/10.6069/uwlswd.8rpj-ek77#fg> <http://www.w3.org/2004/02/skos/core#notation> "fg"@en .
+<https://doi.org/10.6069/uwlswd.8rpj-ek77#jz> <http://www.w3.org/2004/02/skos/core#notation> "jz"@en .
+<https://doi.org/10.6069/uwlswd.8rpj-ek77#vr> <http://www.w3.org/2004/02/skos/core#notation> "vr"@en .
+<https://doi.org/10.6069/uwlswd.8rpj-ek77> <http://www.w3.org/2004/02/skos/core#scopeNote> "Is based on the terminology in the work itself. Also includes musical genres (e.g., Ragtime music)."@en .
+<https://doi.org/10.6069/uwlswd.8rpj-ek77#mo> <http://www.w3.org/2004/02/skos/core#prefLabel> "motets"@en .
+<https://doi.org/10.6069/uwlswd.8rpj-ek77#cb> <http://www.w3.org/2004/02/skos/core#definition> "Chants, Other religions."@en .
+<https://doi.org/10.6069/uwlswd.8rpj-ek77#cn> <http://www.w3.org/2004/02/skos/core#notation> "cn"@en .
+<https://doi.org/10.6069/uwlswd.8rpj-ek77#pm> <http://www.w3.org/2004/02/skos/core#prefLabel> "passion music"@en .
+<https://doi.org/10.6069/uwlswd.8rpj-ek77#po> <http://www.w3.org/2004/02/skos/core#inScheme> <https://doi.org/10.6069/uwlswd.8rpj-ek77> .
+<https://doi.org/10.6069/uwlswd.8rpj-ek77#nc> <http://www.w3.org/2004/02/skos/core#prefLabel> "nocturnes"@en .
+<https://doi.org/10.6069/uwlswd.8rpj-ek77#op> <http://www.w3.org/2004/02/skos/core#prefLabel> "operas"@en .
+<https://doi.org/10.6069/uwlswd.8rpj-ek77#fm> <http://www.w3.org/2004/02/skos/core#notation> "fm"@en .
+<https://doi.org/10.6069/uwlswd.8rpj-ek77#cc> <http://www.w3.org/2004/02/skos/core#notation> "cc"@en .
+<https://doi.org/10.6069/uwlswd.8rpj-ek77#ch> <http://www.w3.org/2004/02/skos/core#notation> "ch"@en .
+<https://doi.org/10.6069/uwlswd.8rpj-ek77#cc> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<https://doi.org/10.6069/uwlswd.8rpj-ek77#dv> <http://www.w3.org/2004/02/skos/core#scopeNote> "Used for instrumental music designated as a divertimento,\n            serenade, cassation, divertissement, or a notturno."@en .
+<https://doi.org/10.6069/uwlswd.8rpj-ek77#bt> <http://www.w3.org/2004/02/skos/core#notation> "bt"@en .
+<https://doi.org/10.6069/uwlswd.8rpj-ek77#po> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<https://doi.org/10.6069/uwlswd.8rpj-ek77#mo> <http://www.w3.org/2004/02/skos/core#inScheme> <https://doi.org/10.6069/uwlswd.8rpj-ek77> .
+<https://doi.org/10.6069/uwlswd.8rpj-ek77#rd> <http://www.w3.org/2004/02/skos/core#inScheme> <https://doi.org/10.6069/uwlswd.8rpj-ek77> .
+<https://doi.org/10.6069/uwlswd.8rpj-ek77#tl> <http://www.w3.org/2004/02/skos/core#scopeNote> "Used for a large number of more specific terms which describe\n            Spanish and Spanish American theatre music: \"tonadilla esc√©nica\", \"fiestas de m√∫sica\",\n            \"sainetes l√≠ricos\", \"entremeses c√≥mico-l√≠rico,\" etc."@en .
+<https://doi.org/10.6069/uwlswd.8rpj-ek77#ft> <http://www.w3.org/2004/02/skos/core#notation> "ft"@en .
+<https://doi.org/10.6069/uwlswd.8rpj-ek77> <http://purl.org/dc/elements/1.1/contributor> "Metadata Management Associates"@en .
+<https://doi.org/10.6069/uwlswd.8rpj-ek77#ms> <http://www.w3.org/2004/02/skos/core#definition> "Masses."@en .
+<https://doi.org/10.6069/uwlswd.8rpj-ek77#za> <http://www.w3.org/2004/02/skos/core#definition> "Term applicable to all musical plays taking that name, from\n            the ‚Äúfiestas de zarzuela‚Äù of the 17th/18th-centuries to the so-called ‚Äúzarzuela moderna‚Äù\n            (‚Äúmodern zarzuela‚Äù) from the mid 19th to the mid 20th-century."@en .
+<https://doi.org/10.6069/uwlswd.8rpj-ek77#sn> <http://www.w3.org/2004/02/skos/core#definition> "Sonatas."@en .
+<https://doi.org/10.6069/uwlswd.8rpj-ek77#vi> <http://www.w3.org/2004/02/skos/core#inScheme> <https://doi.org/10.6069/uwlswd.8rpj-ek77> .
+<https://doi.org/10.6069/uwlswd.8rpj-ek77#or> <http://www.w3.org/2004/02/skos/core#notation> "or"@en .
+<https://doi.org/10.6069/uwlswd.8rpj-ek77#cp> <http://www.w3.org/2004/02/skos/core#prefLabel> "chansons, polyphonic"@en .
+<https://doi.org/10.6069/uwlswd.8rpj-ek77#cs> <http://www.w3.org/2004/02/skos/core#prefLabel> "chance compositions"@en .
+<https://doi.org/10.6069/uwlswd.8rpj-ek77#rd> <http://www.w3.org/2004/02/skos/core#prefLabel> "rondos"@en .
+<https://doi.org/10.6069/uwlswd.8rpj-ek77#rg> <http://www.w3.org/2004/02/skos/core#definition> "Ragtime music."@en .
+<https://doi.org/10.6069/uwlswd.8rpj-ek77#cp> <http://www.w3.org/2004/02/skos/core#inScheme> <https://doi.org/10.6069/uwlswd.8rpj-ek77> .
+<https://doi.org/10.6069/uwlswd.8rpj-ek77#rd> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<https://doi.org/10.6069/uwlswd.8rpj-ek77#cb> <http://www.w3.org/2004/02/skos/core#notation> "cb"@en .
+<https://doi.org/10.6069/uwlswd.8rpj-ek77#cr> <http://www.w3.org/2004/02/skos/core#notation> "cr"@en .
+<https://doi.org/10.6069/uwlswd.8rpj-ek77#vi> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<https://doi.org/10.6069/uwlswd.8rpj-ek77#nn> <http://www.w3.org/2004/02/skos/core#notation> "nn"@en .
+<https://doi.org/10.6069/uwlswd.8rpj-ek77#rc> <http://www.w3.org/2004/02/skos/core#inScheme> <https://doi.org/10.6069/uwlswd.8rpj-ek77> .
+<https://doi.org/10.6069/uwlswd.8rpj-ek77#ts> <http://www.w3.org/2004/02/skos/core#prefLabel> "trio-sonatas"@en .
+<https://doi.org/10.6069/uwlswd.8rpj-ek77#cp> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<https://doi.org/10.6069/uwlswd.8rpj-ek77#mu> <http://www.w3.org/2004/02/skos/core#definition> "Multiple forms."@en .
+<https://doi.org/10.6069/uwlswd.8rpj-ek77#sy> <http://www.w3.org/2004/02/skos/core#notation> "sy"@en .
+<https://doi.org/10.6069/uwlswd.8rpj-ek77> <http://purl.org/dc/terms/hasFormat> <https://uwlib-cams.github.io/uwlswd_vocabs_marc_006_008/008/music_form_of_composition/music_form_of_composition.jsonld> .
+<https://doi.org/10.6069/uwlswd.8rpj-ek77#md> <http://www.w3.org/2004/02/skos/core#prefLabel> "madrigals"@en .
+<https://doi.org/10.6069/uwlswd.8rpj-ek77#df> <http://www.w3.org/2004/02/skos/core#scopeNote> "Includes music for individual dances except for mazurkas,\n            minuets, pavans, polonaises, and waltzes."@en .
+<https://doi.org/10.6069/uwlswd.8rpj-ek77#ft> <http://www.w3.org/2004/02/skos/core#definition> "Fantasias."@en .
+<https://doi.org/10.6069/uwlswd.8rpj-ek77#pv> <http://www.w3.org/2004/02/skos/core#notation> "pv"@en .
+<https://doi.org/10.6069/uwlswd.8rpj-ek77#vr> <http://www.w3.org/2004/02/skos/core#definition> "Variations."@en .
+<https://doi.org/10.6069/uwlswd.8rpj-ek77#ov> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<https://doi.org/10.6069/uwlswd.8rpj-ek77#cp> <http://www.w3.org/2004/02/skos/core#definition> "Chansons, polyphonic."@en .
+<https://doi.org/10.6069/uwlswd.8rpj-ek77#rq> <http://www.w3.org/2004/02/skos/core#inScheme> <https://doi.org/10.6069/uwlswd.8rpj-ek77> .
+<https://doi.org/10.6069/uwlswd.8rpj-ek77#ct> <http://www.w3.org/2004/02/skos/core#definition> "Cantatas."@en .
+<https://doi.org/10.6069/uwlswd.8rpj-ek77> <http://purl.org/dc/terms/publisher> <http://viaf.org/viaf/139541794> .
+<https://doi.org/10.6069/uwlswd.8rpj-ek77#cz> <http://www.w3.org/2004/02/skos/core#notation> "cz"@en .
+<https://doi.org/10.6069/uwlswd.8rpj-ek77#fg> <http://www.w3.org/2004/02/skos/core#prefLabel> "fugues"@en .
+<https://doi.org/10.6069/uwlswd.8rpj-ek77#cz> <http://www.w3.org/2004/02/skos/core#inScheme> <https://doi.org/10.6069/uwlswd.8rpj-ek77> .
+<https://doi.org/10.6069/uwlswd.8rpj-ek77#nc> <http://www.w3.org/2004/02/skos/core#notation> "nc"@en .
+<https://doi.org/10.6069/uwlswd.8rpj-ek77#md> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<https://doi.org/10.6069/uwlswd.8rpj-ek77#su> <http://www.w3.org/2004/02/skos/core#definition> "Suites."@en .
+<https://doi.org/10.6069/uwlswd.8rpj-ek77#ms> <http://www.w3.org/2004/02/skos/core#notation> "ms"@en .
+<https://doi.org/10.6069/uwlswd.8rpj-ek77#cc> <http://www.w3.org/2004/02/skos/core#definition> "Chant, Christian."@en .
+<https://doi.org/10.6069/uwlswd.8rpj-ek77#vr> <http://www.w3.org/2004/02/skos/core#prefLabel> "variations"@en .
+<https://doi.org/10.6069/uwlswd.8rpj-ek77#uu> <http://www.w3.org/2004/02/skos/core#notation> "uu"@en .
+<https://doi.org/10.6069/uwlswd.8rpj-ek77#ts> <http://www.w3.org/2004/02/skos/core#inScheme> <https://doi.org/10.6069/uwlswd.8rpj-ek77> .
+<https://doi.org/10.6069/uwlswd.8rpj-ek77#mc> <http://www.w3.org/2004/02/skos/core#prefLabel> "musical revues and comedies"@en .
+<https://doi.org/10.6069/uwlswd.8rpj-ek77#cn> <http://www.w3.org/2004/02/skos/core#inScheme> <https://doi.org/10.6069/uwlswd.8rpj-ek77> .
+<https://doi.org/10.6069/uwlswd.8rpj-ek77#cr> <http://www.w3.org/2004/02/skos/core#definition> "Carols."@en .
+<https://doi.org/10.6069/uwlswd.8rpj-ek77#pr> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<https://doi.org/10.6069/uwlswd.8rpj-ek77#fl> <http://www.w3.org/2004/02/skos/core#scopeNote> "All the Flamenco styles, or \"palos\", and other forms of song and dance coming from the folkloric tradition of Spanish gypsies."@en .
+<https://doi.org/10.6069/uwlswd.8rpj-ek77#hy> <http://www.w3.org/2004/02/skos/core#prefLabel> "hymns"@en .
+<https://doi.org/10.6069/uwlswd.8rpj-ek77#ch> <http://www.w3.org/2004/02/skos/core#prefLabel> "chorales"@en .
+<https://doi.org/10.6069/uwlswd.8rpj-ek77> <http://purl.org/dc/terms/license> <http://creativecommons.org/publicdomain/zero/1.0> .
 <https://doi.org/10.6069/uwlswd.8rpj-ek77#sd> <http://www.w3.org/2004/02/skos/core#prefLabel> "square dance music"@en .
 <https://doi.org/10.6069/uwlswd.8rpj-ek77#ps> <http://www.w3.org/2004/02/skos/core#inScheme> <https://doi.org/10.6069/uwlswd.8rpj-ek77> .
-<https://doi.org/10.6069/uwlswd.8rpj-ek77#vi> <http://www.w3.org/2004/02/skos/core#definition> "Characteristic form of Spanish polyphony, religious or secular, from the 16th to 18th centuries. Religious villancicos were usually sung in important ceremonies (including Christmas, when these songs were sometimes called \"pastoradas\")."@en .
-<https://doi.org/10.6069/uwlswd.8rpj-ek77#sy> <http://www.w3.org/2004/02/skos/core#inScheme> <https://doi.org/10.6069/uwlswd.8rpj-ek77> .
-<https://doi.org/10.6069/uwlswd.8rpj-ek77#ca> <http://www.w3.org/2004/02/skos/core#notation> "ca"@en .
-<https://doi.org/10.6069/uwlswd.8rpj-ek77#mo> <http://www.w3.org/2004/02/skos/core#definition> "Motets."@en .
-<https://doi.org/10.6069/uwlswd.8rpj-ek77> <http://purl.org/dc/terms/contributor> <http://viaf.org/viaf/151962300> .
-<https://doi.org/10.6069/uwlswd.8rpj-ek77#an> <http://www.w3.org/2004/02/skos/core#notation> "an"@en .
-<https://doi.org/10.6069/uwlswd.8rpj-ek77#po> <http://www.w3.org/2004/02/skos/core#notation> "po"@en .
-<https://doi.org/10.6069/uwlswd.8rpj-ek77#cb> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
-<https://doi.org/10.6069/uwlswd.8rpj-ek77#rq> <http://www.w3.org/2004/02/skos/core#inScheme> <https://doi.org/10.6069/uwlswd.8rpj-ek77> .
-<https://doi.org/10.6069/uwlswd.8rpj-ek77#tc> <http://www.w3.org/2004/02/skos/core#definition> "Toccatas."@en .
-<https://doi.org/10.6069/uwlswd.8rpj-ek77#wz> <http://www.w3.org/2004/02/skos/core#inScheme> <https://doi.org/10.6069/uwlswd.8rpj-ek77> .
-<https://doi.org/10.6069/uwlswd.8rpj-ek77#ct> <http://www.w3.org/2004/02/skos/core#inScheme> <https://doi.org/10.6069/uwlswd.8rpj-ek77> .
-<https://doi.org/10.6069/uwlswd.8rpj-ek77#ct> <http://www.w3.org/2004/02/skos/core#prefLabel> "cantatas"@en .
-<https://doi.org/10.6069/uwlswd.8rpj-ek77#sp> <http://www.w3.org/2004/02/skos/core#notation> "sp"@en .
-<https://doi.org/10.6069/uwlswd.8rpj-ek77#uu> <http://www.w3.org/2004/02/skos/core#prefLabel> "unknown"@en .
-<https://doi.org/10.6069/uwlswd.8rpj-ek77#za> <http://www.w3.org/2004/02/skos/core#prefLabel> "zarzuelas"@en .
-<https://doi.org/10.6069/uwlswd.8rpj-ek77#za> <http://www.w3.org/2004/02/skos/core#definition> "Term applicable to all musical plays taking that name, from the ìfiestas de zarzuelaî of the 17th/18th-centuries to the so-called ìzarzuela modernaî (ìmodern zarzuelaî) from the mid 19th to the mid 20th-century."@en .
-<https://doi.org/10.6069/uwlswd.8rpj-ek77#bd> <http://www.w3.org/2004/02/skos/core#inScheme> <https://doi.org/10.6069/uwlswd.8rpj-ek77> .
-<https://doi.org/10.6069/uwlswd.8rpj-ek77#mu> <http://www.w3.org/2004/02/skos/core#prefLabel> "multiple forms"@en .
-<https://doi.org/10.6069/uwlswd.8rpj-ek77#op> <http://www.w3.org/2004/02/skos/core#inScheme> <https://doi.org/10.6069/uwlswd.8rpj-ek77> .
-<https://doi.org/10.6069/uwlswd.8rpj-ek77#pm> <http://www.w3.org/2004/02/skos/core#definition> "Passion music."@en .
-<https://doi.org/10.6069/uwlswd.8rpj-ek77#hy> <http://www.w3.org/2004/02/skos/core#inScheme> <https://doi.org/10.6069/uwlswd.8rpj-ek77> .
-<https://doi.org/10.6069/uwlswd.8rpj-ek77> <http://purl.org/dc/elements/1.1/contributor> "Metadata Management Associates" .
-<https://doi.org/10.6069/uwlswd.8rpj-ek77#pt> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
-<https://doi.org/10.6069/uwlswd.8rpj-ek77#sy> <http://www.w3.org/2004/02/skos/core#notation> "sy"@en .
-<https://doi.org/10.6069/uwlswd.8rpj-ek77#op> <http://www.w3.org/2004/02/skos/core#notation> "op"@en .
-<https://doi.org/10.6069/uwlswd.8rpj-ek77#sp> <http://www.w3.org/2004/02/skos/core#inScheme> <https://doi.org/10.6069/uwlswd.8rpj-ek77> .
-<https://doi.org/10.6069/uwlswd.8rpj-ek77#mz> <http://www.w3.org/2004/02/skos/core#definition> "Mazurkas."@en .
-<https://doi.org/10.6069/uwlswd.8rpj-ek77#bg> <http://www.w3.org/2004/02/skos/core#inScheme> <https://doi.org/10.6069/uwlswd.8rpj-ek77> .
-<https://doi.org/10.6069/uwlswd.8rpj-ek77#pv> <http://www.w3.org/2004/02/skos/core#definition> "Pavans."@en .
-<https://doi.org/10.6069/uwlswd.8rpj-ek77#st> <http://www.w3.org/2004/02/skos/core#scopeNote> "Used only when the work is intended for teaching purposes (usually entitled Studies, Etudes, etc.)."@en .
-<https://doi.org/10.6069/uwlswd.8rpj-ek77#ca> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
-<https://doi.org/10.6069/uwlswd.8rpj-ek77#cs> <http://www.w3.org/2004/02/skos/core#definition> "Chance compositions."@en .
-<https://doi.org/10.6069/uwlswd.8rpj-ek77#rg> <http://www.w3.org/2004/02/skos/core#definition> "Ragtime music."@en .
-<https://doi.org/10.6069/uwlswd.8rpj-ek77#bl> <http://www.w3.org/2004/02/skos/core#inScheme> <https://doi.org/10.6069/uwlswd.8rpj-ek77> .
-<https://doi.org/10.6069/uwlswd.8rpj-ek77#vr> <http://www.w3.org/2004/02/skos/core#inScheme> <https://doi.org/10.6069/uwlswd.8rpj-ek77> .
-<https://doi.org/10.6069/uwlswd.8rpj-ek77#jz> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
-<https://doi.org/10.6069/uwlswd.8rpj-ek77#nc> <http://www.w3.org/2004/02/skos/core#notation> "nc"@en .
-<https://doi.org/10.6069/uwlswd.8rpj-ek77#sn> <http://www.w3.org/2004/02/skos/core#notation> "sn"@en .
-<https://doi.org/10.6069/uwlswd.8rpj-ek77#sd> <http://www.w3.org/2004/02/skos/core#definition> "Square dance music."@en .
-<https://doi.org/10.6069/uwlswd.8rpj-ek77#tl> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
-<https://doi.org/10.6069/uwlswd.8rpj-ek77#tl> <http://www.w3.org/2004/02/skos/core#prefLabel> "teatro lirico"@en .
-<https://doi.org/10.6069/uwlswd.8rpj-ek77#rd> <http://www.w3.org/2004/02/skos/core#notation> "rd"@en .
-<https://doi.org/10.6069/uwlswd.8rpj-ek77#cz> <http://www.w3.org/2004/02/skos/core#notation> "cz"@en .
-<https://doi.org/10.6069/uwlswd.8rpj-ek77#rp> <http://www.w3.org/2004/02/skos/core#notation> "rp"@en .
-<https://doi.org/10.6069/uwlswd.8rpj-ek77#rc> <http://www.w3.org/2004/02/skos/core#inScheme> <https://doi.org/10.6069/uwlswd.8rpj-ek77> .
-<https://doi.org/10.6069/uwlswd.8rpj-ek77#mr> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<https://doi.org/10.6069/uwlswd.8rpj-ek77#za> <http://www.w3.org/2004/02/skos/core#inScheme> <https://doi.org/10.6069/uwlswd.8rpj-ek77> .
+<https://doi.org/10.6069/uwlswd.8rpj-ek77#ms> <http://www.w3.org/2004/02/skos/core#prefLabel> "masses"@en .
+<https://doi.org/10.6069/uwlswd.8rpj-ek77#cg> <http://www.w3.org/2004/02/skos/core#prefLabel> "concerti grossi"@en .
+<https://doi.org/10.6069/uwlswd.8rpj-ek77#ts> <http://www.w3.org/2004/02/skos/core#notation> "ts"@en .
 <https://doi.org/10.6069/uwlswd.8rpj-ek77#dv> <http://www.w3.org/2004/02/skos/core#inScheme> <https://doi.org/10.6069/uwlswd.8rpj-ek77> .
-<https://doi.org/10.6069/uwlswd.8rpj-ek77#ch> <http://www.w3.org/2004/02/skos/core#inScheme> <https://doi.org/10.6069/uwlswd.8rpj-ek77> .
-<https://doi.org/10.6069/uwlswd.8rpj-ek77#nn> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
-<https://doi.org/10.6069/uwlswd.8rpj-ek77#vr> <http://www.w3.org/2004/02/skos/core#prefLabel> "variations"@en .
-<https://doi.org/10.6069/uwlswd.8rpj-ek77#cg> <http://www.w3.org/2004/02/skos/core#inScheme> <https://doi.org/10.6069/uwlswd.8rpj-ek77> .
-<https://doi.org/10.6069/uwlswd.8rpj-ek77#rd> <http://www.w3.org/2004/02/skos/core#inScheme> <https://doi.org/10.6069/uwlswd.8rpj-ek77> .
-<https://doi.org/10.6069/uwlswd.8rpj-ek77#st> <http://www.w3.org/2004/02/skos/core#prefLabel> "studies and exercises"@en .
-<https://doi.org/10.6069/uwlswd.8rpj-ek77#cl> <http://www.w3.org/2004/02/skos/core#prefLabel> "chorale preludes"@en .
-<https://doi.org/10.6069/uwlswd.8rpj-ek77#st> <http://www.w3.org/2004/02/skos/core#notation> "st"@en .
-<https://doi.org/10.6069/uwlswd.8rpj-ek77#cy> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
-<https://doi.org/10.6069/uwlswd.8rpj-ek77#bl> <http://www.w3.org/2004/02/skos/core#definition> "Blues."@en .
-<https://doi.org/10.6069/uwlswd.8rpj-ek77#cz> <http://www.w3.org/2004/02/skos/core#inScheme> <https://doi.org/10.6069/uwlswd.8rpj-ek77> .
-<https://doi.org/10.6069/uwlswd.8rpj-ek77#mr> <http://www.w3.org/2004/02/skos/core#prefLabel> "marches"@en .
-<https://doi.org/10.6069/uwlswd.8rpj-ek77#ov> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
-<https://doi.org/10.6069/uwlswd.8rpj-ek77#sn> <http://www.w3.org/2004/02/skos/core#definition> "Sonatas."@en .
-<https://doi.org/10.6069/uwlswd.8rpj-ek77#mp> <http://www.w3.org/2004/02/skos/core#inScheme> <https://doi.org/10.6069/uwlswd.8rpj-ek77> .
-<https://doi.org/10.6069/uwlswd.8rpj-ek77#rd> <http://www.w3.org/2004/02/skos/core#definition> "Rondos."@en .
-<https://doi.org/10.6069/uwlswd.8rpj-ek77#sn> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
-<https://doi.org/10.6069/uwlswd.8rpj-ek77#pt> <http://www.w3.org/2004/02/skos/core#definition> "Part-songs."@en .
-<https://doi.org/10.6069/uwlswd.8rpj-ek77#sy> <http://www.w3.org/2004/02/skos/core#prefLabel> "symphonies"@en .
-<https://doi.org/10.6069/uwlswd.8rpj-ek77#cn> <http://www.w3.org/2004/02/skos/core#notation> "cn"@en .
-<https://doi.org/10.6069/uwlswd.8rpj-ek77#bt> <http://www.w3.org/2004/02/skos/core#prefLabel> "ballets"@en .
+<https://doi.org/10.6069/uwlswd.8rpj-ek77#nn> <http://www.w3.org/2004/02/skos/core#scopeNote> "Used for any item that is a non-music sound recording."@en .
+<https://doi.org/10.6069/uwlswd.8rpj-ek77#cs> <http://www.w3.org/2004/02/skos/core#notation> "cs"@en .
+<https://doi.org/10.6069/uwlswd.8rpj-ek77#nn> <http://www.w3.org/2004/02/skos/core#definition> "Not applicable"@en .
+<https://doi.org/10.6069/uwlswd.8rpj-ek77#ps> <http://www.w3.org/2004/02/skos/core#definition> "Passacaglias."@en .
+<https://doi.org/10.6069/uwlswd.8rpj-ek77#mu> <http://www.w3.org/2004/02/skos/core#notation> "mu"@en .
+<https://doi.org/10.6069/uwlswd.8rpj-ek77> <http://purl.org/dc/elements/1.1/language> "en" .
+<https://doi.org/10.6069/uwlswd.8rpj-ek77#ft> <http://www.w3.org/2004/02/skos/core#prefLabel> "fantasias"@en .
+<https://doi.org/10.6069/uwlswd.8rpj-ek77#ov> <http://www.w3.org/2004/02/skos/core#definition> "Overtures."@en .
+<https://doi.org/10.6069/uwlswd.8rpj-ek77#mu> <http://www.w3.org/2004/02/skos/core#inScheme> <https://doi.org/10.6069/uwlswd.8rpj-ek77> .
+<https://doi.org/10.6069/uwlswd.8rpj-ek77#mp> <http://www.w3.org/2004/02/skos/core#definition> "Motion picture music."@en .
+<https://doi.org/10.6069/uwlswd.8rpj-ek77#sd> <http://www.w3.org/2004/02/skos/core#notation> "sd"@en .
+<https://doi.org/10.6069/uwlswd.8rpj-ek77#tc> <http://www.w3.org/2004/02/skos/core#notation> "tc"@en .
+<https://doi.org/10.6069/uwlswd.8rpj-ek77> <http://purl.org/dc/terms/hasFormat> <https://uwlib-cams.github.io/uwlswd_vocabs_marc_006_008/008/music_form_of_composition/music_form_of_composition.ttl> .
 <https://doi.org/10.6069/uwlswd.8rpj-ek77> <http://purl.org/dc/terms/creator> <http://viaf.org/viaf/139541794> .
-<https://doi.org/10.6069/uwlswd.8rpj-ek77#uu> <http://www.w3.org/2004/02/skos/core#scopeNote> "Used when the only indication given is the number of instruments and the medium of performance. No structure or genre is given, although they may be implied or understood."@en .
-<https://doi.org/10.6069/uwlswd.8rpj-ek77#za> <http://www.w3.org/2004/02/skos/core#definition> "Zarzuelas."@en .
+<https://doi.org/10.6069/uwlswd.8rpj-ek77#sn> <http://www.w3.org/2004/02/skos/core#notation> "sn"@en .
+<https://doi.org/10.6069/uwlswd.8rpj-ek77#ct> <http://www.w3.org/2004/02/skos/core#notation> "ct"@en .
+<https://doi.org/10.6069/uwlswd.8rpj-ek77#mr> <http://www.w3.org/2004/02/skos/core#inScheme> <https://doi.org/10.6069/uwlswd.8rpj-ek77> .
+<https://doi.org/10.6069/uwlswd.8rpj-ek77#mu> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<https://doi.org/10.6069/uwlswd.8rpj-ek77#rq> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<https://doi.org/10.6069/uwlswd.8rpj-ek77#uu> <http://www.w3.org/2004/02/skos/core#prefLabel> "unknown"@en .
+<https://doi.org/10.6069/uwlswd.8rpj-ek77#or> <http://www.w3.org/2004/02/skos/core#definition> "Oratorios."@en .
 <https://doi.org/10.6069/uwlswd.8rpj-ek77#co> <http://www.w3.org/2004/02/skos/core#definition> "Concertos."@en .
-<https://doi.org/10.6069/uwlswd.8rpj-ek77#pr> <http://www.w3.org/2004/02/skos/core#notation> "pr"@en .
-<https://doi.org/10.6069/uwlswd.8rpj-ek77#ri> <http://www.w3.org/2004/02/skos/core#notation> "ri"@en .
-<https://doi.org/10.6069/uwlswd.8rpj-ek77#op> <http://www.w3.org/2004/02/skos/core#definition> "Operas."@en .
-<https://doi.org/10.6069/uwlswd.8rpj-ek77#mc> <http://www.w3.org/2004/02/skos/core#inScheme> <https://doi.org/10.6069/uwlswd.8rpj-ek77> .
-<https://doi.org/10.6069/uwlswd.8rpj-ek77#ms> <http://www.w3.org/2004/02/skos/core#inScheme> <https://doi.org/10.6069/uwlswd.8rpj-ek77> .
-<https://doi.org/10.6069/uwlswd.8rpj-ek77#mr> <http://www.w3.org/2004/02/skos/core#definition> "Marches."@en .
-<https://doi.org/10.6069/uwlswd.8rpj-ek77#an> <http://www.w3.org/2004/02/skos/core#definition> "Anthems."@en .
-<https://doi.org/10.6069/uwlswd.8rpj-ek77#su> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<https://doi.org/10.6069/uwlswd.8rpj-ek77#vr> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<https://doi.org/10.6069/uwlswd.8rpj-ek77#cz> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<https://doi.org/10.6069/uwlswd.8rpj-ek77#md> <http://www.w3.org/2004/02/skos/core#inScheme> <https://doi.org/10.6069/uwlswd.8rpj-ek77> .
+<https://doi.org/10.6069/uwlswd.8rpj-ek77#mr> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<https://doi.org/10.6069/uwlswd.8rpj-ek77#bl> <http://www.w3.org/2004/02/skos/core#prefLabel> "blues"@en .
+<https://doi.org/10.6069/uwlswd.8rpj-ek77#ts> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<https://doi.org/10.6069/uwlswd.8rpj-ek77#df> <http://www.w3.org/2004/02/skos/core#inScheme> <https://doi.org/10.6069/uwlswd.8rpj-ek77> .
+<https://doi.org/10.6069/uwlswd.8rpj-ek77#cn> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<https://doi.org/10.6069/uwlswd.8rpj-ek77#pr> <http://www.w3.org/2004/02/skos/core#inScheme> <https://doi.org/10.6069/uwlswd.8rpj-ek77> .
+<https://doi.org/10.6069/uwlswd.8rpj-ek77#hy> <http://www.w3.org/2004/02/skos/core#notation> "hy"@en .
+<https://doi.org/10.6069/uwlswd.8rpj-ek77#nc> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<https://doi.org/10.6069/uwlswd.8rpj-ek77#cb> <http://www.w3.org/2004/02/skos/core#prefLabel> "chants, other religions"@en .
+<https://doi.org/10.6069/uwlswd.8rpj-ek77#ms> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<https://doi.org/10.6069/uwlswd.8rpj-ek77#pv> <http://www.w3.org/2004/02/skos/core#inScheme> <https://doi.org/10.6069/uwlswd.8rpj-ek77> .
+<https://doi.org/10.6069/uwlswd.8rpj-ek77#an> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<https://doi.org/10.6069/uwlswd.8rpj-ek77> <http://purl.org/dc/terms/description> "Indicates the form of composition."@en .
+<https://doi.org/10.6069/uwlswd.8rpj-ek77#st> <http://www.w3.org/2004/02/skos/core#notation> "st"@en .
+<https://doi.org/10.6069/uwlswd.8rpj-ek77#gm> <http://www.w3.org/2004/02/skos/core#definition> "Gospel music."@en .
+<https://doi.org/10.6069/uwlswd.8rpj-ek77#nc> <http://www.w3.org/2004/02/skos/core#inScheme> <https://doi.org/10.6069/uwlswd.8rpj-ek77> .
+<https://doi.org/10.6069/uwlswd.8rpj-ek77#or> <http://www.w3.org/2004/02/skos/core#inScheme> <https://doi.org/10.6069/uwlswd.8rpj-ek77> .
+<https://doi.org/10.6069/uwlswd.8rpj-ek77#sy> <http://www.w3.org/2004/02/skos/core#definition> "Symphonies."@en .
+<https://doi.org/10.6069/uwlswd.8rpj-ek77#ps> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<https://doi.org/10.6069/uwlswd.8rpj-ek77#ps> <http://www.w3.org/2004/02/skos/core#prefLabel> "passacaglias"@en .
+<https://doi.org/10.6069/uwlswd.8rpj-ek77#ft> <http://www.w3.org/2004/02/skos/core#inScheme> <https://doi.org/10.6069/uwlswd.8rpj-ek77> .
+<https://doi.org/10.6069/uwlswd.8rpj-ek77#pg> <http://www.w3.org/2004/02/skos/core#definition> "Program music."@en .
+<https://doi.org/10.6069/uwlswd.8rpj-ek77#pv> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<https://doi.org/10.6069/uwlswd.8rpj-ek77#mp> <http://www.w3.org/2004/02/skos/core#notation> "mp"@en .
+<https://doi.org/10.6069/uwlswd.8rpj-ek77> <http://purl.org/dc/terms/provenance> <https://doi.org/10.6069/uwlswd.2e2b-y833> .
+<https://doi.org/10.6069/uwlswd.8rpj-ek77#or> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<https://doi.org/10.6069/uwlswd.8rpj-ek77#ft> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<https://doi.org/10.6069/uwlswd.8rpj-ek77#bd> <http://www.w3.org/2004/02/skos/core#notation> "bd"@en .
+<https://doi.org/10.6069/uwlswd.8rpj-ek77#co> <http://www.w3.org/2004/02/skos/core#inScheme> <https://doi.org/10.6069/uwlswd.8rpj-ek77> .
+<https://doi.org/10.6069/uwlswd.8rpj-ek77#ch> <http://www.w3.org/2004/02/skos/core#definition> "Chorales."@en .
+<https://doi.org/10.6069/uwlswd.8rpj-ek77#ct> <http://www.w3.org/2004/02/skos/core#prefLabel> "cantatas"@en .
+<https://doi.org/10.6069/uwlswd.8rpj-ek77#cs> <http://www.w3.org/2004/02/skos/core#definition> "Chance compositions."@en .
+<https://doi.org/10.6069/uwlswd.8rpj-ek77#pm> <http://www.w3.org/2004/02/skos/core#definition> "Passion music."@en .
+<https://doi.org/10.6069/uwlswd.8rpj-ek77#ri> <http://www.w3.org/2004/02/skos/core#inScheme> <https://doi.org/10.6069/uwlswd.8rpj-ek77> .
 <https://doi.org/10.6069/uwlswd.8rpj-ek77#co> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
-<https://doi.org/10.6069/uwlswd.8rpj-ek77#ca> <http://www.w3.org/2004/02/skos/core#definition> "Chaconnes."@en .
-<https://doi.org/10.6069/uwlswd.8rpj-ek77#bg> <http://www.w3.org/2004/02/skos/core#prefLabel> "bluegrass music"@en .
-
+<https://doi.org/10.6069/uwlswd.8rpj-ek77#tl> <http://www.w3.org/2004/02/skos/core#notation> "tl"@en .
+<https://doi.org/10.6069/uwlswd.8rpj-ek77#vi> <http://www.w3.org/2004/02/skos/core#prefLabel> "villancicos"@en .
+<https://doi.org/10.6069/uwlswd.8rpj-ek77#an> <http://www.w3.org/2004/02/skos/core#prefLabel> "anthems"@en .
+<https://doi.org/10.6069/uwlswd.8rpj-ek77#pp> <http://www.w3.org/2004/02/skos/core#definition> "Popular music."@en .
+<https://doi.org/10.6069/uwlswd.8rpj-ek77#wz> <http://www.w3.org/2004/02/skos/core#notation> "wz"@en .
+<https://doi.org/10.6069/uwlswd.8rpj-ek77#pg> <http://www.w3.org/2004/02/skos/core#prefLabel> "program music"@en .
+<https://doi.org/10.6069/uwlswd.8rpj-ek77#bd> <http://www.w3.org/2004/02/skos/core#inScheme> <https://doi.org/10.6069/uwlswd.8rpj-ek77> .
+<https://doi.org/10.6069/uwlswd.8rpj-ek77> <https://schema.org/disambiguatingDescription> "SKOS Concept Scheme for MARC 00X Values" .
+<https://doi.org/10.6069/uwlswd.8rpj-ek77#fm> <http://www.w3.org/2004/02/skos/core#scopeNote> "Includes folk songs, etc."@en .
+<https://doi.org/10.6069/uwlswd.8rpj-ek77#nc> <http://www.w3.org/2004/02/skos/core#definition> "Nocturnes."@en .
+<https://doi.org/10.6069/uwlswd.8rpj-ek77#rg> <http://www.w3.org/2004/02/skos/core#inScheme> <https://doi.org/10.6069/uwlswd.8rpj-ek77> .
+<https://doi.org/10.6069/uwlswd.8rpj-ek77#ps> <http://www.w3.org/2004/02/skos/core#notation> "ps"@en .
+<https://doi.org/10.6069/uwlswd.8rpj-ek77#cz> <http://www.w3.org/2004/02/skos/core#scopeNote> "Used for instrumental music that is designated as a canzona."@en .
+<https://doi.org/10.6069/uwlswd.8rpj-ek77#pr> <http://www.w3.org/2004/02/skos/core#prefLabel> "preludes"@en .
+<https://doi.org/10.6069/uwlswd.8rpj-ek77#mi> <http://www.w3.org/2004/02/skos/core#notation> "mi"@en .
+<https://doi.org/10.6069/uwlswd.8rpj-ek77#pt> <http://www.w3.org/2004/02/skos/core#definition> "Part-songs."@en .
+<https://doi.org/10.6069/uwlswd.8rpj-ek77#wz> <http://www.w3.org/2004/02/skos/core#definition> "Waltzes."@en .
+<https://doi.org/10.6069/uwlswd.8rpj-ek77#pv> <http://www.w3.org/2004/02/skos/core#definition> "Pavans."@en .
+<https://doi.org/10.6069/uwlswd.8rpj-ek77#mc> <http://www.w3.org/2004/02/skos/core#inScheme> <https://doi.org/10.6069/uwlswd.8rpj-ek77> .
+<https://doi.org/10.6069/uwlswd.8rpj-ek77#po> <http://www.w3.org/2004/02/skos/core#prefLabel> "polonaises"@en .
+<https://doi.org/10.6069/uwlswd.8rpj-ek77#ri> <http://www.w3.org/2004/02/skos/core#definition> "Ricercars."@en .
+<https://doi.org/10.6069/uwlswd.8rpj-ek77#bt> <http://www.w3.org/2004/02/skos/core#inScheme> <https://doi.org/10.6069/uwlswd.8rpj-ek77> .
+<https://doi.org/10.6069/uwlswd.8rpj-ek77#po> <http://www.w3.org/2004/02/skos/core#definition> "Polonaises."@en .
+<https://doi.org/10.6069/uwlswd.8rpj-ek77#mz> <http://www.w3.org/2004/02/skos/core#prefLabel> "mazurkas"@en .
+<https://doi.org/10.6069/uwlswd.8rpj-ek77#mu> <http://www.w3.org/2004/02/skos/core#prefLabel> "multiple forms"@en .
+<https://doi.org/10.6069/uwlswd.8rpj-ek77#bd> <http://www.w3.org/2004/02/skos/core#definition> "Ballads."@en .
+<https://doi.org/10.6069/uwlswd.8rpj-ek77> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#ConceptScheme> .
+<https://doi.org/10.6069/uwlswd.8rpj-ek77#mc> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<https://doi.org/10.6069/uwlswd.8rpj-ek77#fl> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .

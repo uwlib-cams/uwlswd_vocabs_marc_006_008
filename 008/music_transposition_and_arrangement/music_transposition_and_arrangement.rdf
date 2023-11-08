@@ -1,1 +1,75 @@
-<?xml version="1.0" encoding="UTF-8"?> <rdf:RDF xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dct="http://purl.org/dc/terms/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:schema="https://schema.org/" xmlns:skos="http://www.w3.org/2004/02/skos/core#"> <!-- Scheme: MARC21-007: Transposition and arrangement of music --> <skos:ConceptScheme rdf:about="https://doi.org/10.6069/uwlswd.axz0-z371"> <dct:type rdf:resource="http://purl.org/dc/dcmitype/Dataset"/> <dct:title>Music: transposition and arrangement</dct:title> <dct:alternative>MARC21 008/33 values for music expressed using RDF</dct:alternative> <dct:description>Whether all or part of the item being cataloged is a transposition and/or arrangement of another work.</dct:description> <dct:publisher rdf:resource="http://viaf.org/viaf/139541794"/> <dct:source rdf:resource="https://www.loc.gov/marc/bibliographic/bd008.html"/> <dct:source rdf:resource="http://marc21rdf.info"/> <dct:provenance rdf:resource="https://doi.org/10.6069/uwlswd.2e2b-y833"/> <dct:creator rdf:resource="http://viaf.org/viaf/139541794"/> <dct:contributor rdf:resource="http://viaf.org/viaf/151962300"/> <dc:contributor>Metadata Management Associates</dc:contributor> <dct:issued>2023</dct:issued> <dc:language>en</dc:language> <dct:license rdf:resource="http://creativecommons.org/publicdomain/zero/1.0"/> <schema:version>1-0-0</schema:version> </skos:ConceptScheme> <!-- Concept: arrangement --> <skos:Concept rdf:about="https://doi.org/10.6069/uwlswd.axz0-z371#b"> <skos:inScheme rdf:resource="https://doi.org/10.6069/uwlswd.axz0-z371"/> <skos:prefLabel xml:lang="en">arrangement</skos:prefLabel> <skos:definition xml:lang="en">Item has been adapted as regards medium and/or texture.</skos:definition> <skos:notation xml:lang="en">b</skos:notation> </skos:Concept> <!-- Concept: both transposed and arranged --> <skos:Concept rdf:about="https://doi.org/10.6069/uwlswd.axz0-z371#c"> <skos:inScheme rdf:resource="https://doi.org/10.6069/uwlswd.axz0-z371"/> <skos:prefLabel xml:lang="en">both transposed and arranged</skos:prefLabel> <skos:definition xml:lang="en">Item has been both transposed to a different pitch from the original and has been adapted as regards medium and/or texture.</skos:definition> <skos:notation xml:lang="en">c</skos:notation> </skos:Concept> <!-- Concept: not applicable --> <skos:Concept rdf:about="https://doi.org/10.6069/uwlswd.axz0-z371#n"> <skos:inScheme rdf:resource="https://doi.org/10.6069/uwlswd.axz0-z371"/> <skos:prefLabel xml:lang="en">not applicable</skos:prefLabel> <skos:definition xml:lang="en">Item is not notated music.</skos:definition> <skos:notation xml:lang="en">n</skos:notation> </skos:Concept> <!-- Concept: not arrangement or transposition or not specified --> <skos:Concept rdf:about="https://doi.org/10.6069/uwlswd.axz0-z371#pound"> <skos:inScheme rdf:resource="https://doi.org/10.6069/uwlswd.axz0-z371"/> <skos:prefLabel xml:lang="en">not arrangement or transposition or not specified</skos:prefLabel> <skos:definition xml:lang="en">Not arrangements or the transposition of the item is not specified.</skos:definition> <skos:notation xml:lang="en">#</skos:notation> </skos:Concept> <!-- Concept: transposition --> <skos:Concept rdf:about="https://doi.org/10.6069/uwlswd.axz0-z371#a"> <skos:inScheme rdf:resource="https://doi.org/10.6069/uwlswd.axz0-z371"/> <skos:prefLabel xml:lang="en">transposition</skos:prefLabel> <skos:definition xml:lang="en">Item has been transposed to a different pitch from the original.</skos:definition> <skos:notation xml:lang="en">a</skos:notation> </skos:Concept> <!-- Concept: unknown --> <skos:Concept rdf:about="https://doi.org/10.6069/uwlswd.axz0-z371#u"> <skos:inScheme rdf:resource="https://doi.org/10.6069/uwlswd.axz0-z371"/> <skos:prefLabel xml:lang="en">unknown</skos:prefLabel> <skos:definition xml:lang="en">Unknown whether the item is a transposition or arrangement.</skos:definition> <skos:notation xml:lang="en">u</skos:notation> </skos:Concept> </rdf:RDF>
+<?xml version="1.0" encoding="utf-8"?>
+<rdf:RDF
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:dct="http://purl.org/dc/terms/"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:schema="https://schema.org/"
+   xmlns:skos="http://www.w3.org/2004/02/skos/core#"
+>
+  <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.axz0-z371">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#ConceptScheme"/>
+    <dct:type rdf:resource="http://purl.org/dc/dcmitype/Dataset"/>
+    <dct:title xml:lang="en">Music: transposition and arrangement</dct:title>
+    <dct:alternative xml:lang="en">MARC21 008/33 values for music expressed using RDF</dct:alternative>
+    <dct:description xml:lang="en">Whether all or part of the item being cataloged is a transposition and/or arrangement of another work.</dct:description>
+    <schema:disambiguatingDescription>SKOS Concept Scheme for MARC 00X Values</schema:disambiguatingDescription>
+    <dct:publisher rdf:resource="http://viaf.org/viaf/139541794"/>
+    <dct:source rdf:resource="https://www.loc.gov/marc/bibliographic/bd008.html"/>
+    <dct:source rdf:resource="http://marc21rdf.info"/>
+    <dct:provenance rdf:resource="https://doi.org/10.6069/uwlswd.2e2b-y833"/>
+    <dct:creator rdf:resource="http://viaf.org/viaf/139541794"/>
+    <dct:contributor rdf:resource="http://viaf.org/viaf/151962300"/>
+    <dc:contributor xml:lang="en">Metadata Management Associates</dc:contributor>
+    <dct:issued>2023</dct:issued>
+    <dc:language>en</dc:language>
+    <dct:license rdf:resource="http://creativecommons.org/publicdomain/zero/1.0"/>
+    <schema:version>1-0-1</schema:version>
+    <dct:hasFormat rdf:resource="https://uwlib-cams.github.io/uwlswd_vocabs_marc_006_008/008/music_transposition_and_arrangement/music_transposition_and_arrangement.ttl"/>
+    <dct:hasFormat rdf:resource="https://uwlib-cams.github.io/uwlswd_vocabs_marc_006_008/008/music_transposition_and_arrangement/music_transposition_and_arrangement.nt"/>
+    <dct:hasFormat rdf:resource="https://uwlib-cams.github.io/uwlswd_vocabs_marc_006_008/008/music_transposition_and_arrangement/music_transposition_and_arrangement.jsonld"/>
+    <dct:hasFormat rdf:resource="https://uwlib-cams.github.io/uwlswd_vocabs_marc_006_008/008/music_transposition_and_arrangement/music_transposition_and_arrangement.html"/>
+    <dct:format rdf:resource="http://www.w3.org/ns/formats/RDF_XML"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.axz0-z371#n">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <skos:inScheme rdf:resource="https://doi.org/10.6069/uwlswd.axz0-z371"/>
+    <skos:prefLabel xml:lang="en">not applicable</skos:prefLabel>
+    <skos:definition xml:lang="en">Item is not notated music.</skos:definition>
+    <skos:notation xml:lang="en">n</skos:notation>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.axz0-z371#a">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <skos:inScheme rdf:resource="https://doi.org/10.6069/uwlswd.axz0-z371"/>
+    <skos:prefLabel xml:lang="en">transposition</skos:prefLabel>
+    <skos:definition xml:lang="en">Item has been transposed to a different pitch from the original.</skos:definition>
+    <skos:notation xml:lang="en">a</skos:notation>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.axz0-z371#pound">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <skos:inScheme rdf:resource="https://doi.org/10.6069/uwlswd.axz0-z371"/>
+    <skos:prefLabel xml:lang="en">not arrangement or transposition or not specified</skos:prefLabel>
+    <skos:definition xml:lang="en">Not arrangements or the transposition of the item is not specified.</skos:definition>
+    <skos:notation xml:lang="en">#</skos:notation>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.axz0-z371#u">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <skos:inScheme rdf:resource="https://doi.org/10.6069/uwlswd.axz0-z371"/>
+    <skos:prefLabel xml:lang="en">unknown</skos:prefLabel>
+    <skos:definition xml:lang="en">Unknown whether the item is a transposition or arrangement.</skos:definition>
+    <skos:notation xml:lang="en">u</skos:notation>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.axz0-z371#c">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <skos:inScheme rdf:resource="https://doi.org/10.6069/uwlswd.axz0-z371"/>
+    <skos:prefLabel xml:lang="en">both transposed and arranged</skos:prefLabel>
+    <skos:definition xml:lang="en">Item has been both transposed to a different pitch from the original and has been adapted as regards medium and/or texture.</skos:definition>
+    <skos:notation xml:lang="en">c</skos:notation>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.axz0-z371#b">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <skos:inScheme rdf:resource="https://doi.org/10.6069/uwlswd.axz0-z371"/>
+    <skos:prefLabel xml:lang="en">arrangement</skos:prefLabel>
+    <skos:definition xml:lang="en">Item has been adapted as regards medium and/or texture.</skos:definition>
+    <skos:notation xml:lang="en">b</skos:notation>
+  </rdf:Description>
+</rdf:RDF>

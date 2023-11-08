@@ -1,94 +1,99 @@
-<https://doi.org/10.6069/uwlswd.4a8z-tq62#b> <http://www.w3.org/2004/02/skos/core#inScheme> <https://doi.org/10.6069/uwlswd.4a8z-tq62> .
-<https://doi.org/10.6069/uwlswd.4a8z-tq62#e> <http://www.w3.org/2004/02/skos/core#prefLabel> "detailed date"@en .
-<https://doi.org/10.6069/uwlswd.4a8z-tq62#m> <http://www.w3.org/2004/02/skos/core#inScheme> <https://doi.org/10.6069/uwlswd.4a8z-tq62> .
+<https://doi.org/10.6069/uwlswd.4a8z-tq62> <http://purl.org/dc/terms/hasFormat> <https://uwlib-cams.github.io/uwlswd_vocabs_marc_006_008/008/all_type_of_date_or_publication_status/all_type_of_date_or_publication_status.ttl> .
+<https://doi.org/10.6069/uwlswd.4a8z-tq62> <http://purl.org/dc/terms/source> <https://www.loc.gov/marc/bibliographic/bd008.html> .
+<https://doi.org/10.6069/uwlswd.4a8z-tq62#r> <http://www.w3.org/2004/02/skos/core#notation> "r"@en .
+<https://doi.org/10.6069/uwlswd.4a8z-tq62#e> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<https://doi.org/10.6069/uwlswd.4a8z-tq62#t> <http://www.w3.org/2004/02/skos/core#inScheme> <https://doi.org/10.6069/uwlswd.4a8z-tq62> .
+<https://doi.org/10.6069/uwlswd.4a8z-tq62> <http://purl.org/dc/terms/hasFormat> <https://uwlib-cams.github.io/uwlswd_vocabs_marc_006_008/008/all_type_of_date_or_publication_status/all_type_of_date_or_publication_status.jsonld> .
+<https://doi.org/10.6069/uwlswd.4a8z-tq62#k> <http://www.w3.org/2004/02/skos/core#definition> "The range of years applicable to most of the material in a collection. If the bulk dates are represented by only a single year, that date is given in both places."@en .
+<https://doi.org/10.6069/uwlswd.4a8z-tq62#k> <http://www.w3.org/2004/02/skos/core#inScheme> <https://doi.org/10.6069/uwlswd.4a8z-tq62> .
+<https://doi.org/10.6069/uwlswd.4a8z-tq62#p> <http://www.w3.org/2004/02/skos/core#definition> "Both a date of distribution/release/issue (008/07-10) and a date of production/recording (008/11-14) are present because there is a difference between the two dates. For computer files, code p is used when there is a difference between the date the file first became operational for analysis and processing in machine-readable form (i.e., production date) and the date the file became available to the public, usually through an established agency (i.e., distribution date). For moving images, if a work with identical content but in a different medium has a later release date than the original work, code p is used (e.g., a videorecording released in 1978 that was originally produced as a motion picture in 1965)."@en .
 <https://doi.org/10.6069/uwlswd.4a8z-tq62#q> <http://www.w3.org/2004/02/skos/core#notation> "q"@en .
-<https://doi.org/10.6069/uwlswd.4a8z-tq62#q> <http://www.w3.org/2004/02/skos/core#prefLabel> "questionable date"@en .
-<https://doi.org/10.6069/uwlswd.4a8z-tq62#d> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
-<https://doi.org/10.6069/uwlswd.4a8z-tq62> <http://purl.org/dc/terms/alternative> "MARC21 008/06 values for all materials expressed using RDF"@en-US .
-<https://doi.org/10.6069/uwlswd.4a8z-tq62#k> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
-<https://doi.org/10.6069/uwlswd.4a8z-tq62#u> <http://www.w3.org/2004/02/skos/core#prefLabel> "continuing resource status unknown"@en .
-<https://doi.org/10.6069/uwlswd.4a8z-tq62> <http://purl.org/dc/terms/publisher> <http://viaf.org/viaf/139541794> .
+<https://doi.org/10.6069/uwlswd.4a8z-tq62#d> <http://www.w3.org/2004/02/skos/core#definition> "New issues of a continuing resource have ceased to be published or that a change in author or title has caused a successive entry record to be created. When a new title supersedes a previously existing one, the earlier title is considered dead and coded d in field 008/06. An item is considered to have ceased publication only when there is clear evidence that it has. Generally, a period of more than three years during which no new issue of a continuing resource has been published is considered evidence that it has ceased publication."@en .
+<https://doi.org/10.6069/uwlswd.4a8z-tq62> <http://purl.org/dc/terms/alternative> "MARC21 008/06 values for all materials expressed using RDF"@en .
+<https://doi.org/10.6069/uwlswd.4a8z-tq62#cx> <http://www.w3.org/2004/02/skos/core#inScheme> <https://doi.org/10.6069/uwlswd.4a8z-tq62> .
+<https://doi.org/10.6069/uwlswd.4a8z-tq62#t> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<https://doi.org/10.6069/uwlswd.4a8z-tq62#p> <http://www.w3.org/2004/02/skos/core#inScheme> <https://doi.org/10.6069/uwlswd.4a8z-tq62> .
+<https://doi.org/10.6069/uwlswd.4a8z-tq62> <http://purl.org/dc/terms/issued> "2023" .
+<https://doi.org/10.6069/uwlswd.4a8z-tq62#s> <http://www.w3.org/2004/02/skos/core#inScheme> <https://doi.org/10.6069/uwlswd.4a8z-tq62> .
+<https://doi.org/10.6069/uwlswd.4a8z-tq62#k> <http://www.w3.org/2004/02/skos/core#notation> "k"@en .
+<https://doi.org/10.6069/uwlswd.4a8z-tq62> <http://purl.org/dc/terms/hasFormat> <https://uwlib-cams.github.io/uwlswd_vocabs_marc_006_008/008/all_type_of_date_or_publication_status/all_type_of_date_or_publication_status.html> .
 <https://doi.org/10.6069/uwlswd.4a8z-tq62#e> <http://www.w3.org/2004/02/skos/core#definition> "Detailed date which contains the month (and possibly the day) in addition to the year is present. For visual materials, this code may be used with televised material to give the date of the original broadcast."@en .
 <https://doi.org/10.6069/uwlswd.4a8z-tq62#p> <http://www.w3.org/2004/02/skos/core#prefLabel> "date of distribution/release/issue and production/recording session when different"@en .
-<https://doi.org/10.6069/uwlswd.4a8z-tq62#c> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
-<https://doi.org/10.6069/uwlswd.4a8z-tq62#i> <http://www.w3.org/2004/02/skos/core#inScheme> <https://doi.org/10.6069/uwlswd.4a8z-tq62> .
-<https://doi.org/10.6069/uwlswd.4a8z-tq62#r> <http://www.w3.org/2004/02/skos/core#definition> "The date of reproduction or reissue;the date of the original, if known."@en .
-<https://doi.org/10.6069/uwlswd.4a8z-tq62> <http://purl.org/dc/elements/1.1/contributor> "Metadata Management Associates"@en-US .
-<https://doi.org/10.6069/uwlswd.4a8z-tq62#p> <http://www.w3.org/2004/02/skos/core#inScheme> <https://doi.org/10.6069/uwlswd.4a8z-tq62> .
-<https://doi.org/10.6069/uwlswd.4a8z-tq62#u> <http://www.w3.org/2004/02/skos/core#notation> "u"@en .
-<https://doi.org/10.6069/uwlswd.4a8z-tq62#k> <http://www.w3.org/2004/02/skos/core#definition> "The range of years applicable to most of the material in a collection. If the bulk dates are represented by only a single year, that date is given in both places."@en .
-<https://doi.org/10.6069/uwlswd.4a8z-tq62#n> <http://www.w3.org/2004/02/skos/core#notation> "n"@en .
-<https://doi.org/10.6069/uwlswd.4a8z-tq62#m> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
-<https://doi.org/10.6069/uwlswd.4a8z-tq62#r> <http://www.w3.org/2004/02/skos/core#prefLabel> "reprint/reissue date and original date"@en .
-<https://doi.org/10.6069/uwlswd.4a8z-tq62#q> <http://www.w3.org/2004/02/skos/core#definition> "Exact date for a single date item is not known but a range of years for the date can be specified (e.g., between 1824 and 1846)."@en .
-<https://doi.org/10.6069/uwlswd.4a8z-tq62#r> <http://www.w3.org/2004/02/skos/core#notation> "r"@en .
-<https://doi.org/10.6069/uwlswd.4a8z-tq62#s> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
-<https://doi.org/10.6069/uwlswd.4a8z-tq62#u> <http://www.w3.org/2004/02/skos/core#definition> "Used for continuing resources when there is no clear indication that publication of the item has ceased. A beginning date of publication; and the characters uuuu since no ending date is known."@en .
-<https://doi.org/10.6069/uwlswd.4a8z-tq62#p> <http://www.w3.org/2004/02/skos/core#definition> "Both a date of distribution/release/issue (008/07-10) and a date of production/recording (008/11-14) are present because there is a difference between the two dates. For computer files, code p is used when there is a difference between the date the file first became operational for analysis and processing in machine-readable form (i.e., production date) and the date the file became available to the public, usually through an established agency (i.e., distribution date). For moving images, if a work with identical content but in a different medium has a later release date than the original work, code p is used (e.g., a videorecording released in 1978 that was originally produced as a motion picture in 1965)."@en .
-<https://doi.org/10.6069/uwlswd.4a8z-tq62#n> <http://www.w3.org/2004/02/skos/core#prefLabel> "dates unknown"@en .
-<https://doi.org/10.6069/uwlswd.4a8z-tq62> <https://schema.org/version> "1-0-0" .
-<https://doi.org/10.6069/uwlswd.4a8z-tq62#d> <http://www.w3.org/2004/02/skos/core#definition> "New issues of a continuing resource have ceased to be published or that a change in author or title has caused a successive entry record to be created. When a new title supersedes a previously existing one, the earlier title is considered dead and coded d in field 008/06. An item is considered to have ceased publication only when there is clear evidence that it has. Generally, a period of more than three years during which no new issue of a continuing resource has been published is considered evidence that it has ceased publication."@en .
-<https://doi.org/10.6069/uwlswd.4a8z-tq62> <http://purl.org/dc/terms/type> <http://purl.org/dc/dcmitype/Dataset> .
-<https://doi.org/10.6069/uwlswd.4a8z-tq62#p> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
-<https://doi.org/10.6069/uwlswd.4a8z-tq62#b> <http://www.w3.org/2004/02/skos/core#notation> "b"@en .
-<https://doi.org/10.6069/uwlswd.4a8z-tq62#m> <http://www.w3.org/2004/02/skos/core#prefLabel> "multiple dates"@en .
-<https://doi.org/10.6069/uwlswd.4a8z-tq62#s> <http://www.w3.org/2004/02/skos/core#notation> "s"@en .
-<https://doi.org/10.6069/uwlswd.4a8z-tq62> <http://purl.org/dc/terms/creator> <http://viaf.org/viaf/139541794> .
-<https://doi.org/10.6069/uwlswd.4a8z-tq62#t> <http://www.w3.org/2004/02/skos/core#notation> "t"@en .
-<https://doi.org/10.6069/uwlswd.4a8z-tq62#u> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
-<https://doi.org/10.6069/uwlswd.4a8z-tq62#n> <http://www.w3.org/2004/02/skos/core#inScheme> <https://doi.org/10.6069/uwlswd.4a8z-tq62> .
-<https://doi.org/10.6069/uwlswd.4a8z-tq62> <http://purl.org/dc/terms/source> <http://marc21rdf.info> .
-<https://doi.org/10.6069/uwlswd.4a8z-tq62> <http://purl.org/dc/terms/contributor> <http://viaf.org/viaf/151962300> .
-<https://doi.org/10.6069/uwlswd.4a8z-tq62#t> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
-<https://doi.org/10.6069/uwlswd.4a8z-tq62#cx> <http://www.w3.org/2004/02/skos/core#notation> "c"@en .
-<https://doi.org/10.6069/uwlswd.4a8z-tq62#d> <http://www.w3.org/2004/02/skos/core#notation> "d"@en .
 <https://doi.org/10.6069/uwlswd.4a8z-tq62#e> <http://www.w3.org/2004/02/skos/core#notation> "e"@en .
-<https://doi.org/10.6069/uwlswd.4a8z-tq62#e> <http://www.w3.org/2004/02/skos/core#inScheme> <https://doi.org/10.6069/uwlswd.4a8z-tq62> .
-<https://doi.org/10.6069/uwlswd.4a8z-tq62#c> <http://www.w3.org/2004/02/skos/core#definition> "Used for an item for which an issue has been received within the last three years."@en .
-<https://doi.org/10.6069/uwlswd.4a8z-tq62#r> <http://www.w3.org/2004/02/skos/core#inScheme> <https://doi.org/10.6069/uwlswd.4a8z-tq62> .
-<https://doi.org/10.6069/uwlswd.4a8z-tq62#k> <http://www.w3.org/2004/02/skos/core#inScheme> <https://doi.org/10.6069/uwlswd.4a8z-tq62> .
-<https://doi.org/10.6069/uwlswd.4a8z-tq62#s> <http://www.w3.org/2004/02/skos/core#definition> "One known single date of distribution, publication, release, production, execution, writing, or a probable date that can be represented by four digits. The single date associated with the item may be actual, approximate, or conjectural (e.g., if the single date is uncertain). Also used for a single unpublished item such as an original or historical graphic when there is a single date associated with the execution of the item."@en .
-<https://doi.org/10.6069/uwlswd.4a8z-tq62#dx> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
-<https://doi.org/10.6069/uwlswd.4a8z-tq62#d> <http://www.w3.org/2004/02/skos/core#prefLabel> "continuing resource ceased publication"@en .
+<https://doi.org/10.6069/uwlswd.4a8z-tq62#t> <http://www.w3.org/2004/02/skos/core#notation> "t"@en .
+<https://doi.org/10.6069/uwlswd.4a8z-tq62#s> <http://www.w3.org/2004/02/skos/core#notation> "s"@en .
+<https://doi.org/10.6069/uwlswd.4a8z-tq62#dx> <http://www.w3.org/2004/02/skos/core#inScheme> <https://doi.org/10.6069/uwlswd.4a8z-tq62> .
+<https://doi.org/10.6069/uwlswd.4a8z-tq62> <http://purl.org/dc/terms/title> "All: type of date or publication status"@en .
 <https://doi.org/10.6069/uwlswd.4a8z-tq62#i> <http://www.w3.org/2004/02/skos/core#notation> "i"@en .
+<https://doi.org/10.6069/uwlswd.4a8z-tq62#dx> <http://www.w3.org/2004/02/skos/core#prefLabel> "detailed date [obsolete]"@en .
 <https://doi.org/10.6069/uwlswd.4a8z-tq62#b> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
 <https://doi.org/10.6069/uwlswd.4a8z-tq62#k> <http://www.w3.org/2004/02/skos/core#prefLabel> "range of years of bulk of collection"@en .
-<https://doi.org/10.6069/uwlswd.4a8z-tq62#t> <http://www.w3.org/2004/02/skos/core#prefLabel> "publication date and copyright date"@en .
-<https://doi.org/10.6069/uwlswd.4a8z-tq62#n> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
-<https://doi.org/10.6069/uwlswd.4a8z-tq62#cx> <http://www.w3.org/2004/02/skos/core#inScheme> <https://doi.org/10.6069/uwlswd.4a8z-tq62> .
-<https://doi.org/10.6069/uwlswd.4a8z-tq62> <http://purl.org/dc/terms/title> "All: type of date or publication status"@en-US .
-<https://doi.org/10.6069/uwlswd.4a8z-tq62#e> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
-<https://doi.org/10.6069/uwlswd.4a8z-tq62> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#ConceptScheme> .
-<https://doi.org/10.6069/uwlswd.4a8z-tq62> <http://purl.org/dc/terms/provenance> <https://doi.org/10.6069/uwlswd.2e2b-y833#marc00Xvalues> .
-<https://doi.org/10.6069/uwlswd.4a8z-tq62#m> <http://www.w3.org/2004/02/skos/core#definition> "The range of years of publication of a multipart item, excluding the case when both dates for a multipart item are represented by a single year."@en .
-<https://doi.org/10.6069/uwlswd.4a8z-tq62#c> <http://www.w3.org/2004/02/skos/core#prefLabel> "continuing resource currently published"@en .
-<https://doi.org/10.6069/uwlswd.4a8z-tq62#b> <http://www.w3.org/2004/02/skos/core#definition> "One or more dates associated with the item are Before Common Era (B.C.) dates."@en .
-<https://doi.org/10.6069/uwlswd.4a8z-tq62#p> <http://www.w3.org/2004/02/skos/core#notation> "p"@en .
-<https://doi.org/10.6069/uwlswd.4a8z-tq62> <http://purl.org/dc/terms/source> <https://www.loc.gov/marc/bibliographic/bd008.html> .
-<https://doi.org/10.6069/uwlswd.4a8z-tq62#i> <http://www.w3.org/2004/02/skos/core#definition> "Inclusive dates applicable to a collection. If the inclusive dates are represented by a single year, that date is given in both places."@en .
-<https://doi.org/10.6069/uwlswd.4a8z-tq62> <http://purl.org/dc/terms/issued> "2023" .
-<https://doi.org/10.6069/uwlswd.4a8z-tq62> <http://purl.org/dc/elements/1.1/language> "en" .
+<https://doi.org/10.6069/uwlswd.4a8z-tq62#d> <http://www.w3.org/2004/02/skos/core#notation> "d"@en .
+<https://doi.org/10.6069/uwlswd.4a8z-tq62#i> <http://www.w3.org/2004/02/skos/core#inScheme> <https://doi.org/10.6069/uwlswd.4a8z-tq62> .
+<https://doi.org/10.6069/uwlswd.4a8z-tq62> <http://purl.org/dc/elements/1.1/contributor> "Metadata Management Associates"@en .
 <https://doi.org/10.6069/uwlswd.4a8z-tq62#t> <http://www.w3.org/2004/02/skos/core#definition> "Date of publication/release/production/execution and a copyright or phonogram copyright date."@en .
-<https://doi.org/10.6069/uwlswd.4a8z-tq62#s> <http://www.w3.org/2004/02/skos/core#inScheme> <https://doi.org/10.6069/uwlswd.4a8z-tq62> .
-<https://doi.org/10.6069/uwlswd.4a8z-tq62#cx> <http://www.w3.org/2004/02/skos/core#prefLabel> "actual date and copyright date [obsolete]"@en .
-<https://doi.org/10.6069/uwlswd.4a8z-tq62#b> <http://www.w3.org/2004/02/skos/core#prefLabel> "no dates given; b.c. date involved"@en .
 <https://doi.org/10.6069/uwlswd.4a8z-tq62#r> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
-<https://doi.org/10.6069/uwlswd.4a8z-tq62#cx> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
-<https://doi.org/10.6069/uwlswd.4a8z-tq62#i> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
-<https://doi.org/10.6069/uwlswd.4a8z-tq62#q> <http://www.w3.org/2004/02/skos/core#inScheme> <https://doi.org/10.6069/uwlswd.4a8z-tq62> .
-<https://doi.org/10.6069/uwlswd.4a8z-tq62#m> <http://www.w3.org/2004/02/skos/core#notation> "m"@en .
+<https://doi.org/10.6069/uwlswd.4a8z-tq62#r> <http://www.w3.org/2004/02/skos/core#definition> "The date of reproduction or reissue;the date of the original, if known."@en .
+<https://doi.org/10.6069/uwlswd.4a8z-tq62#q> <http://www.w3.org/2004/02/skos/core#definition> "Exact date for a single date item is not known but a range of years for the date can be specified (e.g., between 1824 and 1846)."@en .
+<https://doi.org/10.6069/uwlswd.4a8z-tq62> <http://purl.org/dc/terms/contributor> <http://viaf.org/viaf/151962300> .
 <https://doi.org/10.6069/uwlswd.4a8z-tq62> <http://purl.org/dc/terms/license> <http://creativecommons.org/publicdomain/zero/1.0> .
-<https://doi.org/10.6069/uwlswd.4a8z-tq62#s> <http://www.w3.org/2004/02/skos/core#prefLabel> "single known date/probable date"@en .
-<https://doi.org/10.6069/uwlswd.4a8z-tq62#dx> <http://www.w3.org/2004/02/skos/core#inScheme> <https://doi.org/10.6069/uwlswd.4a8z-tq62> .
-<https://doi.org/10.6069/uwlswd.4a8z-tq62#k> <http://www.w3.org/2004/02/skos/core#notation> "k"@en .
-<https://doi.org/10.6069/uwlswd.4a8z-tq62#u> <http://www.w3.org/2004/02/skos/core#inScheme> <https://doi.org/10.6069/uwlswd.4a8z-tq62> .
-<https://doi.org/10.6069/uwlswd.4a8z-tq62#c> <http://www.w3.org/2004/02/skos/core#notation> "c"@en .
-<https://doi.org/10.6069/uwlswd.4a8z-tq62#t> <http://www.w3.org/2004/02/skos/core#inScheme> <https://doi.org/10.6069/uwlswd.4a8z-tq62> .
-<https://doi.org/10.6069/uwlswd.4a8z-tq62#q> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<https://doi.org/10.6069/uwlswd.4a8z-tq62#u> <http://www.w3.org/2004/02/skos/core#prefLabel> "continuing resource status unknown"@en .
+<https://doi.org/10.6069/uwlswd.4a8z-tq62#q> <http://www.w3.org/2004/02/skos/core#prefLabel> "questionable date"@en .
+<https://doi.org/10.6069/uwlswd.4a8z-tq62#p> <http://www.w3.org/2004/02/skos/core#notation> "p"@en .
 <https://doi.org/10.6069/uwlswd.4a8z-tq62#c> <http://www.w3.org/2004/02/skos/core#inScheme> <https://doi.org/10.6069/uwlswd.4a8z-tq62> .
-<https://doi.org/10.6069/uwlswd.4a8z-tq62> <http://purl.org/dc/terms/description> "Indicates type of date given. Or, for continuing resources, indicates publication status."@en-US .
+<https://doi.org/10.6069/uwlswd.4a8z-tq62#q> <http://www.w3.org/2004/02/skos/core#inScheme> <https://doi.org/10.6069/uwlswd.4a8z-tq62> .
+<https://doi.org/10.6069/uwlswd.4a8z-tq62#cx> <http://www.w3.org/2004/02/skos/core#prefLabel> "actual date and copyright date [obsolete]"@en .
 <https://doi.org/10.6069/uwlswd.4a8z-tq62#d> <http://www.w3.org/2004/02/skos/core#inScheme> <https://doi.org/10.6069/uwlswd.4a8z-tq62> .
+<https://doi.org/10.6069/uwlswd.4a8z-tq62#m> <http://www.w3.org/2004/02/skos/core#prefLabel> "multiple dates"@en .
+<https://doi.org/10.6069/uwlswd.4a8z-tq62> <http://purl.org/dc/terms/format> <http://www.w3.org/ns/formats/N-Triples> .
+<https://doi.org/10.6069/uwlswd.4a8z-tq62#dx> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<https://doi.org/10.6069/uwlswd.4a8z-tq62#b> <http://www.w3.org/2004/02/skos/core#notation> "b"@en .
+<https://doi.org/10.6069/uwlswd.4a8z-tq62#e> <http://www.w3.org/2004/02/skos/core#inScheme> <https://doi.org/10.6069/uwlswd.4a8z-tq62> .
+<https://doi.org/10.6069/uwlswd.4a8z-tq62#c> <http://www.w3.org/2004/02/skos/core#prefLabel> "continuing resource currently published"@en .
+<https://doi.org/10.6069/uwlswd.4a8z-tq62#i> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<https://doi.org/10.6069/uwlswd.4a8z-tq62#n> <http://www.w3.org/2004/02/skos/core#inScheme> <https://doi.org/10.6069/uwlswd.4a8z-tq62> .
+<https://doi.org/10.6069/uwlswd.4a8z-tq62#i> <http://www.w3.org/2004/02/skos/core#definition> "Inclusive dates applicable to a collection. If the inclusive dates are represented by a single year, that date is given in both places."@en .
+<https://doi.org/10.6069/uwlswd.4a8z-tq62#t> <http://www.w3.org/2004/02/skos/core#prefLabel> "publication date and copyright date"@en .
+<https://doi.org/10.6069/uwlswd.4a8z-tq62> <http://purl.org/dc/elements/1.1/language> "en" .
+<https://doi.org/10.6069/uwlswd.4a8z-tq62#c> <http://www.w3.org/2004/02/skos/core#definition> "Used for an item for which an issue has been received within the last three years."@en .
+<https://doi.org/10.6069/uwlswd.4a8z-tq62#d> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<https://doi.org/10.6069/uwlswd.4a8z-tq62#c> <http://www.w3.org/2004/02/skos/core#notation> "c"@en .
+<https://doi.org/10.6069/uwlswd.4a8z-tq62> <https://schema.org/disambiguatingDescription> "SKOS Concept Scheme for MARC 00X Values" .
+<https://doi.org/10.6069/uwlswd.4a8z-tq62#b> <http://www.w3.org/2004/02/skos/core#definition> "One or more dates associated with the item are Before Common Era (B.C.) dates."@en .
+<https://doi.org/10.6069/uwlswd.4a8z-tq62> <http://purl.org/dc/terms/provenance> <https://doi.org/10.6069/uwlswd.2e2b-y833#marc00Xvalues> .
+<https://doi.org/10.6069/uwlswd.4a8z-tq62> <https://schema.org/version> "1-0-1" .
+<https://doi.org/10.6069/uwlswd.4a8z-tq62#m> <http://www.w3.org/2004/02/skos/core#inScheme> <https://doi.org/10.6069/uwlswd.4a8z-tq62> .
+<https://doi.org/10.6069/uwlswd.4a8z-tq62> <http://purl.org/dc/terms/publisher> <http://viaf.org/viaf/139541794> .
+<https://doi.org/10.6069/uwlswd.4a8z-tq62#s> <http://www.w3.org/2004/02/skos/core#prefLabel> "single known date/probable date"@en .
+<https://doi.org/10.6069/uwlswd.4a8z-tq62#q> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<https://doi.org/10.6069/uwlswd.4a8z-tq62#n> <http://www.w3.org/2004/02/skos/core#prefLabel> "dates unknown"@en .
 <https://doi.org/10.6069/uwlswd.4a8z-tq62#dx> <http://www.w3.org/2004/02/skos/core#notation> "d"@en .
+<https://doi.org/10.6069/uwlswd.4a8z-tq62#d> <http://www.w3.org/2004/02/skos/core#prefLabel> "continuing resource ceased publication"@en .
 <https://doi.org/10.6069/uwlswd.4a8z-tq62#i> <http://www.w3.org/2004/02/skos/core#prefLabel> "inclusive dates of collection"@en .
-<https://doi.org/10.6069/uwlswd.4a8z-tq62#dx> <http://www.w3.org/2004/02/skos/core#prefLabel> "detailed date [obsolete]"@en .
-
+<https://doi.org/10.6069/uwlswd.4a8z-tq62> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#ConceptScheme> .
+<https://doi.org/10.6069/uwlswd.4a8z-tq62> <http://purl.org/dc/terms/creator> <http://viaf.org/viaf/139541794> .
+<https://doi.org/10.6069/uwlswd.4a8z-tq62#c> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<https://doi.org/10.6069/uwlswd.4a8z-tq62#n> <http://www.w3.org/2004/02/skos/core#notation> "n"@en .
+<https://doi.org/10.6069/uwlswd.4a8z-tq62#r> <http://www.w3.org/2004/02/skos/core#inScheme> <https://doi.org/10.6069/uwlswd.4a8z-tq62> .
+<https://doi.org/10.6069/uwlswd.4a8z-tq62#n> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<https://doi.org/10.6069/uwlswd.4a8z-tq62#b> <http://www.w3.org/2004/02/skos/core#inScheme> <https://doi.org/10.6069/uwlswd.4a8z-tq62> .
+<https://doi.org/10.6069/uwlswd.4a8z-tq62#m> <http://www.w3.org/2004/02/skos/core#definition> "The range of years of publication of a multipart item, excluding the case when both dates for a multipart item are represented by a single year."@en .
+<https://doi.org/10.6069/uwlswd.4a8z-tq62> <http://purl.org/dc/terms/source> <http://marc21rdf.info> .
+<https://doi.org/10.6069/uwlswd.4a8z-tq62#s> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<https://doi.org/10.6069/uwlswd.4a8z-tq62> <http://purl.org/dc/terms/hasFormat> <https://uwlib-cams.github.io/uwlswd_vocabs_marc_006_008/008/all_type_of_date_or_publication_status/all_type_of_date_or_publication_status.rdf> .
+<https://doi.org/10.6069/uwlswd.4a8z-tq62#m> <http://www.w3.org/2004/02/skos/core#notation> "m"@en .
+<https://doi.org/10.6069/uwlswd.4a8z-tq62#cx> <http://www.w3.org/2004/02/skos/core#notation> "c"@en .
+<https://doi.org/10.6069/uwlswd.4a8z-tq62#b> <http://www.w3.org/2004/02/skos/core#prefLabel> "no dates given; b.c. date involved"@en .
+<https://doi.org/10.6069/uwlswd.4a8z-tq62#u> <http://www.w3.org/2004/02/skos/core#inScheme> <https://doi.org/10.6069/uwlswd.4a8z-tq62> .
+<https://doi.org/10.6069/uwlswd.4a8z-tq62#k> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<https://doi.org/10.6069/uwlswd.4a8z-tq62#r> <http://www.w3.org/2004/02/skos/core#prefLabel> "reprint/reissue date and original date"@en .
+<https://doi.org/10.6069/uwlswd.4a8z-tq62> <http://purl.org/dc/terms/description> "Indicates type of date given. Or, for continuing resources, indicates publication status."@en .
+<https://doi.org/10.6069/uwlswd.4a8z-tq62> <http://purl.org/dc/terms/type> <http://purl.org/dc/dcmitype/Dataset> .
+<https://doi.org/10.6069/uwlswd.4a8z-tq62#p> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<https://doi.org/10.6069/uwlswd.4a8z-tq62#u> <http://www.w3.org/2004/02/skos/core#definition> "Used for continuing resources when there is no clear indication that publication of the item has ceased. A beginning date of publication; and the characters uuuu since no ending date is known."@en .
+<https://doi.org/10.6069/uwlswd.4a8z-tq62#m> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<https://doi.org/10.6069/uwlswd.4a8z-tq62#u> <http://www.w3.org/2004/02/skos/core#notation> "u"@en .
+<https://doi.org/10.6069/uwlswd.4a8z-tq62#cx> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<https://doi.org/10.6069/uwlswd.4a8z-tq62#u> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<https://doi.org/10.6069/uwlswd.4a8z-tq62#e> <http://www.w3.org/2004/02/skos/core#prefLabel> "detailed date"@en .
+<https://doi.org/10.6069/uwlswd.4a8z-tq62#s> <http://www.w3.org/2004/02/skos/core#definition> "One known single date of distribution, publication, release, production, execution, writing, or a probable date that can be represented by four digits. The single date associated with the item may be actual, approximate, or conjectural (e.g., if the single date is uncertain). Also used for a single unpublished item such as an original or historical graphic when there is a single date associated with the execution of the item."@en .

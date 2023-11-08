@@ -1,6 +1,5 @@
 @prefix dc: <http://purl.org/dc/elements/1.1/> .
-@prefix dcmitype: <http://purl.org/dc/dcmitype/> .
-@prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix dct: <http://purl.org/dc/terms/> .
 @prefix schema: <https://schema.org/> .
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 
@@ -47,19 +46,25 @@
     skos:scopeNote "This can include microcinematography, time lapse cinematography, trick cinematography, and other techniques. Also used for videorecordings and motion pictures which were made from still image slide sets or filmstrips without adding animation to the images. "@en .
 
 <https://doi.org/10.6069/uwlswd.eje7-jq11> a skos:ConceptScheme ;
-    dc:contributor "Metadata Management Associates" ;
+    dc:contributor "Metadata Management Associates"@en ;
     dc:language "en" ;
-    dcterms:alternative "MARC21 008/34 values for visual materials expressed using RDF" ;
-    dcterms:contributor <http://viaf.org/viaf/151962300> ;
-    dcterms:creator <http://viaf.org/viaf/139541794> ;
-    dcterms:description "Indicates the technique used in creating motion in motion pictures or videorecordings." ;
-    dcterms:issued "2023" ;
-    dcterms:license <http://creativecommons.org/publicdomain/zero/1.0> ;
-    dcterms:provenance <https://doi.org/10.6069/uwlswd.2e2b-y833> ;
-    dcterms:publisher <http://viaf.org/viaf/139541794> ;
-    dcterms:source <http://marc21rdf.info>,
+    dct:alternative "MARC21 008/34 values for visual materials expressed using RDF"@en ;
+    dct:contributor <http://viaf.org/viaf/151962300> ;
+    dct:creator <http://viaf.org/viaf/139541794> ;
+    dct:description "Indicates the technique used in creating motion in motion pictures or videorecordings."@en ;
+    dct:format <http://www.w3.org/ns/formats/Turtle> ;
+    dct:hasFormat <https://uwlib-cams.github.io/uwlswd_vocabs_marc_006_008/008/visual_technique/visual_technique.html>,
+        <https://uwlib-cams.github.io/uwlswd_vocabs_marc_006_008/008/visual_technique/visual_technique.jsonld>,
+        <https://uwlib-cams.github.io/uwlswd_vocabs_marc_006_008/008/visual_technique/visual_technique.nt>,
+        <https://uwlib-cams.github.io/uwlswd_vocabs_marc_006_008/008/visual_technique/visual_technique.rdf> ;
+    dct:issued "2023" ;
+    dct:license <http://creativecommons.org/publicdomain/zero/1.0> ;
+    dct:provenance <https://doi.org/10.6069/uwlswd.2e2b-y833> ;
+    dct:publisher <http://viaf.org/viaf/139541794> ;
+    dct:source <http://marc21rdf.info>,
         <https://www.loc.gov/marc/bibliographic/bd008.html> ;
-    dcterms:title "Visual: technique" ;
-    dcterms:type dcmitype:Dataset ;
-    schema:version "1-0-0" .
+    dct:title "Visual: technique"@en ;
+    dct:type <http://purl.org/dc/dcmitype/Dataset> ;
+    schema:disambiguatingDescription "SKOS Concept Scheme for MARC 00X Values" ;
+    schema:version "1-0-1" .
 

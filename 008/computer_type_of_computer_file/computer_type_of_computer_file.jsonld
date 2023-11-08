@@ -1,0 +1,522 @@
+[
+  {
+    "@id": "https://doi.org/10.6069/uwlswd.mkjn-bp10",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#ConceptScheme"
+    ],
+    "http://purl.org/dc/elements/1.1/contributor": [
+      {
+        "@language": "en",
+        "@value": "Metadata Management Associates"
+      }
+    ],
+    "http://purl.org/dc/elements/1.1/language": [
+      {
+        "@value": "en"
+      }
+    ],
+    "http://purl.org/dc/terms/alternative": [
+      {
+        "@language": "en",
+        "@value": "MARC21 008/26 values for computer files expressed using RDF"
+      }
+    ],
+    "http://purl.org/dc/terms/contributor": [
+      {
+        "@id": "http://viaf.org/viaf/151962300"
+      }
+    ],
+    "http://purl.org/dc/terms/creator": [
+      {
+        "@id": "http://viaf.org/viaf/139541794"
+      }
+    ],
+    "http://purl.org/dc/terms/description": [
+      {
+        "@language": "en",
+        "@value": "Indicates the type of computer file described in the bibliographic record."
+      }
+    ],
+    "http://purl.org/dc/terms/format": [
+      {
+        "@id": "http://www.w3.org/ns/formats/JSON-LD"
+      }
+    ],
+    "http://purl.org/dc/terms/hasFormat": [
+      {
+        "@id": "https://uwlib-cams.github.io/uwlswd_vocabs_marc_006_008/008/computer_type_of_computer_file/computer_type_of_computer_file.html"
+      },
+      {
+        "@id": "https://uwlib-cams.github.io/uwlswd_vocabs_marc_006_008/008/computer_type_of_computer_file/computer_type_of_computer_file.rdf"
+      },
+      {
+        "@id": "https://uwlib-cams.github.io/uwlswd_vocabs_marc_006_008/008/computer_type_of_computer_file/computer_type_of_computer_file.nt"
+      },
+      {
+        "@id": "https://uwlib-cams.github.io/uwlswd_vocabs_marc_006_008/008/computer_type_of_computer_file/computer_type_of_computer_file.ttl"
+      }
+    ],
+    "http://purl.org/dc/terms/issued": [
+      {
+        "@value": "2023"
+      }
+    ],
+    "http://purl.org/dc/terms/license": [
+      {
+        "@id": "http://creativecommons.org/publicdomain/zero/1.0"
+      }
+    ],
+    "http://purl.org/dc/terms/provenance": [
+      {
+        "@id": "https://doi.org/10.6069/uwlswd.2e2b-y833"
+      }
+    ],
+    "http://purl.org/dc/terms/publisher": [
+      {
+        "@id": "http://viaf.org/viaf/139541794"
+      }
+    ],
+    "http://purl.org/dc/terms/source": [
+      {
+        "@id": "https://www.loc.gov/marc/bibliographic/bd008.html"
+      },
+      {
+        "@id": "http://marc21rdf.info"
+      }
+    ],
+    "http://purl.org/dc/terms/title": [
+      {
+        "@language": "en",
+        "@value": "Computer: type of computer file"
+      }
+    ],
+    "http://purl.org/dc/terms/type": [
+      {
+        "@id": "http://purl.org/dc/dcmitype/Dataset"
+      }
+    ],
+    "https://schema.org/disambiguatingDescription": [
+      {
+        "@value": "SKOS Concept Scheme for MARC 00X Values"
+      }
+    ],
+    "https://schema.org/version": [
+      {
+        "@value": "1-0-1"
+      }
+    ]
+  },
+  {
+    "@id": "https://doi.org/10.6069/uwlswd.mkjn-bp10#u",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#definition": [
+      {
+        "@language": "en",
+        "@value": "Type of file is unknown."
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#inScheme": [
+      {
+        "@id": "https://doi.org/10.6069/uwlswd.mkjn-bp10"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#notation": [
+      {
+        "@language": "en",
+        "@value": "u"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "unknown"
+      }
+    ]
+  },
+  {
+    "@id": "https://doi.org/10.6069/uwlswd.mkjn-bp10#d",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#definition": [
+      {
+        "@language": "en",
+        "@value": "Textual, consisting mostly of alphabetic information (words or sentences) converted into a coded format that can be processed, sorted, and manipulated by machine, and then retrieved in many optional formats."
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#inScheme": [
+      {
+        "@id": "https://doi.org/10.6069/uwlswd.mkjn-bp10"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#notation": [
+      {
+        "@language": "en",
+        "@value": "d"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "document"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#scopeNote": [
+      {
+        "@language": "en",
+        "@value": "Includes language material intended to constitute a textual document, whether represented as ASCII or image data. Includes both single bibliographic entities or a collection of bibliographic entities. Includes documents whose primary purpose is textual, even if search software is present."
+      }
+    ]
+  },
+  {
+    "@id": "https://doi.org/10.6069/uwlswd.mkjn-bp10#j",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#definition": [
+      {
+        "@language": "en",
+        "@value": "Supports system-based user interaction."
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#inScheme": [
+      {
+        "@id": "https://doi.org/10.6069/uwlswd.mkjn-bp10"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#notation": [
+      {
+        "@language": "en",
+        "@value": "j"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "online system or service"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#scopeNote": [
+      {
+        "@language": "en",
+        "@value": "May contain nonbibliographic information. If the focus of the record is to describe the system itself, with the content of the databases incidental contained therein, it is coded here. If the resource is an online file where the system is incidental to the description, it falls into another catagory. Examples are: online library systems (consisting of a variety of databases), FTP sites, electronic bulletin boards, network information centers."
+      }
+    ]
+  },
+  {
+    "@id": "https://doi.org/10.6069/uwlswd.mkjn-bp10#f",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#definition": [
+      {
+        "@language": "en",
+        "@value": "Information for a computer to produce fonts."
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#inScheme": [
+      {
+        "@id": "https://doi.org/10.6069/uwlswd.mkjn-bp10"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#notation": [
+      {
+        "@language": "en",
+        "@value": "f"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "font"
+      }
+    ]
+  },
+  {
+    "@id": "https://doi.org/10.6069/uwlswd.mkjn-bp10#g",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#definition": [
+      {
+        "@language": "en",
+        "@value": "Intended for recreational or educational use. Generally games consist of text and software."
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#inScheme": [
+      {
+        "@id": "https://doi.org/10.6069/uwlswd.mkjn-bp10"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#notation": [
+      {
+        "@language": "en",
+        "@value": "g"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "game"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#scopeNote": [
+      {
+        "@language": "en",
+        "@value": "Used for a videogame."
+      }
+    ]
+  },
+  {
+    "@id": "https://doi.org/10.6069/uwlswd.mkjn-bp10#z",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#definition": [
+      {
+        "@language": "en",
+        "@value": "Type of computer file other than numeric data, computer program, representational, document, bibliographic data, font, game, sound, interactive multimedia, online system or service, or a combination of these listed files."
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#inScheme": [
+      {
+        "@id": "https://doi.org/10.6069/uwlswd.mkjn-bp10"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#notation": [
+      {
+        "@language": "en",
+        "@value": "z"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "other"
+      }
+    ]
+  },
+  {
+    "@id": "https://doi.org/10.6069/uwlswd.mkjn-bp10#a",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#definition": [
+      {
+        "@language": "en",
+        "@value": "Mostly numbers or representation by numbers, such as records containing all information on student test scores, all information on football team statistics, etc. Information may be original surveys and/or information that has been summarized or statistically manipulated."
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#inScheme": [
+      {
+        "@id": "https://doi.org/10.6069/uwlswd.mkjn-bp10"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#notation": [
+      {
+        "@language": "en",
+        "@value": "a"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "numeric data"
+      }
+    ]
+  },
+  {
+    "@id": "https://doi.org/10.6069/uwlswd.mkjn-bp10#h",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#definition": [
+      {
+        "@language": "en",
+        "@value": "Data encoding sounds producible by the computer."
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#inScheme": [
+      {
+        "@id": "https://doi.org/10.6069/uwlswd.mkjn-bp10"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#notation": [
+      {
+        "@language": "en",
+        "@value": "h"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "sound"
+      }
+    ]
+  },
+  {
+    "@id": "https://doi.org/10.6069/uwlswd.mkjn-bp10#m",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#definition": [
+      {
+        "@language": "en",
+        "@value": "Combination of two or more types of files."
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#inScheme": [
+      {
+        "@id": "https://doi.org/10.6069/uwlswd.mkjn-bp10"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#notation": [
+      {
+        "@language": "en",
+        "@value": "m"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "combination"
+      }
+    ]
+  },
+  {
+    "@id": "https://doi.org/10.6069/uwlswd.mkjn-bp10#i",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#definition": [
+      {
+        "@language": "en",
+        "@value": "Supports navigation through and manipulation of many kinds of media (i.e., audio, video, etc.). Interactive multimedia usually gives the user a high level of control, often allowing almost conversational interaction with the computer and data."
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#inScheme": [
+      {
+        "@id": "https://doi.org/10.6069/uwlswd.mkjn-bp10"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#notation": [
+      {
+        "@language": "en",
+        "@value": "i"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "interactive multimedia"
+      }
+    ]
+  },
+  {
+    "@id": "https://doi.org/10.6069/uwlswd.mkjn-bp10#c",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#definition": [
+      {
+        "@language": "en",
+        "@value": "Pictorial or graphic information that can be manipulated in conjunction with other types of files to produce graphic patterns that can be used to interpret and give meaning to the information."
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#inScheme": [
+      {
+        "@id": "https://doi.org/10.6069/uwlswd.mkjn-bp10"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#notation": [
+      {
+        "@language": "en",
+        "@value": "c"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "representational"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#scopeNote": [
+      {
+        "@language": "en",
+        "@value": "Does not include a document in image format."
+      }
+    ]
+  },
+  {
+    "@id": "https://doi.org/10.6069/uwlswd.mkjn-bp10#b",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#definition": [
+      {
+        "@language": "en",
+        "@value": "Ordered set of instructions directing the computer to perform basic operations and identifying the information and mechanisms required. Includes videogames and microcomputer software and computer models."
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#inScheme": [
+      {
+        "@id": "https://doi.org/10.6069/uwlswd.mkjn-bp10"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#notation": [
+      {
+        "@language": "en",
+        "@value": "b"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "computer program"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#scopeNote": [
+      {
+        "@language": "en",
+        "@value": "Not used for game, font."
+      }
+    ]
+  },
+  {
+    "@id": "https://doi.org/10.6069/uwlswd.mkjn-bp10#e",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#definition": [
+      {
+        "@language": "en",
+        "@value": "Data with bibliographic citations."
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#inScheme": [
+      {
+        "@id": "https://doi.org/10.6069/uwlswd.mkjn-bp10"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#notation": [
+      {
+        "@language": "en",
+        "@value": "e"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "bibliographic data"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#scopeNote": [
+      {
+        "@language": "en",
+        "@value": "Includes data from library catalogs or citation databases. The data may be in a structured or unstructured form. Search software may be present, but the purpose of the record is description of the content of the bibliographic data or database, rather than description of the online system or service."
+      }
+    ]
+  }
+]

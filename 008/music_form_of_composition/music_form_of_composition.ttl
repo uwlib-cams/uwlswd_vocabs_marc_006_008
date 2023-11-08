@@ -1,6 +1,5 @@
 @prefix dc: <http://purl.org/dc/elements/1.1/> .
-@prefix dcmitype: <http://purl.org/dc/dcmitype/> .
-@prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix dct: <http://purl.org/dc/terms/> .
 @prefix schema: <https://schema.org/> .
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 
@@ -71,7 +70,8 @@
     skos:prefLabel "chorale preludes"@en .
 
 <https://doi.org/10.6069/uwlswd.8rpj-ek77#cn> a skos:Concept ;
-    skos:definition "Canons and rounds. Compositions employing strict imitation throughout."@en ;
+    skos:definition """Canons and rounds. Compositions employing strict imitation
+            throughout."""@en ;
     skos:inScheme <https://doi.org/10.6069/uwlswd.8rpj-ek77> ;
     skos:notation "cn"@en ;
     skos:prefLabel "canons and rounds"@en .
@@ -124,14 +124,18 @@
     skos:inScheme <https://doi.org/10.6069/uwlswd.8rpj-ek77> ;
     skos:notation "df"@en ;
     skos:prefLabel "dance forms"@en ;
-    skos:scopeNote "Includes music for individual dances except for mazurkas, minuets, pavans, polonaises, and waltzes."@en .
+    skos:scopeNote """Includes music for individual dances except for mazurkas,
+            minuets, pavans, polonaises, and waltzes."""@en .
 
 <https://doi.org/10.6069/uwlswd.8rpj-ek77#dv> a skos:Concept ;
-    skos:definition "Divertimentos, serenades, cassations, divertissements, and notturni."@en ;
+    skos:definition """Divertimentos, serenades, cassations, divertissements, and
+            notturni."""@en ;
     skos:inScheme <https://doi.org/10.6069/uwlswd.8rpj-ek77> ;
     skos:notation "dv"@en ;
-    skos:prefLabel "divertimentos, serenades, cassations, divertissements, and notturni"@en ;
-    skos:scopeNote "Used for instrumental music designated as a divertimento, serenade, cassation, divertissement, or a notturno."@en .
+    skos:prefLabel """divertimentos, serenades, cassations, divertissements, and
+            notturni"""@en ;
+    skos:scopeNote """Used for instrumental music designated as a divertimento,
+            serenade, cassation, divertissement, or a notturno."""@en .
 
 <https://doi.org/10.6069/uwlswd.8rpj-ek77#fg> a skos:Concept ;
     skos:definition "Fugues."@en ;
@@ -158,7 +162,8 @@
     skos:inScheme <https://doi.org/10.6069/uwlswd.8rpj-ek77> ;
     skos:notation "ft"@en ;
     skos:prefLabel "fantasias"@en ;
-    skos:scopeNote "Includes instrumental music designated as fantasia, fancies, fantasies, etc."@en .
+    skos:scopeNote """Includes instrumental music designated as fantasia, fancies,
+            fantasies, etc."""@en .
 
 <https://doi.org/10.6069/uwlswd.8rpj-ek77#gm> a skos:Concept ;
     skos:definition "Gospel music."@en ;
@@ -377,7 +382,8 @@
     skos:inScheme <https://doi.org/10.6069/uwlswd.8rpj-ek77> ;
     skos:notation "st"@en ;
     skos:prefLabel "studies and exercises"@en ;
-    skos:scopeNote "Used only when the work is intended for teaching purposes (usually entitled Studies, Etudes, etc.)."@en .
+    skos:scopeNote """Used only when the work is intended for teaching purposes
+            (usually entitled Studies, Etudes, etc.)."""@en .
 
 <https://doi.org/10.6069/uwlswd.8rpj-ek77#su> a skos:Concept ;
     skos:definition "Suites."@en ;
@@ -402,7 +408,9 @@
     skos:inScheme <https://doi.org/10.6069/uwlswd.8rpj-ek77> ;
     skos:notation "tl"@en ;
     skos:prefLabel "teatro lirico"@en ;
-    skos:scopeNote "Used for a large number of more specific terms which describe Spanish and Spanish American theatre music: \"tonadilla escÈnica\", \"fiestas de m˙sica\", \"sainetes lÌricos\", \"entremeses cÛmico-lÌrico,\" etc."@en .
+    skos:scopeNote """Used for a large number of more specific terms which describe
+            Spanish and Spanish American theatre music: "tonadilla esc√©nica", "fiestas de m√∫sica",
+            "sainetes l√≠ricos", "entremeses c√≥mico-l√≠rico," etc."""@en .
 
 <https://doi.org/10.6069/uwlswd.8rpj-ek77#ts> a skos:Concept ;
     skos:definition "Trio-sonatas."@en ;
@@ -415,10 +423,15 @@
     skos:inScheme <https://doi.org/10.6069/uwlswd.8rpj-ek77> ;
     skos:notation "uu"@en ;
     skos:prefLabel "unknown"@en ;
-    skos:scopeNote "Used when the only indication given is the number of instruments and the medium of performance. No structure or genre is given, although they may be implied or understood."@en .
+    skos:scopeNote """Used when the only indication given is the number of
+            instruments and the medium of performance. No structure or genre is given, although they
+            may be implied or understood."""@en .
 
 <https://doi.org/10.6069/uwlswd.8rpj-ek77#vi> a skos:Concept ;
-    skos:definition "Characteristic form of Spanish polyphony, religious or secular, from the 16th to 18th centuries. Religious villancicos were usually sung in important ceremonies (including Christmas, when these songs were sometimes called \"pastoradas\")."@en ;
+    skos:definition """Characteristic form of Spanish polyphony, religious or
+            secular, from the 16th to 18th centuries. Religious villancicos were usually sung in
+            important ceremonies (including Christmas, when these songs were sometimes called
+            "pastoradas")."""@en ;
     skos:inScheme <https://doi.org/10.6069/uwlswd.8rpj-ek77> ;
     skos:notation "vi"@en ;
     skos:prefLabel "villancicos"@en .
@@ -436,33 +449,52 @@
     skos:prefLabel "waltzes"@en .
 
 <https://doi.org/10.6069/uwlswd.8rpj-ek77#za> a skos:Concept ;
-    skos:definition "Term applicable to all musical plays taking that name, from the ìfiestas de zarzuelaî of the 17th/18th-centuries to the so-called ìzarzuela modernaî (ìmodern zarzuelaî) from the mid 19th to the mid 20th-century."@en,
+    skos:definition """Term applicable to all musical plays taking that name, from
+            the ‚Äúfiestas de zarzuela‚Äù of the 17th/18th-centuries to the so-called ‚Äúzarzuela moderna‚Äù
+            (‚Äúmodern zarzuela‚Äù) from the mid 19th to the mid 20th-century."""@en,
         "Zarzuelas."@en ;
     skos:inScheme <https://doi.org/10.6069/uwlswd.8rpj-ek77> ;
     skos:notation "za"@en ;
     skos:prefLabel "zarzuelas"@en .
 
 <https://doi.org/10.6069/uwlswd.8rpj-ek77#zz> a skos:Concept ;
-    skos:definition "Form of composition other than anthems; ballads; bluegrass music; blues; ballets; chaconnes; chants, other religions; chant, Christian; concerti grossi; chorales; chorale preludes; canons and rounds; concertos; chansons, polyphonic; carols; chance compositions; cantatas; country music; canzonas; dance forms; divertimentos, serenades, cassations, divertissements, and notturni; fugues; flamenco; folk music; fantasias; gospel music; hymns; jazz; musical revues and comedies; madrigals; minuets; motets; motion picture music; marches; masses; multiple forms; mazurkas; nocturnes; operas; oratorios; overtures; program music; passion music; polonaises; popular music; preludes; passacaglias; part-songs; pavans; rock music; rondos; ragtime music; ricercars; rhapsodies; requiems; square dance music; songs; sonatas; symphonic poems; studies and exercises; suites; symphonies; toccatas; teatro lirico; trio-sonatas; villancicos; variations; waltzes, or zarzuelas."@en ;
+    skos:definition """Form of composition other than anthems; ballads; bluegrass
+            music; blues; ballets; chaconnes; chants, other religions; chant, Christian; concerti
+            grossi; chorales; chorale preludes; canons and rounds; concertos; chansons, polyphonic;
+            carols; chance compositions; cantatas; country music; canzonas; dance forms;
+            divertimentos, serenades, cassations, divertissements, and notturni; fugues; flamenco;
+            folk music; fantasias; gospel music; hymns; jazz; musical revues and comedies;
+            madrigals; minuets; motets; motion picture music; marches; masses; multiple forms;
+            mazurkas; nocturnes; operas; oratorios; overtures; program music; passion music;
+            polonaises; popular music; preludes; passacaglias; part-songs; pavans; rock music;
+            rondos; ragtime music; ricercars; rhapsodies; requiems; square dance music; songs;
+            sonatas; symphonic poems; studies and exercises; suites; symphonies; toccatas; teatro
+            lirico; trio-sonatas; villancicos; variations; waltzes, or zarzuelas."""@en ;
     skos:inScheme <https://doi.org/10.6069/uwlswd.8rpj-ek77> ;
     skos:notation "zz"@en ;
     skos:prefLabel "other"@en .
 
 <https://doi.org/10.6069/uwlswd.8rpj-ek77> a skos:ConceptScheme ;
-    dc:contributor "Metadata Management Associates" ;
+    dc:contributor "Metadata Management Associates"@en ;
     dc:language "en" ;
-    dcterms:alternative "MARC21 008/18-19 values for music expressed using RDF" ;
-    dcterms:contributor <http://viaf.org/viaf/151962300> ;
-    dcterms:creator <http://viaf.org/viaf/139541794> ;
-    dcterms:description "Indicates the form of composition." ;
-    dcterms:issued "2023" ;
-    dcterms:license <http://creativecommons.org/publicdomain/zero/1.0> ;
-    dcterms:provenance <https://doi.org/10.6069/uwlswd.2e2b-y833> ;
-    dcterms:publisher <http://viaf.org/viaf/139541794> ;
-    dcterms:source <http://marc21rdf.info>,
+    dct:alternative "MARC21 008/18-19 values for music expressed using RDF"@en ;
+    dct:contributor <http://viaf.org/viaf/151962300> ;
+    dct:creator <http://viaf.org/viaf/139541794> ;
+    dct:description "Indicates the form of composition."@en ;
+    dct:format <http://www.w3.org/ns/formats/Turtle> ;
+    dct:hasFormat <https://uwlib-cams.github.io/uwlswd_vocabs_marc_006_008/008/music_form_of_composition/music_form_of_composition.html>,
+        <https://uwlib-cams.github.io/uwlswd_vocabs_marc_006_008/008/music_form_of_composition/music_form_of_composition.jsonld>,
+        <https://uwlib-cams.github.io/uwlswd_vocabs_marc_006_008/008/music_form_of_composition/music_form_of_composition.nt>,
+        <https://uwlib-cams.github.io/uwlswd_vocabs_marc_006_008/008/music_form_of_composition/music_form_of_composition.rdf> ;
+    dct:issued "2023" ;
+    dct:license <http://creativecommons.org/publicdomain/zero/1.0> ;
+    dct:provenance <https://doi.org/10.6069/uwlswd.2e2b-y833> ;
+    dct:publisher <http://viaf.org/viaf/139541794> ;
+    dct:source <http://marc21rdf.info>,
         <https://www.loc.gov/marc/bibliographic/bd008.html> ;
-    dcterms:title "Music: form of composition" ;
-    dcterms:type dcmitype:Dataset ;
+    dct:title "Music: form of composition"@en ;
+    dct:type <http://purl.org/dc/dcmitype/Dataset> ;
     skos:scopeNote "Is based on the terminology in the work itself. Also includes musical genres (e.g., Ragtime music)."@en ;
-    schema:version "1-0-0" .
+    schema:disambiguatingDescription "SKOS Concept Scheme for MARC 00X Values" ;
+    schema:version "1-0-1" .
 

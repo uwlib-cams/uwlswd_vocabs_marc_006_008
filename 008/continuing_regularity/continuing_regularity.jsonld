@@ -1,0 +1,243 @@
+[
+  {
+    "@id": "https://doi.org/10.6069/uwlswd.npns-e903#x",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#definition": [
+      {
+        "@language": "en",
+        "@value": "Intentionally irregular."
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#inScheme": [
+      {
+        "@id": "https://doi.org/10.6069/uwlswd.npns-e903"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#notation": [
+      {
+        "@language": "en",
+        "@value": "x"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "completely irregular"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#scopeNote": [
+      {
+        "@language": "en",
+        "@value": "Used when the frequency is known to be intentionally irregular."
+      }
+    ]
+  },
+  {
+    "@id": "https://doi.org/10.6069/uwlswd.npns-e903#r",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#definition": [
+      {
+        "@language": "en",
+        "@value": "Intended regular publishing pattern."
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#inScheme": [
+      {
+        "@id": "https://doi.org/10.6069/uwlswd.npns-e903"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#notation": [
+      {
+        "@language": "en",
+        "@value": "r"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "regular"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#scopeNote": [
+      {
+        "@language": "en",
+        "@value": "This may be determined from information on the piece or by examining the publishing pattern. Thus, use this pattern if an item states that it is to be issued, for example, bimonthly, even though the publishing pattern is known to have occasional variations due to publishing difficulties."
+      }
+    ]
+  },
+  {
+    "@id": "https://doi.org/10.6069/uwlswd.npns-e903#u",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#definition": [
+      {
+        "@language": "en",
+        "@value": "Regularity of the item is unknown."
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#inScheme": [
+      {
+        "@id": "https://doi.org/10.6069/uwlswd.npns-e903"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#notation": [
+      {
+        "@language": "en",
+        "@value": "u"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "unknown"
+      }
+    ]
+  },
+  {
+    "@id": "https://doi.org/10.6069/uwlswd.npns-e903#n",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#definition": [
+      {
+        "@language": "en",
+        "@value": "Predictable irregularity pattern."
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#inScheme": [
+      {
+        "@id": "https://doi.org/10.6069/uwlswd.npns-e903"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#notation": [
+      {
+        "@language": "en",
+        "@value": "n"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "normalized irregular"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#scopeNote": [
+      {
+        "@language": "en",
+        "@value": "Used, for example, when the publishing pattern intentionally deviates from a standard pattern (example: Monthly, except July and Aug) or to accommodate an annual cumulation."
+      }
+    ]
+  },
+  {
+    "@id": "https://doi.org/10.6069/uwlswd.npns-e903",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#ConceptScheme"
+    ],
+    "http://purl.org/dc/elements/1.1/contributor": [
+      {
+        "@language": "en",
+        "@value": "Metadata Management Associates"
+      }
+    ],
+    "http://purl.org/dc/elements/1.1/language": [
+      {
+        "@value": "en"
+      }
+    ],
+    "http://purl.org/dc/terms/alternative": [
+      {
+        "@language": "en",
+        "@value": "MARC21 008/19 values for continuing resources expressed using RDF"
+      }
+    ],
+    "http://purl.org/dc/terms/contributor": [
+      {
+        "@id": "http://viaf.org/viaf/151962300"
+      }
+    ],
+    "http://purl.org/dc/terms/creator": [
+      {
+        "@id": "http://viaf.org/viaf/139541794"
+      }
+    ],
+    "http://purl.org/dc/terms/description": [
+      {
+        "@language": "en",
+        "@value": "Indicates the intended regularity of an item."
+      }
+    ],
+    "http://purl.org/dc/terms/format": [
+      {
+        "@id": "http://www.w3.org/ns/formats/JSON-LD"
+      }
+    ],
+    "http://purl.org/dc/terms/hasFormat": [
+      {
+        "@id": "https://uwlib-cams.github.io/uwlswd_vocabs_marc_006_008/008/continuing_regularity/continuing_regularity.html"
+      },
+      {
+        "@id": "https://uwlib-cams.github.io/uwlswd_vocabs_marc_006_008/008/continuing_regularity/continuing_regularity.rdf"
+      },
+      {
+        "@id": "https://uwlib-cams.github.io/uwlswd_vocabs_marc_006_008/008/continuing_regularity/continuing_regularity.nt"
+      },
+      {
+        "@id": "https://uwlib-cams.github.io/uwlswd_vocabs_marc_006_008/008/continuing_regularity/continuing_regularity.ttl"
+      }
+    ],
+    "http://purl.org/dc/terms/issued": [
+      {
+        "@value": "2023"
+      }
+    ],
+    "http://purl.org/dc/terms/license": [
+      {
+        "@id": "http://creativecommons.org/publicdomain/zero/1.0"
+      }
+    ],
+    "http://purl.org/dc/terms/provenance": [
+      {
+        "@id": "https://doi.org/10.6069/uwlswd.2e2b-y833"
+      }
+    ],
+    "http://purl.org/dc/terms/publisher": [
+      {
+        "@id": "http://viaf.org/viaf/139541794"
+      }
+    ],
+    "http://purl.org/dc/terms/source": [
+      {
+        "@id": "https://www.loc.gov/marc/bibliographic/bd008.html"
+      },
+      {
+        "@id": "http://marc21rdf.info"
+      }
+    ],
+    "http://purl.org/dc/terms/title": [
+      {
+        "@language": "en",
+        "@value": "Continuing: regularity"
+      }
+    ],
+    "http://purl.org/dc/terms/type": [
+      {
+        "@id": "http://purl.org/dc/dcmitype/Dataset"
+      }
+    ],
+    "https://schema.org/disambiguatingDescription": [
+      {
+        "@value": "SKOS Concept Scheme for MARC 00X Values"
+      }
+    ],
+    "https://schema.org/version": [
+      {
+        "@value": "1-0-1"
+      }
+    ]
+  }
+]

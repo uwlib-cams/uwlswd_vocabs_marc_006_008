@@ -1,1 +1,98 @@
-<?xml version="1.0" encoding="UTF-8"?> <rdf:RDF xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dct="http://purl.org/dc/terms/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:schema="https://schema.org/" xmlns:skos="http://www.w3.org/2004/02/skos/core#"> <!-- Scheme: MARC21-008: Target audience --> <skos:ConceptScheme rdf:about="https://doi.org/10.6069/uwlswd.aec4-nv40"> <dct:type rdf:resource="http://purl.org/dc/dcmitype/Dataset"/> <dct:title>Some: target audience</dct:title> <dct:alternative>MARC21 008/22 values for some materials expressed using RDF</dct:alternative> <dct:description>Indicates the audience for which the item is intended.</dct:description> <dct:publisher rdf:resource="http://viaf.org/viaf/139541794"/> <dct:source rdf:resource="https://www.loc.gov/marc/bibliographic/bd008.html"/> <dct:source rdf:resource="http://marc21rdf.info"/> <dct:provenance rdf:resource="https://doi.org/10.6069/uwlswd.2e2b-y833"/> <dct:creator rdf:resource="http://viaf.org/viaf/139541794"/> <dct:contributor rdf:resource="http://viaf.org/viaf/151962300"/> <dc:contributor>Metadata Management Associates</dc:contributor> <dct:issued>2023</dct:issued> <dc:language>en</dc:language> <dct:license rdf:resource="http://creativecommons.org/publicdomain/zero/1.0"/> <schema:version>1-0-0</schema:version> </skos:ConceptScheme> <!-- Concept: adolescent --> <skos:Concept rdf:about="https://doi.org/10.6069/uwlswd.aec4-nv40#d"> <skos:inScheme rdf:resource="https://doi.org/10.6069/uwlswd.aec4-nv40"/> <skos:prefLabel xml:lang="en">adolescent</skos:prefLabel> <skos:definition xml:lang="en">Young people, approximate ages 14-17.</skos:definition> <skos:notation xml:lang="en">d</skos:notation> </skos:Concept> <!-- Concept: adult --> <skos:Concept rdf:about="https://doi.org/10.6069/uwlswd.aec4-nv40#e"> <skos:inScheme rdf:resource="https://doi.org/10.6069/uwlswd.aec4-nv40"/> <skos:prefLabel xml:lang="en">adult</skos:prefLabel> <skos:definition xml:lang="en">Intended for adults.</skos:definition> <skos:notation xml:lang="en">e</skos:notation> </skos:Concept> <!-- Concept: general --> <skos:Concept rdf:about="https://doi.org/10.6069/uwlswd.aec4-nv40#g"> <skos:inScheme rdf:resource="https://doi.org/10.6069/uwlswd.aec4-nv40"/> <skos:prefLabel xml:lang="en">general</skos:prefLabel> <skos:definition xml:lang="en">Of general interest and not aimed at a particular target audience.</skos:definition> <skos:notation xml:lang="en">g</skos:notation> </skos:Concept> <!-- Concept: juvenile --> <skos:Concept rdf:about="https://doi.org/10.6069/uwlswd.aec4-nv40#j"> <skos:inScheme rdf:resource="https://doi.org/10.6069/uwlswd.aec4-nv40"/> <skos:prefLabel xml:lang="en">juvenile</skos:prefLabel> <skos:definition xml:lang="en">Children and young people, approximate ages 0-15.</skos:definition> <skos:notation xml:lang="en">j</skos:notation> </skos:Concept> <!-- Concept: pre-adolescent --> <skos:Concept rdf:about="https://doi.org/10.6069/uwlswd.aec4-nv40#c"> <skos:inScheme rdf:resource="https://doi.org/10.6069/uwlswd.aec4-nv40"/> <skos:prefLabel xml:lang="en">pre-adolescent</skos:prefLabel> <skos:definition xml:lang="en">Young people, approximate ages 9-13.</skos:definition> <skos:notation xml:lang="en">c</skos:notation> </skos:Concept> <!-- Concept: preschool --> <skos:Concept rdf:about="https://doi.org/10.6069/uwlswd.aec4-nv40#a"> <skos:inScheme rdf:resource="https://doi.org/10.6069/uwlswd.aec4-nv40"/> <skos:prefLabel xml:lang="en">preschool</skos:prefLabel> <skos:definition xml:lang="en">Children, approximate ages 0-5 years.</skos:definition> <skos:notation xml:lang="en">a</skos:notation> </skos:Concept> <!-- Concept: primary --> <skos:Concept rdf:about="https://doi.org/10.6069/uwlswd.aec4-nv40#b"> <skos:inScheme rdf:resource="https://doi.org/10.6069/uwlswd.aec4-nv40"/> <skos:prefLabel xml:lang="en">primary</skos:prefLabel> <skos:definition xml:lang="en">Children, approximate ages 6-8 years.</skos:definition> <skos:notation xml:lang="en">b</skos:notation> </skos:Concept> <!-- Concept: specialized --> <skos:Concept rdf:about="https://doi.org/10.6069/uwlswd.aec4-nv40#f"> <skos:inScheme rdf:resource="https://doi.org/10.6069/uwlswd.aec4-nv40"/> <skos:prefLabel xml:lang="en">specialized</skos:prefLabel> <skos:definition xml:lang="en">Aimed at a particular audience and the nature of the presentation would make the item of little interest to other audiences.</skos:definition> <skos:notation xml:lang="en">f</skos:notation> <skos:scopeNote xml:lang="en">Examples include: 1) technical material geared to a specialized audience, and 2) items which address a limited audience; for example, the employees of a single organization.</skos:scopeNote> </skos:Concept> <!-- Concept: unknown or not specified. Added scope note -dkt. --> <skos:Concept rdf:about="https://doi.org/10.6069/uwlswd.aec4-nv40#pound"> <skos:inScheme rdf:resource="https://doi.org/10.6069/uwlswd.aec4-nv40"/> <skos:prefLabel xml:lang="en">unknown or not specified</skos:prefLabel> <skos:definition xml:lang="en">Target audience for which the material is intended is unknown or is not specified.</skos:definition> <skos:scopeNote xml:lang="en">For video visual materials: use for all original or historical graphic material.</skos:scopeNote> <skos:notation xml:lang="en">#</skos:notation> </skos:Concept> </rdf:RDF>
+<?xml version="1.0" encoding="utf-8"?>
+<rdf:RDF
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:dct="http://purl.org/dc/terms/"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:schema="https://schema.org/"
+   xmlns:skos="http://www.w3.org/2004/02/skos/core#"
+>
+  <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.aec4-nv40">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#ConceptScheme"/>
+    <dct:type rdf:resource="http://purl.org/dc/dcmitype/Dataset"/>
+    <dct:title xml:lang="en">Some: target audience</dct:title>
+    <dct:alternative xml:lang="en">MARC21 008/22 values for some materials expressed using RDF</dct:alternative>
+    <dct:description xml:lang="en">Indicates the audience for which the item is intended.</dct:description>
+    <schema:disambiguatingDescription>SKOS Concept Scheme for MARC 00X Values</schema:disambiguatingDescription>
+    <dct:publisher rdf:resource="http://viaf.org/viaf/139541794"/>
+    <dct:source rdf:resource="https://www.loc.gov/marc/bibliographic/bd008.html"/>
+    <dct:source rdf:resource="http://marc21rdf.info"/>
+    <dct:provenance rdf:resource="https://doi.org/10.6069/uwlswd.2e2b-y833"/>
+    <dct:creator rdf:resource="http://viaf.org/viaf/139541794"/>
+    <dct:contributor rdf:resource="http://viaf.org/viaf/151962300"/>
+    <dc:contributor xml:lang="en">Metadata Management Associates</dc:contributor>
+    <dct:issued>2023</dct:issued>
+    <dc:language>en</dc:language>
+    <dct:license rdf:resource="http://creativecommons.org/publicdomain/zero/1.0"/>
+    <schema:version>1-0-1</schema:version>
+    <dct:hasFormat rdf:resource="https://uwlib-cams.github.io/uwlswd_vocabs_marc_006_008/008/some_target_audience/some_target_audience.ttl"/>
+    <dct:hasFormat rdf:resource="https://uwlib-cams.github.io/uwlswd_vocabs_marc_006_008/008/some_target_audience/some_target_audience.nt"/>
+    <dct:hasFormat rdf:resource="https://uwlib-cams.github.io/uwlswd_vocabs_marc_006_008/008/some_target_audience/some_target_audience.jsonld"/>
+    <dct:hasFormat rdf:resource="https://uwlib-cams.github.io/uwlswd_vocabs_marc_006_008/008/some_target_audience/some_target_audience.html"/>
+    <dct:format rdf:resource="http://www.w3.org/ns/formats/RDF_XML"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.aec4-nv40#g">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <skos:inScheme rdf:resource="https://doi.org/10.6069/uwlswd.aec4-nv40"/>
+    <skos:prefLabel xml:lang="en">general</skos:prefLabel>
+    <skos:definition xml:lang="en">Of general interest and not aimed at a particular target audience.</skos:definition>
+    <skos:notation xml:lang="en">g</skos:notation>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.aec4-nv40#a">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <skos:inScheme rdf:resource="https://doi.org/10.6069/uwlswd.aec4-nv40"/>
+    <skos:prefLabel xml:lang="en">preschool</skos:prefLabel>
+    <skos:definition xml:lang="en">Children, approximate ages 0-5 years.</skos:definition>
+    <skos:notation xml:lang="en">a</skos:notation>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.aec4-nv40#j">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <skos:inScheme rdf:resource="https://doi.org/10.6069/uwlswd.aec4-nv40"/>
+    <skos:prefLabel xml:lang="en">juvenile</skos:prefLabel>
+    <skos:definition xml:lang="en">Children and young people, approximate ages 0-15.</skos:definition>
+    <skos:notation xml:lang="en">j</skos:notation>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.aec4-nv40#f">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <skos:inScheme rdf:resource="https://doi.org/10.6069/uwlswd.aec4-nv40"/>
+    <skos:prefLabel xml:lang="en">specialized</skos:prefLabel>
+    <skos:definition xml:lang="en">Aimed at a particular audience and the nature of the presentation would make the item of little interest to other audiences.</skos:definition>
+    <skos:notation xml:lang="en">f</skos:notation>
+    <skos:scopeNote xml:lang="en">Examples include: 1) technical material geared to a specialized audience, and 2) items which address a limited audience; for example, the employees of a single organization.</skos:scopeNote>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.aec4-nv40#e">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <skos:inScheme rdf:resource="https://doi.org/10.6069/uwlswd.aec4-nv40"/>
+    <skos:prefLabel xml:lang="en">adult</skos:prefLabel>
+    <skos:definition xml:lang="en">Intended for adults.</skos:definition>
+    <skos:notation xml:lang="en">e</skos:notation>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.aec4-nv40#b">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <skos:inScheme rdf:resource="https://doi.org/10.6069/uwlswd.aec4-nv40"/>
+    <skos:prefLabel xml:lang="en">primary</skos:prefLabel>
+    <skos:definition xml:lang="en">Children, approximate ages 6-8 years.</skos:definition>
+    <skos:notation xml:lang="en">b</skos:notation>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.aec4-nv40#pound">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <skos:inScheme rdf:resource="https://doi.org/10.6069/uwlswd.aec4-nv40"/>
+    <skos:prefLabel xml:lang="en">unknown or not specified</skos:prefLabel>
+    <skos:definition xml:lang="en">Target audience for which the material is intended is unknown or is not specified.</skos:definition>
+    <skos:scopeNote xml:lang="en">For video visual materials: use for all original or historical graphic material.</skos:scopeNote>
+    <skos:notation xml:lang="en">#</skos:notation>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.aec4-nv40#c">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <skos:inScheme rdf:resource="https://doi.org/10.6069/uwlswd.aec4-nv40"/>
+    <skos:prefLabel xml:lang="en">pre-adolescent</skos:prefLabel>
+    <skos:definition xml:lang="en">Young people, approximate ages 9-13.</skos:definition>
+    <skos:notation xml:lang="en">c</skos:notation>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.aec4-nv40#d">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <skos:inScheme rdf:resource="https://doi.org/10.6069/uwlswd.aec4-nv40"/>
+    <skos:prefLabel xml:lang="en">adolescent</skos:prefLabel>
+    <skos:definition xml:lang="en">Young people, approximate ages 14-17.</skos:definition>
+    <skos:notation xml:lang="en">d</skos:notation>
+  </rdf:Description>
+</rdf:RDF>

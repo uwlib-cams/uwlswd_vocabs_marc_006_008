@@ -1,91 +1,96 @@
-<https://doi.org/10.6069/uwlswd.62zz-1534#m> <http://www.w3.org/2004/02/skos/core#scopeNote> "Used for any title that is a series, regardless of its treatment."@en .
-<https://doi.org/10.6069/uwlswd.62zz-1534#d> <http://www.w3.org/2004/02/skos/core#notation> "d"@en .
-<https://doi.org/10.6069/uwlswd.62zz-1534#l> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
-<https://doi.org/10.6069/uwlswd.62zz-1534#d> <http://www.w3.org/2004/02/skos/core#prefLabel> "updating database"@en .
-<https://doi.org/10.6069/uwlswd.62zz-1534#r> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
-<https://doi.org/10.6069/uwlswd.62zz-1534#s> <http://www.w3.org/2004/02/skos/core#definition> "Periodical that can be issued by an organization, generally to its members, or to a specific audience to give current information about a topic or sphere of activity."@en .
 <https://doi.org/10.6069/uwlswd.62zz-1534> <http://purl.org/dc/terms/license> <http://creativecommons.org/publicdomain/zero/1.0> .
-<https://doi.org/10.6069/uwlswd.62zz-1534#r> <http://www.w3.org/2004/02/skos/core#prefLabel> "repository"@en .
-<https://doi.org/10.6069/uwlswd.62zz-1534#s> <http://www.w3.org/2004/02/skos/core#inScheme> <https://doi.org/10.6069/uwlswd.62zz-1534> .
-<https://doi.org/10.6069/uwlswd.62zz-1534> <http://purl.org/dc/elements/1.1/language> "en" .
-<https://doi.org/10.6069/uwlswd.62zz-1534#h> <http://www.w3.org/2004/02/skos/core#prefLabel> "blog"@en .
-<https://doi.org/10.6069/uwlswd.62zz-1534#n> <http://www.w3.org/2004/02/skos/core#inScheme> <https://doi.org/10.6069/uwlswd.62zz-1534> .
-<https://doi.org/10.6069/uwlswd.62zz-1534#l> <http://www.w3.org/2004/02/skos/core#notation> "l"@en .
-<https://doi.org/10.6069/uwlswd.62zz-1534> <http://purl.org/dc/terms/source> <http://marc21rdf.info> .
-<https://doi.org/10.6069/uwlswd.62zz-1534> <http://purl.org/dc/terms/provenance> <https://doi.org/10.6069/uwlswd.2e2b-y833> .
-<https://doi.org/10.6069/uwlswd.62zz-1534#d> <http://www.w3.org/2004/02/skos/core#inScheme> <https://doi.org/10.6069/uwlswd.62zz-1534> .
-<https://doi.org/10.6069/uwlswd.62zz-1534#p> <http://www.w3.org/2004/02/skos/core#definition> "Includes resources with separate articles, stories, other writings, etc. that are published or distributed generally more frequently than annual including journals, magazines, newsletters and blogs."@en .
-<https://doi.org/10.6069/uwlswd.62zz-1534#t> <http://www.w3.org/2004/02/skos/core#inScheme> <https://doi.org/10.6069/uwlswd.62zz-1534> .
-<https://doi.org/10.6069/uwlswd.62zz-1534> <http://purl.org/dc/terms/source> <https://www.loc.gov/marc/bibliographic/bd008.html> .
-<https://doi.org/10.6069/uwlswd.62zz-1534#j> <http://www.w3.org/2004/02/skos/core#definition> "Periodical addressing readers interested in a specific subject or profession. Often includes original research and current developments."@en .
-<https://doi.org/10.6069/uwlswd.62zz-1534#l> <http://www.w3.org/2004/02/skos/core#prefLabel> "updating loose-leaf"@en .
-<https://doi.org/10.6069/uwlswd.62zz-1534#w> <http://www.w3.org/2004/02/skos/core#inScheme> <https://doi.org/10.6069/uwlswd.62zz-1534> .
-<https://doi.org/10.6069/uwlswd.62zz-1534#p> <http://www.w3.org/2004/02/skos/core#notation> "p"@en .
-<https://doi.org/10.6069/uwlswd.62zz-1534#h> <http://www.w3.org/2004/02/skos/core#inScheme> <https://doi.org/10.6069/uwlswd.62zz-1534> .
-<https://doi.org/10.6069/uwlswd.62zz-1534> <http://purl.org/dc/terms/description> "Indicates the type of continuing resource." .
-<https://doi.org/10.6069/uwlswd.62zz-1534> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#ConceptScheme> .
-<https://doi.org/10.6069/uwlswd.62zz-1534#t> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
-<https://doi.org/10.6069/uwlswd.62zz-1534#j> <http://www.w3.org/2004/02/skos/core#inScheme> <https://doi.org/10.6069/uwlswd.62zz-1534> .
-<https://doi.org/10.6069/uwlswd.62zz-1534#w> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
-<https://doi.org/10.6069/uwlswd.62zz-1534#m> <http://www.w3.org/2004/02/skos/core#definition> "A group of analyzable items (i.e., each piece has a distinctive title) that are related to one another by a collective title. The individual items may or may not be numbered."@en .
 <https://doi.org/10.6069/uwlswd.62zz-1534#n> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
-<https://doi.org/10.6069/uwlswd.62zz-1534#pound> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
-<https://doi.org/10.6069/uwlswd.62zz-1534> <http://purl.org/dc/elements/1.1/contributor> "Metadata Management Associates" .
-<https://doi.org/10.6069/uwlswd.62zz-1534#n> <http://www.w3.org/2004/02/skos/core#notation> "n"@en .
-<https://doi.org/10.6069/uwlswd.62zz-1534#pound> <http://www.w3.org/2004/02/skos/core#notation> "#"@en .
-<https://doi.org/10.6069/uwlswd.62zz-1534#w> <http://www.w3.org/2004/02/skos/core#scopeNote> "Not used for periodical, newspaper, magazine, blog, journal, repository, newsletter, directory or database."@en .
-<https://doi.org/10.6069/uwlswd.62zz-1534#n> <http://www.w3.org/2004/02/skos/core#prefLabel> "newspaper"@en .
-<https://doi.org/10.6069/uwlswd.62zz-1534#g> <http://www.w3.org/2004/02/skos/core#inScheme> <https://doi.org/10.6069/uwlswd.62zz-1534> .
-<https://doi.org/10.6069/uwlswd.62zz-1534#pound> <http://www.w3.org/2004/02/skos/core#scopeNote> "Used for yearbooks and annual reports."@en .
-<https://doi.org/10.6069/uwlswd.62zz-1534#m> <http://www.w3.org/2004/02/skos/core#prefLabel> "monographic series"@en .
-<https://doi.org/10.6069/uwlswd.62zz-1534#r> <http://www.w3.org/2004/02/skos/core#inScheme> <https://doi.org/10.6069/uwlswd.62zz-1534> .
-<https://doi.org/10.6069/uwlswd.62zz-1534#t> <http://www.w3.org/2004/02/skos/core#prefLabel> "directory"@en .
-<https://doi.org/10.6069/uwlswd.62zz-1534#j> <http://www.w3.org/2004/02/skos/core#notation> "j"@en .
-<https://doi.org/10.6069/uwlswd.62zz-1534#r> <http://www.w3.org/2004/02/skos/core#definition> "Online collection, often scholarly in nature, for storing the publications of an institution, a group of institutions. Can also be a collection of materials on a specific subject, or from a specific community."@en .
-<https://doi.org/10.6069/uwlswd.62zz-1534#p> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
-<https://doi.org/10.6069/uwlswd.62zz-1534#w> <http://www.w3.org/2004/02/skos/core#prefLabel> "updating web site"@en .
-<https://doi.org/10.6069/uwlswd.62zz-1534#g> <http://www.w3.org/2004/02/skos/core#prefLabel> "magazine"@en .
-<https://doi.org/10.6069/uwlswd.62zz-1534#s> <http://www.w3.org/2004/02/skos/core#prefLabel> "newsletter"@en .
-<https://doi.org/10.6069/uwlswd.62zz-1534#s> <http://www.w3.org/2004/02/skos/core#notation> "s"@en .
-<https://doi.org/10.6069/uwlswd.62zz-1534#l> <http://www.w3.org/2004/02/skos/core#definition> "Bibliographic resource that consists of a base volume(s) updated by separate pages which are inserted, removed, and/or substituted."@en .
-<https://doi.org/10.6069/uwlswd.62zz-1534#j> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
 <https://doi.org/10.6069/uwlswd.62zz-1534#h> <http://www.w3.org/2004/02/skos/core#notation> "h"@en .
-<https://doi.org/10.6069/uwlswd.62zz-1534#j> <http://www.w3.org/2004/02/skos/core#scopeNote> "Journals can be print or digital."@en .
-<https://doi.org/10.6069/uwlswd.62zz-1534> <http://purl.org/dc/terms/type> <http://purl.org/dc/dcmitype/Dataset> .
-<https://doi.org/10.6069/uwlswd.62zz-1534> <http://purl.org/dc/terms/creator> <http://viaf.org/viaf/139541794> .
-<https://doi.org/10.6069/uwlswd.62zz-1534#m> <http://www.w3.org/2004/02/skos/core#inScheme> <https://doi.org/10.6069/uwlswd.62zz-1534> .
-<https://doi.org/10.6069/uwlswd.62zz-1534#g> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
-<https://doi.org/10.6069/uwlswd.62zz-1534#w> <http://www.w3.org/2004/02/skos/core#definition> "Web site that is updated."@en .
-<https://doi.org/10.6069/uwlswd.62zz-1534#w> <http://www.w3.org/2004/02/skos/core#notation> "w"@en .
-<https://doi.org/10.6069/uwlswd.62zz-1534#g> <http://www.w3.org/2004/02/skos/core#notation> "g"@en .
-<https://doi.org/10.6069/uwlswd.62zz-1534> <http://purl.org/dc/terms/contributor> <http://viaf.org/viaf/151962300> .
-<https://doi.org/10.6069/uwlswd.62zz-1534#t> <http://www.w3.org/2004/02/skos/core#definition> "Itemized listing of information for the identification or location of persons, objects, organizations or places, arranged alphabetically, chronologically, or in other systematic order, and updated over time."@en .
-<https://doi.org/10.6069/uwlswd.62zz-1534#r> <http://www.w3.org/2004/02/skos/core#notation> "r"@en .
-<https://doi.org/10.6069/uwlswd.62zz-1534#pound> <http://www.w3.org/2004/02/skos/core#prefLabel> "none of the following"@en .
-<https://doi.org/10.6069/uwlswd.62zz-1534#pound> <http://www.w3.org/2004/02/skos/core#inScheme> <https://doi.org/10.6069/uwlswd.62zz-1534> .
-<https://doi.org/10.6069/uwlswd.62zz-1534> <https://schema.org/version> "1-0-0" .
-<https://doi.org/10.6069/uwlswd.62zz-1534> <http://purl.org/dc/terms/alternative> "MARC21 008/21 values for continuing resources expressed using RDF" .
-<https://doi.org/10.6069/uwlswd.62zz-1534#l> <http://www.w3.org/2004/02/skos/core#inScheme> <https://doi.org/10.6069/uwlswd.62zz-1534> .
-<https://doi.org/10.6069/uwlswd.62zz-1534#s> <http://www.w3.org/2004/02/skos/core#scopeNote> "Can be print or digital."@en .
-<https://doi.org/10.6069/uwlswd.62zz-1534#p> <http://www.w3.org/2004/02/skos/core#inScheme> <https://doi.org/10.6069/uwlswd.62zz-1534> .
-<https://doi.org/10.6069/uwlswd.62zz-1534#p> <http://www.w3.org/2004/02/skos/core#prefLabel> "periodical"@en .
-<https://doi.org/10.6069/uwlswd.62zz-1534#g> <http://www.w3.org/2004/02/skos/core#definition> "Periodical addressing non-scientific, non-professional general interest topics. Magazines can be print or digital."@en .
-<https://doi.org/10.6069/uwlswd.62zz-1534> <http://purl.org/dc/terms/title> "Continuing: type of continuing resource" .
-<https://doi.org/10.6069/uwlswd.62zz-1534#m> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
-<https://doi.org/10.6069/uwlswd.62zz-1534#r> <http://www.w3.org/2004/02/skos/core#scopeNote> "Materials collected include e-prints, technical reports, theses and dissertations, datasets, and teaching and learning materials."@en .
 <https://doi.org/10.6069/uwlswd.62zz-1534#s> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
-<https://doi.org/10.6069/uwlswd.62zz-1534> <http://purl.org/dc/terms/issued> "2023" .
-<https://doi.org/10.6069/uwlswd.62zz-1534#t> <http://www.w3.org/2004/02/skos/core#scopeNote> "Can be print or digital."@en .
-<https://doi.org/10.6069/uwlswd.62zz-1534#d> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<https://doi.org/10.6069/uwlswd.62zz-1534#n> <http://www.w3.org/2004/02/skos/core#prefLabel> "newspaper"@en .
+<https://doi.org/10.6069/uwlswd.62zz-1534#l> <http://www.w3.org/2004/02/skos/core#definition> "Bibliographic resource that consists of a base volume(s) updated by separate pages which are inserted, removed, and/or substituted."@en .
 <https://doi.org/10.6069/uwlswd.62zz-1534#t> <http://www.w3.org/2004/02/skos/core#notation> "t"@en .
-<https://doi.org/10.6069/uwlswd.62zz-1534#p> <http://www.w3.org/2004/02/skos/core#scopeNote> "Can be print or digital."@en .
-<https://doi.org/10.6069/uwlswd.62zz-1534#pound> <http://www.w3.org/2004/02/skos/core#definition> "Type of continuing resource other than updating database, updating loose-leaf, monographic series, newspaper, periodical, magazine, blog, journal, repository, newsletter, directory, or an updating web site."@en .
-<https://doi.org/10.6069/uwlswd.62zz-1534> <http://purl.org/dc/terms/publisher> <http://viaf.org/viaf/139541794> .
-<https://doi.org/10.6069/uwlswd.62zz-1534#j> <http://www.w3.org/2004/02/skos/core#prefLabel> "journal"@en .
-<https://doi.org/10.6069/uwlswd.62zz-1534#n> <http://www.w3.org/2004/02/skos/core#definition> "Continuing resource that is mainly designed to be a primary source of written information on current events connected with public affairs, either local, national and/or international in scope. It contains a broad range of news on all subjects and activities and is not limited to any specific subject matter. It may include (although not primarily) articles on literary or other subjects as well as advertising, legal notices, vital statistics, and illustrations."@en .
-<https://doi.org/10.6069/uwlswd.62zz-1534#h> <http://www.w3.org/2004/02/skos/core#scopeNote> "Blog content may be written or collected by the site owner, or contributed by users."@en .
-<https://doi.org/10.6069/uwlswd.62zz-1534#h> <http://www.w3.org/2004/02/skos/core#definition> "Online periodical appearing on a web page that may contain web links and/or comments on a particular topic or subject (broad or narrow in scope), often in the form of short articles arranged in reverse chronological order, the most recently added piece of information appearing first."@en .
-<https://doi.org/10.6069/uwlswd.62zz-1534#m> <http://www.w3.org/2004/02/skos/core#notation> "m"@en .
-<https://doi.org/10.6069/uwlswd.62zz-1534#h> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<https://doi.org/10.6069/uwlswd.62zz-1534#w> <http://www.w3.org/2004/02/skos/core#prefLabel> "updating web site"@en .
 <https://doi.org/10.6069/uwlswd.62zz-1534#d> <http://www.w3.org/2004/02/skos/core#definition> "Collection of logically interrelated data stored together in one or more computerized files, usually created and managed by a database management system and which may be accessible via a search interface."@en .
-
+<https://doi.org/10.6069/uwlswd.62zz-1534> <http://purl.org/dc/terms/hasFormat> <https://uwlib-cams.github.io/uwlswd_vocabs_marc_006_008/008/continuing_type_of_continuing_resource/continuing_type_of_continuing_resource.ttl> .
+<https://doi.org/10.6069/uwlswd.62zz-1534#h> <http://www.w3.org/2004/02/skos/core#scopeNote> "Blog content may be written or collected by the site owner, or contributed by users."@en .
+<https://doi.org/10.6069/uwlswd.62zz-1534#p> <http://www.w3.org/2004/02/skos/core#inScheme> <https://doi.org/10.6069/uwlswd.62zz-1534> .
+<https://doi.org/10.6069/uwlswd.62zz-1534> <http://purl.org/dc/terms/alternative> "MARC21 008/21 values for continuing resources expressed using RDF"@en .
+<https://doi.org/10.6069/uwlswd.62zz-1534#s> <http://www.w3.org/2004/02/skos/core#scopeNote> "Can be print or digital."@en .
+<https://doi.org/10.6069/uwlswd.62zz-1534> <http://purl.org/dc/terms/contributor> <http://viaf.org/viaf/151962300> .
+<https://doi.org/10.6069/uwlswd.62zz-1534#r> <http://www.w3.org/2004/02/skos/core#notation> "r"@en .
+<https://doi.org/10.6069/uwlswd.62zz-1534#m> <http://www.w3.org/2004/02/skos/core#definition> "A group of analyzable items (i.e., each piece has a distinctive title) that are related to one another by a collective title. The individual items may or may not be numbered."@en .
+<https://doi.org/10.6069/uwlswd.62zz-1534#g> <http://www.w3.org/2004/02/skos/core#notation> "g"@en .
+<https://doi.org/10.6069/uwlswd.62zz-1534> <http://purl.org/dc/terms/source> <https://www.loc.gov/marc/bibliographic/bd008.html> .
+<https://doi.org/10.6069/uwlswd.62zz-1534#j> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<https://doi.org/10.6069/uwlswd.62zz-1534#t> <http://www.w3.org/2004/02/skos/core#definition> "Itemized listing of information for the identification or location of persons, objects, organizations or places, arranged alphabetically, chronologically, or in other systematic order, and updated over time."@en .
+<https://doi.org/10.6069/uwlswd.62zz-1534> <http://purl.org/dc/terms/hasFormat> <https://uwlib-cams.github.io/uwlswd_vocabs_marc_006_008/008/continuing_type_of_continuing_resource/continuing_type_of_continuing_resource.jsonld> .
+<https://doi.org/10.6069/uwlswd.62zz-1534#m> <http://www.w3.org/2004/02/skos/core#scopeNote> "Used for any title that is a series, regardless of its treatment."@en .
+<https://doi.org/10.6069/uwlswd.62zz-1534#p> <http://www.w3.org/2004/02/skos/core#definition> "Includes resources with separate articles, stories, other writings, etc. that are published or distributed generally more frequently than annual including journals, magazines, newsletters and blogs."@en .
+<https://doi.org/10.6069/uwlswd.62zz-1534> <http://purl.org/dc/elements/1.1/language> "en" .
+<https://doi.org/10.6069/uwlswd.62zz-1534> <http://purl.org/dc/terms/creator> <http://viaf.org/viaf/139541794> .
+<https://doi.org/10.6069/uwlswd.62zz-1534#p> <http://www.w3.org/2004/02/skos/core#scopeNote> "Can be print or digital."@en .
+<https://doi.org/10.6069/uwlswd.62zz-1534#t> <http://www.w3.org/2004/02/skos/core#inScheme> <https://doi.org/10.6069/uwlswd.62zz-1534> .
+<https://doi.org/10.6069/uwlswd.62zz-1534#p> <http://www.w3.org/2004/02/skos/core#prefLabel> "periodical"@en .
+<https://doi.org/10.6069/uwlswd.62zz-1534#pound> <http://www.w3.org/2004/02/skos/core#definition> "Type of continuing resource other than updating database, updating loose-leaf, monographic series, newspaper, periodical, magazine, blog, journal, repository, newsletter, directory, or an updating web site."@en .
+<https://doi.org/10.6069/uwlswd.62zz-1534#g> <http://www.w3.org/2004/02/skos/core#definition> "Periodical addressing non-scientific, non-professional general interest topics. Magazines can be print or digital."@en .
+<https://doi.org/10.6069/uwlswd.62zz-1534> <https://schema.org/version> "1-0-1" .
+<https://doi.org/10.6069/uwlswd.62zz-1534#w> <http://www.w3.org/2004/02/skos/core#scopeNote> "Not used for periodical, newspaper, magazine, blog, journal, repository, newsletter, directory or database."@en .
+<https://doi.org/10.6069/uwlswd.62zz-1534> <http://purl.org/dc/terms/issued> "2023" .
+<https://doi.org/10.6069/uwlswd.62zz-1534#j> <http://www.w3.org/2004/02/skos/core#prefLabel> "journal"@en .
+<https://doi.org/10.6069/uwlswd.62zz-1534#j> <http://www.w3.org/2004/02/skos/core#scopeNote> "Journals can be print or digital."@en .
+<https://doi.org/10.6069/uwlswd.62zz-1534> <http://purl.org/dc/terms/publisher> <http://viaf.org/viaf/139541794> .
+<https://doi.org/10.6069/uwlswd.62zz-1534#p> <http://www.w3.org/2004/02/skos/core#notation> "p"@en .
+<https://doi.org/10.6069/uwlswd.62zz-1534#r> <http://www.w3.org/2004/02/skos/core#scopeNote> "Materials collected include e-prints, technical reports, theses and dissertations, datasets, and teaching and learning materials."@en .
+<https://doi.org/10.6069/uwlswd.62zz-1534#m> <http://www.w3.org/2004/02/skos/core#inScheme> <https://doi.org/10.6069/uwlswd.62zz-1534> .
+<https://doi.org/10.6069/uwlswd.62zz-1534#h> <http://www.w3.org/2004/02/skos/core#definition> "Online periodical appearing on a web page that may contain web links and/or comments on a particular topic or subject (broad or narrow in scope), often in the form of short articles arranged in reverse chronological order, the most recently added piece of information appearing first."@en .
+<https://doi.org/10.6069/uwlswd.62zz-1534#l> <http://www.w3.org/2004/02/skos/core#prefLabel> "updating loose-leaf"@en .
+<https://doi.org/10.6069/uwlswd.62zz-1534#t> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<https://doi.org/10.6069/uwlswd.62zz-1534#r> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<https://doi.org/10.6069/uwlswd.62zz-1534#m> <http://www.w3.org/2004/02/skos/core#notation> "m"@en .
+<https://doi.org/10.6069/uwlswd.62zz-1534#j> <http://www.w3.org/2004/02/skos/core#inScheme> <https://doi.org/10.6069/uwlswd.62zz-1534> .
+<https://doi.org/10.6069/uwlswd.62zz-1534#j> <http://www.w3.org/2004/02/skos/core#notation> "j"@en .
+<https://doi.org/10.6069/uwlswd.62zz-1534> <http://purl.org/dc/elements/1.1/contributor> "Metadata Management Associates"@en .
+<https://doi.org/10.6069/uwlswd.62zz-1534#s> <http://www.w3.org/2004/02/skos/core#notation> "s"@en .
+<https://doi.org/10.6069/uwlswd.62zz-1534#t> <http://www.w3.org/2004/02/skos/core#scopeNote> "Can be print or digital."@en .
+<https://doi.org/10.6069/uwlswd.62zz-1534#n> <http://www.w3.org/2004/02/skos/core#notation> "n"@en .
+<https://doi.org/10.6069/uwlswd.62zz-1534#h> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<https://doi.org/10.6069/uwlswd.62zz-1534#d> <http://www.w3.org/2004/02/skos/core#notation> "d"@en .
+<https://doi.org/10.6069/uwlswd.62zz-1534#m> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<https://doi.org/10.6069/uwlswd.62zz-1534#pound> <http://www.w3.org/2004/02/skos/core#inScheme> <https://doi.org/10.6069/uwlswd.62zz-1534> .
+<https://doi.org/10.6069/uwlswd.62zz-1534> <http://purl.org/dc/terms/type> <http://purl.org/dc/dcmitype/Dataset> .
+<https://doi.org/10.6069/uwlswd.62zz-1534#pound> <http://www.w3.org/2004/02/skos/core#prefLabel> "none of the following"@en .
+<https://doi.org/10.6069/uwlswd.62zz-1534#pound> <http://www.w3.org/2004/02/skos/core#scopeNote> "Used for yearbooks and annual reports."@en .
+<https://doi.org/10.6069/uwlswd.62zz-1534#pound> <http://www.w3.org/2004/02/skos/core#notation> "#"@en .
+<https://doi.org/10.6069/uwlswd.62zz-1534> <http://purl.org/dc/terms/provenance> <https://doi.org/10.6069/uwlswd.2e2b-y833> .
+<https://doi.org/10.6069/uwlswd.62zz-1534#s> <http://www.w3.org/2004/02/skos/core#prefLabel> "newsletter"@en .
+<https://doi.org/10.6069/uwlswd.62zz-1534> <http://purl.org/dc/terms/format> <http://www.w3.org/ns/formats/N-Triples> .
+<https://doi.org/10.6069/uwlswd.62zz-1534#s> <http://www.w3.org/2004/02/skos/core#definition> "Periodical that can be issued by an organization, generally to its members, or to a specific audience to give current information about a topic or sphere of activity."@en .
+<https://doi.org/10.6069/uwlswd.62zz-1534#h> <http://www.w3.org/2004/02/skos/core#prefLabel> "blog"@en .
+<https://doi.org/10.6069/uwlswd.62zz-1534#l> <http://www.w3.org/2004/02/skos/core#notation> "l"@en .
+<https://doi.org/10.6069/uwlswd.62zz-1534#w> <http://www.w3.org/2004/02/skos/core#notation> "w"@en .
+<https://doi.org/10.6069/uwlswd.62zz-1534#p> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<https://doi.org/10.6069/uwlswd.62zz-1534#d> <http://www.w3.org/2004/02/skos/core#inScheme> <https://doi.org/10.6069/uwlswd.62zz-1534> .
+<https://doi.org/10.6069/uwlswd.62zz-1534> <http://purl.org/dc/terms/hasFormat> <https://uwlib-cams.github.io/uwlswd_vocabs_marc_006_008/008/continuing_type_of_continuing_resource/continuing_type_of_continuing_resource.html> .
+<https://doi.org/10.6069/uwlswd.62zz-1534#r> <http://www.w3.org/2004/02/skos/core#definition> "Online collection, often scholarly in nature, for storing the publications of an institution, a group of institutions. Can also be a collection of materials on a specific subject, or from a specific community."@en .
+<https://doi.org/10.6069/uwlswd.62zz-1534> <http://purl.org/dc/terms/description> "Indicates the type of continuing resource."@en .
+<https://doi.org/10.6069/uwlswd.62zz-1534#j> <http://www.w3.org/2004/02/skos/core#definition> "Periodical addressing readers interested in a specific subject or profession. Often includes original research and current developments."@en .
+<https://doi.org/10.6069/uwlswd.62zz-1534#l> <http://www.w3.org/2004/02/skos/core#inScheme> <https://doi.org/10.6069/uwlswd.62zz-1534> .
+<https://doi.org/10.6069/uwlswd.62zz-1534#pound> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<https://doi.org/10.6069/uwlswd.62zz-1534#g> <http://www.w3.org/2004/02/skos/core#inScheme> <https://doi.org/10.6069/uwlswd.62zz-1534> .
+<https://doi.org/10.6069/uwlswd.62zz-1534#w> <http://www.w3.org/2004/02/skos/core#inScheme> <https://doi.org/10.6069/uwlswd.62zz-1534> .
+<https://doi.org/10.6069/uwlswd.62zz-1534#m> <http://www.w3.org/2004/02/skos/core#prefLabel> "monographic series"@en .
+<https://doi.org/10.6069/uwlswd.62zz-1534#r> <http://www.w3.org/2004/02/skos/core#prefLabel> "repository"@en .
+<https://doi.org/10.6069/uwlswd.62zz-1534#w> <http://www.w3.org/2004/02/skos/core#definition> "Web site that is updated."@en .
+<https://doi.org/10.6069/uwlswd.62zz-1534> <https://schema.org/disambiguatingDescription> "SKOS Concept Scheme for MARC 00X Values" .
+<https://doi.org/10.6069/uwlswd.62zz-1534#t> <http://www.w3.org/2004/02/skos/core#prefLabel> "directory"@en .
+<https://doi.org/10.6069/uwlswd.62zz-1534#r> <http://www.w3.org/2004/02/skos/core#inScheme> <https://doi.org/10.6069/uwlswd.62zz-1534> .
+<https://doi.org/10.6069/uwlswd.62zz-1534> <http://purl.org/dc/terms/hasFormat> <https://uwlib-cams.github.io/uwlswd_vocabs_marc_006_008/008/continuing_type_of_continuing_resource/continuing_type_of_continuing_resource.rdf> .
+<https://doi.org/10.6069/uwlswd.62zz-1534> <http://purl.org/dc/terms/title> "Continuing: type of continuing resource"@en .
+<https://doi.org/10.6069/uwlswd.62zz-1534#d> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<https://doi.org/10.6069/uwlswd.62zz-1534#l> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<https://doi.org/10.6069/uwlswd.62zz-1534#h> <http://www.w3.org/2004/02/skos/core#inScheme> <https://doi.org/10.6069/uwlswd.62zz-1534> .
+<https://doi.org/10.6069/uwlswd.62zz-1534#g> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<https://doi.org/10.6069/uwlswd.62zz-1534#g> <http://www.w3.org/2004/02/skos/core#prefLabel> "magazine"@en .
+<https://doi.org/10.6069/uwlswd.62zz-1534#n> <http://www.w3.org/2004/02/skos/core#definition> "Continuing resource that is mainly designed to be a primary source of written information on current events connected with public affairs, either local, national and/or international in scope. It contains a broad range of news on all subjects and activities and is not limited to any specific subject matter. It may include (although not primarily) articles on literary or other subjects as well as advertising, legal notices, vital statistics, and illustrations."@en .
+<https://doi.org/10.6069/uwlswd.62zz-1534#n> <http://www.w3.org/2004/02/skos/core#inScheme> <https://doi.org/10.6069/uwlswd.62zz-1534> .
+<https://doi.org/10.6069/uwlswd.62zz-1534#d> <http://www.w3.org/2004/02/skos/core#prefLabel> "updating database"@en .
+<https://doi.org/10.6069/uwlswd.62zz-1534> <http://purl.org/dc/terms/source> <http://marc21rdf.info> .
+<https://doi.org/10.6069/uwlswd.62zz-1534#w> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<https://doi.org/10.6069/uwlswd.62zz-1534#s> <http://www.w3.org/2004/02/skos/core#inScheme> <https://doi.org/10.6069/uwlswd.62zz-1534> .
+<https://doi.org/10.6069/uwlswd.62zz-1534> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#ConceptScheme> .

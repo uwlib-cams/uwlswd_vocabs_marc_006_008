@@ -1,0 +1,660 @@
+[
+  {
+    "@id": "https://doi.org/10.6069/uwlswd.ggnh-4s58",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#ConceptScheme"
+    ],
+    "http://purl.org/dc/elements/1.1/contributor": [
+      {
+        "@language": "en",
+        "@value": "Metadata Management Associates"
+      }
+    ],
+    "http://purl.org/dc/elements/1.1/language": [
+      {
+        "@value": "en"
+      }
+    ],
+    "http://purl.org/dc/terms/alternative": [
+      {
+        "@language": "en",
+        "@value": "MARC21 008/18 values for continuing resources expressed using RDF"
+      }
+    ],
+    "http://purl.org/dc/terms/contributor": [
+      {
+        "@id": "http://viaf.org/viaf/151962300"
+      }
+    ],
+    "http://purl.org/dc/terms/creator": [
+      {
+        "@id": "http://viaf.org/viaf/139541794"
+      }
+    ],
+    "http://purl.org/dc/terms/description": [
+      {
+        "@language": "en",
+        "@value": "Indicates the frequency of an item. In the case of integrating resources, updates to an item."
+      }
+    ],
+    "http://purl.org/dc/terms/format": [
+      {
+        "@id": "http://www.w3.org/ns/formats/JSON-LD"
+      }
+    ],
+    "http://purl.org/dc/terms/hasFormat": [
+      {
+        "@id": "https://uwlib-cams.github.io/uwlswd_vocabs_marc_006_008/008/continuing_frequency/continuing_frequency.html"
+      },
+      {
+        "@id": "https://uwlib-cams.github.io/uwlswd_vocabs_marc_006_008/008/continuing_frequency/continuing_frequency.rdf"
+      },
+      {
+        "@id": "https://uwlib-cams.github.io/uwlswd_vocabs_marc_006_008/008/continuing_frequency/continuing_frequency.nt"
+      },
+      {
+        "@id": "https://uwlib-cams.github.io/uwlswd_vocabs_marc_006_008/008/continuing_frequency/continuing_frequency.ttl"
+      }
+    ],
+    "http://purl.org/dc/terms/issued": [
+      {
+        "@value": "2023"
+      }
+    ],
+    "http://purl.org/dc/terms/license": [
+      {
+        "@id": "http://creativecommons.org/publicdomain/zero/1.0"
+      }
+    ],
+    "http://purl.org/dc/terms/provenance": [
+      {
+        "@id": "https://doi.org/10.6069/uwlswd.2e2b-y833"
+      }
+    ],
+    "http://purl.org/dc/terms/publisher": [
+      {
+        "@id": "http://viaf.org/viaf/139541794"
+      }
+    ],
+    "http://purl.org/dc/terms/source": [
+      {
+        "@id": "https://www.loc.gov/marc/bibliographic/bd008.html"
+      },
+      {
+        "@id": "http://marc21rdf.info"
+      }
+    ],
+    "http://purl.org/dc/terms/title": [
+      {
+        "@language": "en",
+        "@value": "Continuing: frequency"
+      }
+    ],
+    "http://purl.org/dc/terms/type": [
+      {
+        "@id": "http://purl.org/dc/dcmitype/Dataset"
+      }
+    ],
+    "https://schema.org/disambiguatingDescription": [
+      {
+        "@value": "SKOS Concept Scheme for MARC 00X Values"
+      }
+    ],
+    "https://schema.org/version": [
+      {
+        "@value": "1-0-1"
+      }
+    ]
+  },
+  {
+    "@id": "https://doi.org/10.6069/uwlswd.ggnh-4s58#s",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#definition": [
+      {
+        "@language": "en",
+        "@value": "Twice a month."
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#inScheme": [
+      {
+        "@id": "https://doi.org/10.6069/uwlswd.ggnh-4s58"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#notation": [
+      {
+        "@language": "en",
+        "@value": "s"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "semimonthly"
+      }
+    ]
+  },
+  {
+    "@id": "https://doi.org/10.6069/uwlswd.ggnh-4s58#q",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#definition": [
+      {
+        "@language": "en",
+        "@value": "Every three months."
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#inScheme": [
+      {
+        "@id": "https://doi.org/10.6069/uwlswd.ggnh-4s58"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#notation": [
+      {
+        "@language": "en",
+        "@value": "q"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "quarterly"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#scopeNote": [
+      {
+        "@language": "en",
+        "@value": "Includes publications whose frequency is 4 times a year."
+      }
+    ]
+  },
+  {
+    "@id": "https://doi.org/10.6069/uwlswd.ggnh-4s58#e",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#definition": [
+      {
+        "@language": "en",
+        "@value": "Every two weeks."
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#inScheme": [
+      {
+        "@id": "https://doi.org/10.6069/uwlswd.ggnh-4s58"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#notation": [
+      {
+        "@language": "en",
+        "@value": "e"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "biweekly"
+      }
+    ]
+  },
+  {
+    "@id": "https://doi.org/10.6069/uwlswd.ggnh-4s58#z",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#definition": [
+      {
+        "@language": "en",
+        "@value": "Frequency other than intentionally irregulay, annual, bimonthly, semiweekly, daily, biweekly, semiannual, biennial, triennial, three times a week, three times a month, continuously updated, monthly, quarterly, semimonthly, three times a year, weekly, or unknown."
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#inScheme": [
+      {
+        "@id": "https://doi.org/10.6069/uwlswd.ggnh-4s58"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#notation": [
+      {
+        "@language": "en",
+        "@value": "z"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "other"
+      }
+    ]
+  },
+  {
+    "@id": "https://doi.org/10.6069/uwlswd.ggnh-4s58#h",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#definition": [
+      {
+        "@language": "en",
+        "@value": "Every three years."
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#inScheme": [
+      {
+        "@id": "https://doi.org/10.6069/uwlswd.ggnh-4s58"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#notation": [
+      {
+        "@language": "en",
+        "@value": "h"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "triennial"
+      }
+    ]
+  },
+  {
+    "@id": "https://doi.org/10.6069/uwlswd.ggnh-4s58#d",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#definition": [
+      {
+        "@language": "en",
+        "@value": "Once a day."
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#inScheme": [
+      {
+        "@id": "https://doi.org/10.6069/uwlswd.ggnh-4s58"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#notation": [
+      {
+        "@language": "en",
+        "@value": "d"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "daily"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#scopeNote": [
+      {
+        "@language": "en",
+        "@value": "This may include Saturday and Sunday."
+      }
+    ]
+  },
+  {
+    "@id": "https://doi.org/10.6069/uwlswd.ggnh-4s58#w",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#definition": [
+      {
+        "@language": "en",
+        "@value": "Once a week."
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#inScheme": [
+      {
+        "@id": "https://doi.org/10.6069/uwlswd.ggnh-4s58"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#notation": [
+      {
+        "@language": "en",
+        "@value": "w"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "weekly"
+      }
+    ]
+  },
+  {
+    "@id": "https://doi.org/10.6069/uwlswd.ggnh-4s58#i",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#inScheme": [
+      {
+        "@id": "https://doi.org/10.6069/uwlswd.ggnh-4s58"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#notation": [
+      {
+        "@language": "en",
+        "@value": "i"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "three times a week"
+      }
+    ]
+  },
+  {
+    "@id": "https://doi.org/10.6069/uwlswd.ggnh-4s58#u",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#definition": [
+      {
+        "@language": "en",
+        "@value": "Current frequency of the item is unknown."
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#inScheme": [
+      {
+        "@id": "https://doi.org/10.6069/uwlswd.ggnh-4s58"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#notation": [
+      {
+        "@language": "en",
+        "@value": "u"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "unknown"
+      }
+    ]
+  },
+  {
+    "@id": "https://doi.org/10.6069/uwlswd.ggnh-4s58#pound",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#definition": [
+      {
+        "@language": "en",
+        "@value": "Used when the frequency is known to be intentionally irregular."
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#inScheme": [
+      {
+        "@id": "https://doi.org/10.6069/uwlswd.ggnh-4s58"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#notation": [
+      {
+        "@language": "en",
+        "@value": "#"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "no determinable frequency"
+      }
+    ]
+  },
+  {
+    "@id": "https://doi.org/10.6069/uwlswd.ggnh-4s58#a",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#definition": [
+      {
+        "@language": "en",
+        "@value": "Once a year."
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#inScheme": [
+      {
+        "@id": "https://doi.org/10.6069/uwlswd.ggnh-4s58"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#notation": [
+      {
+        "@language": "en",
+        "@value": "a"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "annual"
+      }
+    ]
+  },
+  {
+    "@id": "https://doi.org/10.6069/uwlswd.ggnh-4s58#k",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#definition": [
+      {
+        "@language": "en",
+        "@value": "More frequent than daily."
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#inScheme": [
+      {
+        "@id": "https://doi.org/10.6069/uwlswd.ggnh-4s58"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#notation": [
+      {
+        "@language": "en",
+        "@value": "k"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "continuously updated"
+      }
+    ]
+  },
+  {
+    "@id": "https://doi.org/10.6069/uwlswd.ggnh-4s58#g",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#definition": [
+      {
+        "@language": "en",
+        "@value": "Every two years."
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#inScheme": [
+      {
+        "@id": "https://doi.org/10.6069/uwlswd.ggnh-4s58"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#notation": [
+      {
+        "@language": "en",
+        "@value": "g"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "biennial"
+      }
+    ]
+  },
+  {
+    "@id": "https://doi.org/10.6069/uwlswd.ggnh-4s58#m",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#inScheme": [
+      {
+        "@id": "https://doi.org/10.6069/uwlswd.ggnh-4s58"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#notation": [
+      {
+        "@language": "en",
+        "@value": "m"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "monthly"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#scopeNote": [
+      {
+        "@language": "en",
+        "@value": "Includes publications whose frequency is 9, 10, 11, or 12 times a year."
+      }
+    ]
+  },
+  {
+    "@id": "https://doi.org/10.6069/uwlswd.ggnh-4s58#c",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#definition": [
+      {
+        "@language": "en",
+        "@value": "Twice a week."
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#inScheme": [
+      {
+        "@id": "https://doi.org/10.6069/uwlswd.ggnh-4s58"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#notation": [
+      {
+        "@language": "en",
+        "@value": "c"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "semiweekly"
+      }
+    ]
+  },
+  {
+    "@id": "https://doi.org/10.6069/uwlswd.ggnh-4s58#j",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#inScheme": [
+      {
+        "@id": "https://doi.org/10.6069/uwlswd.ggnh-4s58"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#notation": [
+      {
+        "@language": "en",
+        "@value": "j"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "three times a month"
+      }
+    ]
+  },
+  {
+    "@id": "https://doi.org/10.6069/uwlswd.ggnh-4s58#f",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#definition": [
+      {
+        "@language": "en",
+        "@value": "Twice a year."
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#inScheme": [
+      {
+        "@id": "https://doi.org/10.6069/uwlswd.ggnh-4s58"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#notation": [
+      {
+        "@language": "en",
+        "@value": "f"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "semiannual"
+      }
+    ]
+  },
+  {
+    "@id": "https://doi.org/10.6069/uwlswd.ggnh-4s58#b",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#definition": [
+      {
+        "@language": "en",
+        "@value": "Every two months."
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#inScheme": [
+      {
+        "@id": "https://doi.org/10.6069/uwlswd.ggnh-4s58"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#notation": [
+      {
+        "@language": "en",
+        "@value": "b"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "bimonthly"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#scopeNote": [
+      {
+        "@language": "en",
+        "@value": "Includes publications whose frequency is 6, 7, or 8 times a year."
+      }
+    ]
+  },
+  {
+    "@id": "https://doi.org/10.6069/uwlswd.ggnh-4s58#t",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#inScheme": [
+      {
+        "@id": "https://doi.org/10.6069/uwlswd.ggnh-4s58"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#notation": [
+      {
+        "@language": "en",
+        "@value": "t"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "three times a year"
+      }
+    ]
+  }
+]

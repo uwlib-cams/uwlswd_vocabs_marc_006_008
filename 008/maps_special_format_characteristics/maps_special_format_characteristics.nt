@@ -1,104 +1,109 @@
-<https://doi.org/10.6069/uwlswd.rw25-p125#l> <http://www.w3.org/2004/02/skos/core#inScheme> <https://doi.org/10.6069/uwlswd.rw25-p125> .
-<https://doi.org/10.6069/uwlswd.rw25-p125#z> <http://www.w3.org/2004/02/skos/core#notation> "z"@en .
-<https://doi.org/10.6069/uwlswd.rw25-p125> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#ConceptScheme> .
-<https://doi.org/10.6069/uwlswd.rw25-p125#p> <http://www.w3.org/2004/02/skos/core#definition> "Playing cards."@en .
-<https://doi.org/10.6069/uwlswd.rw25-p125#e> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
-<https://doi.org/10.6069/uwlswd.rw25-p125#ax> <http://www.w3.org/2004/02/skos/core#prefLabel> "photocopy, blue line print [obsolete]"@en .
-<https://doi.org/10.6069/uwlswd.rw25-p125#dx> <http://www.w3.org/2004/02/skos/core#inScheme> <https://doi.org/10.6069/uwlswd.rw25-p125> .
-<https://doi.org/10.6069/uwlswd.rw25-p125#n> <http://www.w3.org/2004/02/skos/core#prefLabel> "game"@en .
-<https://doi.org/10.6069/uwlswd.rw25-p125#hx> <http://www.w3.org/2004/02/skos/core#prefLabel> "rare [obsolete]"@en .
-<https://doi.org/10.6069/uwlswd.rw25-p125#cx> <http://www.w3.org/2004/02/skos/core#inScheme> <https://doi.org/10.6069/uwlswd.rw25-p125> .
-<https://doi.org/10.6069/uwlswd.rw25-p125> <https://schema.org/version> "1-0-0" .
-<https://doi.org/10.6069/uwlswd.rw25-p125#mx> <http://www.w3.org/2004/02/skos/core#inScheme> <https://doi.org/10.6069/uwlswd.rw25-p125> .
-<https://doi.org/10.6069/uwlswd.rw25-p125#dx> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
-<https://doi.org/10.6069/uwlswd.rw25-p125#o> <http://www.w3.org/2004/02/skos/core#notation> "o"@en .
-<https://doi.org/10.6069/uwlswd.rw25-p125#bx> <http://www.w3.org/2004/02/skos/core#notation> "b"@en .
-<https://doi.org/10.6069/uwlswd.rw25-p125#cx> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
-<https://doi.org/10.6069/uwlswd.rw25-p125#qx> <http://www.w3.org/2004/02/skos/core#notation> "q"@en .
-<https://doi.org/10.6069/uwlswd.rw25-p125#mx> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
-<https://doi.org/10.6069/uwlswd.rw25-p125> <http://purl.org/dc/terms/contributor> <http://viaf.org/viaf/151962300> .
-<https://doi.org/10.6069/uwlswd.rw25-p125#r> <http://www.w3.org/2004/02/skos/core#inScheme> <https://doi.org/10.6069/uwlswd.rw25-p125> .
-<https://doi.org/10.6069/uwlswd.rw25-p125#l> <http://www.w3.org/2004/02/skos/core#prefLabel> "puzzle"@en .
-<https://doi.org/10.6069/uwlswd.rw25-p125#pound> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
-<https://doi.org/10.6069/uwlswd.rw25-p125> <http://purl.org/dc/elements/1.1/contributor> "Metadata Management Associates" .
-<https://doi.org/10.6069/uwlswd.rw25-p125> <http://purl.org/dc/terms/provenance> <https://doi.org/10.6069/uwlswd.2e2b-y833> .
-<https://doi.org/10.6069/uwlswd.rw25-p125#pound> <http://www.w3.org/2004/02/skos/core#inScheme> <https://doi.org/10.6069/uwlswd.rw25-p125> .
-<https://doi.org/10.6069/uwlswd.rw25-p125#n> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
-<https://doi.org/10.6069/uwlswd.rw25-p125#k> <http://www.w3.org/2004/02/skos/core#inScheme> <https://doi.org/10.6069/uwlswd.rw25-p125> .
-<https://doi.org/10.6069/uwlswd.rw25-p125> <http://purl.org/dc/terms/type> <http://purl.org/dc/dcmitype/Dataset> .
-<https://doi.org/10.6069/uwlswd.rw25-p125#qx> <http://www.w3.org/2004/02/skos/core#inScheme> <https://doi.org/10.6069/uwlswd.rw25-p125> .
-<https://doi.org/10.6069/uwlswd.rw25-p125#k> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
-<https://doi.org/10.6069/uwlswd.rw25-p125#mx> <http://www.w3.org/2004/02/skos/core#notation> "m"@en .
-<https://doi.org/10.6069/uwlswd.rw25-p125#pound> <http://www.w3.org/2004/02/skos/core#prefLabel> "no specified special format characteristics"@en .
-<https://doi.org/10.6069/uwlswd.rw25-p125#gx> <http://www.w3.org/2004/02/skos/core#prefLabel> "relief model [obsolete]"@en .
-<https://doi.org/10.6069/uwlswd.rw25-p125#r> <http://www.w3.org/2004/02/skos/core#definition> "Separate leaves intended to be stored in a binder or case."@en .
-<https://doi.org/10.6069/uwlswd.rw25-p125#qx> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
-<https://doi.org/10.6069/uwlswd.rw25-p125#j> <http://www.w3.org/2004/02/skos/core#definition> "Picture card, post card."@en .
-<https://doi.org/10.6069/uwlswd.rw25-p125> <http://purl.org/dc/terms/issued> "2023" .
-<https://doi.org/10.6069/uwlswd.rw25-p125#fx> <http://www.w3.org/2004/02/skos/core#inScheme> <https://doi.org/10.6069/uwlswd.rw25-p125> .
-<https://doi.org/10.6069/uwlswd.rw25-p125#e> <http://www.w3.org/2004/02/skos/core#definition> "Drawn or fashioned by hand."@en .
-<https://doi.org/10.6069/uwlswd.rw25-p125> <http://purl.org/dc/terms/publisher> <http://viaf.org/viaf/139541794> .
-<https://doi.org/10.6069/uwlswd.rw25-p125#dx> <http://www.w3.org/2004/02/skos/core#notation> "d"@en .
-<https://doi.org/10.6069/uwlswd.rw25-p125#fx> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
-<https://doi.org/10.6069/uwlswd.rw25-p125#z> <http://www.w3.org/2004/02/skos/core#inScheme> <https://doi.org/10.6069/uwlswd.rw25-p125> .
-<https://doi.org/10.6069/uwlswd.rw25-p125> <http://purl.org/dc/terms/license> <http://creativecommons.org/publicdomain/zero/1.0> .
-<https://doi.org/10.6069/uwlswd.rw25-p125#p> <http://www.w3.org/2004/02/skos/core#prefLabel> "playing cards"@en .
-<https://doi.org/10.6069/uwlswd.rw25-p125#gx> <http://www.w3.org/2004/02/skos/core#inScheme> <https://doi.org/10.6069/uwlswd.rw25-p125> .
-<https://doi.org/10.6069/uwlswd.rw25-p125#z> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
-<https://doi.org/10.6069/uwlswd.rw25-p125#k> <http://www.w3.org/2004/02/skos/core#definition> "Calendar."@en .
-<https://doi.org/10.6069/uwlswd.rw25-p125> <http://purl.org/dc/terms/description> "Indicates the special format characteristics of the map." .
-<https://doi.org/10.6069/uwlswd.rw25-p125#e> <http://www.w3.org/2004/02/skos/core#prefLabel> "manuscript"@en .
-<https://doi.org/10.6069/uwlswd.rw25-p125#n> <http://www.w3.org/2004/02/skos/core#definition> "Intended to be used as or is part of a game."@en .
-<https://doi.org/10.6069/uwlswd.rw25-p125#gx> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
-<https://doi.org/10.6069/uwlswd.rw25-p125#mx> <http://www.w3.org/2004/02/skos/core#prefLabel> "braille [obsolete]"@en .
-<https://doi.org/10.6069/uwlswd.rw25-p125#o> <http://www.w3.org/2004/02/skos/core#inScheme> <https://doi.org/10.6069/uwlswd.rw25-p125> .
-<https://doi.org/10.6069/uwlswd.rw25-p125#e> <http://www.w3.org/2004/02/skos/core#notation> "e"@en .
-<https://doi.org/10.6069/uwlswd.rw25-p125#j> <http://www.w3.org/2004/02/skos/core#prefLabel> "picture card, post card"@en .
-<https://doi.org/10.6069/uwlswd.rw25-p125> <http://purl.org/dc/terms/alternative> "MARC21 008/33-34 values for maps expressed using RDF" .
-<https://doi.org/10.6069/uwlswd.rw25-p125#qx> <http://www.w3.org/2004/02/skos/core#prefLabel> "large print [obsolete]"@en .
-<https://doi.org/10.6069/uwlswd.rw25-p125> <http://purl.org/dc/terms/source> <https://www.loc.gov/marc/bibliographic/bd008.html> .
 <https://doi.org/10.6069/uwlswd.rw25-p125#fx> <http://www.w3.org/2004/02/skos/core#prefLabel> "facsimile [obsolete]"@en .
-<https://doi.org/10.6069/uwlswd.rw25-p125#n> <http://www.w3.org/2004/02/skos/core#notation> "n"@en .
+<https://doi.org/10.6069/uwlswd.rw25-p125#z> <http://www.w3.org/2004/02/skos/core#inScheme> <https://doi.org/10.6069/uwlswd.rw25-p125> .
+<https://doi.org/10.6069/uwlswd.rw25-p125#e> <http://www.w3.org/2004/02/skos/core#notation> "e"@en .
 <https://doi.org/10.6069/uwlswd.rw25-p125#r> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<https://doi.org/10.6069/uwlswd.rw25-p125#n> <http://www.w3.org/2004/02/skos/core#prefLabel> "game"@en .
+<https://doi.org/10.6069/uwlswd.rw25-p125> <http://purl.org/dc/terms/creator> <http://viaf.org/viaf/139541794> .
+<https://doi.org/10.6069/uwlswd.rw25-p125#z> <http://www.w3.org/2004/02/skos/core#prefLabel> "other"@en .
+<https://doi.org/10.6069/uwlswd.rw25-p125#n> <http://www.w3.org/2004/02/skos/core#definition> "Intended to be used as or is part of a game."@en .
+<https://doi.org/10.6069/uwlswd.rw25-p125#l> <http://www.w3.org/2004/02/skos/core#notation> "l"@en .
+<https://doi.org/10.6069/uwlswd.rw25-p125> <https://schema.org/version> "1-0-1" .
+<https://doi.org/10.6069/uwlswd.rw25-p125#hx> <http://www.w3.org/2004/02/skos/core#prefLabel> "rare [obsolete]"@en .
+<https://doi.org/10.6069/uwlswd.rw25-p125#dx> <http://www.w3.org/2004/02/skos/core#inScheme> <https://doi.org/10.6069/uwlswd.rw25-p125> .
+<https://doi.org/10.6069/uwlswd.rw25-p125#fx> <http://www.w3.org/2004/02/skos/core#inScheme> <https://doi.org/10.6069/uwlswd.rw25-p125> .
+<https://doi.org/10.6069/uwlswd.rw25-p125#mx> <http://www.w3.org/2004/02/skos/core#prefLabel> "braille [obsolete]"@en .
+<https://doi.org/10.6069/uwlswd.rw25-p125#bx> <http://www.w3.org/2004/02/skos/core#inScheme> <https://doi.org/10.6069/uwlswd.rw25-p125> .
+<https://doi.org/10.6069/uwlswd.rw25-p125#j> <http://www.w3.org/2004/02/skos/core#notation> "j"@en .
+<https://doi.org/10.6069/uwlswd.rw25-p125> <http://purl.org/dc/terms/publisher> <http://viaf.org/viaf/139541794> .
+<https://doi.org/10.6069/uwlswd.rw25-p125#bx> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<https://doi.org/10.6069/uwlswd.rw25-p125> <http://purl.org/dc/terms/description> "Indicates the special format characteristics of the map."@en .
+<https://doi.org/10.6069/uwlswd.rw25-p125#gx> <http://www.w3.org/2004/02/skos/core#inScheme> <https://doi.org/10.6069/uwlswd.rw25-p125> .
+<https://doi.org/10.6069/uwlswd.rw25-p125#p> <http://www.w3.org/2004/02/skos/core#notation> "p"@en .
+<https://doi.org/10.6069/uwlswd.rw25-p125#hx> <http://www.w3.org/2004/02/skos/core#notation> "h"@en .
 <https://doi.org/10.6069/uwlswd.rw25-p125#r> <http://www.w3.org/2004/02/skos/core#notation> "r"@en .
-<https://doi.org/10.6069/uwlswd.rw25-p125#fx> <http://www.w3.org/2004/02/skos/core#notation> "f"@en .
-<https://doi.org/10.6069/uwlswd.rw25-p125#ax> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<https://doi.org/10.6069/uwlswd.rw25-p125> <http://purl.org/dc/terms/hasFormat> <https://uwlib-cams.github.io/uwlswd_vocabs_marc_006_008/008/maps_special_format_characteristics/maps_special_format_characteristics.jsonld> .
+<https://doi.org/10.6069/uwlswd.rw25-p125#hx> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<https://doi.org/10.6069/uwlswd.rw25-p125#qx> <http://www.w3.org/2004/02/skos/core#notation> "q"@en .
+<https://doi.org/10.6069/uwlswd.rw25-p125#r> <http://www.w3.org/2004/02/skos/core#prefLabel> "loose-leaf"@en .
+<https://doi.org/10.6069/uwlswd.rw25-p125#gx> <http://www.w3.org/2004/02/skos/core#prefLabel> "relief model [obsolete]"@en .
+<https://doi.org/10.6069/uwlswd.rw25-p125#n> <http://www.w3.org/2004/02/skos/core#notation> "n"@en .
+<https://doi.org/10.6069/uwlswd.rw25-p125#l> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<https://doi.org/10.6069/uwlswd.rw25-p125> <http://purl.org/dc/elements/1.1/contributor> "Metadata Management Associates"@en .
+<https://doi.org/10.6069/uwlswd.rw25-p125#pound> <http://www.w3.org/2004/02/skos/core#notation> "#"@en .
+<https://doi.org/10.6069/uwlswd.rw25-p125#l> <http://www.w3.org/2004/02/skos/core#prefLabel> "puzzle"@en .
+<https://doi.org/10.6069/uwlswd.rw25-p125#qx> <http://www.w3.org/2004/02/skos/core#inScheme> <https://doi.org/10.6069/uwlswd.rw25-p125> .
+<https://doi.org/10.6069/uwlswd.rw25-p125#o> <http://www.w3.org/2004/02/skos/core#inScheme> <https://doi.org/10.6069/uwlswd.rw25-p125> .
+<https://doi.org/10.6069/uwlswd.rw25-p125#k> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<https://doi.org/10.6069/uwlswd.rw25-p125#dx> <http://www.w3.org/2004/02/skos/core#notation> "d"@en .
 <https://doi.org/10.6069/uwlswd.rw25-p125#bx> <http://www.w3.org/2004/02/skos/core#prefLabel> "photocopy [obsolete]"@en .
+<https://doi.org/10.6069/uwlswd.rw25-p125> <http://purl.org/dc/terms/license> <http://creativecommons.org/publicdomain/zero/1.0> .
+<https://doi.org/10.6069/uwlswd.rw25-p125#bx> <http://www.w3.org/2004/02/skos/core#notation> "b"@en .
+<https://doi.org/10.6069/uwlswd.rw25-p125#cx> <http://www.w3.org/2004/02/skos/core#inScheme> <https://doi.org/10.6069/uwlswd.rw25-p125> .
+<https://doi.org/10.6069/uwlswd.rw25-p125#qx> <http://www.w3.org/2004/02/skos/core#prefLabel> "large print [obsolete]"@en .
+<https://doi.org/10.6069/uwlswd.rw25-p125#l> <http://www.w3.org/2004/02/skos/core#inScheme> <https://doi.org/10.6069/uwlswd.rw25-p125> .
+<https://doi.org/10.6069/uwlswd.rw25-p125#j> <http://www.w3.org/2004/02/skos/core#prefLabel> "picture card, post card"@en .
+<https://doi.org/10.6069/uwlswd.rw25-p125#j> <http://www.w3.org/2004/02/skos/core#inScheme> <https://doi.org/10.6069/uwlswd.rw25-p125> .
+<https://doi.org/10.6069/uwlswd.rw25-p125#mx> <http://www.w3.org/2004/02/skos/core#notation> "m"@en .
+<https://doi.org/10.6069/uwlswd.rw25-p125#e> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<https://doi.org/10.6069/uwlswd.rw25-p125> <http://purl.org/dc/terms/title> "Maps: special format characteristics"@en .
+<https://doi.org/10.6069/uwlswd.rw25-p125#gx> <http://www.w3.org/2004/02/skos/core#notation> "g"@en .
+<https://doi.org/10.6069/uwlswd.rw25-p125#k> <http://www.w3.org/2004/02/skos/core#inScheme> <https://doi.org/10.6069/uwlswd.rw25-p125> .
+<https://doi.org/10.6069/uwlswd.rw25-p125> <http://purl.org/dc/terms/format> <http://www.w3.org/ns/formats/N-Triples> .
+<https://doi.org/10.6069/uwlswd.rw25-p125#e> <http://www.w3.org/2004/02/skos/core#definition> "Drawn or fashioned by hand."@en .
+<https://doi.org/10.6069/uwlswd.rw25-p125#pound> <http://www.w3.org/2004/02/skos/core#prefLabel> "no specified special format characteristics"@en .
+<https://doi.org/10.6069/uwlswd.rw25-p125#pound> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<https://doi.org/10.6069/uwlswd.rw25-p125#mx> <http://www.w3.org/2004/02/skos/core#inScheme> <https://doi.org/10.6069/uwlswd.rw25-p125> .
+<https://doi.org/10.6069/uwlswd.rw25-p125#k> <http://www.w3.org/2004/02/skos/core#prefLabel> "calendar"@en .
+<https://doi.org/10.6069/uwlswd.rw25-p125#e> <http://www.w3.org/2004/02/skos/core#inScheme> <https://doi.org/10.6069/uwlswd.rw25-p125> .
+<https://doi.org/10.6069/uwlswd.rw25-p125#e> <http://www.w3.org/2004/02/skos/core#prefLabel> "manuscript"@en .
+<https://doi.org/10.6069/uwlswd.rw25-p125> <http://purl.org/dc/terms/hasFormat> <https://uwlib-cams.github.io/uwlswd_vocabs_marc_006_008/008/maps_special_format_characteristics/maps_special_format_characteristics.html> .
+<https://doi.org/10.6069/uwlswd.rw25-p125#pound> <http://www.w3.org/2004/02/skos/core#inScheme> <https://doi.org/10.6069/uwlswd.rw25-p125> .
+<https://doi.org/10.6069/uwlswd.rw25-p125#r> <http://www.w3.org/2004/02/skos/core#inScheme> <https://doi.org/10.6069/uwlswd.rw25-p125> .
+<https://doi.org/10.6069/uwlswd.rw25-p125#l> <http://www.w3.org/2004/02/skos/core#definition> "Image may be disassembled into pieces and reassembled."@en .
+<https://doi.org/10.6069/uwlswd.rw25-p125#ax> <http://www.w3.org/2004/02/skos/core#prefLabel> "photocopy, blue line print [obsolete]"@en .
+<https://doi.org/10.6069/uwlswd.rw25-p125#gx> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<https://doi.org/10.6069/uwlswd.rw25-p125> <https://schema.org/disambiguatingDescription> "SKOS Concept Scheme for MARC 00X Values" .
 <https://doi.org/10.6069/uwlswd.rw25-p125#ax> <http://www.w3.org/2004/02/skos/core#notation> "a"@en .
 <https://doi.org/10.6069/uwlswd.rw25-p125#z> <http://www.w3.org/2004/02/skos/core#definition> "Special format characteristics other than manuscript, picture card, post card, calendar, puzzle, game, wall map, playing cards, or loose-leaf."@en .
-<https://doi.org/10.6069/uwlswd.rw25-p125#pound> <http://www.w3.org/2004/02/skos/core#definition> "No specified special format characteristics."@en .
-<https://doi.org/10.6069/uwlswd.rw25-p125#p> <http://www.w3.org/2004/02/skos/core#notation> "p"@en .
-<https://doi.org/10.6069/uwlswd.rw25-p125#z> <http://www.w3.org/2004/02/skos/core#prefLabel> "other"@en .
-<https://doi.org/10.6069/uwlswd.rw25-p125#n> <http://www.w3.org/2004/02/skos/core#inScheme> <https://doi.org/10.6069/uwlswd.rw25-p125> .
-<https://doi.org/10.6069/uwlswd.rw25-p125#gx> <http://www.w3.org/2004/02/skos/core#notation> "g"@en .
-<https://doi.org/10.6069/uwlswd.rw25-p125#dx> <http://www.w3.org/2004/02/skos/core#prefLabel> "film negative [obsolete]"@en .
-<https://doi.org/10.6069/uwlswd.rw25-p125#k> <http://www.w3.org/2004/02/skos/core#prefLabel> "calendar"@en .
-<https://doi.org/10.6069/uwlswd.rw25-p125#l> <http://www.w3.org/2004/02/skos/core#definition> "Image may be disassembled into pieces and reassembled."@en .
+<https://doi.org/10.6069/uwlswd.rw25-p125#fx> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
 <https://doi.org/10.6069/uwlswd.rw25-p125#p> <http://www.w3.org/2004/02/skos/core#inScheme> <https://doi.org/10.6069/uwlswd.rw25-p125> .
-<https://doi.org/10.6069/uwlswd.rw25-p125#hx> <http://www.w3.org/2004/02/skos/core#notation> "h"@en .
-<https://doi.org/10.6069/uwlswd.rw25-p125#hx> <http://www.w3.org/2004/02/skos/core#inScheme> <https://doi.org/10.6069/uwlswd.rw25-p125> .
-<https://doi.org/10.6069/uwlswd.rw25-p125#j> <http://www.w3.org/2004/02/skos/core#notation> "j"@en .
+<https://doi.org/10.6069/uwlswd.rw25-p125> <http://purl.org/dc/terms/hasFormat> <https://uwlib-cams.github.io/uwlswd_vocabs_marc_006_008/008/maps_special_format_characteristics/maps_special_format_characteristics.rdf> .
 <https://doi.org/10.6069/uwlswd.rw25-p125#p> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
-<https://doi.org/10.6069/uwlswd.rw25-p125#k> <http://www.w3.org/2004/02/skos/core#notation> "k"@en .
-<https://doi.org/10.6069/uwlswd.rw25-p125#hx> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
-<https://doi.org/10.6069/uwlswd.rw25-p125#bx> <http://www.w3.org/2004/02/skos/core#inScheme> <https://doi.org/10.6069/uwlswd.rw25-p125> .
-<https://doi.org/10.6069/uwlswd.rw25-p125> <http://purl.org/dc/elements/1.1/language> "en" .
+<https://doi.org/10.6069/uwlswd.rw25-p125#dx> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<https://doi.org/10.6069/uwlswd.rw25-p125> <http://purl.org/dc/terms/alternative> "MARC21 008/33-34 values for maps expressed using RDF"@en .
 <https://doi.org/10.6069/uwlswd.rw25-p125#o> <http://www.w3.org/2004/02/skos/core#definition> "Wall map."@en .
-<https://doi.org/10.6069/uwlswd.rw25-p125#pound> <http://www.w3.org/2004/02/skos/core#notation> "#"@en .
-<https://doi.org/10.6069/uwlswd.rw25-p125#cx> <http://www.w3.org/2004/02/skos/core#prefLabel> "negative photocopy [obsolete]"@en .
-<https://doi.org/10.6069/uwlswd.rw25-p125#bx> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
-<https://doi.org/10.6069/uwlswd.rw25-p125#cx> <http://www.w3.org/2004/02/skos/core#notation> "c"@en .
+<https://doi.org/10.6069/uwlswd.rw25-p125#j> <http://www.w3.org/2004/02/skos/core#definition> "Picture card, post card."@en .
 <https://doi.org/10.6069/uwlswd.rw25-p125> <http://purl.org/dc/terms/source> <http://marc21rdf.info> .
-<https://doi.org/10.6069/uwlswd.rw25-p125#j> <http://www.w3.org/2004/02/skos/core#inScheme> <https://doi.org/10.6069/uwlswd.rw25-p125> .
-<https://doi.org/10.6069/uwlswd.rw25-p125#o> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
-<https://doi.org/10.6069/uwlswd.rw25-p125> <http://purl.org/dc/terms/creator> <http://viaf.org/viaf/139541794> .
-<https://doi.org/10.6069/uwlswd.rw25-p125#r> <http://www.w3.org/2004/02/skos/core#scopeNote> "Loose-leaf items are often meant to be updated."@en .
-<https://doi.org/10.6069/uwlswd.rw25-p125> <http://purl.org/dc/terms/title> "Maps: special format characteristics" .
-<https://doi.org/10.6069/uwlswd.rw25-p125#l> <http://www.w3.org/2004/02/skos/core#notation> "l"@en .
-<https://doi.org/10.6069/uwlswd.rw25-p125#ax> <http://www.w3.org/2004/02/skos/core#inScheme> <https://doi.org/10.6069/uwlswd.rw25-p125> .
-<https://doi.org/10.6069/uwlswd.rw25-p125#l> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<https://doi.org/10.6069/uwlswd.rw25-p125#z> <http://www.w3.org/2004/02/skos/core#notation> "z"@en .
 <https://doi.org/10.6069/uwlswd.rw25-p125#o> <http://www.w3.org/2004/02/skos/core#prefLabel> "wall map"@en .
+<https://doi.org/10.6069/uwlswd.rw25-p125> <http://purl.org/dc/terms/issued> "2023" .
+<https://doi.org/10.6069/uwlswd.rw25-p125> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#ConceptScheme> .
+<https://doi.org/10.6069/uwlswd.rw25-p125#ax> <http://www.w3.org/2004/02/skos/core#inScheme> <https://doi.org/10.6069/uwlswd.rw25-p125> .
+<https://doi.org/10.6069/uwlswd.rw25-p125#k> <http://www.w3.org/2004/02/skos/core#notation> "k"@en .
+<https://doi.org/10.6069/uwlswd.rw25-p125#dx> <http://www.w3.org/2004/02/skos/core#prefLabel> "film negative [obsolete]"@en .
+<https://doi.org/10.6069/uwlswd.rw25-p125#ax> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<https://doi.org/10.6069/uwlswd.rw25-p125#pound> <http://www.w3.org/2004/02/skos/core#definition> "No specified special format characteristics."@en .
+<https://doi.org/10.6069/uwlswd.rw25-p125#cx> <http://www.w3.org/2004/02/skos/core#prefLabel> "negative photocopy [obsolete]"@en .
+<https://doi.org/10.6069/uwlswd.rw25-p125#o> <http://www.w3.org/2004/02/skos/core#notation> "o"@en .
+<https://doi.org/10.6069/uwlswd.rw25-p125#qx> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<https://doi.org/10.6069/uwlswd.rw25-p125#cx> <http://www.w3.org/2004/02/skos/core#notation> "c"@en .
+<https://doi.org/10.6069/uwlswd.rw25-p125#o> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<https://doi.org/10.6069/uwlswd.rw25-p125> <http://purl.org/dc/terms/type> <http://purl.org/dc/dcmitype/Dataset> .
+<https://doi.org/10.6069/uwlswd.rw25-p125#n> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<https://doi.org/10.6069/uwlswd.rw25-p125#hx> <http://www.w3.org/2004/02/skos/core#inScheme> <https://doi.org/10.6069/uwlswd.rw25-p125> .
+<https://doi.org/10.6069/uwlswd.rw25-p125> <http://purl.org/dc/terms/hasFormat> <https://uwlib-cams.github.io/uwlswd_vocabs_marc_006_008/008/maps_special_format_characteristics/maps_special_format_characteristics.ttl> .
+<https://doi.org/10.6069/uwlswd.rw25-p125#p> <http://www.w3.org/2004/02/skos/core#definition> "Playing cards."@en .
+<https://doi.org/10.6069/uwlswd.rw25-p125#fx> <http://www.w3.org/2004/02/skos/core#notation> "f"@en .
+<https://doi.org/10.6069/uwlswd.rw25-p125#cx> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
 <https://doi.org/10.6069/uwlswd.rw25-p125#j> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
-<https://doi.org/10.6069/uwlswd.rw25-p125#r> <http://www.w3.org/2004/02/skos/core#prefLabel> "loose-leaf"@en .
-<https://doi.org/10.6069/uwlswd.rw25-p125#e> <http://www.w3.org/2004/02/skos/core#inScheme> <https://doi.org/10.6069/uwlswd.rw25-p125> .
-
+<https://doi.org/10.6069/uwlswd.rw25-p125#n> <http://www.w3.org/2004/02/skos/core#inScheme> <https://doi.org/10.6069/uwlswd.rw25-p125> .
+<https://doi.org/10.6069/uwlswd.rw25-p125#k> <http://www.w3.org/2004/02/skos/core#definition> "Calendar."@en .
+<https://doi.org/10.6069/uwlswd.rw25-p125#p> <http://www.w3.org/2004/02/skos/core#prefLabel> "playing cards"@en .
+<https://doi.org/10.6069/uwlswd.rw25-p125> <http://purl.org/dc/terms/contributor> <http://viaf.org/viaf/151962300> .
+<https://doi.org/10.6069/uwlswd.rw25-p125#z> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<https://doi.org/10.6069/uwlswd.rw25-p125> <http://purl.org/dc/terms/provenance> <https://doi.org/10.6069/uwlswd.2e2b-y833> .
+<https://doi.org/10.6069/uwlswd.rw25-p125#r> <http://www.w3.org/2004/02/skos/core#scopeNote> "Loose-leaf items are often meant to be updated."@en .
+<https://doi.org/10.6069/uwlswd.rw25-p125#r> <http://www.w3.org/2004/02/skos/core#definition> "Separate leaves intended to be stored in a binder or case."@en .
+<https://doi.org/10.6069/uwlswd.rw25-p125#mx> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<https://doi.org/10.6069/uwlswd.rw25-p125> <http://purl.org/dc/elements/1.1/language> "en" .
+<https://doi.org/10.6069/uwlswd.rw25-p125> <http://purl.org/dc/terms/source> <https://www.loc.gov/marc/bibliographic/bd008.html> .

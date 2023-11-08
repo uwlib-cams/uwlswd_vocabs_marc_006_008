@@ -1,84 +1,89 @@
-<https://doi.org/10.6069/uwlswd.084w-3778#b> <http://www.w3.org/2004/02/skos/core#prefLabel> "extended roman"@en .
-<https://doi.org/10.6069/uwlswd.084w-3778> <http://purl.org/dc/terms/source> <http://marc21rdf.info> .
-<https://doi.org/10.6069/uwlswd.084w-3778#z> <http://www.w3.org/2004/02/skos/core#scopeNote> "Also used when the title incorporates words from more than one alphabet or script."@en .
-<https://doi.org/10.6069/uwlswd.084w-3778#b> <http://www.w3.org/2004/02/skos/core#scopeNote> "Includes diacritics and special characters."@en .
-<https://doi.org/10.6069/uwlswd.084w-3778> <http://purl.org/dc/terms/alternative> "MARC21 008/33 values for continuing resources expressed using RDF" .
-<https://doi.org/10.6069/uwlswd.084w-3778> <http://purl.org/dc/terms/title> "Continuing: original alphabet or script of title" .
-<https://doi.org/10.6069/uwlswd.084w-3778#z> <http://www.w3.org/2004/02/skos/core#inScheme> <https://doi.org/10.6069/uwlswd.084w-3778> .
-<https://doi.org/10.6069/uwlswd.084w-3778#k> <http://www.w3.org/2004/02/skos/core#notation> "k"@en .
-<https://doi.org/10.6069/uwlswd.084w-3778#a> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
-<https://doi.org/10.6069/uwlswd.084w-3778#z> <http://www.w3.org/2004/02/skos/core#prefLabel> "other"@en .
-<https://doi.org/10.6069/uwlswd.084w-3778#k> <http://www.w3.org/2004/02/skos/core#inScheme> <https://doi.org/10.6069/uwlswd.084w-3778> .
-<https://doi.org/10.6069/uwlswd.084w-3778#f> <http://www.w3.org/2004/02/skos/core#notation> "f"@en .
-<https://doi.org/10.6069/uwlswd.084w-3778#e> <http://www.w3.org/2004/02/skos/core#notation> "e"@en .
-<https://doi.org/10.6069/uwlswd.084w-3778#i> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
-<https://doi.org/10.6069/uwlswd.084w-3778#c> <http://www.w3.org/2004/02/skos/core#prefLabel> "cyrillic"@en .
-<https://doi.org/10.6069/uwlswd.084w-3778#l> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
-<https://doi.org/10.6069/uwlswd.084w-3778#u> <http://www.w3.org/2004/02/skos/core#notation> "u"@en .
-<https://doi.org/10.6069/uwlswd.084w-3778#b> <http://www.w3.org/2004/02/skos/core#inScheme> <https://doi.org/10.6069/uwlswd.084w-3778> .
-<https://doi.org/10.6069/uwlswd.084w-3778#d> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
-<https://doi.org/10.6069/uwlswd.084w-3778#k> <http://www.w3.org/2004/02/skos/core#prefLabel> "korean"@en .
-<https://doi.org/10.6069/uwlswd.084w-3778#h> <http://www.w3.org/2004/02/skos/core#prefLabel> "hebrew"@en .
-<https://doi.org/10.6069/uwlswd.084w-3778#l> <http://www.w3.org/2004/02/skos/core#inScheme> <https://doi.org/10.6069/uwlswd.084w-3778> .
-<https://doi.org/10.6069/uwlswd.084w-3778#pound> <http://www.w3.org/2004/02/skos/core#prefLabel> "no alphabet or script given/no key title"@en .
-<https://doi.org/10.6069/uwlswd.084w-3778#a> <http://www.w3.org/2004/02/skos/core#inScheme> <https://doi.org/10.6069/uwlswd.084w-3778> .
-<https://doi.org/10.6069/uwlswd.084w-3778#z> <http://www.w3.org/2004/02/skos/core#definition> "Original alphabet or script of title other than basic Roman, extended Roman, cyrillic, Japanese, Chinese, Arabic, Greek, Hebrew, Thai, Devanagari, Korean, or Tamil."@en .
-<https://doi.org/10.6069/uwlswd.084w-3778#b> <http://www.w3.org/2004/02/skos/core#notation> "b"@en .
-<https://doi.org/10.6069/uwlswd.084w-3778#z> <http://www.w3.org/2004/02/skos/core#notation> "z"@en .
-<https://doi.org/10.6069/uwlswd.084w-3778#z> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
-<https://doi.org/10.6069/uwlswd.084w-3778> <http://purl.org/dc/terms/creator> <http://viaf.org/viaf/139541794> .
-<https://doi.org/10.6069/uwlswd.084w-3778#pound> <http://www.w3.org/2004/02/skos/core#notation> "#"@en .
-<https://doi.org/10.6069/uwlswd.084w-3778#h> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
-<https://doi.org/10.6069/uwlswd.084w-3778> <http://purl.org/dc/terms/contributor> <http://viaf.org/viaf/151962300> .
-<https://doi.org/10.6069/uwlswd.084w-3778> <http://purl.org/dc/terms/license> <http://creativecommons.org/publicdomain/zero/1.0> .
-<https://doi.org/10.6069/uwlswd.084w-3778#f> <http://www.w3.org/2004/02/skos/core#inScheme> <https://doi.org/10.6069/uwlswd.084w-3778> .
-<https://doi.org/10.6069/uwlswd.084w-3778#d> <http://www.w3.org/2004/02/skos/core#inScheme> <https://doi.org/10.6069/uwlswd.084w-3778> .
-<https://doi.org/10.6069/uwlswd.084w-3778> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#ConceptScheme> .
-<https://doi.org/10.6069/uwlswd.084w-3778#a> <http://www.w3.org/2004/02/skos/core#scopeNote> "Includes no diacritics or special characters."@en .
-<https://doi.org/10.6069/uwlswd.084w-3778#j> <http://www.w3.org/2004/02/skos/core#inScheme> <https://doi.org/10.6069/uwlswd.084w-3778> .
-<https://doi.org/10.6069/uwlswd.084w-3778> <http://purl.org/dc/elements/1.1/contributor> "Metadata Management Associates" .
-<https://doi.org/10.6069/uwlswd.084w-3778#k> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
-<https://doi.org/10.6069/uwlswd.084w-3778> <https://schema.org/version> "1-0-0" .
-<https://doi.org/10.6069/uwlswd.084w-3778#b> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
-<https://doi.org/10.6069/uwlswd.084w-3778#e> <http://www.w3.org/2004/02/skos/core#prefLabel> "chinese"@en .
-<https://doi.org/10.6069/uwlswd.084w-3778#l> <http://www.w3.org/2004/02/skos/core#notation> "l"@en .
-<https://doi.org/10.6069/uwlswd.084w-3778#h> <http://www.w3.org/2004/02/skos/core#notation> "h"@en .
-<https://doi.org/10.6069/uwlswd.084w-3778#b> <http://www.w3.org/2004/02/skos/core#definition> "Original alphabet of the title is a Roman alphabet language. Most western European lanuages, with the major exception of English, fall into this group."@en .
-<https://doi.org/10.6069/uwlswd.084w-3778#g> <http://www.w3.org/2004/02/skos/core#notation> "g"@en .
-<https://doi.org/10.6069/uwlswd.084w-3778> <http://purl.org/dc/terms/description> "Indicates the original alphabet or script of the language of the title on the source item upon which the key title is based." .
-<https://doi.org/10.6069/uwlswd.084w-3778> <http://purl.org/dc/terms/provenance> <https://doi.org/10.6069/uwlswd.2e2b-y833> .
-<https://doi.org/10.6069/uwlswd.084w-3778#u> <http://www.w3.org/2004/02/skos/core#prefLabel> "unknown"@en .
-<https://doi.org/10.6069/uwlswd.084w-3778#h> <http://www.w3.org/2004/02/skos/core#inScheme> <https://doi.org/10.6069/uwlswd.084w-3778> .
-<https://doi.org/10.6069/uwlswd.084w-3778#l> <http://www.w3.org/2004/02/skos/core#prefLabel> "tamil"@en .
-<https://doi.org/10.6069/uwlswd.084w-3778#a> <http://www.w3.org/2004/02/skos/core#notation> "a"@en .
-<https://doi.org/10.6069/uwlswd.084w-3778#d> <http://www.w3.org/2004/02/skos/core#notation> "d"@en .
-<https://doi.org/10.6069/uwlswd.084w-3778#a> <http://www.w3.org/2004/02/skos/core#definition> "Original alphabet of the title is the Roman alphabet. Languages that are usually associated include: Basque, English, Latin, Welsh, and many languages of Central and Southern Africa."@en .
-<https://doi.org/10.6069/uwlswd.084w-3778#g> <http://www.w3.org/2004/02/skos/core#prefLabel> "greek"@en .
-<https://doi.org/10.6069/uwlswd.084w-3778#u> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
-<https://doi.org/10.6069/uwlswd.084w-3778> <http://purl.org/dc/terms/source> <https://www.loc.gov/marc/bibliographic/bd008.html> .
-<https://doi.org/10.6069/uwlswd.084w-3778#e> <http://www.w3.org/2004/02/skos/core#inScheme> <https://doi.org/10.6069/uwlswd.084w-3778> .
-<https://doi.org/10.6069/uwlswd.084w-3778> <http://purl.org/dc/terms/type> <http://purl.org/dc/dcmitype/Dataset> .
-<https://doi.org/10.6069/uwlswd.084w-3778#u> <http://www.w3.org/2004/02/skos/core#definition> "Original alphabet of the title is unknown."@en .
-<https://doi.org/10.6069/uwlswd.084w-3778#g> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
-<https://doi.org/10.6069/uwlswd.084w-3778#j> <http://www.w3.org/2004/02/skos/core#prefLabel> "devanagari"@en .
-<https://doi.org/10.6069/uwlswd.084w-3778#j> <http://www.w3.org/2004/02/skos/core#notation> "j"@en .
-<https://doi.org/10.6069/uwlswd.084w-3778#c> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
-<https://doi.org/10.6069/uwlswd.084w-3778#f> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
-<https://doi.org/10.6069/uwlswd.084w-3778#a> <http://www.w3.org/2004/02/skos/core#prefLabel> "basic roman"@en .
-<https://doi.org/10.6069/uwlswd.084w-3778#pound> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
-<https://doi.org/10.6069/uwlswd.084w-3778#i> <http://www.w3.org/2004/02/skos/core#inScheme> <https://doi.org/10.6069/uwlswd.084w-3778> .
-<https://doi.org/10.6069/uwlswd.084w-3778#i> <http://www.w3.org/2004/02/skos/core#notation> "i"@en .
-<https://doi.org/10.6069/uwlswd.084w-3778> <http://purl.org/dc/terms/publisher> <http://viaf.org/viaf/139541794> .
-<https://doi.org/10.6069/uwlswd.084w-3778> <http://purl.org/dc/terms/issued> "2023" .
-<https://doi.org/10.6069/uwlswd.084w-3778#u> <http://www.w3.org/2004/02/skos/core#inScheme> <https://doi.org/10.6069/uwlswd.084w-3778> .
-<https://doi.org/10.6069/uwlswd.084w-3778#j> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
-<https://doi.org/10.6069/uwlswd.084w-3778#d> <http://www.w3.org/2004/02/skos/core#prefLabel> "japanese"@en .
-<https://doi.org/10.6069/uwlswd.084w-3778#c> <http://www.w3.org/2004/02/skos/core#notation> "c"@en .
-<https://doi.org/10.6069/uwlswd.084w-3778#g> <http://www.w3.org/2004/02/skos/core#inScheme> <https://doi.org/10.6069/uwlswd.084w-3778> .
-<https://doi.org/10.6069/uwlswd.084w-3778> <http://purl.org/dc/elements/1.1/language> "en" .
 <https://doi.org/10.6069/uwlswd.084w-3778#f> <http://www.w3.org/2004/02/skos/core#prefLabel> "arabic"@en .
+<https://doi.org/10.6069/uwlswd.084w-3778#d> <http://www.w3.org/2004/02/skos/core#notation> "d"@en .
+<https://doi.org/10.6069/uwlswd.084w-3778> <http://purl.org/dc/terms/type> <http://purl.org/dc/dcmitype/Dataset> .
+<https://doi.org/10.6069/uwlswd.084w-3778#i> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<https://doi.org/10.6069/uwlswd.084w-3778> <http://purl.org/dc/terms/provenance> <https://doi.org/10.6069/uwlswd.2e2b-y833> .
+<https://doi.org/10.6069/uwlswd.084w-3778> <http://purl.org/dc/terms/license> <http://creativecommons.org/publicdomain/zero/1.0> .
+<https://doi.org/10.6069/uwlswd.084w-3778#h> <http://www.w3.org/2004/02/skos/core#inScheme> <https://doi.org/10.6069/uwlswd.084w-3778> .
+<https://doi.org/10.6069/uwlswd.084w-3778#i> <http://www.w3.org/2004/02/skos/core#inScheme> <https://doi.org/10.6069/uwlswd.084w-3778> .
+<https://doi.org/10.6069/uwlswd.084w-3778> <http://purl.org/dc/elements/1.1/contributor> "Metadata Management Associates"@en .
+<https://doi.org/10.6069/uwlswd.084w-3778#b> <http://www.w3.org/2004/02/skos/core#notation> "b"@en .
+<https://doi.org/10.6069/uwlswd.084w-3778#h> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<https://doi.org/10.6069/uwlswd.084w-3778#c> <http://www.w3.org/2004/02/skos/core#prefLabel> "cyrillic"@en .
+<https://doi.org/10.6069/uwlswd.084w-3778#l> <http://www.w3.org/2004/02/skos/core#notation> "l"@en .
+<https://doi.org/10.6069/uwlswd.084w-3778> <http://purl.org/dc/terms/description> "Indicates the original alphabet or script of the language of the title on the source item upon which the key title is based."@en .
+<https://doi.org/10.6069/uwlswd.084w-3778> <http://purl.org/dc/terms/contributor> <http://viaf.org/viaf/151962300> .
+<https://doi.org/10.6069/uwlswd.084w-3778#u> <http://www.w3.org/2004/02/skos/core#inScheme> <https://doi.org/10.6069/uwlswd.084w-3778> .
+<https://doi.org/10.6069/uwlswd.084w-3778#g> <http://www.w3.org/2004/02/skos/core#prefLabel> "greek"@en .
+<https://doi.org/10.6069/uwlswd.084w-3778#u> <http://www.w3.org/2004/02/skos/core#notation> "u"@en .
+<https://doi.org/10.6069/uwlswd.084w-3778> <http://purl.org/dc/terms/hasFormat> <https://uwlib-cams.github.io/uwlswd_vocabs_marc_006_008/008/continuing_original_alphabet_or_script_of_title/continuing_original_alphabet_or_script_of_title.ttl> .
+<https://doi.org/10.6069/uwlswd.084w-3778#e> <http://www.w3.org/2004/02/skos/core#prefLabel> "chinese"@en .
+<https://doi.org/10.6069/uwlswd.084w-3778#z> <http://www.w3.org/2004/02/skos/core#notation> "z"@en .
+<https://doi.org/10.6069/uwlswd.084w-3778#a> <http://www.w3.org/2004/02/skos/core#prefLabel> "basic roman"@en .
+<https://doi.org/10.6069/uwlswd.084w-3778> <http://purl.org/dc/terms/format> <http://www.w3.org/ns/formats/N-Triples> .
+<https://doi.org/10.6069/uwlswd.084w-3778#b> <http://www.w3.org/2004/02/skos/core#prefLabel> "extended roman"@en .
+<https://doi.org/10.6069/uwlswd.084w-3778#a> <http://www.w3.org/2004/02/skos/core#definition> "Original alphabet of the title is the Roman alphabet. Languages that are usually associated include: Basque, English, Latin, Welsh, and many languages of Central and Southern Africa."@en .
+<https://doi.org/10.6069/uwlswd.084w-3778#a> <http://www.w3.org/2004/02/skos/core#inScheme> <https://doi.org/10.6069/uwlswd.084w-3778> .
+<https://doi.org/10.6069/uwlswd.084w-3778#b> <http://www.w3.org/2004/02/skos/core#definition> "Original alphabet of the title is a Roman alphabet language. Most western European lanuages, with the major exception of English, fall into this group."@en .
+<https://doi.org/10.6069/uwlswd.084w-3778#i> <http://www.w3.org/2004/02/skos/core#notation> "i"@en .
+<https://doi.org/10.6069/uwlswd.084w-3778#l> <http://www.w3.org/2004/02/skos/core#inScheme> <https://doi.org/10.6069/uwlswd.084w-3778> .
+<https://doi.org/10.6069/uwlswd.084w-3778#k> <http://www.w3.org/2004/02/skos/core#notation> "k"@en .
+<https://doi.org/10.6069/uwlswd.084w-3778#f> <http://www.w3.org/2004/02/skos/core#inScheme> <https://doi.org/10.6069/uwlswd.084w-3778> .
 <https://doi.org/10.6069/uwlswd.084w-3778#c> <http://www.w3.org/2004/02/skos/core#inScheme> <https://doi.org/10.6069/uwlswd.084w-3778> .
+<https://doi.org/10.6069/uwlswd.084w-3778#a> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<https://doi.org/10.6069/uwlswd.084w-3778#l> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<https://doi.org/10.6069/uwlswd.084w-3778#f> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<https://doi.org/10.6069/uwlswd.084w-3778> <https://schema.org/version> "1-0-1" .
+<https://doi.org/10.6069/uwlswd.084w-3778> <http://purl.org/dc/terms/issued> "2023" .
+<https://doi.org/10.6069/uwlswd.084w-3778> <http://purl.org/dc/terms/alternative> "MARC21 008/33 values for continuing resources expressed using RDF"@en .
+<https://doi.org/10.6069/uwlswd.084w-3778> <http://purl.org/dc/terms/hasFormat> <https://uwlib-cams.github.io/uwlswd_vocabs_marc_006_008/008/continuing_original_alphabet_or_script_of_title/continuing_original_alphabet_or_script_of_title.jsonld> .
+<https://doi.org/10.6069/uwlswd.084w-3778#j> <http://www.w3.org/2004/02/skos/core#inScheme> <https://doi.org/10.6069/uwlswd.084w-3778> .
+<https://doi.org/10.6069/uwlswd.084w-3778#pound> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<https://doi.org/10.6069/uwlswd.084w-3778#b> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<https://doi.org/10.6069/uwlswd.084w-3778#z> <http://www.w3.org/2004/02/skos/core#scopeNote> "Also used when the title incorporates words from more than one alphabet or script."@en .
+<https://doi.org/10.6069/uwlswd.084w-3778#j> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<https://doi.org/10.6069/uwlswd.084w-3778#pound> <http://www.w3.org/2004/02/skos/core#inScheme> <https://doi.org/10.6069/uwlswd.084w-3778> .
+<https://doi.org/10.6069/uwlswd.084w-3778#z> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<https://doi.org/10.6069/uwlswd.084w-3778> <http://purl.org/dc/terms/source> <http://marc21rdf.info> .
+<https://doi.org/10.6069/uwlswd.084w-3778#b> <http://www.w3.org/2004/02/skos/core#scopeNote> "Includes diacritics and special characters."@en .
+<https://doi.org/10.6069/uwlswd.084w-3778#g> <http://www.w3.org/2004/02/skos/core#notation> "g"@en .
+<https://doi.org/10.6069/uwlswd.084w-3778#j> <http://www.w3.org/2004/02/skos/core#prefLabel> "devanagari"@en .
+<https://doi.org/10.6069/uwlswd.084w-3778#f> <http://www.w3.org/2004/02/skos/core#notation> "f"@en .
+<https://doi.org/10.6069/uwlswd.084w-3778#z> <http://www.w3.org/2004/02/skos/core#prefLabel> "other"@en .
+<https://doi.org/10.6069/uwlswd.084w-3778#a> <http://www.w3.org/2004/02/skos/core#scopeNote> "Includes no diacritics or special characters."@en .
+<https://doi.org/10.6069/uwlswd.084w-3778#h> <http://www.w3.org/2004/02/skos/core#notation> "h"@en .
+<https://doi.org/10.6069/uwlswd.084w-3778#z> <http://www.w3.org/2004/02/skos/core#definition> "Original alphabet or script of title other than basic Roman, extended Roman, cyrillic, Japanese, Chinese, Arabic, Greek, Hebrew, Thai, Devanagari, Korean, or Tamil."@en .
+<https://doi.org/10.6069/uwlswd.084w-3778#g> <http://www.w3.org/2004/02/skos/core#inScheme> <https://doi.org/10.6069/uwlswd.084w-3778> .
+<https://doi.org/10.6069/uwlswd.084w-3778> <http://purl.org/dc/terms/hasFormat> <https://uwlib-cams.github.io/uwlswd_vocabs_marc_006_008/008/continuing_original_alphabet_or_script_of_title/continuing_original_alphabet_or_script_of_title.html> .
+<https://doi.org/10.6069/uwlswd.084w-3778#g> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<https://doi.org/10.6069/uwlswd.084w-3778#pound> <http://www.w3.org/2004/02/skos/core#prefLabel> "no alphabet or script given/no key title"@en .
+<https://doi.org/10.6069/uwlswd.084w-3778#a> <http://www.w3.org/2004/02/skos/core#notation> "a"@en .
+<https://doi.org/10.6069/uwlswd.084w-3778#e> <http://www.w3.org/2004/02/skos/core#inScheme> <https://doi.org/10.6069/uwlswd.084w-3778> .
+<https://doi.org/10.6069/uwlswd.084w-3778#k> <http://www.w3.org/2004/02/skos/core#prefLabel> "korean"@en .
+<https://doi.org/10.6069/uwlswd.084w-3778#pound> <http://www.w3.org/2004/02/skos/core#notation> "#"@en .
+<https://doi.org/10.6069/uwlswd.084w-3778#u> <http://www.w3.org/2004/02/skos/core#definition> "Original alphabet of the title is unknown."@en .
+<https://doi.org/10.6069/uwlswd.084w-3778#j> <http://www.w3.org/2004/02/skos/core#notation> "j"@en .
+<https://doi.org/10.6069/uwlswd.084w-3778#h> <http://www.w3.org/2004/02/skos/core#prefLabel> "hebrew"@en .
+<https://doi.org/10.6069/uwlswd.084w-3778> <http://purl.org/dc/terms/source> <https://www.loc.gov/marc/bibliographic/bd008.html> .
+<https://doi.org/10.6069/uwlswd.084w-3778> <http://purl.org/dc/terms/creator> <http://viaf.org/viaf/139541794> .
 <https://doi.org/10.6069/uwlswd.084w-3778#i> <http://www.w3.org/2004/02/skos/core#prefLabel> "thai"@en .
 <https://doi.org/10.6069/uwlswd.084w-3778#e> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
-<https://doi.org/10.6069/uwlswd.084w-3778#pound> <http://www.w3.org/2004/02/skos/core#inScheme> <https://doi.org/10.6069/uwlswd.084w-3778> .
-
+<https://doi.org/10.6069/uwlswd.084w-3778> <http://purl.org/dc/elements/1.1/language> "en" .
+<https://doi.org/10.6069/uwlswd.084w-3778#u> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<https://doi.org/10.6069/uwlswd.084w-3778#c> <http://www.w3.org/2004/02/skos/core#notation> "c"@en .
+<https://doi.org/10.6069/uwlswd.084w-3778#d> <http://www.w3.org/2004/02/skos/core#inScheme> <https://doi.org/10.6069/uwlswd.084w-3778> .
+<https://doi.org/10.6069/uwlswd.084w-3778> <https://schema.org/disambiguatingDescription> "SKOS Concept Scheme for MARC 00X Values" .
+<https://doi.org/10.6069/uwlswd.084w-3778#b> <http://www.w3.org/2004/02/skos/core#inScheme> <https://doi.org/10.6069/uwlswd.084w-3778> .
+<https://doi.org/10.6069/uwlswd.084w-3778> <http://purl.org/dc/terms/publisher> <http://viaf.org/viaf/139541794> .
+<https://doi.org/10.6069/uwlswd.084w-3778#d> <http://www.w3.org/2004/02/skos/core#prefLabel> "japanese"@en .
+<https://doi.org/10.6069/uwlswd.084w-3778#d> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<https://doi.org/10.6069/uwlswd.084w-3778#z> <http://www.w3.org/2004/02/skos/core#inScheme> <https://doi.org/10.6069/uwlswd.084w-3778> .
+<https://doi.org/10.6069/uwlswd.084w-3778#e> <http://www.w3.org/2004/02/skos/core#notation> "e"@en .
+<https://doi.org/10.6069/uwlswd.084w-3778> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#ConceptScheme> .
+<https://doi.org/10.6069/uwlswd.084w-3778#k> <http://www.w3.org/2004/02/skos/core#inScheme> <https://doi.org/10.6069/uwlswd.084w-3778> .
+<https://doi.org/10.6069/uwlswd.084w-3778> <http://purl.org/dc/terms/title> "Continuing: original alphabet or script of title"@en .
+<https://doi.org/10.6069/uwlswd.084w-3778#l> <http://www.w3.org/2004/02/skos/core#prefLabel> "tamil"@en .
+<https://doi.org/10.6069/uwlswd.084w-3778#k> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<https://doi.org/10.6069/uwlswd.084w-3778#c> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<https://doi.org/10.6069/uwlswd.084w-3778#u> <http://www.w3.org/2004/02/skos/core#prefLabel> "unknown"@en .
+<https://doi.org/10.6069/uwlswd.084w-3778> <http://purl.org/dc/terms/hasFormat> <https://uwlib-cams.github.io/uwlswd_vocabs_marc_006_008/008/continuing_original_alphabet_or_script_of_title/continuing_original_alphabet_or_script_of_title.rdf> .

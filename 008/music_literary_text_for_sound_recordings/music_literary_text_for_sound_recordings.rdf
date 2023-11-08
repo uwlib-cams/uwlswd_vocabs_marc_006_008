@@ -1,1 +1,184 @@
-<?xml version="1.0" encoding="UTF-8"?> <rdf:RDF xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dct="http://purl.org/dc/terms/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:schema="https://schema.org/" xmlns:skos="http://www.w3.org/2004/02/skos/core#"> <!-- Scheme: MARC21-007: Literary text of sound recordings --> <skos:ConceptScheme rdf:about="https://doi.org/10.6069/uwlswd.23tq-5e25"> <dct:type rdf:resource="http://purl.org/dc/dcmitype/Dataset"/> <dct:title>Music: literary text of sound recordings</dct:title> <dct:alternative>MARC21 008/30-31 values for music expressed using RDF</dct:alternative> <dct:description>Indicates the type of literary text contained in a nonmusical sound recording.</dct:description> <dct:publisher rdf:resource="http://viaf.org/viaf/139541794"/> <dct:source rdf:resource="https://www.loc.gov/marc/bibliographic/bd008.html"/> <dct:source rdf:resource="http://marc21rdf.info"/> <dct:provenance rdf:resource="https://doi.org/10.6069/uwlswd.2e2b-y833"/> <dct:creator rdf:resource="http://viaf.org/viaf/139541794"/> <dct:contributor rdf:resource="http://viaf.org/viaf/151962300"/> <dc:contributor>Metadata Management Associates</dc:contributor> <dct:issued>2023</dct:issued> <dc:language>en</dc:language> <dct:license rdf:resource="http://creativecommons.org/publicdomain/zero/1.0"/> <schema:version>1-0-0</schema:version> </skos:ConceptScheme> <!-- Concept: autobiography --> <skos:Concept rdf:about="https://doi.org/10.6069/uwlswd.23tq-5e25#a"> <skos:inScheme rdf:resource="https://doi.org/10.6069/uwlswd.23tq-5e25"/> <skos:prefLabel xml:lang="en">autobiography</skos:prefLabel> <skos:definition xml:lang="en">Autobiography</skos:definition> <skos:notation xml:lang="en">a</skos:notation> </skos:Concept> <!-- Concept: biography --> <skos:Concept rdf:about="https://doi.org/10.6069/uwlswd.23tq-5e25#b"> <skos:inScheme rdf:resource="https://doi.org/10.6069/uwlswd.23tq-5e25"/> <skos:prefLabel xml:lang="en">biography</skos:prefLabel> <skos:definition xml:lang="en">Biography</skos:definition> <skos:notation xml:lang="en">b</skos:notation> </skos:Concept> <!-- Concept: comedy --> <skos:Concept rdf:about="https://doi.org/10.6069/uwlswd.23tq-5e25#k"> <skos:inScheme rdf:resource="https://doi.org/10.6069/uwlswd.23tq-5e25"/> <skos:prefLabel xml:lang="en">comedy</skos:prefLabel> <skos:definition xml:lang="en">Spoken comedy.</skos:definition> <skos:notation xml:lang="en">k</skos:notation> </skos:Concept> <!-- Concept: conference proceedings --> <skos:Concept rdf:about="https://doi.org/10.6069/uwlswd.23tq-5e25#c"> <skos:inScheme rdf:resource="https://doi.org/10.6069/uwlswd.23tq-5e25"/> <skos:prefLabel xml:lang="en">conference proceedings</skos:prefLabel> <skos:definition xml:lang="en">Conference proceedings</skos:definition> <skos:notation xml:lang="en">c</skos:notation> </skos:Concept> <!-- Concept: drama --> <skos:Concept rdf:about="https://doi.org/10.6069/uwlswd.23tq-5e25#d"> <skos:inScheme rdf:resource="https://doi.org/10.6069/uwlswd.23tq-5e25"/> <skos:prefLabel xml:lang="en">drama</skos:prefLabel> <skos:definition xml:lang="en">Drama</skos:definition> <skos:notation xml:lang="en">d</skos:notation> </skos:Concept> <!-- Concept: essays --> <skos:Concept rdf:about="https://doi.org/10.6069/uwlswd.23tq-5e25#e"> <skos:inScheme rdf:resource="https://doi.org/10.6069/uwlswd.23tq-5e25"/> <skos:prefLabel xml:lang="en">essays</skos:prefLabel> <skos:definition xml:lang="en">Essays.</skos:definition> <skos:notation xml:lang="en">e</skos:notation> </skos:Concept> <!-- Concept: fiction --> <skos:Concept rdf:about="https://doi.org/10.6069/uwlswd.23tq-5e25#f"> <skos:inScheme rdf:resource="https://doi.org/10.6069/uwlswd.23tq-5e25"/> <skos:prefLabel xml:lang="en">fiction</skos:prefLabel> <skos:definition xml:lang="en">Fiction.</skos:definition> <skos:notation xml:lang="en">f</skos:notation> <skos:scopeNote xml:lang="en">Includes novels, short stories, etc.</skos:scopeNote> </skos:Concept> <!-- Concept: folktales --> <skos:Concept rdf:about="https://doi.org/10.6069/uwlswd.23tq-5e25#o"> <skos:inScheme rdf:resource="https://doi.org/10.6069/uwlswd.23tq-5e25"/> <skos:prefLabel xml:lang="en">folktales</skos:prefLabel> <skos:definition xml:lang="en">Folktales.</skos:definition> <skos:notation xml:lang="en">o</skos:notation> </skos:Concept> <!-- Concept: history --> <skos:Concept rdf:about="https://doi.org/10.6069/uwlswd.23tq-5e25#h"> <skos:inScheme rdf:resource="https://doi.org/10.6069/uwlswd.23tq-5e25"/> <skos:prefLabel xml:lang="en">history</skos:prefLabel> <skos:definition xml:lang="en">History.</skos:definition> <skos:notation xml:lang="en">h</skos:notation> </skos:Concept> <!-- Concept: instruction --> <skos:Concept rdf:about="https://doi.org/10.6069/uwlswd.23tq-5e25#i"> <skos:inScheme rdf:resource="https://doi.org/10.6069/uwlswd.23tq-5e25"/> <skos:prefLabel xml:lang="en">instruction</skos:prefLabel> <skos:definition xml:lang="en">Instruction.</skos:definition> <skos:notation xml:lang="en">i</skos:notation> <skos:scopeNote xml:lang="en">Includes instructions on how to accomplish a task, learn an art, etc. (e.g., how to replace a light switch). Not used for language instruction.</skos:scopeNote> </skos:Concept> <!-- Concept: interviews --> <skos:Concept rdf:about="https://doi.org/10.6069/uwlswd.23tq-5e25#t"> <skos:inScheme rdf:resource="https://doi.org/10.6069/uwlswd.23tq-5e25"/> <skos:prefLabel xml:lang="en">interviews</skos:prefLabel> <skos:definition xml:lang="en">Interviews.</skos:definition> <skos:notation xml:lang="en">t</skos:notation> </skos:Concept> <!-- Concept: item is a musical sound recording --> <skos:Concept rdf:about="https://doi.org/10.6069/uwlswd.23tq-5e25#pound"> <skos:inScheme rdf:resource="https://doi.org/10.6069/uwlswd.23tq-5e25"/> <skos:prefLabel xml:lang="en">item is a music sound recording</skos:prefLabel> <skos:definition xml:lang="en">Item is a music sound recording</skos:definition> <skos:notation xml:lang="en">#</skos:notation> </skos:Concept> <!-- Concept: language instruction --> <skos:Concept rdf:about="https://doi.org/10.6069/uwlswd.23tq-5e25#j"> <skos:inScheme rdf:resource="https://doi.org/10.6069/uwlswd.23tq-5e25"/> <skos:prefLabel xml:lang="en">language instruction</skos:prefLabel> <skos:definition xml:lang="en">Language instruction.</skos:definition> <skos:notation xml:lang="en">j</skos:notation> </skos:Concept> <!-- Concept: lectures, speeches --> <skos:Concept rdf:about="https://doi.org/10.6069/uwlswd.23tq-5e25#l"> <skos:inScheme rdf:resource="https://doi.org/10.6069/uwlswd.23tq-5e25"/> <skos:prefLabel xml:lang="en">lectures, speeches</skos:prefLabel> <skos:definition xml:lang="en">Lectures, speeches.</skos:definition> <skos:notation xml:lang="en">l</skos:notation> </skos:Concept> <!-- Concept: memoirs --> <skos:Concept rdf:about="https://doi.org/10.6069/uwlswd.23tq-5e25#m"> <skos:inScheme rdf:resource="https://doi.org/10.6069/uwlswd.23tq-5e25"/> <skos:prefLabel xml:lang="en">memoirs</skos:prefLabel> <skos:definition xml:lang="en">Memoirs.</skos:definition> <skos:notation xml:lang="en">m</skos:notation> </skos:Concept> <!-- Concept: not applicable --> <skos:Concept rdf:about="https://doi.org/10.6069/uwlswd.23tq-5e25#n"> <skos:inScheme rdf:resource="https://doi.org/10.6069/uwlswd.23tq-5e25"/> <skos:prefLabel xml:lang="en">not applicable</skos:prefLabel> <skos:definition xml:lang="en">Not a sound recording (e.g., printed or manuscript music).</skos:definition> <skos:notation xml:lang="en">n</skos:notation> </skos:Concept> <!-- Concept: other --> <skos:Concept rdf:about="https://doi.org/10.6069/uwlswd.23tq-5e25#z"> <skos:inScheme rdf:resource="https://doi.org/10.6069/uwlswd.23tq-5e25"/> <skos:prefLabel xml:lang="en">other</skos:prefLabel> <skos:definition xml:lang="en">Literary text for sound recordings other than autobiography, biography, conference proceedings, drama, essays, fiction, reporting, history, instruction, language instruction, comedy, lectures, speeches, memoirs, folktales, poetry, rehearsals, sounds, or interviews.</skos:definition> <skos:notation xml:lang="en">z</skos:notation> </skos:Concept> <!-- Concept: poetry --> <skos:Concept rdf:about="https://doi.org/10.6069/uwlswd.23tq-5e25#p"> <skos:inScheme rdf:resource="https://doi.org/10.6069/uwlswd.23tq-5e25"/> <skos:prefLabel xml:lang="en">poetry</skos:prefLabel> <skos:definition xml:lang="en">Poetry.</skos:definition> <skos:notation xml:lang="en">p</skos:notation> </skos:Concept> <!-- Concept: rehearsals --> <skos:Concept rdf:about="https://doi.org/10.6069/uwlswd.23tq-5e25#r"> <skos:inScheme rdf:resource="https://doi.org/10.6069/uwlswd.23tq-5e25"/> <skos:prefLabel xml:lang="en">rehearsals</skos:prefLabel> <skos:definition xml:lang="en">Performances of any of a variety of nonmusical productions.</skos:definition> <skos:notation xml:lang="en">r</skos:notation> </skos:Concept> <!-- Concept: reporting --> <skos:Concept rdf:about="https://doi.org/10.6069/uwlswd.23tq-5e25#g"> <skos:inScheme rdf:resource="https://doi.org/10.6069/uwlswd.23tq-5e25"/> <skos:prefLabel xml:lang="en">reporting</skos:prefLabel> <skos:definition xml:lang="en">Reporting.</skos:definition> <skos:scopeNote xml:lang="en">Reports of newsworthy events and informative messages are included in this category.</skos:scopeNote> <skos:notation xml:lang="en">g</skos:notation> </skos:Concept> <!-- Concept: sounds --> <skos:Concept rdf:about="https://doi.org/10.6069/uwlswd.23tq-5e25#s"> <skos:inScheme rdf:resource="https://doi.org/10.6069/uwlswd.23tq-5e25"/> <skos:prefLabel xml:lang="en">sounds</skos:prefLabel> <skos:definition xml:lang="en">Sounds.</skos:definition> <skos:scopeNote xml:lang="en">Includes nonmusical utterances and vocalizations that may or may not convey meaning.</skos:scopeNote> <skos:notation xml:lang="en">s</skos:notation> </skos:Concept> </rdf:RDF>
+<?xml version="1.0" encoding="utf-8"?>
+<rdf:RDF
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:dct="http://purl.org/dc/terms/"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:schema="https://schema.org/"
+   xmlns:skos="http://www.w3.org/2004/02/skos/core#"
+>
+  <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.23tq-5e25">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#ConceptScheme"/>
+    <dct:type rdf:resource="http://purl.org/dc/dcmitype/Dataset"/>
+    <dct:title xml:lang="en">Music: literary text of sound recordings</dct:title>
+    <dct:alternative xml:lang="en">MARC21 008/30-31 values for music expressed using RDF</dct:alternative>
+    <dct:description xml:lang="en">Indicates the type of literary text contained in a nonmusical sound recording.</dct:description>
+    <schema:disambiguatingDescription>SKOS Concept Scheme for MARC 00X Values</schema:disambiguatingDescription>
+    <dct:publisher rdf:resource="http://viaf.org/viaf/139541794"/>
+    <dct:source rdf:resource="https://www.loc.gov/marc/bibliographic/bd008.html"/>
+    <dct:source rdf:resource="http://marc21rdf.info"/>
+    <dct:provenance rdf:resource="https://doi.org/10.6069/uwlswd.2e2b-y833"/>
+    <dct:creator rdf:resource="http://viaf.org/viaf/139541794"/>
+    <dct:contributor rdf:resource="http://viaf.org/viaf/151962300"/>
+    <dc:contributor xml:lang="en">Metadata Management Associates</dc:contributor>
+    <dct:issued>2023</dct:issued>
+    <dc:language>en</dc:language>
+    <dct:license rdf:resource="http://creativecommons.org/publicdomain/zero/1.0"/>
+    <schema:version>1-0-1</schema:version>
+    <dct:hasFormat rdf:resource="https://uwlib-cams.github.io/uwlswd_vocabs_marc_006_008/008/music_literary_text_for_sound_recordings/music_literary_text_for_sound_recordings.ttl"/>
+    <dct:hasFormat rdf:resource="https://uwlib-cams.github.io/uwlswd_vocabs_marc_006_008/008/music_literary_text_for_sound_recordings/music_literary_text_for_sound_recordings.nt"/>
+    <dct:hasFormat rdf:resource="https://uwlib-cams.github.io/uwlswd_vocabs_marc_006_008/008/music_literary_text_for_sound_recordings/music_literary_text_for_sound_recordings.jsonld"/>
+    <dct:hasFormat rdf:resource="https://uwlib-cams.github.io/uwlswd_vocabs_marc_006_008/008/music_literary_text_for_sound_recordings/music_literary_text_for_sound_recordings.html"/>
+    <dct:format rdf:resource="http://www.w3.org/ns/formats/RDF_XML"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.23tq-5e25#h">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <skos:inScheme rdf:resource="https://doi.org/10.6069/uwlswd.23tq-5e25"/>
+    <skos:prefLabel xml:lang="en">history</skos:prefLabel>
+    <skos:definition xml:lang="en">History.</skos:definition>
+    <skos:notation xml:lang="en">h</skos:notation>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.23tq-5e25#i">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <skos:inScheme rdf:resource="https://doi.org/10.6069/uwlswd.23tq-5e25"/>
+    <skos:prefLabel xml:lang="en">instruction</skos:prefLabel>
+    <skos:definition xml:lang="en">Instruction.</skos:definition>
+    <skos:notation xml:lang="en">i</skos:notation>
+    <skos:scopeNote xml:lang="en">Includes instructions on how to accomplish a task, learn an art, etc. (e.g., how to replace a light switch). Not used for language instruction.</skos:scopeNote>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.23tq-5e25#a">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <skos:inScheme rdf:resource="https://doi.org/10.6069/uwlswd.23tq-5e25"/>
+    <skos:prefLabel xml:lang="en">autobiography</skos:prefLabel>
+    <skos:definition xml:lang="en">Autobiography</skos:definition>
+    <skos:notation xml:lang="en">a</skos:notation>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.23tq-5e25#b">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <skos:inScheme rdf:resource="https://doi.org/10.6069/uwlswd.23tq-5e25"/>
+    <skos:prefLabel xml:lang="en">biography</skos:prefLabel>
+    <skos:definition xml:lang="en">Biography</skos:definition>
+    <skos:notation xml:lang="en">b</skos:notation>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.23tq-5e25#n">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <skos:inScheme rdf:resource="https://doi.org/10.6069/uwlswd.23tq-5e25"/>
+    <skos:prefLabel xml:lang="en">not applicable</skos:prefLabel>
+    <skos:definition xml:lang="en">Not a sound recording (e.g., printed or manuscript music).</skos:definition>
+    <skos:notation xml:lang="en">n</skos:notation>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.23tq-5e25#r">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <skos:inScheme rdf:resource="https://doi.org/10.6069/uwlswd.23tq-5e25"/>
+    <skos:prefLabel xml:lang="en">rehearsals</skos:prefLabel>
+    <skos:definition xml:lang="en">Performances of any of a variety of nonmusical productions.</skos:definition>
+    <skos:notation xml:lang="en">r</skos:notation>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.23tq-5e25#l">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <skos:inScheme rdf:resource="https://doi.org/10.6069/uwlswd.23tq-5e25"/>
+    <skos:prefLabel xml:lang="en">lectures, speeches</skos:prefLabel>
+    <skos:definition xml:lang="en">Lectures, speeches.</skos:definition>
+    <skos:notation xml:lang="en">l</skos:notation>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.23tq-5e25#f">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <skos:inScheme rdf:resource="https://doi.org/10.6069/uwlswd.23tq-5e25"/>
+    <skos:prefLabel xml:lang="en">fiction</skos:prefLabel>
+    <skos:definition xml:lang="en">Fiction.</skos:definition>
+    <skos:notation xml:lang="en">f</skos:notation>
+    <skos:scopeNote xml:lang="en">Includes novels, short stories, etc.</skos:scopeNote>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.23tq-5e25#c">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <skos:inScheme rdf:resource="https://doi.org/10.6069/uwlswd.23tq-5e25"/>
+    <skos:prefLabel xml:lang="en">conference proceedings</skos:prefLabel>
+    <skos:definition xml:lang="en">Conference proceedings</skos:definition>
+    <skos:notation xml:lang="en">c</skos:notation>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.23tq-5e25#e">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <skos:inScheme rdf:resource="https://doi.org/10.6069/uwlswd.23tq-5e25"/>
+    <skos:prefLabel xml:lang="en">essays</skos:prefLabel>
+    <skos:definition xml:lang="en">Essays.</skos:definition>
+    <skos:notation xml:lang="en">e</skos:notation>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.23tq-5e25#s">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <skos:inScheme rdf:resource="https://doi.org/10.6069/uwlswd.23tq-5e25"/>
+    <skos:prefLabel xml:lang="en">sounds</skos:prefLabel>
+    <skos:definition xml:lang="en">Sounds.</skos:definition>
+    <skos:scopeNote xml:lang="en">Includes nonmusical utterances and vocalizations that may or may not convey meaning.</skos:scopeNote>
+    <skos:notation xml:lang="en">s</skos:notation>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.23tq-5e25#g">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <skos:inScheme rdf:resource="https://doi.org/10.6069/uwlswd.23tq-5e25"/>
+    <skos:prefLabel xml:lang="en">reporting</skos:prefLabel>
+    <skos:definition xml:lang="en">Reporting.</skos:definition>
+    <skos:scopeNote xml:lang="en">Reports of newsworthy events and informative messages are included in this category.</skos:scopeNote>
+    <skos:notation xml:lang="en">g</skos:notation>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.23tq-5e25#o">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <skos:inScheme rdf:resource="https://doi.org/10.6069/uwlswd.23tq-5e25"/>
+    <skos:prefLabel xml:lang="en">folktales</skos:prefLabel>
+    <skos:definition xml:lang="en">Folktales.</skos:definition>
+    <skos:notation xml:lang="en">o</skos:notation>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.23tq-5e25#z">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <skos:inScheme rdf:resource="https://doi.org/10.6069/uwlswd.23tq-5e25"/>
+    <skos:prefLabel xml:lang="en">other</skos:prefLabel>
+    <skos:definition xml:lang="en">Literary text for sound recordings other than autobiography, biography, conference proceedings, drama, essays, fiction, reporting, history, instruction, language instruction, comedy, lectures, speeches, memoirs, folktales, poetry, rehearsals, sounds, or interviews.</skos:definition>
+    <skos:notation xml:lang="en">z</skos:notation>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.23tq-5e25#k">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <skos:inScheme rdf:resource="https://doi.org/10.6069/uwlswd.23tq-5e25"/>
+    <skos:prefLabel xml:lang="en">comedy</skos:prefLabel>
+    <skos:definition xml:lang="en">Spoken comedy.</skos:definition>
+    <skos:notation xml:lang="en">k</skos:notation>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.23tq-5e25#p">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <skos:inScheme rdf:resource="https://doi.org/10.6069/uwlswd.23tq-5e25"/>
+    <skos:prefLabel xml:lang="en">poetry</skos:prefLabel>
+    <skos:definition xml:lang="en">Poetry.</skos:definition>
+    <skos:notation xml:lang="en">p</skos:notation>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.23tq-5e25#m">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <skos:inScheme rdf:resource="https://doi.org/10.6069/uwlswd.23tq-5e25"/>
+    <skos:prefLabel xml:lang="en">memoirs</skos:prefLabel>
+    <skos:definition xml:lang="en">Memoirs.</skos:definition>
+    <skos:notation xml:lang="en">m</skos:notation>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.23tq-5e25#t">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <skos:inScheme rdf:resource="https://doi.org/10.6069/uwlswd.23tq-5e25"/>
+    <skos:prefLabel xml:lang="en">interviews</skos:prefLabel>
+    <skos:definition xml:lang="en">Interviews.</skos:definition>
+    <skos:notation xml:lang="en">t</skos:notation>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.23tq-5e25#j">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <skos:inScheme rdf:resource="https://doi.org/10.6069/uwlswd.23tq-5e25"/>
+    <skos:prefLabel xml:lang="en">language instruction</skos:prefLabel>
+    <skos:definition xml:lang="en">Language instruction.</skos:definition>
+    <skos:notation xml:lang="en">j</skos:notation>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.23tq-5e25#pound">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <skos:inScheme rdf:resource="https://doi.org/10.6069/uwlswd.23tq-5e25"/>
+    <skos:prefLabel xml:lang="en">item is a music sound recording</skos:prefLabel>
+    <skos:definition xml:lang="en">Item is a music sound recording</skos:definition>
+    <skos:notation xml:lang="en">#</skos:notation>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.23tq-5e25#d">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <skos:inScheme rdf:resource="https://doi.org/10.6069/uwlswd.23tq-5e25"/>
+    <skos:prefLabel xml:lang="en">drama</skos:prefLabel>
+    <skos:definition xml:lang="en">Drama</skos:definition>
+    <skos:notation xml:lang="en">d</skos:notation>
+  </rdf:Description>
+</rdf:RDF>

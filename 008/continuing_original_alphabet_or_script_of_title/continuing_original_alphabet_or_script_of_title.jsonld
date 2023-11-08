@@ -1,0 +1,496 @@
+[
+  {
+    "@id": "https://doi.org/10.6069/uwlswd.084w-3778#k",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#inScheme": [
+      {
+        "@id": "https://doi.org/10.6069/uwlswd.084w-3778"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#notation": [
+      {
+        "@language": "en",
+        "@value": "k"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "korean"
+      }
+    ]
+  },
+  {
+    "@id": "https://doi.org/10.6069/uwlswd.084w-3778#i",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#inScheme": [
+      {
+        "@id": "https://doi.org/10.6069/uwlswd.084w-3778"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#notation": [
+      {
+        "@language": "en",
+        "@value": "i"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "thai"
+      }
+    ]
+  },
+  {
+    "@id": "https://doi.org/10.6069/uwlswd.084w-3778#b",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#definition": [
+      {
+        "@language": "en",
+        "@value": "Original alphabet of the title is a Roman alphabet language. Most western European lanuages, with the major exception of English, fall into this group."
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#inScheme": [
+      {
+        "@id": "https://doi.org/10.6069/uwlswd.084w-3778"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#notation": [
+      {
+        "@language": "en",
+        "@value": "b"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "extended roman"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#scopeNote": [
+      {
+        "@language": "en",
+        "@value": "Includes diacritics and special characters."
+      }
+    ]
+  },
+  {
+    "@id": "https://doi.org/10.6069/uwlswd.084w-3778#l",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#inScheme": [
+      {
+        "@id": "https://doi.org/10.6069/uwlswd.084w-3778"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#notation": [
+      {
+        "@language": "en",
+        "@value": "l"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "tamil"
+      }
+    ]
+  },
+  {
+    "@id": "https://doi.org/10.6069/uwlswd.084w-3778#z",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#definition": [
+      {
+        "@language": "en",
+        "@value": "Original alphabet or script of title other than basic Roman, extended Roman, cyrillic, Japanese, Chinese, Arabic, Greek, Hebrew, Thai, Devanagari, Korean, or Tamil."
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#inScheme": [
+      {
+        "@id": "https://doi.org/10.6069/uwlswd.084w-3778"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#notation": [
+      {
+        "@language": "en",
+        "@value": "z"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "other"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#scopeNote": [
+      {
+        "@language": "en",
+        "@value": "Also used when the title incorporates words from more than one alphabet or script."
+      }
+    ]
+  },
+  {
+    "@id": "https://doi.org/10.6069/uwlswd.084w-3778#f",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#inScheme": [
+      {
+        "@id": "https://doi.org/10.6069/uwlswd.084w-3778"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#notation": [
+      {
+        "@language": "en",
+        "@value": "f"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "arabic"
+      }
+    ]
+  },
+  {
+    "@id": "https://doi.org/10.6069/uwlswd.084w-3778#a",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#definition": [
+      {
+        "@language": "en",
+        "@value": "Original alphabet of the title is the Roman alphabet. Languages that are usually associated include: Basque, English, Latin, Welsh, and many languages of Central and Southern Africa."
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#inScheme": [
+      {
+        "@id": "https://doi.org/10.6069/uwlswd.084w-3778"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#notation": [
+      {
+        "@language": "en",
+        "@value": "a"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "basic roman"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#scopeNote": [
+      {
+        "@language": "en",
+        "@value": "Includes no diacritics or special characters."
+      }
+    ]
+  },
+  {
+    "@id": "https://doi.org/10.6069/uwlswd.084w-3778#j",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#inScheme": [
+      {
+        "@id": "https://doi.org/10.6069/uwlswd.084w-3778"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#notation": [
+      {
+        "@language": "en",
+        "@value": "j"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "devanagari"
+      }
+    ]
+  },
+  {
+    "@id": "https://doi.org/10.6069/uwlswd.084w-3778#d",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#inScheme": [
+      {
+        "@id": "https://doi.org/10.6069/uwlswd.084w-3778"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#notation": [
+      {
+        "@language": "en",
+        "@value": "d"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "japanese"
+      }
+    ]
+  },
+  {
+    "@id": "https://doi.org/10.6069/uwlswd.084w-3778#c",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#inScheme": [
+      {
+        "@id": "https://doi.org/10.6069/uwlswd.084w-3778"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#notation": [
+      {
+        "@language": "en",
+        "@value": "c"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "cyrillic"
+      }
+    ]
+  },
+  {
+    "@id": "https://doi.org/10.6069/uwlswd.084w-3778",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#ConceptScheme"
+    ],
+    "http://purl.org/dc/elements/1.1/contributor": [
+      {
+        "@language": "en",
+        "@value": "Metadata Management Associates"
+      }
+    ],
+    "http://purl.org/dc/elements/1.1/language": [
+      {
+        "@value": "en"
+      }
+    ],
+    "http://purl.org/dc/terms/alternative": [
+      {
+        "@language": "en",
+        "@value": "MARC21 008/33 values for continuing resources expressed using RDF"
+      }
+    ],
+    "http://purl.org/dc/terms/contributor": [
+      {
+        "@id": "http://viaf.org/viaf/151962300"
+      }
+    ],
+    "http://purl.org/dc/terms/creator": [
+      {
+        "@id": "http://viaf.org/viaf/139541794"
+      }
+    ],
+    "http://purl.org/dc/terms/description": [
+      {
+        "@language": "en",
+        "@value": "Indicates the original alphabet or script of the language of the title on the source item upon which the key title is based."
+      }
+    ],
+    "http://purl.org/dc/terms/format": [
+      {
+        "@id": "http://www.w3.org/ns/formats/JSON-LD"
+      }
+    ],
+    "http://purl.org/dc/terms/hasFormat": [
+      {
+        "@id": "https://uwlib-cams.github.io/uwlswd_vocabs_marc_006_008/008/continuing_original_alphabet_or_script_of_title/continuing_original_alphabet_or_script_of_title.html"
+      },
+      {
+        "@id": "https://uwlib-cams.github.io/uwlswd_vocabs_marc_006_008/008/continuing_original_alphabet_or_script_of_title/continuing_original_alphabet_or_script_of_title.rdf"
+      },
+      {
+        "@id": "https://uwlib-cams.github.io/uwlswd_vocabs_marc_006_008/008/continuing_original_alphabet_or_script_of_title/continuing_original_alphabet_or_script_of_title.nt"
+      },
+      {
+        "@id": "https://uwlib-cams.github.io/uwlswd_vocabs_marc_006_008/008/continuing_original_alphabet_or_script_of_title/continuing_original_alphabet_or_script_of_title.ttl"
+      }
+    ],
+    "http://purl.org/dc/terms/issued": [
+      {
+        "@value": "2023"
+      }
+    ],
+    "http://purl.org/dc/terms/license": [
+      {
+        "@id": "http://creativecommons.org/publicdomain/zero/1.0"
+      }
+    ],
+    "http://purl.org/dc/terms/provenance": [
+      {
+        "@id": "https://doi.org/10.6069/uwlswd.2e2b-y833"
+      }
+    ],
+    "http://purl.org/dc/terms/publisher": [
+      {
+        "@id": "http://viaf.org/viaf/139541794"
+      }
+    ],
+    "http://purl.org/dc/terms/source": [
+      {
+        "@id": "https://www.loc.gov/marc/bibliographic/bd008.html"
+      },
+      {
+        "@id": "http://marc21rdf.info"
+      }
+    ],
+    "http://purl.org/dc/terms/title": [
+      {
+        "@language": "en",
+        "@value": "Continuing: original alphabet or script of title"
+      }
+    ],
+    "http://purl.org/dc/terms/type": [
+      {
+        "@id": "http://purl.org/dc/dcmitype/Dataset"
+      }
+    ],
+    "https://schema.org/disambiguatingDescription": [
+      {
+        "@value": "SKOS Concept Scheme for MARC 00X Values"
+      }
+    ],
+    "https://schema.org/version": [
+      {
+        "@value": "1-0-1"
+      }
+    ]
+  },
+  {
+    "@id": "https://doi.org/10.6069/uwlswd.084w-3778#g",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#inScheme": [
+      {
+        "@id": "https://doi.org/10.6069/uwlswd.084w-3778"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#notation": [
+      {
+        "@language": "en",
+        "@value": "g"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "greek"
+      }
+    ]
+  },
+  {
+    "@id": "https://doi.org/10.6069/uwlswd.084w-3778#pound",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#inScheme": [
+      {
+        "@id": "https://doi.org/10.6069/uwlswd.084w-3778"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#notation": [
+      {
+        "@language": "en",
+        "@value": "#"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "no alphabet or script given/no key title"
+      }
+    ]
+  },
+  {
+    "@id": "https://doi.org/10.6069/uwlswd.084w-3778#h",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#inScheme": [
+      {
+        "@id": "https://doi.org/10.6069/uwlswd.084w-3778"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#notation": [
+      {
+        "@language": "en",
+        "@value": "h"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "hebrew"
+      }
+    ]
+  },
+  {
+    "@id": "https://doi.org/10.6069/uwlswd.084w-3778#e",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#inScheme": [
+      {
+        "@id": "https://doi.org/10.6069/uwlswd.084w-3778"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#notation": [
+      {
+        "@language": "en",
+        "@value": "e"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "chinese"
+      }
+    ]
+  },
+  {
+    "@id": "https://doi.org/10.6069/uwlswd.084w-3778#u",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#definition": [
+      {
+        "@language": "en",
+        "@value": "Original alphabet of the title is unknown."
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#inScheme": [
+      {
+        "@id": "https://doi.org/10.6069/uwlswd.084w-3778"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#notation": [
+      {
+        "@language": "en",
+        "@value": "u"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "unknown"
+      }
+    ]
+  }
+]

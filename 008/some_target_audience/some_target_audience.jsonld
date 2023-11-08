@@ -1,0 +1,382 @@
+[
+  {
+    "@id": "https://doi.org/10.6069/uwlswd.aec4-nv40#j",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#definition": [
+      {
+        "@language": "en",
+        "@value": "Children and young people, approximate ages 0-15."
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#inScheme": [
+      {
+        "@id": "https://doi.org/10.6069/uwlswd.aec4-nv40"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#notation": [
+      {
+        "@language": "en",
+        "@value": "j"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "juvenile"
+      }
+    ]
+  },
+  {
+    "@id": "https://doi.org/10.6069/uwlswd.aec4-nv40#a",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#definition": [
+      {
+        "@language": "en",
+        "@value": "Children, approximate ages 0-5 years."
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#inScheme": [
+      {
+        "@id": "https://doi.org/10.6069/uwlswd.aec4-nv40"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#notation": [
+      {
+        "@language": "en",
+        "@value": "a"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "preschool"
+      }
+    ]
+  },
+  {
+    "@id": "https://doi.org/10.6069/uwlswd.aec4-nv40#d",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#definition": [
+      {
+        "@language": "en",
+        "@value": "Young people, approximate ages 14-17."
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#inScheme": [
+      {
+        "@id": "https://doi.org/10.6069/uwlswd.aec4-nv40"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#notation": [
+      {
+        "@language": "en",
+        "@value": "d"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "adolescent"
+      }
+    ]
+  },
+  {
+    "@id": "https://doi.org/10.6069/uwlswd.aec4-nv40",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#ConceptScheme"
+    ],
+    "http://purl.org/dc/elements/1.1/contributor": [
+      {
+        "@language": "en",
+        "@value": "Metadata Management Associates"
+      }
+    ],
+    "http://purl.org/dc/elements/1.1/language": [
+      {
+        "@value": "en"
+      }
+    ],
+    "http://purl.org/dc/terms/alternative": [
+      {
+        "@language": "en",
+        "@value": "MARC21 008/22 values for some materials expressed using RDF"
+      }
+    ],
+    "http://purl.org/dc/terms/contributor": [
+      {
+        "@id": "http://viaf.org/viaf/151962300"
+      }
+    ],
+    "http://purl.org/dc/terms/creator": [
+      {
+        "@id": "http://viaf.org/viaf/139541794"
+      }
+    ],
+    "http://purl.org/dc/terms/description": [
+      {
+        "@language": "en",
+        "@value": "Indicates the audience for which the item is intended."
+      }
+    ],
+    "http://purl.org/dc/terms/format": [
+      {
+        "@id": "http://www.w3.org/ns/formats/JSON-LD"
+      }
+    ],
+    "http://purl.org/dc/terms/hasFormat": [
+      {
+        "@id": "https://uwlib-cams.github.io/uwlswd_vocabs_marc_006_008/008/some_target_audience/some_target_audience.html"
+      },
+      {
+        "@id": "https://uwlib-cams.github.io/uwlswd_vocabs_marc_006_008/008/some_target_audience/some_target_audience.rdf"
+      },
+      {
+        "@id": "https://uwlib-cams.github.io/uwlswd_vocabs_marc_006_008/008/some_target_audience/some_target_audience.nt"
+      },
+      {
+        "@id": "https://uwlib-cams.github.io/uwlswd_vocabs_marc_006_008/008/some_target_audience/some_target_audience.ttl"
+      }
+    ],
+    "http://purl.org/dc/terms/issued": [
+      {
+        "@value": "2023"
+      }
+    ],
+    "http://purl.org/dc/terms/license": [
+      {
+        "@id": "http://creativecommons.org/publicdomain/zero/1.0"
+      }
+    ],
+    "http://purl.org/dc/terms/provenance": [
+      {
+        "@id": "https://doi.org/10.6069/uwlswd.2e2b-y833"
+      }
+    ],
+    "http://purl.org/dc/terms/publisher": [
+      {
+        "@id": "http://viaf.org/viaf/139541794"
+      }
+    ],
+    "http://purl.org/dc/terms/source": [
+      {
+        "@id": "https://www.loc.gov/marc/bibliographic/bd008.html"
+      },
+      {
+        "@id": "http://marc21rdf.info"
+      }
+    ],
+    "http://purl.org/dc/terms/title": [
+      {
+        "@language": "en",
+        "@value": "Some: target audience"
+      }
+    ],
+    "http://purl.org/dc/terms/type": [
+      {
+        "@id": "http://purl.org/dc/dcmitype/Dataset"
+      }
+    ],
+    "https://schema.org/disambiguatingDescription": [
+      {
+        "@value": "SKOS Concept Scheme for MARC 00X Values"
+      }
+    ],
+    "https://schema.org/version": [
+      {
+        "@value": "1-0-1"
+      }
+    ]
+  },
+  {
+    "@id": "https://doi.org/10.6069/uwlswd.aec4-nv40#pound",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#definition": [
+      {
+        "@language": "en",
+        "@value": "Target audience for which the material is intended is unknown or is not specified."
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#inScheme": [
+      {
+        "@id": "https://doi.org/10.6069/uwlswd.aec4-nv40"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#notation": [
+      {
+        "@language": "en",
+        "@value": "#"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "unknown or not specified"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#scopeNote": [
+      {
+        "@language": "en",
+        "@value": "For video visual materials: use for all original or historical graphic material."
+      }
+    ]
+  },
+  {
+    "@id": "https://doi.org/10.6069/uwlswd.aec4-nv40#c",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#definition": [
+      {
+        "@language": "en",
+        "@value": "Young people, approximate ages 9-13."
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#inScheme": [
+      {
+        "@id": "https://doi.org/10.6069/uwlswd.aec4-nv40"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#notation": [
+      {
+        "@language": "en",
+        "@value": "c"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "pre-adolescent"
+      }
+    ]
+  },
+  {
+    "@id": "https://doi.org/10.6069/uwlswd.aec4-nv40#f",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#definition": [
+      {
+        "@language": "en",
+        "@value": "Aimed at a particular audience and the nature of the presentation would make the item of little interest to other audiences."
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#inScheme": [
+      {
+        "@id": "https://doi.org/10.6069/uwlswd.aec4-nv40"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#notation": [
+      {
+        "@language": "en",
+        "@value": "f"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "specialized"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#scopeNote": [
+      {
+        "@language": "en",
+        "@value": "Examples include: 1) technical material geared to a specialized audience, and 2) items which address a limited audience; for example, the employees of a single organization."
+      }
+    ]
+  },
+  {
+    "@id": "https://doi.org/10.6069/uwlswd.aec4-nv40#g",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#definition": [
+      {
+        "@language": "en",
+        "@value": "Of general interest and not aimed at a particular target audience."
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#inScheme": [
+      {
+        "@id": "https://doi.org/10.6069/uwlswd.aec4-nv40"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#notation": [
+      {
+        "@language": "en",
+        "@value": "g"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "general"
+      }
+    ]
+  },
+  {
+    "@id": "https://doi.org/10.6069/uwlswd.aec4-nv40#e",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#definition": [
+      {
+        "@language": "en",
+        "@value": "Intended for adults."
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#inScheme": [
+      {
+        "@id": "https://doi.org/10.6069/uwlswd.aec4-nv40"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#notation": [
+      {
+        "@language": "en",
+        "@value": "e"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "adult"
+      }
+    ]
+  },
+  {
+    "@id": "https://doi.org/10.6069/uwlswd.aec4-nv40#b",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#definition": [
+      {
+        "@language": "en",
+        "@value": "Children, approximate ages 6-8 years."
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#inScheme": [
+      {
+        "@id": "https://doi.org/10.6069/uwlswd.aec4-nv40"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#notation": [
+      {
+        "@language": "en",
+        "@value": "b"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "primary"
+      }
+    ]
+  }
+]
