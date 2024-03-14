@@ -5,6 +5,7 @@
    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
    xmlns:schema="https://schema.org/"
    xmlns:skos="http://www.w3.org/2004/02/skos/core#"
+   xmlns:uwp="https://doi.org/10.6069/uwlib.55.d.3#"
 >
   <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.aec4-nv40">
     <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#ConceptScheme"/>
@@ -23,12 +24,16 @@
     <dct:issued>2023</dct:issued>
     <dc:language>en</dc:language>
     <dct:license rdf:resource="http://creativecommons.org/publicdomain/zero/1.0"/>
-    <schema:version>1-0-1</schema:version>
+    <schema:version>1-0-2</schema:version>
     <dct:hasFormat rdf:resource="https://uwlib-cams.github.io/uwlswd_vocabs_marc_006_008/008/some_target_audience/some_target_audience.ttl"/>
     <dct:hasFormat rdf:resource="https://uwlib-cams.github.io/uwlswd_vocabs_marc_006_008/008/some_target_audience/some_target_audience.nt"/>
     <dct:hasFormat rdf:resource="https://uwlib-cams.github.io/uwlswd_vocabs_marc_006_008/008/some_target_audience/some_target_audience.jsonld"/>
     <dct:hasFormat rdf:resource="https://uwlib-cams.github.io/uwlswd_vocabs_marc_006_008/008/some_target_audience/some_target_audience.html"/>
     <dct:format rdf:resource="http://www.w3.org/ns/formats/RDF_XML"/>
+    <uwp:appliesToMaterial>books</uwp:appliesToMaterial>
+    <uwp:appliesToMaterial>computer files</uwp:appliesToMaterial>
+    <uwp:appliesToMaterial>music</uwp:appliesToMaterial>
+    <uwp:appliesToMaterial>visual materials</uwp:appliesToMaterial>
   </rdf:Description>
   <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.aec4-nv40#g">
     <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
