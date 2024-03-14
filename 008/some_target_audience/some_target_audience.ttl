@@ -2,6 +2,7 @@
 @prefix dct: <http://purl.org/dc/terms/> .
 @prefix schema: <https://schema.org/> .
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+@prefix uwp: <https://doi.org/10.6069/uwlib.55.d.3#> .
 
 <https://doi.org/10.6069/uwlswd.aec4-nv40#a> a skos:Concept ;
     skos:definition "Children, approximate ages 0-5 years."@en ;
@@ -79,6 +80,10 @@
         <https://www.loc.gov/marc/bibliographic/bd008.html> ;
     dct:title "Some: target audience"@en ;
     dct:type <http://purl.org/dc/dcmitype/Dataset> ;
+    uwp:appliesToMaterial "books",
+        "computer files",
+        "music",
+        "visual materials" ;
     schema:disambiguatingDescription "SKOS Concept Scheme for MARC 00X Values" ;
-    schema:version "1-0-1" .
+    schema:version "1-0-2" .
 

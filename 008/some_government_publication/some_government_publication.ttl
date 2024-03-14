@@ -2,6 +2,7 @@
 @prefix dct: <http://purl.org/dc/terms/> .
 @prefix schema: <https://schema.org/> .
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+@prefix uwp: <https://doi.org/10.6069/uwlib.55.d.3#> .
 
 <https://doi.org/10.6069/uwlswd.2eg3-1x53#a> a skos:Concept ;
     skos:definition "Published or produced by or for a government body of an autonomous or semi-autonomous component of a country."@en ;
@@ -94,6 +95,11 @@
         <https://www.loc.gov/marc/bibliographic/bd008.html> ;
     dct:title "Some: government publication"@en ;
     dct:type <http://purl.org/dc/dcmitype/Dataset> ;
+    uwp:appliesToMaterial "books",
+        "computer files",
+        "continuing resources",
+        "maps",
+        "visual materials" ;
     schema:disambiguatingDescription "SKOS Concept Scheme for MARC 00X Values" ;
-    schema:version "1-0-1" .
+    schema:version "1-0-2" .
 
