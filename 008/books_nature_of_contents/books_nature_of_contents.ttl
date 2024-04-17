@@ -1,0 +1,230 @@
+@prefix dc: <http://purl.org/dc/elements/1.1/> .
+@prefix dct: <http://purl.org/dc/terms/> .
+@prefix schema: <https://schema.org/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<https://doi.org/10.6069/uwlswd.633m-h220#2> a skos:Concept ;
+    skos:definition "Publication that originally was published as an article in a monograph or a serial and that is also issued separately and independently."@en ;
+    skos:inScheme <https://doi.org/10.6069/uwlswd.633m-h220> ;
+    skos:notation "2" ;
+    skos:prefLabel "offprints"@en ;
+    skos:scopeNote "Includes preprints and postprints."@en .
+
+<https://doi.org/10.6069/uwlswd.633m-h220#3> a skos:Concept ;
+    skos:inScheme <https://doi.org/10.6069/uwlswd.633m-h220> ;
+    skos:notation "3" ;
+    skos:prefLabel "discographies [obsolete]"@en .
+
+<https://doi.org/10.6069/uwlswd.633m-h220#4> a skos:Concept ;
+    skos:inScheme <https://doi.org/10.6069/uwlswd.633m-h220> ;
+    skos:notation "4" ;
+    skos:prefLabel "filmographies [obsolete]"@en .
+
+<https://doi.org/10.6069/uwlswd.633m-h220#5> a skos:Concept ;
+    skos:definition "Published systems of organizing days. These may be academic calendars or almanacs, calendars published by bodies, such as labor organizations, library associations, etc."@en ;
+    skos:inScheme <https://doi.org/10.6069/uwlswd.633m-h220> ;
+    skos:notation "5" ;
+    skos:prefLabel "calendars"@en .
+
+<https://doi.org/10.6069/uwlswd.633m-h220#6> a skos:Concept ;
+    skos:definition "Instances of \"sequential art\" in which a story (whether fact or fiction) is told primarily through a set of images (often in the form of multiple \"panels\" per page) presented concurrently but meant to be \"read\" sequentially by the viewer. The accompanying narrative and/or dialog text, when it occurs, works integrally with the images to tell the story."@en ;
+    skos:inScheme <https://doi.org/10.6069/uwlswd.633m-h220> ;
+    skos:notation "6" ;
+    skos:prefLabel "comics or graphic novels"@en .
+
+<https://doi.org/10.6069/uwlswd.633m-h220#a> a skos:Concept ;
+    skos:definition "Abstracts or summaries of other publications."@en ;
+    skos:inScheme <https://doi.org/10.6069/uwlswd.633m-h220> ;
+    skos:notation "a" ;
+    skos:prefLabel "abstracts/summaries"@en ;
+    skos:scopeNote "Not used when a publication includes an abstract or summary of its own content."@en .
+
+<https://doi.org/10.6069/uwlswd.633m-h220#b> a skos:Concept ;
+    skos:definition "All or part of the item is a bibliography or bibliographies."@en ;
+    skos:inScheme <https://doi.org/10.6069/uwlswd.633m-h220> ;
+    skos:notation "b" ;
+    skos:prefLabel "bibliographies"@en ;
+    skos:scopeNote "Used only if the bibliography is substantial enough to be mentioned in the bibliographic record. Not used if also coded as a survey of literature in a subject area."@en .
+
+<https://doi.org/10.6069/uwlswd.633m-h220#c> a skos:Concept ;
+    skos:definition "List of items in a collection."@en ;
+    skos:inScheme <https://doi.org/10.6069/uwlswd.633m-h220> ;
+    skos:notation "c" ;
+    skos:prefLabel "catalogs"@en ;
+    skos:scopeNote "Also includes lists of collectible objects, such as stamps and coins, or trade catalogs."@en .
+
+<https://doi.org/10.6069/uwlswd.633m-h220#d> a skos:Concept ;
+    skos:definition "Dictionaries."@en ;
+    skos:inScheme <https://doi.org/10.6069/uwlswd.633m-h220> ;
+    skos:notation "d" ;
+    skos:prefLabel "dictionaries"@en ;
+    skos:scopeNote "Used for a glossary or a gazetteer. Not used for concordances or monographic biographical dictionaries."@en .
+
+<https://doi.org/10.6069/uwlswd.633m-h220#e> a skos:Concept ;
+    skos:definition "Encyclopedia or an encyclopedic treatment of a specific topic."@en ;
+    skos:inScheme <https://doi.org/10.6069/uwlswd.633m-h220> ;
+    skos:notation "e" ;
+    skos:prefLabel "encyclopedias"@en .
+
+<https://doi.org/10.6069/uwlswd.633m-h220#f> a skos:Concept ;
+    skos:definition "Handbooks."@en ;
+    skos:inScheme <https://doi.org/10.6069/uwlswd.633m-h220> ;
+    skos:notation "f" ;
+    skos:prefLabel "handbooks"@en .
+
+<https://doi.org/10.6069/uwlswd.633m-h220#g> a skos:Concept ;
+    skos:definition "Contains substantive articles on legal topics, such as those published in law school reviews."@en ;
+    skos:inScheme <https://doi.org/10.6069/uwlswd.633m-h220> ;
+    skos:notation "g" ;
+    skos:prefLabel "legal articles"@en .
+
+<https://doi.org/10.6069/uwlswd.633m-h220#hx> a skos:Concept ;
+    skos:inScheme <https://doi.org/10.6069/uwlswd.633m-h220> ;
+    skos:notation "h" ;
+    skos:prefLabel "handbooks [obsolete]"@en .
+
+<https://doi.org/10.6069/uwlswd.633m-h220#i> a skos:Concept ;
+    skos:definition "Index to bibliographical material other than itself."@en ;
+    skos:inScheme <https://doi.org/10.6069/uwlswd.633m-h220> ;
+    skos:notation "i" ;
+    skos:prefLabel "indexes"@en ;
+    skos:scopeNote "Not used when a publication contains an index to its own content."@en .
+
+<https://doi.org/10.6069/uwlswd.633m-h220#j> a skos:Concept ;
+    skos:definition "Detailed description of an invention or discovery of a new and useful process, machine, manufacture, composition of matter, or improvements thereof."@en ;
+    skos:inScheme <https://doi.org/10.6069/uwlswd.633m-h220> ;
+    skos:notation "j" ;
+    skos:prefLabel "patent document"@en ;
+    skos:scopeNote "A patent document may be one of several kinds of documents: a patent or similar document (e.g., inventor's certificate), a patent application (domestic, foreign, priority application, etc.), or a continuation/division of one of the above."@en .
+
+<https://doi.org/10.6069/uwlswd.633m-h220#k> a skos:Concept ;
+    skos:definition "Significant part of the item is a discography or discographies, or other bibliography of recorded sound."@en ;
+    skos:inScheme <https://doi.org/10.6069/uwlswd.633m-h220> ;
+    skos:notation "k" ;
+    skos:prefLabel "discographies"@en ;
+    skos:scopeNote "Used only if the discography is substantial enough to be mentioned in the bibliographic record."@en .
+
+<https://doi.org/10.6069/uwlswd.633m-h220#l> a skos:Concept ;
+    skos:definition "Full or partial texts of enactments of legislative bodies, published either in statute or in code form, or texts of rules and regulations issued by executive or administrative agencies."@en ;
+    skos:inScheme <https://doi.org/10.6069/uwlswd.633m-h220> ;
+    skos:notation "l" ;
+    skos:prefLabel "legislation"@en .
+
+<https://doi.org/10.6069/uwlswd.633m-h220#m> a skos:Concept ;
+    skos:definition "Thesis, dissertation, or work identified as having been created to satisfy the requirements for an academic certification or degree."@en ;
+    skos:inScheme <https://doi.org/10.6069/uwlswd.633m-h220> ;
+    skos:notation "m" ;
+    skos:prefLabel "theses"@en .
+
+<https://doi.org/10.6069/uwlswd.633m-h220#n> a skos:Concept ;
+    skos:definition "Composed entirely of authored surveys that summarize what has been published about a subject."@en ;
+    skos:inScheme <https://doi.org/10.6069/uwlswd.633m-h220> ;
+    skos:notation "n" ;
+    skos:prefLabel "surveys of literature in a subject area"@en ;
+    skos:scopeNote "Usually contains a list of references either in the body of the work or as a bibliography."@en .
+
+<https://doi.org/10.6069/uwlswd.633m-h220#o> a skos:Concept ;
+    skos:definition "Devoted entirely to critical reviews of published or performed works (e.g., books, films, sound recordings, theater, etc.)."@en ;
+    skos:inScheme <https://doi.org/10.6069/uwlswd.633m-h220> ;
+    skos:notation "o" ;
+    skos:prefLabel "reviews"@en .
+
+<https://doi.org/10.6069/uwlswd.633m-h220#p> a skos:Concept ;
+    skos:definition "Programmed texts."@en ;
+    skos:inScheme <https://doi.org/10.6069/uwlswd.633m-h220> ;
+    skos:notation "p" ;
+    skos:prefLabel "programmed texts"@en .
+
+<https://doi.org/10.6069/uwlswd.633m-h220#pound> a skos:Concept ;
+    skos:definition "No specified nature of contents."@en ;
+    skos:inScheme <https://doi.org/10.6069/uwlswd.633m-h220> ;
+    skos:notation "#" ;
+    skos:prefLabel "no specified nature of contents"@en .
+
+<https://doi.org/10.6069/uwlswd.633m-h220#q> a skos:Concept ;
+    skos:definition "Significant part of the item is a filmography or other bibliography of moving images."@en ;
+    skos:inScheme <https://doi.org/10.6069/uwlswd.633m-h220> ;
+    skos:notation "q" ;
+    skos:prefLabel "filmographies"@en ;
+    skos:scopeNote "Used only if the filmography is substantial enough to be mentioned in the bibliographic record."@en .
+
+<https://doi.org/10.6069/uwlswd.633m-h220#r> a skos:Concept ;
+    skos:definition "Directory or register of persons or corporate bodies."@en ;
+    skos:inScheme <https://doi.org/10.6069/uwlswd.633m-h220> ;
+    skos:notation "r" ;
+    skos:prefLabel "directories"@en ;
+    skos:scopeNote "Not used for monographic biographical dictionaries."@en .
+
+<https://doi.org/10.6069/uwlswd.633m-h220#s> a skos:Concept ;
+    skos:definition "Significant part of the item is a collection of statistical data on a subject."@en ;
+    skos:inScheme <https://doi.org/10.6069/uwlswd.633m-h220> ;
+    skos:notation "s" ;
+    skos:prefLabel "statistics"@en ;
+    skos:scopeNote "Not used for works about statistical methodology."@en .
+
+<https://doi.org/10.6069/uwlswd.633m-h220#t> a skos:Concept ;
+    skos:definition "Work that is the result of scientific investigation or technical development, testing, or evaluation, presented in a form suitable for dissemination to the technical community."@en ;
+    skos:inScheme <https://doi.org/10.6069/uwlswd.633m-h220> ;
+    skos:notation "t" ;
+    skos:prefLabel "technical reports"@en .
+
+<https://doi.org/10.6069/uwlswd.633m-h220#u> a skos:Concept ;
+    skos:definition "Either an international, national or industry standard or a specification which gives a precise statement of a process or a service requirement."@en ;
+    skos:inScheme <https://doi.org/10.6069/uwlswd.633m-h220> ;
+    skos:notation "u" ;
+    skos:prefLabel "standards/specifications"@en .
+
+<https://doi.org/10.6069/uwlswd.633m-h220#v> a skos:Concept ;
+    skos:definition "Discussions, such as those in the case comments section of law school reviews, of particular legal cases that have been decided by, or that are pending before, courts or administrative agencies."@en ;
+    skos:inScheme <https://doi.org/10.6069/uwlswd.633m-h220> ;
+    skos:notation "v" ;
+    skos:prefLabel "legal cases and case notes"@en .
+
+<https://doi.org/10.6069/uwlswd.633m-h220#w> a skos:Concept ;
+    skos:definition "Texts of decisions of courts or administrative agencies."@en ;
+    skos:inScheme <https://doi.org/10.6069/uwlswd.633m-h220> ;
+    skos:notation "w" ;
+    skos:prefLabel "law reports and digests"@en ;
+    skos:scopeNote "Also used when an item includes texts of digests of such decisions."@en .
+
+<https://doi.org/10.6069/uwlswd.633m-h220#xx> a skos:Concept ;
+    skos:inScheme <https://doi.org/10.6069/uwlswd.633m-h220> ;
+    skos:notation "x" ;
+    skos:prefLabel "technical reports [obsolete]"@en .
+
+<https://doi.org/10.6069/uwlswd.633m-h220#y> a skos:Concept ;
+    skos:definition "Reference publication issued on an annual or less frequent basis that contains articles summarizing the accomplishments or events of a particular year within a specific discipline or area of endeavor."@en ;
+    skos:inScheme <https://doi.org/10.6069/uwlswd.633m-h220> ;
+    skos:notation "y" ;
+    skos:prefLabel "yearbooks"@en ;
+    skos:scopeNote "Not used for annual reports, which are administrative overviews of an organization."@en .
+
+<https://doi.org/10.6069/uwlswd.633m-h220#z> a skos:Concept ;
+    skos:definition "Treaty or accord negotiated between two or more parties to settle a disagreement, establish a relationship, grant rights, etc."@en ;
+    skos:inScheme <https://doi.org/10.6069/uwlswd.633m-h220> ;
+    skos:notation "z" ;
+    skos:prefLabel "treaties"@en .
+
+<https://doi.org/10.6069/uwlswd.633m-h220> a skos:ConceptScheme ;
+    dc:contributor "Metadata Management Associates"@en ;
+    dc:language "en" ;
+    dct:alternative "MARC21 008/24-27 values for books expressed using RDF"@en ;
+    dct:contributor <http://viaf.org/viaf/151962300> ;
+    dct:creator <http://viaf.org/viaf/139541794> ;
+    dct:description "Indicates whether a significant part of the item is or contains certain types of material."@en ;
+    dct:format <http://www.w3.org/ns/formats/Turtle> ;
+    dct:hasFormat <https://uwlib-cams.github.io/uwlswd_vocabs_marc_006_008/008/books_nature_of_contents/books_nature_of_contents.html>,
+        <https://uwlib-cams.github.io/uwlswd_vocabs_marc_006_008/008/books_nature_of_contents/books_nature_of_contents.jsonld>,
+        <https://uwlib-cams.github.io/uwlswd_vocabs_marc_006_008/008/books_nature_of_contents/books_nature_of_contents.nt>,
+        <https://uwlib-cams.github.io/uwlswd_vocabs_marc_006_008/008/books_nature_of_contents/books_nature_of_contents.rdf> ;
+    dct:issued "2023" ;
+    dct:license <http://creativecommons.org/publicdomain/zero/1.0> ;
+    dct:provenance <https://doi.org/10.6069/uwlswd.2e2b-y833> ;
+    dct:publisher <http://viaf.org/viaf/139541794> ;
+    dct:source <http://marc21rdf.info>,
+        <https://www.loc.gov/marc/bibliographic/bd008.html> ;
+    dct:title "Books: nature of contents"@en ;
+    dct:type <http://purl.org/dc/dcmitype/Dataset> ;
+    schema:disambiguatingDescription "SKOS Concept Scheme for MARC 00X Values" ;
+    schema:version "1-0-0" .
+
