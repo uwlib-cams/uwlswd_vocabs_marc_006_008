@@ -6,7 +6,7 @@
     xmlns:schema="https://schema.org/"
     xmlns:skos="http://www.w3.org/2004/02/skos/core#"
     >
-    <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.dh5m-5y16">
+    <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.fr5p-1828">
         <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#ConceptScheme"/>
         <dct:type rdf:resource="http://purl.org/dc/dcmitype/Dataset"/>
         <dct:title xml:lang="en">Visual: form of item</dct:title>
@@ -26,73 +26,73 @@
         <schema:version>1-0-0</schema:version>
         <dct:format rdf:resource="http://www.w3.org/ns/formats/RDF_XML"/>
     </rdf:Description>
-    <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.dh5m-5y16#a">
+    <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.fr5p-1828#a">
         <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-        <skos:inScheme rdf:resource="https://doi.org/10.6069/uwlswd.dh5m-5y16"/>
+        <skos:inScheme rdf:resource="https://doi.org/10.6069/uwlswd.fr5p-1828"/>
         <skos:prefLabel xml:lang="en">microfilm</skos:prefLabel>
         <skos:definition xml:lang="en">Microfilm.</skos:definition>
         <skos:notation>a</skos:notation>
     </rdf:Description>
-    <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.dh5m-5y16#f">
+    <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.fr5p-1828#f">
         <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-        <skos:inScheme rdf:resource="https://doi.org/10.6069/uwlswd.dh5m-5y16"/>
+        <skos:inScheme rdf:resource="https://doi.org/10.6069/uwlswd.fr5p-1828"/>
         <skos:prefLabel xml:lang="en">braille</skos:prefLabel>
         <skos:definition xml:lang="en">Braille.</skos:definition>
         <skos:notation>f</skos:notation>
     </rdf:Description>
-    <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.dh5m-5y16#pound">
+    <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.fr5p-1828#pound">
         <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-        <skos:inScheme rdf:resource="https://doi.org/10.6069/uwlswd.dh5m-5y16"/>
+        <skos:inScheme rdf:resource="https://doi.org/10.6069/uwlswd.fr5p-1828"/>
         <skos:prefLabel xml:lang="en">none of the following</skos:prefLabel>
         <skos:definition xml:lang="en">Form of item other than microfilm, microfiche, microopaque, large print, braille, online, direct electronic, regular print reproduction, or electronic.</skos:definition>
         <skos:notation>#</skos:notation>
         <skos:scopeNote xml:lang="en">Not specified by one of the other codes.</skos:scopeNote>
     </rdf:Description>
-    <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.dh5m-5y16#d">
+    <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.fr5p-1828#d">
         <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-        <skos:inScheme rdf:resource="https://doi.org/10.6069/uwlswd.dh5m-5y16"/>
+        <skos:inScheme rdf:resource="https://doi.org/10.6069/uwlswd.fr5p-1828"/>
         <skos:prefLabel xml:lang="en">large print</skos:prefLabel>
         <skos:definition xml:lang="en">Large print.</skos:definition>
         <skos:notation>d</skos:notation>
     </rdf:Description>
-    <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.dh5m-5y16#c">
+    <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.fr5p-1828#c">
         <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-        <skos:inScheme rdf:resource="https://doi.org/10.6069/uwlswd.dh5m-5y16"/>
+        <skos:inScheme rdf:resource="https://doi.org/10.6069/uwlswd.fr5p-1828"/>
         <skos:prefLabel xml:lang="en">microopaque</skos:prefLabel>
         <skos:definition xml:lang="en">Microopaque.</skos:definition>
         <skos:notation>c</skos:notation>
     </rdf:Description>
-    <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.dh5m-5y16#b">
+    <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.fr5p-1828#b">
         <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-        <skos:inScheme rdf:resource="https://doi.org/10.6069/uwlswd.dh5m-5y16"/>
+        <skos:inScheme rdf:resource="https://doi.org/10.6069/uwlswd.fr5p-1828"/>
         <skos:prefLabel xml:lang="en">microfiche</skos:prefLabel>
         <skos:definition xml:lang="en">Microfiche.</skos:definition>
         <skos:notation>b</skos:notation>
     </rdf:Description>
-    <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.dh5m-5y16#r">
+    <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.fr5p-1828#r">
         <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-        <skos:inScheme rdf:resource="https://doi.org/10.6069/uwlswd.dh5m-5y16"/>
+        <skos:inScheme rdf:resource="https://doi.org/10.6069/uwlswd.fr5p-1828"/>
         <skos:prefLabel xml:lang="en">regular print reproduction</skos:prefLabel>
         <skos:definition>Eye-readable print, such as a photocopy.</skos:definition>
         <skos:notation>r</skos:notation>
     </rdf:Description>
-    <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.dh5m-5y16#o">
+    <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.fr5p-1828#o">
         <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-        <skos:inScheme rdf:resource="https://doi.org/10.6069/uwlswd.dh5m-5y16"/>
+        <skos:inScheme rdf:resource="https://doi.org/10.6069/uwlswd.fr5p-1828"/>
         <skos:prefLabel xml:lang="en">online</skos:prefLabel>
         <skos:definition xml:lang="en">Accessed by means of hardware and software connections to a communications network.</skos:definition>
         <skos:notation>o</skos:notation>
     </rdf:Description>
-    <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.dh5m-5y16#q">
+    <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.fr5p-1828#q">
         <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-        <skos:inScheme rdf:resource="https://doi.org/10.6069/uwlswd.dh5m-5y16"/>
+        <skos:inScheme rdf:resource="https://doi.org/10.6069/uwlswd.fr5p-1828"/>
         <skos:prefLabel xml:lang="en">direct electronic</skos:prefLabel>
         <skos:definition xml:lang="en">Storage on a directly accessible tangible recording medium, e.g. disc, tape, playaway device, flashdrive, portable hard drive, etc.</skos:definition>
         <skos:notation>q</skos:notation>
     </rdf:Description>
-    <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.dh5m-5y16#s">
+    <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.fr5p-1828#s">
         <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-        <skos:inScheme rdf:resource="https://doi.org/10.6069/uwlswd.dh5m-5y16"/>
+        <skos:inScheme rdf:resource="https://doi.org/10.6069/uwlswd.fr5p-1828"/>
         <skos:prefLabel xml:lang="en">electronic</skos:prefLabel>
         <skos:definition xml:lang="en">Intended for manipulation by a computer. May reside in a carrier accessed either directly or remotely, in some cases requiring the use of peripheral devices attached to the computer (e.g., a CD-ROM player).</skos:definition>
         <skos:notation>s</skos:notation>
