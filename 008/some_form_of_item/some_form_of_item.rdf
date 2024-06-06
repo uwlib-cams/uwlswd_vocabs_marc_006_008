@@ -21,7 +21,7 @@
     <dct:creator rdf:resource="http://viaf.org/viaf/139541794"/>
     <dct:contributor rdf:resource="http://viaf.org/viaf/151962300"/>
     <dc:contributor xml:lang="en">Metadata Management Associates</dc:contributor>
-    <dct:issued>2023</dct:issued>
+    <dct:issued>2024</dct:issued>
     <dc:language>en</dc:language>
     <dct:license rdf:resource="http://creativecommons.org/publicdomain/zero/1.0"/>
     <schema:version>1-0-2</schema:version>
