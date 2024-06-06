@@ -31,7 +31,6 @@
     <dct:hasFormat rdf:resource="https://uwlib-cams.github.io/uwlswd_vocabs_marc_006_008/008/some_form_of_item/some_form_of_item.html"/>
     <dct:format rdf:resource="http://www.w3.org/ns/formats/RDF_XML"/>
     <uwp:appliesToMaterial>books</uwp:appliesToMaterial>
-    <uwp:appliesToMaterial>computer files</uwp:appliesToMaterial>
     <uwp:appliesToMaterial>music</uwp:appliesToMaterial>
     <uwp:appliesToMaterial>continuing resources</uwp:appliesToMaterial>
     <uwp:appliesToMaterial>mixed materials</uwp:appliesToMaterial>
