@@ -2,6 +2,7 @@
 @prefix dct: <http://purl.org/dc/terms/> .
 @prefix schema: <https://schema.org/> .
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+@prefix uwp: <https://doi.org/10.6069/uwlib.55.d.3#> .
 
 <https://doi.org/10.6069/uwlswd.dh5m-5y16#a> a skos:Concept ;
     skos:definition "Microfilm."@en ;
@@ -117,7 +118,7 @@
         <https://uwlib-cams.github.io/uwlswd_vocabs_marc_006_008/008/some_form_of_item/some_form_of_item.jsonld>,
         <https://uwlib-cams.github.io/uwlswd_vocabs_marc_006_008/008/some_form_of_item/some_form_of_item.nt>,
         <https://uwlib-cams.github.io/uwlswd_vocabs_marc_006_008/008/some_form_of_item/some_form_of_item.rdf> ;
-    dct:issued "2023" ;
+    dct:issued "2024" ;
     dct:license <http://creativecommons.org/publicdomain/zero/1.0> ;
     dct:provenance <https://doi.org/10.6069/uwlswd.2e2b-y833> ;
     dct:publisher <http://viaf.org/viaf/139541794> ;
@@ -125,6 +126,10 @@
         <https://www.loc.gov/marc/bibliographic/bd008.html> ;
     dct:title "Some: form of item"@en ;
     dct:type <http://purl.org/dc/dcmitype/Dataset> ;
+    uwp:appliesToMaterial "books",
+        "continuing resources",
+        "mixed materials",
+        "music" ;
     schema:disambiguatingDescription "SKOS Concept Scheme for MARC 00X Values" ;
-    schema:version "1-0-1" .
+    schema:version "1-0-2" .
 
