@@ -1,0 +1,90 @@
+@prefix dc: <http://purl.org/dc/elements/1.1/> .
+@prefix dct: <http://purl.org/dc/terms/> .
+@prefix schema: <https://schema.org/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<https://doi.org/10.6069/uwlswd.8dk4-4h49#a> a skos:Concept ;
+    skos:definition "Microfilm."@en ;
+    skos:inScheme <https://doi.org/10.6069/uwlswd.8dk4-4h49> ;
+    skos:notation "a" ;
+    skos:prefLabel "microfilm"@en .
+
+<https://doi.org/10.6069/uwlswd.8dk4-4h49#b> a skos:Concept ;
+    skos:definition "Microfiche."@en ;
+    skos:inScheme <https://doi.org/10.6069/uwlswd.8dk4-4h49> ;
+    skos:notation "b" ;
+    skos:prefLabel "microfiche"@en .
+
+<https://doi.org/10.6069/uwlswd.8dk4-4h49#c> a skos:Concept ;
+    skos:definition "Microopaque."@en ;
+    skos:inScheme <https://doi.org/10.6069/uwlswd.8dk4-4h49> ;
+    skos:notation "c" ;
+    skos:prefLabel "microopaque"@en .
+
+<https://doi.org/10.6069/uwlswd.8dk4-4h49#d> a skos:Concept ;
+    skos:definition "Large print."@en ;
+    skos:inScheme <https://doi.org/10.6069/uwlswd.8dk4-4h49> ;
+    skos:notation "d" ;
+    skos:prefLabel "large print"@en .
+
+<https://doi.org/10.6069/uwlswd.8dk4-4h49#f> a skos:Concept ;
+    skos:definition "Braille."@en ;
+    skos:inScheme <https://doi.org/10.6069/uwlswd.8dk4-4h49> ;
+    skos:notation "f" ;
+    skos:prefLabel "braille"@en .
+
+<https://doi.org/10.6069/uwlswd.8dk4-4h49#o> a skos:Concept ;
+    skos:definition "Accessed by means of hardware and software connections to a communications network."@en ;
+    skos:inScheme <https://doi.org/10.6069/uwlswd.8dk4-4h49> ;
+    skos:notation "o" ;
+    skos:prefLabel "online"@en .
+
+<https://doi.org/10.6069/uwlswd.8dk4-4h49#pound> a skos:Concept ;
+    skos:definition "Form of item other than microfilm, microfiche, microopaque, large print, braille, online, direct electronic, regular print reproduction, or electronic."@en ;
+    skos:inScheme <https://doi.org/10.6069/uwlswd.8dk4-4h49> ;
+    skos:notation "#" ;
+    skos:prefLabel "none of the following"@en ;
+    skos:scopeNote "Not specified by one of the other codes."@en .
+
+<https://doi.org/10.6069/uwlswd.8dk4-4h49#q> a skos:Concept ;
+    skos:definition "Storage on a directly accessible tangible recording medium, e.g. disc, tape, playaway device, flashdrive, portable hard drive, etc."@en ;
+    skos:inScheme <https://doi.org/10.6069/uwlswd.8dk4-4h49> ;
+    skos:notation "q" ;
+    skos:prefLabel "direct electronic"@en .
+
+<https://doi.org/10.6069/uwlswd.8dk4-4h49#r> a skos:Concept ;
+    skos:definition "Eye-readable print, such as a photocopy." ;
+    skos:inScheme <https://doi.org/10.6069/uwlswd.8dk4-4h49> ;
+    skos:notation "r" ;
+    skos:prefLabel "regular print reproduction"@en .
+
+<https://doi.org/10.6069/uwlswd.8dk4-4h49#s> a skos:Concept ;
+    skos:definition "Intended for manipulation by a computer. May reside in a carrier accessed either directly or remotely, in some cases requiring the use of peripheral devices attached to the computer (e.g., a CD-ROM player)."@en ;
+    skos:inScheme <https://doi.org/10.6069/uwlswd.8dk4-4h49> ;
+    skos:notation "s" ;
+    skos:prefLabel "electronic"@en ;
+    skos:scopeNote "Not used for items that do not require the use of a computer (e.g., music compact discs, videodiscs)."@en .
+
+<https://doi.org/10.6069/uwlswd.8dk4-4h49> a skos:ConceptScheme ;
+    dc:contributor "Metadata Management Associates"@en ;
+    dc:language "en" ;
+    dct:alternative "MARC21 008/29 values for maps expressed using RDF"@en ;
+    dct:contributor <http://viaf.org/viaf/151962300> ;
+    dct:creator <http://viaf.org/viaf/139541794> ;
+    dct:description "Specifies the form of material for the item."@en ;
+    dct:format <http://www.w3.org/ns/formats/Turtle> ;
+    dct:hasFormat <https://uwlib-cams.github.io/uwlswd_vocabs_marc_006_008/008/maps_form_of_item/maps_form_of_item.html>,
+        <https://uwlib-cams.github.io/uwlswd_vocabs_marc_006_008/008/maps_form_of_item/maps_form_of_item.jsonld>,
+        <https://uwlib-cams.github.io/uwlswd_vocabs_marc_006_008/008/maps_form_of_item/maps_form_of_item.nt>,
+        <https://uwlib-cams.github.io/uwlswd_vocabs_marc_006_008/008/maps_form_of_item/maps_form_of_item.rdf> ;
+    dct:issued "2024" ;
+    dct:license <http://creativecommons.org/publicdomain/zero/1.0> ;
+    dct:provenance <https://doi.org/10.6069/uwlswd.2e2b-y833> ;
+    dct:publisher <http://viaf.org/viaf/139541794> ;
+    dct:source <http://marc21rdf.info>,
+        <https://www.loc.gov/marc/bibliographic/bd008.html> ;
+    dct:title "Maps: form of item"@en ;
+    dct:type <http://purl.org/dc/dcmitype/Dataset> ;
+    schema:disambiguatingDescription "SKOS Concept Scheme for MARC 00X Values"@en ;
+    schema:version "1-0-0" .
+
