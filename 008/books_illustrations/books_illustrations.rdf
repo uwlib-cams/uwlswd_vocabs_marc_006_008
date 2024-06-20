@@ -1,11 +1,17 @@
-<?xml version='1.0' encoding='UTF-8'?>
-<rdf:RDF xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dct="http://purl.org/dc/terms/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:schema="https://schema.org/" xmlns:skos="http://www.w3.org/2004/02/skos/core#">
+<?xml version="1.0" encoding="utf-8"?>
+<rdf:RDF
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:dct="http://purl.org/dc/terms/"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:schema="https://schema.org/"
+   xmlns:skos="http://www.w3.org/2004/02/skos/core#"
+>
   <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.gq3z-mv97#a">
     <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
     <skos:inScheme rdf:resource="https://doi.org/10.6069/uwlswd.gq3z-mv97"/>
     <skos:prefLabel xml:lang="en">illustrations</skos:prefLabel>
     <skos:definition xml:lang="en">Illustrations.</skos:definition>
-    <skos:notation>a</skos:notation>
+    <skos:notation xml:lang="en">a</skos:notation>
     <skos:scopeNote xml:lang="en">Types of illustrations not covered by any of the more specific concepts.</skos:scopeNote>
   </rdf:Description>
   <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.gq3z-mv97#pound">
@@ -13,35 +19,35 @@
     <skos:inScheme rdf:resource="https://doi.org/10.6069/uwlswd.gq3z-mv97"/>
     <skos:prefLabel xml:lang="en">no illustrations</skos:prefLabel>
     <skos:definition xml:lang="en">Work does not contain illustrations.</skos:definition>
-    <skos:notation>#</skos:notation>
+    <skos:notation xml:lang="en">#</skos:notation>
   </rdf:Description>
   <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.gq3z-mv97#g">
     <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
     <skos:inScheme rdf:resource="https://doi.org/10.6069/uwlswd.gq3z-mv97"/>
     <skos:prefLabel xml:lang="en">music</skos:prefLabel>
     <skos:definition xml:lang="en">Music.</skos:definition>
-    <skos:notation>g</skos:notation>
+    <skos:notation xml:lang="en">g</skos:notation>
   </rdf:Description>
   <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.gq3z-mv97#k">
     <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
     <skos:inScheme rdf:resource="https://doi.org/10.6069/uwlswd.gq3z-mv97"/>
     <skos:prefLabel xml:lang="en">forms</skos:prefLabel>
     <skos:definition xml:lang="en">Forms.</skos:definition>
-    <skos:notation>k</skos:notation>
+    <skos:notation xml:lang="en">k</skos:notation>
   </rdf:Description>
   <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.gq3z-mv97#p">
     <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
     <skos:inScheme rdf:resource="https://doi.org/10.6069/uwlswd.gq3z-mv97"/>
     <skos:prefLabel xml:lang="en">illuminations</skos:prefLabel>
     <skos:definition xml:lang="en">Illuminations.</skos:definition>
-    <skos:notation>p</skos:notation>
+    <skos:notation xml:lang="en">p</skos:notation>
   </rdf:Description>
   <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.gq3z-mv97#l">
     <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
     <skos:inScheme rdf:resource="https://doi.org/10.6069/uwlswd.gq3z-mv97"/>
     <skos:prefLabel xml:lang="en">samples</skos:prefLabel>
     <skos:definition xml:lang="en">Samples.</skos:definition>
-    <skos:notation>l</skos:notation>
+    <skos:notation xml:lang="en">l</skos:notation>
   </rdf:Description>
   <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.gq3z-mv97">
     <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#ConceptScheme"/>
@@ -49,7 +55,7 @@
     <dct:title xml:lang="en">Books: illustrations</dct:title>
     <dct:alternative xml:lang="en">MARC21 008/18-21 values for books expressed using RDF</dct:alternative>
     <dct:description xml:lang="en">Indicates the presence of types of illustrations in the item.</dct:description>
-    <schema:disambiguatingDescription xml:lang="en">SKOS Concept Scheme for MARC 00X Values</schema:disambiguatingDescription>
+    <schema:disambiguatingDescription>SKOS Concept Scheme for MARC 00X Values</schema:disambiguatingDescription>
     <dct:publisher rdf:resource="http://viaf.org/viaf/139541794"/>
     <dct:source rdf:resource="https://www.loc.gov/marc/bibliographic/bd008.html"/>
     <dct:source rdf:resource="http://marc21rdf.info"/>
@@ -60,7 +66,7 @@
     <dct:issued>2023</dct:issued>
     <dc:language>en</dc:language>
     <dct:license rdf:resource="http://creativecommons.org/publicdomain/zero/1.0"/>
-    <schema:version>1-0-2</schema:version>
+    <schema:version>1-0-1</schema:version>
     <dct:hasFormat rdf:resource="https://uwlib-cams.github.io/uwlswd_vocabs_marc_006_008/008/books_illustrations/books_illustrations.ttl"/>
     <dct:hasFormat rdf:resource="https://uwlib-cams.github.io/uwlswd_vocabs_marc_006_008/008/books_illustrations/books_illustrations.nt"/>
     <dct:hasFormat rdf:resource="https://uwlib-cams.github.io/uwlswd_vocabs_marc_006_008/008/books_illustrations/books_illustrations.jsonld"/>
@@ -72,7 +78,7 @@
     <skos:inScheme rdf:resource="https://doi.org/10.6069/uwlswd.gq3z-mv97"/>
     <skos:prefLabel xml:lang="en">charts</skos:prefLabel>
     <skos:definition xml:lang="en">Charts.</skos:definition>
-    <skos:notation>d</skos:notation>
+    <skos:notation xml:lang="en">d</skos:notation>
   </rdf:Description>
   <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.gq3z-mv97#o">
     <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
@@ -80,62 +86,62 @@
     <skos:prefLabel xml:lang="en">photographs</skos:prefLabel>
     <skos:definition xml:lang="en">Photographs.</skos:definition>
     <skos:scopeNote xml:lang="en">If of minor importance, code as illustrations instead of photographs.</skos:scopeNote>
-    <skos:notation>o</skos:notation>
+    <skos:notation xml:lang="en">o</skos:notation>
   </rdf:Description>
   <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.gq3z-mv97#f">
     <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
     <skos:inScheme rdf:resource="https://doi.org/10.6069/uwlswd.gq3z-mv97"/>
     <skos:prefLabel xml:lang="en">plates</skos:prefLabel>
     <skos:definition xml:lang="en">Plates.</skos:definition>
-    <skos:notation>f</skos:notation>
+    <skos:notation xml:lang="en">f</skos:notation>
   </rdf:Description>
   <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.gq3z-mv97#c">
     <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
     <skos:inScheme rdf:resource="https://doi.org/10.6069/uwlswd.gq3z-mv97"/>
     <skos:prefLabel xml:lang="en">portraits</skos:prefLabel>
     <skos:definition xml:lang="en">Portraits.</skos:definition>
-    <skos:notation>c</skos:notation>
+    <skos:notation xml:lang="en">c</skos:notation>
   </rdf:Description>
   <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.gq3z-mv97#m">
     <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
     <skos:inScheme rdf:resource="https://doi.org/10.6069/uwlswd.gq3z-mv97"/>
     <skos:prefLabel xml:lang="en">phonodisc, phonowire, etc.</skos:prefLabel>
     <skos:definition xml:lang="en">Phonodisc, phonowire, etc.</skos:definition>
-    <skos:notation>m</skos:notation>
+    <skos:notation xml:lang="en">m</skos:notation>
   </rdf:Description>
   <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.gq3z-mv97#j">
     <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
     <skos:inScheme rdf:resource="https://doi.org/10.6069/uwlswd.gq3z-mv97"/>
     <skos:prefLabel xml:lang="en">genealogical tables</skos:prefLabel>
     <skos:definition xml:lang="en">Genealogical tables.</skos:definition>
-    <skos:notation>j</skos:notation>
+    <skos:notation xml:lang="en">j</skos:notation>
   </rdf:Description>
   <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.gq3z-mv97#i">
     <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
     <skos:inScheme rdf:resource="https://doi.org/10.6069/uwlswd.gq3z-mv97"/>
     <skos:prefLabel xml:lang="en">coats of arms</skos:prefLabel>
     <skos:definition xml:lang="en">Coats of arms.</skos:definition>
-    <skos:notation>i</skos:notation>
+    <skos:notation xml:lang="en">i</skos:notation>
   </rdf:Description>
   <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.gq3z-mv97#e">
     <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
     <skos:inScheme rdf:resource="https://doi.org/10.6069/uwlswd.gq3z-mv97"/>
     <skos:prefLabel xml:lang="en">plans</skos:prefLabel>
     <skos:definition xml:lang="en">Plans.</skos:definition>
-    <skos:notation>e</skos:notation>
+    <skos:notation xml:lang="en">e</skos:notation>
   </rdf:Description>
   <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.gq3z-mv97#b">
     <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
     <skos:inScheme rdf:resource="https://doi.org/10.6069/uwlswd.gq3z-mv97"/>
     <skos:prefLabel xml:lang="en">maps</skos:prefLabel>
     <skos:definition xml:lang="en">Maps.</skos:definition>
-    <skos:notation>b</skos:notation>
+    <skos:notation xml:lang="en">b</skos:notation>
   </rdf:Description>
   <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.gq3z-mv97#h">
     <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
     <skos:inScheme rdf:resource="https://doi.org/10.6069/uwlswd.gq3z-mv97"/>
     <skos:prefLabel xml:lang="en">facsimiles</skos:prefLabel>
     <skos:definition xml:lang="en">Facsimiles.</skos:definition>
-    <skos:notation>h</skos:notation>
+    <skos:notation xml:lang="en">h</skos:notation>
   </rdf:Description>
 </rdf:RDF>
