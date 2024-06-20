@@ -1,17 +1,11 @@
-<?xml version="1.0" encoding="utf-8"?>
-<rdf:RDF
-   xmlns:dc="http://purl.org/dc/elements/1.1/"
-   xmlns:dct="http://purl.org/dc/terms/"
-   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
-   xmlns:schema="https://schema.org/"
-   xmlns:skos="http://www.w3.org/2004/02/skos/core#"
->
+<?xml version='1.0' encoding='UTF-8'?>
+<rdf:RDF xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dct="http://purl.org/dc/terms/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:schema="https://schema.org/" xmlns:skos="http://www.w3.org/2004/02/skos/core#">
   <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.npns-e903#u">
     <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
     <skos:inScheme rdf:resource="https://doi.org/10.6069/uwlswd.npns-e903"/>
     <skos:prefLabel xml:lang="en">unknown</skos:prefLabel>
     <skos:definition xml:lang="en">Regularity of the item is unknown.</skos:definition>
-    <skos:notation xml:lang="en">u</skos:notation>
+    <skos:notation>u</skos:notation>
   </rdf:Description>
   <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.npns-e903#r">
     <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
@@ -19,7 +13,7 @@
     <skos:prefLabel xml:lang="en">regular</skos:prefLabel>
     <skos:definition xml:lang="en">Intended regular publishing pattern.</skos:definition>
     <skos:scopeNote xml:lang="en">This may be determined from information on the piece or by examining the publishing pattern. Thus, use this pattern if an item states that it is to be issued, for example, bimonthly, even though the publishing pattern is known to have occasional variations due to publishing difficulties.</skos:scopeNote>
-    <skos:notation xml:lang="en">r</skos:notation>
+    <skos:notation>r</skos:notation>
   </rdf:Description>
   <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.npns-e903#x">
     <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
@@ -27,7 +21,7 @@
     <skos:prefLabel xml:lang="en">completely irregular</skos:prefLabel>
     <skos:definition xml:lang="en">Intentionally irregular.</skos:definition>
     <skos:scopeNote xml:lang="en">Used when the frequency is known to be intentionally irregular.</skos:scopeNote>
-    <skos:notation xml:lang="en">x</skos:notation>
+    <skos:notation>x</skos:notation>
   </rdf:Description>
   <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.npns-e903">
     <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#ConceptScheme"/>
@@ -35,7 +29,7 @@
     <dct:title xml:lang="en">Continuing: regularity</dct:title>
     <dct:alternative xml:lang="en">MARC21 008/19 values for continuing resources expressed using RDF</dct:alternative>
     <dct:description xml:lang="en">Indicates the intended regularity of an item.</dct:description>
-    <schema:disambiguatingDescription>SKOS Concept Scheme for MARC 00X Values</schema:disambiguatingDescription>
+    <schema:disambiguatingDescription xml:lang="en">SKOS Concept Scheme for MARC 00X Values</schema:disambiguatingDescription>
     <dct:publisher rdf:resource="http://viaf.org/viaf/139541794"/>
     <dct:source rdf:resource="https://www.loc.gov/marc/bibliographic/bd008.html"/>
     <dct:source rdf:resource="http://marc21rdf.info"/>
@@ -46,7 +40,7 @@
     <dct:issued>2023</dct:issued>
     <dc:language>en</dc:language>
     <dct:license rdf:resource="http://creativecommons.org/publicdomain/zero/1.0"/>
-    <schema:version>1-0-1</schema:version>
+    <schema:version>1-0-2</schema:version>
     <dct:hasFormat rdf:resource="https://uwlib-cams.github.io/uwlswd_vocabs_marc_006_008/008/continuing_regularity/continuing_regularity.ttl"/>
     <dct:hasFormat rdf:resource="https://uwlib-cams.github.io/uwlswd_vocabs_marc_006_008/008/continuing_regularity/continuing_regularity.nt"/>
     <dct:hasFormat rdf:resource="https://uwlib-cams.github.io/uwlswd_vocabs_marc_006_008/008/continuing_regularity/continuing_regularity.jsonld"/>
@@ -59,6 +53,6 @@
     <skos:prefLabel xml:lang="en">normalized irregular</skos:prefLabel>
     <skos:definition xml:lang="en">Predictable irregularity pattern.</skos:definition>
     <skos:scopeNote xml:lang="en">Used, for example, when the publishing pattern intentionally deviates from a standard pattern (example: Monthly, except July and Aug) or to accommodate an annual cumulation.</skos:scopeNote>
-    <skos:notation xml:lang="en">n</skos:notation>
+    <skos:notation>n</skos:notation>
   </rdf:Description>
 </rdf:RDF>

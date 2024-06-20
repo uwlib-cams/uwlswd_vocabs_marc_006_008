@@ -1,38 +1,32 @@
-<?xml version="1.0" encoding="utf-8"?>
-<rdf:RDF
-   xmlns:dc="http://purl.org/dc/elements/1.1/"
-   xmlns:dct="http://purl.org/dc/terms/"
-   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
-   xmlns:schema="https://schema.org/"
-   xmlns:skos="http://www.w3.org/2004/02/skos/core#"
->
+<?xml version='1.0' encoding='UTF-8'?>
+<rdf:RDF xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dct="http://purl.org/dc/terms/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:schema="https://schema.org/" xmlns:skos="http://www.w3.org/2004/02/skos/core#">
   <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.nt0v-d633#k">
     <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
     <skos:inScheme rdf:resource="https://doi.org/10.6069/uwlswd.nt0v-d633"/>
     <skos:prefLabel xml:lang="en">ethnological information</skos:prefLabel>
     <skos:definition xml:lang="en">Significant ethnological information that relates to the musical part of the item.</skos:definition>
-    <skos:notation xml:lang="en">k</skos:notation>
+    <skos:notation>k</skos:notation>
   </rdf:Description>
   <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.nt0v-d633#c">
     <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
     <skos:inScheme rdf:resource="https://doi.org/10.6069/uwlswd.nt0v-d633"/>
     <skos:prefLabel xml:lang="en">thematic index</skos:prefLabel>
     <skos:definition xml:lang="en">Thematic index.</skos:definition>
-    <skos:notation xml:lang="en">c</skos:notation>
+    <skos:notation>c</skos:notation>
   </rdf:Description>
   <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.nt0v-d633#z">
     <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
     <skos:inScheme rdf:resource="https://doi.org/10.6069/uwlswd.nt0v-d633"/>
     <skos:prefLabel xml:lang="en">other</skos:prefLabel>
     <skos:definition xml:lang="en">Accompanying matter other than discography, bibliography, thematic index, libretto or text, biography of composer or author, biography of performer or history of ensemble, technical and/or historical information on instruments, technical information on music, historical information, ethnological information, instructional materials, or music.</skos:definition>
-    <skos:notation xml:lang="en">z</skos:notation>
+    <skos:notation>z</skos:notation>
   </rdf:Description>
   <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.nt0v-d633#f">
     <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
     <skos:inScheme rdf:resource="https://doi.org/10.6069/uwlswd.nt0v-d633"/>
     <skos:prefLabel xml:lang="en">biography of performer or history of ensemble</skos:prefLabel>
     <skos:definition xml:lang="en">Significant biographical information on a performer or a history of an ensemble.</skos:definition>
-    <skos:notation xml:lang="en">f</skos:notation>
+    <skos:notation>f</skos:notation>
   </rdf:Description>
   <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.nt0v-d633">
     <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#ConceptScheme"/>
@@ -40,7 +34,7 @@
     <dct:title xml:lang="en">Music: accompanying matter</dct:title>
     <dct:alternative xml:lang="en">MARC21 008/24-29 values for music expressed using RDF</dct:alternative>
     <dct:description xml:lang="en">Indicates the contents of program notes and other accompanying material for sound recording, music manuscripts, or notated music.</dct:description>
-    <schema:disambiguatingDescription>SKOS Concept Scheme for MARC 00X Values</schema:disambiguatingDescription>
+    <schema:disambiguatingDescription xml:lang="en">SKOS Concept Scheme for MARC 00X Values</schema:disambiguatingDescription>
     <dct:publisher rdf:resource="http://viaf.org/viaf/139541794"/>
     <dct:source rdf:resource="https://www.loc.gov/marc/bibliographic/bd008.html"/>
     <dct:source rdf:resource="http://marc21rdf.info"/>
@@ -51,7 +45,7 @@
     <dct:issued>2023</dct:issued>
     <dc:language>en</dc:language>
     <dct:license rdf:resource="http://creativecommons.org/publicdomain/zero/1.0"/>
-    <schema:version>1-0-1</schema:version>
+    <schema:version>1-0-2</schema:version>
     <dct:hasFormat rdf:resource="https://uwlib-cams.github.io/uwlswd_vocabs_marc_006_008/008/music_accompanying_matter/music_accompanying_matter.ttl"/>
     <dct:hasFormat rdf:resource="https://uwlib-cams.github.io/uwlswd_vocabs_marc_006_008/008/music_accompanying_matter/music_accompanying_matter.nt"/>
     <dct:hasFormat rdf:resource="https://uwlib-cams.github.io/uwlswd_vocabs_marc_006_008/008/music_accompanying_matter/music_accompanying_matter.jsonld"/>
@@ -62,48 +56,48 @@
     <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
     <skos:inScheme rdf:resource="https://doi.org/10.6069/uwlswd.nt0v-d633"/>
     <skos:prefLabel xml:lang="en">historical information other than music [obsolete]</skos:prefLabel>
-    <skos:notation xml:lang="en">j</skos:notation>
+    <skos:notation>j</skos:notation>
   </rdf:Description>
   <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.nt0v-d633#g">
     <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
     <skos:inScheme rdf:resource="https://doi.org/10.6069/uwlswd.nt0v-d633"/>
     <skos:prefLabel xml:lang="en">technical and/or historical information on instruments</skos:prefLabel>
     <skos:definition xml:lang="en">Significant technical information, including instructions for performance.</skos:definition>
-    <skos:notation xml:lang="en">g</skos:notation>
+    <skos:notation>g</skos:notation>
   </rdf:Description>
   <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.nt0v-d633#i">
     <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
     <skos:inScheme rdf:resource="https://doi.org/10.6069/uwlswd.nt0v-d633"/>
     <skos:prefLabel xml:lang="en">historical information</skos:prefLabel>
     <skos:definition xml:lang="en">Significant historical information.</skos:definition>
-    <skos:notation xml:lang="en">i</skos:notation>
+    <skos:notation>i</skos:notation>
   </rdf:Description>
   <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.nt0v-d633#pound">
     <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
     <skos:inScheme rdf:resource="https://doi.org/10.6069/uwlswd.nt0v-d633"/>
     <skos:prefLabel xml:lang="en">no accompanying matter</skos:prefLabel>
     <skos:definition xml:lang="en">No accompanying matter or no indication of accompanying matter appears on the item.</skos:definition>
-    <skos:notation xml:lang="en">#</skos:notation>
+    <skos:notation>#</skos:notation>
   </rdf:Description>
   <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.nt0v-d633#nx">
     <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
     <skos:inScheme rdf:resource="https://doi.org/10.6069/uwlswd.nt0v-d633"/>
     <skos:prefLabel xml:lang="en">not applicable [obsolete]</skos:prefLabel>
-    <skos:notation xml:lang="en">n</skos:notation>
+    <skos:notation>n</skos:notation>
   </rdf:Description>
   <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.nt0v-d633#e">
     <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
     <skos:inScheme rdf:resource="https://doi.org/10.6069/uwlswd.nt0v-d633"/>
     <skos:prefLabel xml:lang="en">biography of composer or author</skos:prefLabel>
     <skos:definition xml:lang="en">Significant biographical information on a composer or author.</skos:definition>
-    <skos:notation xml:lang="en">e</skos:notation>
+    <skos:notation>e</skos:notation>
   </rdf:Description>
   <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.nt0v-d633#h">
     <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
     <skos:inScheme rdf:resource="https://doi.org/10.6069/uwlswd.nt0v-d633"/>
     <skos:prefLabel xml:lang="en">technical information on music</skos:prefLabel>
     <skos:definition xml:lang="en">Significant technical information.</skos:definition>
-    <skos:notation xml:lang="en">h</skos:notation>
+    <skos:notation>h</skos:notation>
     <skos:scopeNote xml:lang="en">Including instructions for performance.</skos:scopeNote>
   </rdf:Description>
   <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.nt0v-d633#b">
@@ -111,34 +105,34 @@
     <skos:inScheme rdf:resource="https://doi.org/10.6069/uwlswd.nt0v-d633"/>
     <skos:prefLabel xml:lang="en">bibliography</skos:prefLabel>
     <skos:definition xml:lang="en">Bibliography.</skos:definition>
-    <skos:notation xml:lang="en">b</skos:notation>
+    <skos:notation>b</skos:notation>
   </rdf:Description>
   <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.nt0v-d633#d">
     <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
     <skos:inScheme rdf:resource="https://doi.org/10.6069/uwlswd.nt0v-d633"/>
     <skos:prefLabel xml:lang="en">libretto or text</skos:prefLabel>
     <skos:definition xml:lang="en">Printed transcription of the libretto or other text (e.g., a transcript of verbal contents of a sound recording).</skos:definition>
-    <skos:notation xml:lang="en">d</skos:notation>
+    <skos:notation>d</skos:notation>
   </rdf:Description>
   <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.nt0v-d633#a">
     <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
     <skos:inScheme rdf:resource="https://doi.org/10.6069/uwlswd.nt0v-d633"/>
     <skos:prefLabel xml:lang="en">discography</skos:prefLabel>
     <skos:definition xml:lang="en">Discography or other bibliography of recorded sound.</skos:definition>
-    <skos:notation xml:lang="en">a</skos:notation>
+    <skos:notation>a</skos:notation>
   </rdf:Description>
   <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.nt0v-d633#s">
     <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
     <skos:inScheme rdf:resource="https://doi.org/10.6069/uwlswd.nt0v-d633"/>
     <skos:prefLabel xml:lang="en">music</skos:prefLabel>
     <skos:definition xml:lang="en">A score or other music format than that of the main item.</skos:definition>
-    <skos:notation xml:lang="en">s</skos:notation>
+    <skos:notation>s</skos:notation>
   </rdf:Description>
   <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.nt0v-d633#r">
     <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
     <skos:inScheme rdf:resource="https://doi.org/10.6069/uwlswd.nt0v-d633"/>
     <skos:prefLabel xml:lang="en">instructional materials</skos:prefLabel>
     <skos:definition xml:lang="en">Instructional materials.</skos:definition>
-    <skos:notation xml:lang="en">r</skos:notation>
+    <skos:notation>r</skos:notation>
   </rdf:Description>
 </rdf:RDF>
