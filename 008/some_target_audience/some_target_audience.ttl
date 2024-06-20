@@ -7,56 +7,56 @@
 <https://doi.org/10.6069/uwlswd.aec4-nv40#a> a skos:Concept ;
     skos:definition "Children, approximate ages 0-5 years."@en ;
     skos:inScheme <https://doi.org/10.6069/uwlswd.aec4-nv40> ;
-    skos:notation "a"@en ;
+    skos:notation "a" ;
     skos:prefLabel "preschool"@en .
 
 <https://doi.org/10.6069/uwlswd.aec4-nv40#b> a skos:Concept ;
     skos:definition "Children, approximate ages 6-8 years."@en ;
     skos:inScheme <https://doi.org/10.6069/uwlswd.aec4-nv40> ;
-    skos:notation "b"@en ;
+    skos:notation "b" ;
     skos:prefLabel "primary"@en .
 
 <https://doi.org/10.6069/uwlswd.aec4-nv40#c> a skos:Concept ;
     skos:definition "Young people, approximate ages 9-13."@en ;
     skos:inScheme <https://doi.org/10.6069/uwlswd.aec4-nv40> ;
-    skos:notation "c"@en ;
+    skos:notation "c" ;
     skos:prefLabel "pre-adolescent"@en .
 
 <https://doi.org/10.6069/uwlswd.aec4-nv40#d> a skos:Concept ;
     skos:definition "Young people, approximate ages 14-17."@en ;
     skos:inScheme <https://doi.org/10.6069/uwlswd.aec4-nv40> ;
-    skos:notation "d"@en ;
+    skos:notation "d" ;
     skos:prefLabel "adolescent"@en .
 
 <https://doi.org/10.6069/uwlswd.aec4-nv40#e> a skos:Concept ;
     skos:definition "Intended for adults."@en ;
     skos:inScheme <https://doi.org/10.6069/uwlswd.aec4-nv40> ;
-    skos:notation "e"@en ;
+    skos:notation "e" ;
     skos:prefLabel "adult"@en .
 
 <https://doi.org/10.6069/uwlswd.aec4-nv40#f> a skos:Concept ;
     skos:definition "Aimed at a particular audience and the nature of the presentation would make the item of little interest to other audiences."@en ;
     skos:inScheme <https://doi.org/10.6069/uwlswd.aec4-nv40> ;
-    skos:notation "f"@en ;
+    skos:notation "f" ;
     skos:prefLabel "specialized"@en ;
     skos:scopeNote "Examples include: 1) technical material geared to a specialized audience, and 2) items which address a limited audience; for example, the employees of a single organization."@en .
 
 <https://doi.org/10.6069/uwlswd.aec4-nv40#g> a skos:Concept ;
     skos:definition "Of general interest and not aimed at a particular target audience."@en ;
     skos:inScheme <https://doi.org/10.6069/uwlswd.aec4-nv40> ;
-    skos:notation "g"@en ;
+    skos:notation "g" ;
     skos:prefLabel "general"@en .
 
 <https://doi.org/10.6069/uwlswd.aec4-nv40#j> a skos:Concept ;
     skos:definition "Children and young people, approximate ages 0-15."@en ;
     skos:inScheme <https://doi.org/10.6069/uwlswd.aec4-nv40> ;
-    skos:notation "j"@en ;
+    skos:notation "j" ;
     skos:prefLabel "juvenile"@en .
 
 <https://doi.org/10.6069/uwlswd.aec4-nv40#pound> a skos:Concept ;
     skos:definition "Target audience for which the material is intended is unknown or is not specified."@en ;
     skos:inScheme <https://doi.org/10.6069/uwlswd.aec4-nv40> ;
-    skos:notation "#"@en ;
+    skos:notation "#" ;
     skos:prefLabel "unknown or not specified"@en ;
     skos:scopeNote "For video visual materials: use for all original or historical graphic material."@en .
 
@@ -74,7 +74,7 @@
         <https://uwlib-cams.github.io/uwlswd_vocabs_marc_006_008/008/some_target_audience/some_target_audience.rdf> ;
     dct:issued "2023" ;
     dct:license <http://creativecommons.org/publicdomain/zero/1.0> ;
-    dct:provenance <https://doi.org/10.6069/uwlswd.2e2b-y833> ;
+    dct:provenance <https://doi.org/10.6069/uwlswd.2e2b-y833#marc00Xvalues> ;
     dct:publisher <http://viaf.org/viaf/139541794> ;
     dct:source <http://marc21rdf.info>,
         <https://www.loc.gov/marc/bibliographic/bd008.html> ;
@@ -84,6 +84,6 @@
         "computer files",
         "music",
         "visual materials" ;
-    schema:disambiguatingDescription "SKOS Concept Scheme for MARC 00X Values" ;
-    schema:version "1-0-2" .
+    schema:disambiguatingDescription "SKOS Concept Scheme for MARC 00X Values"@en ;
+    schema:version "1-1-0" .
 

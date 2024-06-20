@@ -1,131 +1,131 @@
-<https://doi.org/10.6069/uwlswd.23tq-5e25> <http://purl.org/dc/terms/type> <http://purl.org/dc/dcmitype/Dataset> .
-<https://doi.org/10.6069/uwlswd.23tq-5e25#h> <http://www.w3.org/2004/02/skos/core#notation> "h"@en .
-<https://doi.org/10.6069/uwlswd.23tq-5e25#i> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
-<https://doi.org/10.6069/uwlswd.23tq-5e25#a> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
-<https://doi.org/10.6069/uwlswd.23tq-5e25#b> <http://www.w3.org/2004/02/skos/core#definition> "Biography"@en .
-<https://doi.org/10.6069/uwlswd.23tq-5e25#n> <http://www.w3.org/2004/02/skos/core#inScheme> <https://doi.org/10.6069/uwlswd.23tq-5e25> .
-<https://doi.org/10.6069/uwlswd.23tq-5e25#r> <http://www.w3.org/2004/02/skos/core#definition> "Performances of any of a variety of nonmusical productions."@en .
-<https://doi.org/10.6069/uwlswd.23tq-5e25> <http://purl.org/dc/terms/hasFormat> <https://uwlib-cams.github.io/uwlswd_vocabs_marc_006_008/008/music_literary_text_for_sound_recordings/music_literary_text_for_sound_recordings.html> .
-<https://doi.org/10.6069/uwlswd.23tq-5e25#l> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
-<https://doi.org/10.6069/uwlswd.23tq-5e25#f> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
-<https://doi.org/10.6069/uwlswd.23tq-5e25> <http://purl.org/dc/terms/hasFormat> <https://uwlib-cams.github.io/uwlswd_vocabs_marc_006_008/008/music_literary_text_for_sound_recordings/music_literary_text_for_sound_recordings.ttl> .
+<https://doi.org/10.6069/uwlswd.23tq-5e25#t> <http://www.w3.org/2004/02/skos/core#definition> "Interviews."@en .
+<https://doi.org/10.6069/uwlswd.23tq-5e25#d> <http://www.w3.org/2004/02/skos/core#inScheme> <https://doi.org/10.6069/uwlswd.23tq-5e25> .
+<https://doi.org/10.6069/uwlswd.23tq-5e25#e> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<https://doi.org/10.6069/uwlswd.23tq-5e25#t> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
 <https://doi.org/10.6069/uwlswd.23tq-5e25#l> <http://www.w3.org/2004/02/skos/core#definition> "Lectures, speeches."@en .
-<https://doi.org/10.6069/uwlswd.23tq-5e25> <http://purl.org/dc/terms/source> <https://www.loc.gov/marc/bibliographic/bd008.html> .
-<https://doi.org/10.6069/uwlswd.23tq-5e25#c> <http://www.w3.org/2004/02/skos/core#inScheme> <https://doi.org/10.6069/uwlswd.23tq-5e25> .
-<https://doi.org/10.6069/uwlswd.23tq-5e25#a> <http://www.w3.org/2004/02/skos/core#inScheme> <https://doi.org/10.6069/uwlswd.23tq-5e25> .
-<https://doi.org/10.6069/uwlswd.23tq-5e25#e> <http://www.w3.org/2004/02/skos/core#notation> "e"@en .
-<https://doi.org/10.6069/uwlswd.23tq-5e25#h> <http://www.w3.org/2004/02/skos/core#inScheme> <https://doi.org/10.6069/uwlswd.23tq-5e25> .
-<https://doi.org/10.6069/uwlswd.23tq-5e25#r> <http://www.w3.org/2004/02/skos/core#prefLabel> "rehearsals"@en .
-<https://doi.org/10.6069/uwlswd.23tq-5e25#s> <http://www.w3.org/2004/02/skos/core#definition> "Sounds."@en .
-<https://doi.org/10.6069/uwlswd.23tq-5e25#g> <http://www.w3.org/2004/02/skos/core#prefLabel> "reporting"@en .
-<https://doi.org/10.6069/uwlswd.23tq-5e25> <https://schema.org/disambiguatingDescription> "SKOS Concept Scheme for MARC 00X Values" .
-<https://doi.org/10.6069/uwlswd.23tq-5e25#o> <http://www.w3.org/2004/02/skos/core#notation> "o"@en .
-<https://doi.org/10.6069/uwlswd.23tq-5e25#o> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
-<https://doi.org/10.6069/uwlswd.23tq-5e25#h> <http://www.w3.org/2004/02/skos/core#definition> "History."@en .
-<https://doi.org/10.6069/uwlswd.23tq-5e25#i> <http://www.w3.org/2004/02/skos/core#inScheme> <https://doi.org/10.6069/uwlswd.23tq-5e25> .
-<https://doi.org/10.6069/uwlswd.23tq-5e25#z> <http://www.w3.org/2004/02/skos/core#definition> "Literary text for sound recordings other than autobiography, biography, conference proceedings, drama, essays, fiction, reporting, history, instruction, language instruction, comedy, lectures, speeches, memoirs, folktales, poetry, rehearsals, sounds, or interviews."@en .
-<https://doi.org/10.6069/uwlswd.23tq-5e25#n> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
-<https://doi.org/10.6069/uwlswd.23tq-5e25> <http://purl.org/dc/terms/publisher> <http://viaf.org/viaf/139541794> .
+<https://doi.org/10.6069/uwlswd.23tq-5e25#o> <http://www.w3.org/2004/02/skos/core#prefLabel> "folktales"@en .
+<https://doi.org/10.6069/uwlswd.23tq-5e25#t> <http://www.w3.org/2004/02/skos/core#notation> "t" .
+<https://doi.org/10.6069/uwlswd.23tq-5e25> <http://purl.org/dc/terms/format> <http://www.w3.org/ns/formats/N-Triples> .
 <https://doi.org/10.6069/uwlswd.23tq-5e25#r> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
-<https://doi.org/10.6069/uwlswd.23tq-5e25#k> <http://www.w3.org/2004/02/skos/core#prefLabel> "comedy"@en .
-<https://doi.org/10.6069/uwlswd.23tq-5e25#p> <http://www.w3.org/2004/02/skos/core#notation> "p"@en .
-<https://doi.org/10.6069/uwlswd.23tq-5e25#b> <http://www.w3.org/2004/02/skos/core#notation> "b"@en .
-<https://doi.org/10.6069/uwlswd.23tq-5e25#m> <http://www.w3.org/2004/02/skos/core#prefLabel> "memoirs"@en .
-<https://doi.org/10.6069/uwlswd.23tq-5e25#o> <http://www.w3.org/2004/02/skos/core#inScheme> <https://doi.org/10.6069/uwlswd.23tq-5e25> .
-<https://doi.org/10.6069/uwlswd.23tq-5e25#h> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
-<https://doi.org/10.6069/uwlswd.23tq-5e25#n> <http://www.w3.org/2004/02/skos/core#definition> "Not a sound recording (e.g., printed or manuscript music)."@en .
+<https://doi.org/10.6069/uwlswd.23tq-5e25#d> <http://www.w3.org/2004/02/skos/core#notation> "d" .
+<https://doi.org/10.6069/uwlswd.23tq-5e25#g> <http://www.w3.org/2004/02/skos/core#prefLabel> "reporting"@en .
+<https://doi.org/10.6069/uwlswd.23tq-5e25#m> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<https://doi.org/10.6069/uwlswd.23tq-5e25#m> <http://www.w3.org/2004/02/skos/core#definition> "Memoirs."@en .
+<https://doi.org/10.6069/uwlswd.23tq-5e25#c> <http://www.w3.org/2004/02/skos/core#inScheme> <https://doi.org/10.6069/uwlswd.23tq-5e25> .
+<https://doi.org/10.6069/uwlswd.23tq-5e25#f> <http://www.w3.org/2004/02/skos/core#prefLabel> "fiction"@en .
+<https://doi.org/10.6069/uwlswd.23tq-5e25> <http://purl.org/dc/terms/hasFormat> <https://uwlib-cams.github.io/uwlswd_vocabs_marc_006_008/008/music_literary_text_for_sound_recordings/music_literary_text_for_sound_recordings.html> .
+<https://doi.org/10.6069/uwlswd.23tq-5e25> <https://schema.org/version> "1-1-0" .
+<https://doi.org/10.6069/uwlswd.23tq-5e25#j> <http://www.w3.org/2004/02/skos/core#definition> "Language instruction."@en .
+<https://doi.org/10.6069/uwlswd.23tq-5e25> <http://purl.org/dc/terms/source> <http://marc21rdf.info> .
 <https://doi.org/10.6069/uwlswd.23tq-5e25> <http://purl.org/dc/elements/1.1/contributor> "Metadata Management Associates"@en .
-<https://doi.org/10.6069/uwlswd.23tq-5e25#s> <http://www.w3.org/2004/02/skos/core#scopeNote> "Includes nonmusical utterances and vocalizations that may or may not convey meaning."@en .
+<https://doi.org/10.6069/uwlswd.23tq-5e25#l> <http://www.w3.org/2004/02/skos/core#inScheme> <https://doi.org/10.6069/uwlswd.23tq-5e25> .
+<https://doi.org/10.6069/uwlswd.23tq-5e25#p> <http://www.w3.org/2004/02/skos/core#definition> "Poetry."@en .
+<https://doi.org/10.6069/uwlswd.23tq-5e25#o> <http://www.w3.org/2004/02/skos/core#definition> "Folktales."@en .
+<https://doi.org/10.6069/uwlswd.23tq-5e25#d> <http://www.w3.org/2004/02/skos/core#prefLabel> "drama"@en .
+<https://doi.org/10.6069/uwlswd.23tq-5e25#e> <http://www.w3.org/2004/02/skos/core#notation> "e" .
+<https://doi.org/10.6069/uwlswd.23tq-5e25#k> <http://www.w3.org/2004/02/skos/core#inScheme> <https://doi.org/10.6069/uwlswd.23tq-5e25> .
+<https://doi.org/10.6069/uwlswd.23tq-5e25#m> <http://www.w3.org/2004/02/skos/core#notation> "m" .
+<https://doi.org/10.6069/uwlswd.23tq-5e25#g> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<https://doi.org/10.6069/uwlswd.23tq-5e25#f> <http://www.w3.org/2004/02/skos/core#inScheme> <https://doi.org/10.6069/uwlswd.23tq-5e25> .
+<https://doi.org/10.6069/uwlswd.23tq-5e25> <http://purl.org/dc/terms/title> "Music: literary text of sound recordings"@en .
+<https://doi.org/10.6069/uwlswd.23tq-5e25#a> <http://www.w3.org/2004/02/skos/core#inScheme> <https://doi.org/10.6069/uwlswd.23tq-5e25> .
+<https://doi.org/10.6069/uwlswd.23tq-5e25> <http://purl.org/dc/terms/issued> "2023" .
+<https://doi.org/10.6069/uwlswd.23tq-5e25#j> <http://www.w3.org/2004/02/skos/core#inScheme> <https://doi.org/10.6069/uwlswd.23tq-5e25> .
+<https://doi.org/10.6069/uwlswd.23tq-5e25#h> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<https://doi.org/10.6069/uwlswd.23tq-5e25#h> <http://www.w3.org/2004/02/skos/core#definition> "History."@en .
+<https://doi.org/10.6069/uwlswd.23tq-5e25#d> <http://www.w3.org/2004/02/skos/core#definition> "Drama"@en .
+<https://doi.org/10.6069/uwlswd.23tq-5e25> <http://purl.org/dc/terms/type> <http://purl.org/dc/dcmitype/Dataset> .
+<https://doi.org/10.6069/uwlswd.23tq-5e25#n> <http://www.w3.org/2004/02/skos/core#notation> "n" .
+<https://doi.org/10.6069/uwlswd.23tq-5e25#i> <http://www.w3.org/2004/02/skos/core#definition> "Instruction."@en .
+<https://doi.org/10.6069/uwlswd.23tq-5e25#a> <http://www.w3.org/2004/02/skos/core#prefLabel> "autobiography"@en .
+<https://doi.org/10.6069/uwlswd.23tq-5e25#e> <http://www.w3.org/2004/02/skos/core#inScheme> <https://doi.org/10.6069/uwlswd.23tq-5e25> .
+<https://doi.org/10.6069/uwlswd.23tq-5e25#p> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<https://doi.org/10.6069/uwlswd.23tq-5e25#p> <http://www.w3.org/2004/02/skos/core#prefLabel> "poetry"@en .
+<https://doi.org/10.6069/uwlswd.23tq-5e25#k> <http://www.w3.org/2004/02/skos/core#definition> "Spoken comedy."@en .
+<https://doi.org/10.6069/uwlswd.23tq-5e25#z> <http://www.w3.org/2004/02/skos/core#prefLabel> "other"@en .
+<https://doi.org/10.6069/uwlswd.23tq-5e25#i> <http://www.w3.org/2004/02/skos/core#scopeNote> "Includes instructions on how to accomplish a task, learn an art, etc. (e.g., how to replace a light switch). Not used for language instruction."@en .
+<https://doi.org/10.6069/uwlswd.23tq-5e25#b> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<https://doi.org/10.6069/uwlswd.23tq-5e25> <http://purl.org/dc/terms/provenance> <https://doi.org/10.6069/uwlswd.2e2b-y833#marc00Xvalues> .
+<https://doi.org/10.6069/uwlswd.23tq-5e25#s> <http://www.w3.org/2004/02/skos/core#notation> "s" .
+<https://doi.org/10.6069/uwlswd.23tq-5e25#j> <http://www.w3.org/2004/02/skos/core#prefLabel> "language instruction"@en .
+<https://doi.org/10.6069/uwlswd.23tq-5e25#e> <http://www.w3.org/2004/02/skos/core#prefLabel> "essays"@en .
+<https://doi.org/10.6069/uwlswd.23tq-5e25#i> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<https://doi.org/10.6069/uwlswd.23tq-5e25#t> <http://www.w3.org/2004/02/skos/core#prefLabel> "interviews"@en .
+<https://doi.org/10.6069/uwlswd.23tq-5e25> <http://purl.org/dc/terms/publisher> <http://viaf.org/viaf/139541794> .
+<https://doi.org/10.6069/uwlswd.23tq-5e25#k> <http://www.w3.org/2004/02/skos/core#prefLabel> "comedy"@en .
+<https://doi.org/10.6069/uwlswd.23tq-5e25#pound> <http://www.w3.org/2004/02/skos/core#notation> "#" .
+<https://doi.org/10.6069/uwlswd.23tq-5e25> <http://purl.org/dc/terms/hasFormat> <https://uwlib-cams.github.io/uwlswd_vocabs_marc_006_008/008/music_literary_text_for_sound_recordings/music_literary_text_for_sound_recordings.ttl> .
+<https://doi.org/10.6069/uwlswd.23tq-5e25#s> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<https://doi.org/10.6069/uwlswd.23tq-5e25#z> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<https://doi.org/10.6069/uwlswd.23tq-5e25#g> <http://www.w3.org/2004/02/skos/core#notation> "g" .
+<https://doi.org/10.6069/uwlswd.23tq-5e25#pound> <http://www.w3.org/2004/02/skos/core#inScheme> <https://doi.org/10.6069/uwlswd.23tq-5e25> .
+<https://doi.org/10.6069/uwlswd.23tq-5e25#c> <http://www.w3.org/2004/02/skos/core#prefLabel> "conference proceedings"@en .
+<https://doi.org/10.6069/uwlswd.23tq-5e25#d> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<https://doi.org/10.6069/uwlswd.23tq-5e25#s> <http://www.w3.org/2004/02/skos/core#definition> "Sounds."@en .
+<https://doi.org/10.6069/uwlswd.23tq-5e25#l> <http://www.w3.org/2004/02/skos/core#notation> "l" .
+<https://doi.org/10.6069/uwlswd.23tq-5e25#a> <http://www.w3.org/2004/02/skos/core#definition> "Autobiography"@en .
+<https://doi.org/10.6069/uwlswd.23tq-5e25#k> <http://www.w3.org/2004/02/skos/core#notation> "k" .
+<https://doi.org/10.6069/uwlswd.23tq-5e25#a> <http://www.w3.org/2004/02/skos/core#notation> "a" .
+<https://doi.org/10.6069/uwlswd.23tq-5e25#m> <http://www.w3.org/2004/02/skos/core#prefLabel> "memoirs"@en .
+<https://doi.org/10.6069/uwlswd.23tq-5e25> <http://purl.org/dc/terms/hasFormat> <https://uwlib-cams.github.io/uwlswd_vocabs_marc_006_008/008/music_literary_text_for_sound_recordings/music_literary_text_for_sound_recordings.rdf> .
+<https://doi.org/10.6069/uwlswd.23tq-5e25#n> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<https://doi.org/10.6069/uwlswd.23tq-5e25#l> <http://www.w3.org/2004/02/skos/core#prefLabel> "lectures, speeches"@en .
+<https://doi.org/10.6069/uwlswd.23tq-5e25> <http://purl.org/dc/elements/1.1/language> "en" .
+<https://doi.org/10.6069/uwlswd.23tq-5e25#z> <http://www.w3.org/2004/02/skos/core#definition> "Literary text for sound recordings other than autobiography, biography, conference proceedings, drama, essays, fiction, reporting, history, instruction, language instruction, comedy, lectures, speeches, memoirs, folktales, poetry, rehearsals, sounds, or interviews."@en .
+<https://doi.org/10.6069/uwlswd.23tq-5e25#z> <http://www.w3.org/2004/02/skos/core#notation> "z" .
+<https://doi.org/10.6069/uwlswd.23tq-5e25#s> <http://www.w3.org/2004/02/skos/core#prefLabel> "sounds"@en .
+<https://doi.org/10.6069/uwlswd.23tq-5e25> <http://purl.org/dc/terms/hasFormat> <https://uwlib-cams.github.io/uwlswd_vocabs_marc_006_008/008/music_literary_text_for_sound_recordings/music_literary_text_for_sound_recordings.jsonld> .
+<https://doi.org/10.6069/uwlswd.23tq-5e25#g> <http://www.w3.org/2004/02/skos/core#definition> "Reporting."@en .
+<https://doi.org/10.6069/uwlswd.23tq-5e25> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#ConceptScheme> .
+<https://doi.org/10.6069/uwlswd.23tq-5e25> <http://purl.org/dc/terms/description> "Indicates the type of literary text contained in a nonmusical sound recording."@en .
+<https://doi.org/10.6069/uwlswd.23tq-5e25#pound> <http://www.w3.org/2004/02/skos/core#prefLabel> "item is a music sound recording"@en .
+<https://doi.org/10.6069/uwlswd.23tq-5e25#t> <http://www.w3.org/2004/02/skos/core#inScheme> <https://doi.org/10.6069/uwlswd.23tq-5e25> .
+<https://doi.org/10.6069/uwlswd.23tq-5e25#r> <http://www.w3.org/2004/02/skos/core#prefLabel> "rehearsals"@en .
+<https://doi.org/10.6069/uwlswd.23tq-5e25> <http://purl.org/dc/terms/alternative> "MARC21 008/30-31 values for music expressed using RDF"@en .
+<https://doi.org/10.6069/uwlswd.23tq-5e25#g> <http://www.w3.org/2004/02/skos/core#scopeNote> "Reports of newsworthy events and informative messages are included in this category."@en .
+<https://doi.org/10.6069/uwlswd.23tq-5e25#r> <http://www.w3.org/2004/02/skos/core#inScheme> <https://doi.org/10.6069/uwlswd.23tq-5e25> .
+<https://doi.org/10.6069/uwlswd.23tq-5e25> <http://purl.org/dc/terms/creator> <http://viaf.org/viaf/139541794> .
+<https://doi.org/10.6069/uwlswd.23tq-5e25#b> <http://www.w3.org/2004/02/skos/core#definition> "Biography"@en .
+<https://doi.org/10.6069/uwlswd.23tq-5e25#o> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<https://doi.org/10.6069/uwlswd.23tq-5e25#b> <http://www.w3.org/2004/02/skos/core#notation> "b" .
+<https://doi.org/10.6069/uwlswd.23tq-5e25#m> <http://www.w3.org/2004/02/skos/core#inScheme> <https://doi.org/10.6069/uwlswd.23tq-5e25> .
+<https://doi.org/10.6069/uwlswd.23tq-5e25#f> <http://www.w3.org/2004/02/skos/core#definition> "Fiction."@en .
+<https://doi.org/10.6069/uwlswd.23tq-5e25#a> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<https://doi.org/10.6069/uwlswd.23tq-5e25#g> <http://www.w3.org/2004/02/skos/core#inScheme> <https://doi.org/10.6069/uwlswd.23tq-5e25> .
+<https://doi.org/10.6069/uwlswd.23tq-5e25> <http://purl.org/dc/terms/contributor> <http://viaf.org/viaf/151962300> .
+<https://doi.org/10.6069/uwlswd.23tq-5e25#s> <http://www.w3.org/2004/02/skos/core#inScheme> <https://doi.org/10.6069/uwlswd.23tq-5e25> .
 <https://doi.org/10.6069/uwlswd.23tq-5e25#i> <http://www.w3.org/2004/02/skos/core#prefLabel> "instruction"@en .
 <https://doi.org/10.6069/uwlswd.23tq-5e25#c> <http://www.w3.org/2004/02/skos/core#definition> "Conference proceedings"@en .
-<https://doi.org/10.6069/uwlswd.23tq-5e25#b> <http://www.w3.org/2004/02/skos/core#prefLabel> "biography"@en .
-<https://doi.org/10.6069/uwlswd.23tq-5e25#k> <http://www.w3.org/2004/02/skos/core#notation> "k"@en .
-<https://doi.org/10.6069/uwlswd.23tq-5e25> <http://purl.org/dc/terms/format> <http://www.w3.org/ns/formats/N-Triples> .
-<https://doi.org/10.6069/uwlswd.23tq-5e25#t> <http://www.w3.org/2004/02/skos/core#inScheme> <https://doi.org/10.6069/uwlswd.23tq-5e25> .
-<https://doi.org/10.6069/uwlswd.23tq-5e25> <http://purl.org/dc/terms/issued> "2023" .
-<https://doi.org/10.6069/uwlswd.23tq-5e25#t> <http://www.w3.org/2004/02/skos/core#definition> "Interviews."@en .
-<https://doi.org/10.6069/uwlswd.23tq-5e25#s> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
-<https://doi.org/10.6069/uwlswd.23tq-5e25#j> <http://www.w3.org/2004/02/skos/core#notation> "j"@en .
-<https://doi.org/10.6069/uwlswd.23tq-5e25#m> <http://www.w3.org/2004/02/skos/core#definition> "Memoirs."@en .
-<https://doi.org/10.6069/uwlswd.23tq-5e25#g> <http://www.w3.org/2004/02/skos/core#notation> "g"@en .
-<https://doi.org/10.6069/uwlswd.23tq-5e25#n> <http://www.w3.org/2004/02/skos/core#notation> "n"@en .
-<https://doi.org/10.6069/uwlswd.23tq-5e25#i> <http://www.w3.org/2004/02/skos/core#notation> "i"@en .
-<https://doi.org/10.6069/uwlswd.23tq-5e25#l> <http://www.w3.org/2004/02/skos/core#notation> "l"@en .
-<https://doi.org/10.6069/uwlswd.23tq-5e25#pound> <http://www.w3.org/2004/02/skos/core#prefLabel> "item is a music sound recording"@en .
-<https://doi.org/10.6069/uwlswd.23tq-5e25#pound> <http://www.w3.org/2004/02/skos/core#notation> "#"@en .
-<https://doi.org/10.6069/uwlswd.23tq-5e25#a> <http://www.w3.org/2004/02/skos/core#notation> "a"@en .
-<https://doi.org/10.6069/uwlswd.23tq-5e25#k> <http://www.w3.org/2004/02/skos/core#inScheme> <https://doi.org/10.6069/uwlswd.23tq-5e25> .
-<https://doi.org/10.6069/uwlswd.23tq-5e25> <http://purl.org/dc/terms/alternative> "MARC21 008/30-31 values for music expressed using RDF"@en .
-<https://doi.org/10.6069/uwlswd.23tq-5e25#s> <http://www.w3.org/2004/02/skos/core#prefLabel> "sounds"@en .
+<https://doi.org/10.6069/uwlswd.23tq-5e25#j> <http://www.w3.org/2004/02/skos/core#notation> "j" .
+<https://doi.org/10.6069/uwlswd.23tq-5e25#c> <http://www.w3.org/2004/02/skos/core#notation> "c" .
+<https://doi.org/10.6069/uwlswd.23tq-5e25#p> <http://www.w3.org/2004/02/skos/core#notation> "p" .
 <https://doi.org/10.6069/uwlswd.23tq-5e25> <http://purl.org/dc/terms/license> <http://creativecommons.org/publicdomain/zero/1.0> .
-<https://doi.org/10.6069/uwlswd.23tq-5e25#t> <http://www.w3.org/2004/02/skos/core#notation> "t"@en .
-<https://doi.org/10.6069/uwlswd.23tq-5e25> <http://purl.org/dc/terms/hasFormat> <https://uwlib-cams.github.io/uwlswd_vocabs_marc_006_008/008/music_literary_text_for_sound_recordings/music_literary_text_for_sound_recordings.rdf> .
-<https://doi.org/10.6069/uwlswd.23tq-5e25> <http://purl.org/dc/terms/description> "Indicates the type of literary text contained in a nonmusical sound recording."@en .
-<https://doi.org/10.6069/uwlswd.23tq-5e25#z> <http://www.w3.org/2004/02/skos/core#notation> "z"@en .
-<https://doi.org/10.6069/uwlswd.23tq-5e25#o> <http://www.w3.org/2004/02/skos/core#prefLabel> "folktales"@en .
-<https://doi.org/10.6069/uwlswd.23tq-5e25#r> <http://www.w3.org/2004/02/skos/core#inScheme> <https://doi.org/10.6069/uwlswd.23tq-5e25> .
-<https://doi.org/10.6069/uwlswd.23tq-5e25#j> <http://www.w3.org/2004/02/skos/core#prefLabel> "language instruction"@en .
-<https://doi.org/10.6069/uwlswd.23tq-5e25#e> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
-<https://doi.org/10.6069/uwlswd.23tq-5e25#r> <http://www.w3.org/2004/02/skos/core#notation> "r"@en .
-<https://doi.org/10.6069/uwlswd.23tq-5e25#n> <http://www.w3.org/2004/02/skos/core#prefLabel> "not applicable"@en .
-<https://doi.org/10.6069/uwlswd.23tq-5e25#z> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
-<https://doi.org/10.6069/uwlswd.23tq-5e25#f> <http://www.w3.org/2004/02/skos/core#prefLabel> "fiction"@en .
-<https://doi.org/10.6069/uwlswd.23tq-5e25#g> <http://www.w3.org/2004/02/skos/core#definition> "Reporting."@en .
-<https://doi.org/10.6069/uwlswd.23tq-5e25#j> <http://www.w3.org/2004/02/skos/core#inScheme> <https://doi.org/10.6069/uwlswd.23tq-5e25> .
-<https://doi.org/10.6069/uwlswd.23tq-5e25#k> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
-<https://doi.org/10.6069/uwlswd.23tq-5e25#g> <http://www.w3.org/2004/02/skos/core#scopeNote> "Reports of newsworthy events and informative messages are included in this category."@en .
-<https://doi.org/10.6069/uwlswd.23tq-5e25> <http://purl.org/dc/terms/creator> <http://viaf.org/viaf/139541794> .
-<https://doi.org/10.6069/uwlswd.23tq-5e25#b> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
-<https://doi.org/10.6069/uwlswd.23tq-5e25#d> <http://www.w3.org/2004/02/skos/core#notation> "d"@en .
-<https://doi.org/10.6069/uwlswd.23tq-5e25#t> <http://www.w3.org/2004/02/skos/core#prefLabel> "interviews"@en .
-<https://doi.org/10.6069/uwlswd.23tq-5e25#m> <http://www.w3.org/2004/02/skos/core#inScheme> <https://doi.org/10.6069/uwlswd.23tq-5e25> .
-<https://doi.org/10.6069/uwlswd.23tq-5e25#z> <http://www.w3.org/2004/02/skos/core#prefLabel> "other"@en .
-<https://doi.org/10.6069/uwlswd.23tq-5e25#z> <http://www.w3.org/2004/02/skos/core#inScheme> <https://doi.org/10.6069/uwlswd.23tq-5e25> .
-<https://doi.org/10.6069/uwlswd.23tq-5e25> <http://purl.org/dc/terms/title> "Music: literary text of sound recordings"@en .
-<https://doi.org/10.6069/uwlswd.23tq-5e25#f> <http://www.w3.org/2004/02/skos/core#notation> "f"@en .
-<https://doi.org/10.6069/uwlswd.23tq-5e25#c> <http://www.w3.org/2004/02/skos/core#notation> "c"@en .
-<https://doi.org/10.6069/uwlswd.23tq-5e25#p> <http://www.w3.org/2004/02/skos/core#definition> "Poetry."@en .
-<https://doi.org/10.6069/uwlswd.23tq-5e25> <http://purl.org/dc/terms/source> <http://marc21rdf.info> .
-<https://doi.org/10.6069/uwlswd.23tq-5e25#b> <http://www.w3.org/2004/02/skos/core#inScheme> <https://doi.org/10.6069/uwlswd.23tq-5e25> .
-<https://doi.org/10.6069/uwlswd.23tq-5e25#f> <http://www.w3.org/2004/02/skos/core#scopeNote> "Includes novels, short stories, etc."@en .
-<https://doi.org/10.6069/uwlswd.23tq-5e25#d> <http://www.w3.org/2004/02/skos/core#prefLabel> "drama"@en .
-<https://doi.org/10.6069/uwlswd.23tq-5e25> <http://purl.org/dc/terms/hasFormat> <https://uwlib-cams.github.io/uwlswd_vocabs_marc_006_008/008/music_literary_text_for_sound_recordings/music_literary_text_for_sound_recordings.jsonld> .
-<https://doi.org/10.6069/uwlswd.23tq-5e25#e> <http://www.w3.org/2004/02/skos/core#prefLabel> "essays"@en .
-<https://doi.org/10.6069/uwlswd.23tq-5e25#j> <http://www.w3.org/2004/02/skos/core#definition> "Language instruction."@en .
-<https://doi.org/10.6069/uwlswd.23tq-5e25#j> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
-<https://doi.org/10.6069/uwlswd.23tq-5e25#s> <http://www.w3.org/2004/02/skos/core#inScheme> <https://doi.org/10.6069/uwlswd.23tq-5e25> .
-<https://doi.org/10.6069/uwlswd.23tq-5e25#g> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
-<https://doi.org/10.6069/uwlswd.23tq-5e25#m> <http://www.w3.org/2004/02/skos/core#notation> "m"@en .
-<https://doi.org/10.6069/uwlswd.23tq-5e25> <http://purl.org/dc/terms/contributor> <http://viaf.org/viaf/151962300> .
-<https://doi.org/10.6069/uwlswd.23tq-5e25> <http://purl.org/dc/terms/provenance> <https://doi.org/10.6069/uwlswd.2e2b-y833> .
-<https://doi.org/10.6069/uwlswd.23tq-5e25#l> <http://www.w3.org/2004/02/skos/core#prefLabel> "lectures, speeches"@en .
-<https://doi.org/10.6069/uwlswd.23tq-5e25#m> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
-<https://doi.org/10.6069/uwlswd.23tq-5e25#i> <http://www.w3.org/2004/02/skos/core#scopeNote> "Includes instructions on how to accomplish a task, learn an art, etc. (e.g., how to replace a light switch). Not used for language instruction."@en .
-<https://doi.org/10.6069/uwlswd.23tq-5e25#pound> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
-<https://doi.org/10.6069/uwlswd.23tq-5e25#a> <http://www.w3.org/2004/02/skos/core#prefLabel> "autobiography"@en .
-<https://doi.org/10.6069/uwlswd.23tq-5e25#d> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
-<https://doi.org/10.6069/uwlswd.23tq-5e25#o> <http://www.w3.org/2004/02/skos/core#definition> "Folktales."@en .
-<https://doi.org/10.6069/uwlswd.23tq-5e25#g> <http://www.w3.org/2004/02/skos/core#inScheme> <https://doi.org/10.6069/uwlswd.23tq-5e25> .
-<https://doi.org/10.6069/uwlswd.23tq-5e25> <http://purl.org/dc/elements/1.1/language> "en" .
-<https://doi.org/10.6069/uwlswd.23tq-5e25#k> <http://www.w3.org/2004/02/skos/core#definition> "Spoken comedy."@en .
-<https://doi.org/10.6069/uwlswd.23tq-5e25#p> <http://www.w3.org/2004/02/skos/core#prefLabel> "poetry"@en .
-<https://doi.org/10.6069/uwlswd.23tq-5e25> <https://schema.org/version> "1-0-1" .
-<https://doi.org/10.6069/uwlswd.23tq-5e25#d> <http://www.w3.org/2004/02/skos/core#inScheme> <https://doi.org/10.6069/uwlswd.23tq-5e25> .
-<https://doi.org/10.6069/uwlswd.23tq-5e25#a> <http://www.w3.org/2004/02/skos/core#definition> "Autobiography"@en .
-<https://doi.org/10.6069/uwlswd.23tq-5e25#f> <http://www.w3.org/2004/02/skos/core#definition> "Fiction."@en .
-<https://doi.org/10.6069/uwlswd.23tq-5e25#p> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
-<https://doi.org/10.6069/uwlswd.23tq-5e25#l> <http://www.w3.org/2004/02/skos/core#inScheme> <https://doi.org/10.6069/uwlswd.23tq-5e25> .
-<https://doi.org/10.6069/uwlswd.23tq-5e25#e> <http://www.w3.org/2004/02/skos/core#definition> "Essays."@en .
-<https://doi.org/10.6069/uwlswd.23tq-5e25#s> <http://www.w3.org/2004/02/skos/core#notation> "s"@en .
-<https://doi.org/10.6069/uwlswd.23tq-5e25#f> <http://www.w3.org/2004/02/skos/core#inScheme> <https://doi.org/10.6069/uwlswd.23tq-5e25> .
-<https://doi.org/10.6069/uwlswd.23tq-5e25#pound> <http://www.w3.org/2004/02/skos/core#definition> "Item is a music sound recording"@en .
-<https://doi.org/10.6069/uwlswd.23tq-5e25#e> <http://www.w3.org/2004/02/skos/core#inScheme> <https://doi.org/10.6069/uwlswd.23tq-5e25> .
 <https://doi.org/10.6069/uwlswd.23tq-5e25#c> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
-<https://doi.org/10.6069/uwlswd.23tq-5e25#pound> <http://www.w3.org/2004/02/skos/core#inScheme> <https://doi.org/10.6069/uwlswd.23tq-5e25> .
-<https://doi.org/10.6069/uwlswd.23tq-5e25> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#ConceptScheme> .
+<https://doi.org/10.6069/uwlswd.23tq-5e25#h> <http://www.w3.org/2004/02/skos/core#notation> "h" .
+<https://doi.org/10.6069/uwlswd.23tq-5e25#o> <http://www.w3.org/2004/02/skos/core#notation> "o" .
+<https://doi.org/10.6069/uwlswd.23tq-5e25#n> <http://www.w3.org/2004/02/skos/core#inScheme> <https://doi.org/10.6069/uwlswd.23tq-5e25> .
+<https://doi.org/10.6069/uwlswd.23tq-5e25#b> <http://www.w3.org/2004/02/skos/core#prefLabel> "biography"@en .
+<https://doi.org/10.6069/uwlswd.23tq-5e25#h> <http://www.w3.org/2004/02/skos/core#inScheme> <https://doi.org/10.6069/uwlswd.23tq-5e25> .
+<https://doi.org/10.6069/uwlswd.23tq-5e25#r> <http://www.w3.org/2004/02/skos/core#definition> "Performances of any of a variety of nonmusical productions."@en .
+<https://doi.org/10.6069/uwlswd.23tq-5e25#l> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<https://doi.org/10.6069/uwlswd.23tq-5e25#n> <http://www.w3.org/2004/02/skos/core#prefLabel> "not applicable"@en .
+<https://doi.org/10.6069/uwlswd.23tq-5e25#r> <http://www.w3.org/2004/02/skos/core#notation> "r" .
+<https://doi.org/10.6069/uwlswd.23tq-5e25> <http://purl.org/dc/terms/source> <https://www.loc.gov/marc/bibliographic/bd008.html> .
+<https://doi.org/10.6069/uwlswd.23tq-5e25#b> <http://www.w3.org/2004/02/skos/core#inScheme> <https://doi.org/10.6069/uwlswd.23tq-5e25> .
 <https://doi.org/10.6069/uwlswd.23tq-5e25#h> <http://www.w3.org/2004/02/skos/core#prefLabel> "history"@en .
-<https://doi.org/10.6069/uwlswd.23tq-5e25#t> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
-<https://doi.org/10.6069/uwlswd.23tq-5e25#d> <http://www.w3.org/2004/02/skos/core#definition> "Drama"@en .
-<https://doi.org/10.6069/uwlswd.23tq-5e25#i> <http://www.w3.org/2004/02/skos/core#definition> "Instruction."@en .
-<https://doi.org/10.6069/uwlswd.23tq-5e25#c> <http://www.w3.org/2004/02/skos/core#prefLabel> "conference proceedings"@en .
+<https://doi.org/10.6069/uwlswd.23tq-5e25#k> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<https://doi.org/10.6069/uwlswd.23tq-5e25#e> <http://www.w3.org/2004/02/skos/core#definition> "Essays."@en .
 <https://doi.org/10.6069/uwlswd.23tq-5e25#p> <http://www.w3.org/2004/02/skos/core#inScheme> <https://doi.org/10.6069/uwlswd.23tq-5e25> .
+<https://doi.org/10.6069/uwlswd.23tq-5e25#f> <http://www.w3.org/2004/02/skos/core#scopeNote> "Includes novels, short stories, etc."@en .
+<https://doi.org/10.6069/uwlswd.23tq-5e25#f> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<https://doi.org/10.6069/uwlswd.23tq-5e25#i> <http://www.w3.org/2004/02/skos/core#notation> "i" .
+<https://doi.org/10.6069/uwlswd.23tq-5e25#f> <http://www.w3.org/2004/02/skos/core#notation> "f" .
+<https://doi.org/10.6069/uwlswd.23tq-5e25#pound> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<https://doi.org/10.6069/uwlswd.23tq-5e25> <https://schema.org/disambiguatingDescription> "SKOS Concept Scheme for MARC 00X Values"@en .
+<https://doi.org/10.6069/uwlswd.23tq-5e25#z> <http://www.w3.org/2004/02/skos/core#inScheme> <https://doi.org/10.6069/uwlswd.23tq-5e25> .
+<https://doi.org/10.6069/uwlswd.23tq-5e25#pound> <http://www.w3.org/2004/02/skos/core#definition> "Item is a music sound recording"@en .
+<https://doi.org/10.6069/uwlswd.23tq-5e25#o> <http://www.w3.org/2004/02/skos/core#inScheme> <https://doi.org/10.6069/uwlswd.23tq-5e25> .
+<https://doi.org/10.6069/uwlswd.23tq-5e25#j> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<https://doi.org/10.6069/uwlswd.23tq-5e25#i> <http://www.w3.org/2004/02/skos/core#inScheme> <https://doi.org/10.6069/uwlswd.23tq-5e25> .
+<https://doi.org/10.6069/uwlswd.23tq-5e25#s> <http://www.w3.org/2004/02/skos/core#scopeNote> "Includes nonmusical utterances and vocalizations that may or may not convey meaning."@en .
+<https://doi.org/10.6069/uwlswd.23tq-5e25#n> <http://www.w3.org/2004/02/skos/core#definition> "Not a sound recording (e.g., printed or manuscript music)."@en .

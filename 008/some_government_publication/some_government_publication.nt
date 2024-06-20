@@ -1,86 +1,86 @@
-<https://doi.org/10.6069/uwlswd.2eg3-1x53#pound> <http://www.w3.org/2004/02/skos/core#inScheme> <https://doi.org/10.6069/uwlswd.2eg3-1x53> .
-<https://doi.org/10.6069/uwlswd.2eg3-1x53> <https://schema.org/version> "1-0-2" .
-<https://doi.org/10.6069/uwlswd.2eg3-1x53> <http://purl.org/dc/terms/contributor> <http://viaf.org/viaf/151962300> .
-<https://doi.org/10.6069/uwlswd.2eg3-1x53#f> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
-<https://doi.org/10.6069/uwlswd.2eg3-1x53#m> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
-<https://doi.org/10.6069/uwlswd.2eg3-1x53> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#ConceptScheme> .
-<https://doi.org/10.6069/uwlswd.2eg3-1x53#i> <http://www.w3.org/2004/02/skos/core#prefLabel> "international intergovernmental"@en .
-<https://doi.org/10.6069/uwlswd.2eg3-1x53> <https://schema.org/disambiguatingDescription> "SKOS Concept Scheme for MARC 00X Values" .
-<https://doi.org/10.6069/uwlswd.2eg3-1x53#z> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
-<https://doi.org/10.6069/uwlswd.2eg3-1x53> <http://purl.org/dc/terms/license> <http://creativecommons.org/publicdomain/zero/1.0> .
-<https://doi.org/10.6069/uwlswd.2eg3-1x53#nx> <http://www.w3.org/2004/02/skos/core#inScheme> <https://doi.org/10.6069/uwlswd.2eg3-1x53> .
-<https://doi.org/10.6069/uwlswd.2eg3-1x53#pound> <http://www.w3.org/2004/02/skos/core#prefLabel> "not a government publication"@en .
-<https://doi.org/10.6069/uwlswd.2eg3-1x53> <http://purl.org/dc/elements/1.1/contributor> "Metadata Management Associates"@en .
-<https://doi.org/10.6069/uwlswd.2eg3-1x53> <https://doi.org/10.6069/uwlib.55.d.3#appliesToMaterial> "maps" .
-<https://doi.org/10.6069/uwlswd.2eg3-1x53#s> <http://www.w3.org/2004/02/skos/core#notation> "s"@en .
-<https://doi.org/10.6069/uwlswd.2eg3-1x53#u> <http://www.w3.org/2004/02/skos/core#definition> "Whether or not the item is published or produced by or for a government agency is unknown."@en .
-<https://doi.org/10.6069/uwlswd.2eg3-1x53> <http://purl.org/dc/terms/publisher> <http://viaf.org/viaf/139541794> .
-<https://doi.org/10.6069/uwlswd.2eg3-1x53> <http://purl.org/dc/terms/format> <http://www.w3.org/ns/formats/N-Triples> .
-<https://doi.org/10.6069/uwlswd.2eg3-1x53> <http://purl.org/dc/terms/issued> "2023" .
-<https://doi.org/10.6069/uwlswd.2eg3-1x53#f> <http://www.w3.org/2004/02/skos/core#definition> "Published or produced by or for a federal or national government body (e.g., a sovereign nation, such as Canada). Used for the governments of England, Wales, Scotland, and Northern Ireland. Also used for American Indian tribes."@en .
-<https://doi.org/10.6069/uwlswd.2eg3-1x53#u> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
-<https://doi.org/10.6069/uwlswd.2eg3-1x53#z> <http://www.w3.org/2004/02/skos/core#definition> "Government publication other than autonomous or semi-autonomous component, multilocal, federal or national, international intergovernmental, local, multistate, government publication - level undetermined, state, provincial, territorial, or dependent."@en .
-<https://doi.org/10.6069/uwlswd.2eg3-1x53#s> <http://www.w3.org/2004/02/skos/core#inScheme> <https://doi.org/10.6069/uwlswd.2eg3-1x53> .
-<https://doi.org/10.6069/uwlswd.2eg3-1x53> <http://purl.org/dc/terms/source> <http://marc21rdf.info> .
-<https://doi.org/10.6069/uwlswd.2eg3-1x53> <http://purl.org/dc/terms/provenance> <https://doi.org/10.6069/uwlswd.2e2b-y833> .
-<https://doi.org/10.6069/uwlswd.2eg3-1x53#pound> <http://www.w3.org/2004/02/skos/core#definition> "Not published by or for a government body."@en .
-<https://doi.org/10.6069/uwlswd.2eg3-1x53#nx> <http://www.w3.org/2004/02/skos/core#notation> "n"@en .
-<https://doi.org/10.6069/uwlswd.2eg3-1x53#pound> <http://www.w3.org/2004/02/skos/core#notation> "#"@en .
-<https://doi.org/10.6069/uwlswd.2eg3-1x53#o> <http://www.w3.org/2004/02/skos/core#notation> "o"@en .
-<https://doi.org/10.6069/uwlswd.2eg3-1x53> <http://purl.org/dc/elements/1.1/language> "en" .
-<https://doi.org/10.6069/uwlswd.2eg3-1x53> <http://purl.org/dc/terms/alternative> "MARC21 008/28 values for some materials expressed using RDF"@en .
-<https://doi.org/10.6069/uwlswd.2eg3-1x53#o> <http://www.w3.org/2004/02/skos/core#definition> "Published or produced by or for a government body but that the jurisdictional level cannot be determined."@en .
-<https://doi.org/10.6069/uwlswd.2eg3-1x53> <http://purl.org/dc/terms/description> "Indicates whether the item is published or produced by or for an international, provincial, national, state, or local government agency, or by any subdivision of such a body, and, if so, the jurisdictional level of the agency."@en .
-<https://doi.org/10.6069/uwlswd.2eg3-1x53> <http://purl.org/dc/terms/title> "Some: government publication"@en .
-<https://doi.org/10.6069/uwlswd.2eg3-1x53#m> <http://www.w3.org/2004/02/skos/core#notation> "m"@en .
-<https://doi.org/10.6069/uwlswd.2eg3-1x53> <https://doi.org/10.6069/uwlib.55.d.3#appliesToMaterial> "books" .
-<https://doi.org/10.6069/uwlswd.2eg3-1x53#m> <http://www.w3.org/2004/02/skos/core#definition> "Published or produced by or for a regional combination of jurisdictions at the state, provincial, territorial, etc. level."@en .
-<https://doi.org/10.6069/uwlswd.2eg3-1x53#l> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
-<https://doi.org/10.6069/uwlswd.2eg3-1x53#a> <http://www.w3.org/2004/02/skos/core#definition> "Published or produced by or for a government body of an autonomous or semi-autonomous component of a country."@en .
-<https://doi.org/10.6069/uwlswd.2eg3-1x53#m> <http://www.w3.org/2004/02/skos/core#prefLabel> "multistate"@en .
-<https://doi.org/10.6069/uwlswd.2eg3-1x53#i> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
-<https://doi.org/10.6069/uwlswd.2eg3-1x53#o> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
-<https://doi.org/10.6069/uwlswd.2eg3-1x53> <https://doi.org/10.6069/uwlib.55.d.3#appliesToMaterial> "visual materials" .
-<https://doi.org/10.6069/uwlswd.2eg3-1x53#z> <http://www.w3.org/2004/02/skos/core#notation> "z"@en .
-<https://doi.org/10.6069/uwlswd.2eg3-1x53> <https://doi.org/10.6069/uwlib.55.d.3#appliesToMaterial> "computer files" .
-<https://doi.org/10.6069/uwlswd.2eg3-1x53> <http://purl.org/dc/terms/hasFormat> <https://uwlib-cams.github.io/uwlswd_vocabs_marc_006_008/008/some_government_publication/some_government_publication.jsonld> .
-<https://doi.org/10.6069/uwlswd.2eg3-1x53#pound> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
-<https://doi.org/10.6069/uwlswd.2eg3-1x53#f> <http://www.w3.org/2004/02/skos/core#inScheme> <https://doi.org/10.6069/uwlswd.2eg3-1x53> .
-<https://doi.org/10.6069/uwlswd.2eg3-1x53#a> <http://www.w3.org/2004/02/skos/core#notation> "a"@en .
-<https://doi.org/10.6069/uwlswd.2eg3-1x53#c> <http://www.w3.org/2004/02/skos/core#notation> "c"@en .
-<https://doi.org/10.6069/uwlswd.2eg3-1x53#m> <http://www.w3.org/2004/02/skos/core#inScheme> <https://doi.org/10.6069/uwlswd.2eg3-1x53> .
-<https://doi.org/10.6069/uwlswd.2eg3-1x53#c> <http://www.w3.org/2004/02/skos/core#prefLabel> "multilocal"@en .
-<https://doi.org/10.6069/uwlswd.2eg3-1x53#o> <http://www.w3.org/2004/02/skos/core#prefLabel> "government publication - level undetermined"@en .
-<https://doi.org/10.6069/uwlswd.2eg3-1x53#l> <http://www.w3.org/2004/02/skos/core#notation> "l"@en .
-<https://doi.org/10.6069/uwlswd.2eg3-1x53> <https://doi.org/10.6069/uwlib.55.d.3#appliesToMaterial> "continuing resources" .
-<https://doi.org/10.6069/uwlswd.2eg3-1x53#i> <http://www.w3.org/2004/02/skos/core#notation> "i"@en .
-<https://doi.org/10.6069/uwlswd.2eg3-1x53#l> <http://www.w3.org/2004/02/skos/core#prefLabel> "local"@en .
-<https://doi.org/10.6069/uwlswd.2eg3-1x53#i> <http://www.w3.org/2004/02/skos/core#definition> "Published or produced by or for an international intergovernmental body."@en .
-<https://doi.org/10.6069/uwlswd.2eg3-1x53#l> <http://www.w3.org/2004/02/skos/core#definition> "Published or produced by or for a local government jurisdiction such as a town, city, county, etc."@en .
-<https://doi.org/10.6069/uwlswd.2eg3-1x53#nx> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
-<https://doi.org/10.6069/uwlswd.2eg3-1x53#nx> <http://www.w3.org/2004/02/skos/core#prefLabel> "government publication - level undetermined [obsolete]"@en .
-<https://doi.org/10.6069/uwlswd.2eg3-1x53#s> <http://www.w3.org/2004/02/skos/core#definition> "Jurisdictional level of the government body is a state, province, territory, or other dependent jurisdiction."@en .
-<https://doi.org/10.6069/uwlswd.2eg3-1x53#u> <http://www.w3.org/2004/02/skos/core#notation> "u"@en .
-<https://doi.org/10.6069/uwlswd.2eg3-1x53#s> <http://www.w3.org/2004/02/skos/core#prefLabel> "state, provincial, territorial, dependent, etc."@en .
-<https://doi.org/10.6069/uwlswd.2eg3-1x53#c> <http://www.w3.org/2004/02/skos/core#definition> "Published or produced by or for a multilocal jurisdiction which is defined as a regional combination of jurisdictions below the state level."@en .
-<https://doi.org/10.6069/uwlswd.2eg3-1x53#z> <http://www.w3.org/2004/02/skos/core#inScheme> <https://doi.org/10.6069/uwlswd.2eg3-1x53> .
-<https://doi.org/10.6069/uwlswd.2eg3-1x53#z> <http://www.w3.org/2004/02/skos/core#prefLabel> "other"@en .
-<https://doi.org/10.6069/uwlswd.2eg3-1x53#u> <http://www.w3.org/2004/02/skos/core#inScheme> <https://doi.org/10.6069/uwlswd.2eg3-1x53> .
-<https://doi.org/10.6069/uwlswd.2eg3-1x53#s> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
-<https://doi.org/10.6069/uwlswd.2eg3-1x53#c> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
-<https://doi.org/10.6069/uwlswd.2eg3-1x53#c> <http://www.w3.org/2004/02/skos/core#inScheme> <https://doi.org/10.6069/uwlswd.2eg3-1x53> .
-<https://doi.org/10.6069/uwlswd.2eg3-1x53#f> <http://www.w3.org/2004/02/skos/core#notation> "f"@en .
-<https://doi.org/10.6069/uwlswd.2eg3-1x53#a> <http://www.w3.org/2004/02/skos/core#prefLabel> "autonomous or semi-autonomous component"@en .
-<https://doi.org/10.6069/uwlswd.2eg3-1x53> <http://purl.org/dc/terms/hasFormat> <https://uwlib-cams.github.io/uwlswd_vocabs_marc_006_008/008/some_government_publication/some_government_publication.html> .
-<https://doi.org/10.6069/uwlswd.2eg3-1x53> <http://purl.org/dc/terms/hasFormat> <https://uwlib-cams.github.io/uwlswd_vocabs_marc_006_008/008/some_government_publication/some_government_publication.rdf> .
-<https://doi.org/10.6069/uwlswd.2eg3-1x53#a> <http://www.w3.org/2004/02/skos/core#inScheme> <https://doi.org/10.6069/uwlswd.2eg3-1x53> .
-<https://doi.org/10.6069/uwlswd.2eg3-1x53#l> <http://www.w3.org/2004/02/skos/core#inScheme> <https://doi.org/10.6069/uwlswd.2eg3-1x53> .
-<https://doi.org/10.6069/uwlswd.2eg3-1x53> <http://purl.org/dc/terms/creator> <http://viaf.org/viaf/139541794> .
-<https://doi.org/10.6069/uwlswd.2eg3-1x53#a> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
 <https://doi.org/10.6069/uwlswd.2eg3-1x53#f> <http://www.w3.org/2004/02/skos/core#prefLabel> "federal or national"@en .
-<https://doi.org/10.6069/uwlswd.2eg3-1x53#i> <http://www.w3.org/2004/02/skos/core#inScheme> <https://doi.org/10.6069/uwlswd.2eg3-1x53> .
-<https://doi.org/10.6069/uwlswd.2eg3-1x53#u> <http://www.w3.org/2004/02/skos/core#prefLabel> "unknown if item is government publication"@en .
-<https://doi.org/10.6069/uwlswd.2eg3-1x53> <http://purl.org/dc/terms/type> <http://purl.org/dc/dcmitype/Dataset> .
-<https://doi.org/10.6069/uwlswd.2eg3-1x53#o> <http://www.w3.org/2004/02/skos/core#inScheme> <https://doi.org/10.6069/uwlswd.2eg3-1x53> .
-<https://doi.org/10.6069/uwlswd.2eg3-1x53> <http://purl.org/dc/terms/source> <https://www.loc.gov/marc/bibliographic/bd008.html> .
+<https://doi.org/10.6069/uwlswd.2eg3-1x53> <http://purl.org/dc/terms/contributor> <http://viaf.org/viaf/151962300> .
+<https://doi.org/10.6069/uwlswd.2eg3-1x53#m> <http://www.w3.org/2004/02/skos/core#inScheme> <https://doi.org/10.6069/uwlswd.2eg3-1x53> .
 <https://doi.org/10.6069/uwlswd.2eg3-1x53> <http://purl.org/dc/terms/hasFormat> <https://uwlib-cams.github.io/uwlswd_vocabs_marc_006_008/008/some_government_publication/some_government_publication.ttl> .
+<https://doi.org/10.6069/uwlswd.2eg3-1x53#s> <http://www.w3.org/2004/02/skos/core#inScheme> <https://doi.org/10.6069/uwlswd.2eg3-1x53> .
+<https://doi.org/10.6069/uwlswd.2eg3-1x53#o> <http://www.w3.org/2004/02/skos/core#definition> "Published or produced by or for a government body but that the jurisdictional level cannot be determined."@en .
+<https://doi.org/10.6069/uwlswd.2eg3-1x53#pound> <http://www.w3.org/2004/02/skos/core#inScheme> <https://doi.org/10.6069/uwlswd.2eg3-1x53> .
+<https://doi.org/10.6069/uwlswd.2eg3-1x53#c> <http://www.w3.org/2004/02/skos/core#prefLabel> "multilocal"@en .
+<https://doi.org/10.6069/uwlswd.2eg3-1x53#i> <http://www.w3.org/2004/02/skos/core#inScheme> <https://doi.org/10.6069/uwlswd.2eg3-1x53> .
+<https://doi.org/10.6069/uwlswd.2eg3-1x53#o> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<https://doi.org/10.6069/uwlswd.2eg3-1x53> <https://doi.org/10.6069/uwlib.55.d.3#appliesToMaterial> "computer files" .
+<https://doi.org/10.6069/uwlswd.2eg3-1x53> <http://purl.org/dc/terms/license> <http://creativecommons.org/publicdomain/zero/1.0> .
+<https://doi.org/10.6069/uwlswd.2eg3-1x53#f> <http://www.w3.org/2004/02/skos/core#inScheme> <https://doi.org/10.6069/uwlswd.2eg3-1x53> .
+<https://doi.org/10.6069/uwlswd.2eg3-1x53#z> <http://www.w3.org/2004/02/skos/core#prefLabel> "other"@en .
+<https://doi.org/10.6069/uwlswd.2eg3-1x53#a> <http://www.w3.org/2004/02/skos/core#inScheme> <https://doi.org/10.6069/uwlswd.2eg3-1x53> .
+<https://doi.org/10.6069/uwlswd.2eg3-1x53> <http://purl.org/dc/terms/description> "Indicates whether the item is published or produced by or for an international, provincial, national, state, or local government agency, or by any subdivision of such a body, and, if so, the jurisdictional level of the agency."@en .
+<https://doi.org/10.6069/uwlswd.2eg3-1x53#u> <http://www.w3.org/2004/02/skos/core#prefLabel> "unknown if item is government publication"@en .
+<https://doi.org/10.6069/uwlswd.2eg3-1x53#m> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<https://doi.org/10.6069/uwlswd.2eg3-1x53#s> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<https://doi.org/10.6069/uwlswd.2eg3-1x53#i> <http://www.w3.org/2004/02/skos/core#definition> "Published or produced by or for an international intergovernmental body."@en .
+<https://doi.org/10.6069/uwlswd.2eg3-1x53#c> <http://www.w3.org/2004/02/skos/core#notation> "c" .
+<https://doi.org/10.6069/uwlswd.2eg3-1x53#a> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<https://doi.org/10.6069/uwlswd.2eg3-1x53#c> <http://www.w3.org/2004/02/skos/core#definition> "Published or produced by or for a multilocal jurisdiction which is defined as a regional combination of jurisdictions below the state level."@en .
+<https://doi.org/10.6069/uwlswd.2eg3-1x53#z> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<https://doi.org/10.6069/uwlswd.2eg3-1x53> <http://purl.org/dc/terms/format> <http://www.w3.org/ns/formats/N-Triples> .
+<https://doi.org/10.6069/uwlswd.2eg3-1x53#f> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<https://doi.org/10.6069/uwlswd.2eg3-1x53> <http://purl.org/dc/terms/source> <https://www.loc.gov/marc/bibliographic/bd008.html> .
+<https://doi.org/10.6069/uwlswd.2eg3-1x53#m> <http://www.w3.org/2004/02/skos/core#notation> "m" .
+<https://doi.org/10.6069/uwlswd.2eg3-1x53#nx> <http://www.w3.org/2004/02/skos/core#notation> "n" .
+<https://doi.org/10.6069/uwlswd.2eg3-1x53#m> <http://www.w3.org/2004/02/skos/core#definition> "Published or produced by or for a regional combination of jurisdictions at the state, provincial, territorial, etc. level."@en .
+<https://doi.org/10.6069/uwlswd.2eg3-1x53> <http://purl.org/dc/terms/publisher> <http://viaf.org/viaf/139541794> .
+<https://doi.org/10.6069/uwlswd.2eg3-1x53#f> <http://www.w3.org/2004/02/skos/core#definition> "Published or produced by or for a federal or national government body (e.g., a sovereign nation, such as Canada). Used for the governments of England, Wales, Scotland, and Northern Ireland. Also used for American Indian tribes."@en .
+<https://doi.org/10.6069/uwlswd.2eg3-1x53#o> <http://www.w3.org/2004/02/skos/core#notation> "o" .
+<https://doi.org/10.6069/uwlswd.2eg3-1x53> <https://doi.org/10.6069/uwlib.55.d.3#appliesToMaterial> "visual materials" .
+<https://doi.org/10.6069/uwlswd.2eg3-1x53#o> <http://www.w3.org/2004/02/skos/core#prefLabel> "government publication - level undetermined"@en .
+<https://doi.org/10.6069/uwlswd.2eg3-1x53> <https://schema.org/disambiguatingDescription> "SKOS Concept Scheme for MARC 00X Values"@en .
+<https://doi.org/10.6069/uwlswd.2eg3-1x53#s> <http://www.w3.org/2004/02/skos/core#definition> "Jurisdictional level of the government body is a state, province, territory, or other dependent jurisdiction."@en .
+<https://doi.org/10.6069/uwlswd.2eg3-1x53> <http://purl.org/dc/terms/hasFormat> <https://uwlib-cams.github.io/uwlswd_vocabs_marc_006_008/008/some_government_publication/some_government_publication.rdf> .
+<https://doi.org/10.6069/uwlswd.2eg3-1x53#pound> <http://www.w3.org/2004/02/skos/core#definition> "Not published by or for a government body."@en .
+<https://doi.org/10.6069/uwlswd.2eg3-1x53#c> <http://www.w3.org/2004/02/skos/core#inScheme> <https://doi.org/10.6069/uwlswd.2eg3-1x53> .
+<https://doi.org/10.6069/uwlswd.2eg3-1x53#z> <http://www.w3.org/2004/02/skos/core#inScheme> <https://doi.org/10.6069/uwlswd.2eg3-1x53> .
+<https://doi.org/10.6069/uwlswd.2eg3-1x53#l> <http://www.w3.org/2004/02/skos/core#notation> "l" .
+<https://doi.org/10.6069/uwlswd.2eg3-1x53> <http://purl.org/dc/terms/hasFormat> <https://uwlib-cams.github.io/uwlswd_vocabs_marc_006_008/008/some_government_publication/some_government_publication.jsonld> .
+<https://doi.org/10.6069/uwlswd.2eg3-1x53> <https://doi.org/10.6069/uwlib.55.d.3#appliesToMaterial> "continuing resources" .
+<https://doi.org/10.6069/uwlswd.2eg3-1x53#s> <http://www.w3.org/2004/02/skos/core#prefLabel> "state, provincial, territorial, dependent, etc."@en .
+<https://doi.org/10.6069/uwlswd.2eg3-1x53> <http://purl.org/dc/terms/alternative> "MARC21 008/28 values for some materials expressed using RDF"@en .
+<https://doi.org/10.6069/uwlswd.2eg3-1x53#z> <http://www.w3.org/2004/02/skos/core#notation> "z" .
+<https://doi.org/10.6069/uwlswd.2eg3-1x53> <http://purl.org/dc/terms/type> <http://purl.org/dc/dcmitype/Dataset> .
+<https://doi.org/10.6069/uwlswd.2eg3-1x53> <http://purl.org/dc/terms/hasFormat> <https://uwlib-cams.github.io/uwlswd_vocabs_marc_006_008/008/some_government_publication/some_government_publication.html> .
+<https://doi.org/10.6069/uwlswd.2eg3-1x53#nx> <http://www.w3.org/2004/02/skos/core#inScheme> <https://doi.org/10.6069/uwlswd.2eg3-1x53> .
+<https://doi.org/10.6069/uwlswd.2eg3-1x53> <http://purl.org/dc/terms/issued> "2023" .
+<https://doi.org/10.6069/uwlswd.2eg3-1x53> <http://purl.org/dc/elements/1.1/language> "en" .
+<https://doi.org/10.6069/uwlswd.2eg3-1x53#u> <http://www.w3.org/2004/02/skos/core#notation> "u" .
+<https://doi.org/10.6069/uwlswd.2eg3-1x53#s> <http://www.w3.org/2004/02/skos/core#notation> "s" .
+<https://doi.org/10.6069/uwlswd.2eg3-1x53#nx> <http://www.w3.org/2004/02/skos/core#prefLabel> "government publication - level undetermined [obsolete]"@en .
+<https://doi.org/10.6069/uwlswd.2eg3-1x53#m> <http://www.w3.org/2004/02/skos/core#prefLabel> "multistate"@en .
+<https://doi.org/10.6069/uwlswd.2eg3-1x53#l> <http://www.w3.org/2004/02/skos/core#inScheme> <https://doi.org/10.6069/uwlswd.2eg3-1x53> .
+<https://doi.org/10.6069/uwlswd.2eg3-1x53> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#ConceptScheme> .
+<https://doi.org/10.6069/uwlswd.2eg3-1x53#u> <http://www.w3.org/2004/02/skos/core#inScheme> <https://doi.org/10.6069/uwlswd.2eg3-1x53> .
+<https://doi.org/10.6069/uwlswd.2eg3-1x53#i> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<https://doi.org/10.6069/uwlswd.2eg3-1x53#c> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<https://doi.org/10.6069/uwlswd.2eg3-1x53> <http://purl.org/dc/terms/title> "Some: government publication"@en .
+<https://doi.org/10.6069/uwlswd.2eg3-1x53#i> <http://www.w3.org/2004/02/skos/core#notation> "i" .
+<https://doi.org/10.6069/uwlswd.2eg3-1x53#l> <http://www.w3.org/2004/02/skos/core#definition> "Published or produced by or for a local government jurisdiction such as a town, city, county, etc."@en .
+<https://doi.org/10.6069/uwlswd.2eg3-1x53#z> <http://www.w3.org/2004/02/skos/core#definition> "Government publication other than autonomous or semi-autonomous component, multilocal, federal or national, international intergovernmental, local, multistate, government publication - level undetermined, state, provincial, territorial, or dependent."@en .
+<https://doi.org/10.6069/uwlswd.2eg3-1x53#u> <http://www.w3.org/2004/02/skos/core#definition> "Whether or not the item is published or produced by or for a government agency is unknown."@en .
+<https://doi.org/10.6069/uwlswd.2eg3-1x53#pound> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<https://doi.org/10.6069/uwlswd.2eg3-1x53#a> <http://www.w3.org/2004/02/skos/core#definition> "Published or produced by or for a government body of an autonomous or semi-autonomous component of a country."@en .
+<https://doi.org/10.6069/uwlswd.2eg3-1x53> <https://schema.org/version> "1-1-0" .
+<https://doi.org/10.6069/uwlswd.2eg3-1x53#nx> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<https://doi.org/10.6069/uwlswd.2eg3-1x53> <http://purl.org/dc/terms/source> <http://marc21rdf.info> .
+<https://doi.org/10.6069/uwlswd.2eg3-1x53#pound> <http://www.w3.org/2004/02/skos/core#prefLabel> "not a government publication"@en .
+<https://doi.org/10.6069/uwlswd.2eg3-1x53#i> <http://www.w3.org/2004/02/skos/core#prefLabel> "international intergovernmental"@en .
+<https://doi.org/10.6069/uwlswd.2eg3-1x53#a> <http://www.w3.org/2004/02/skos/core#notation> "a" .
+<https://doi.org/10.6069/uwlswd.2eg3-1x53> <https://doi.org/10.6069/uwlib.55.d.3#appliesToMaterial> "maps" .
+<https://doi.org/10.6069/uwlswd.2eg3-1x53> <http://purl.org/dc/terms/creator> <http://viaf.org/viaf/139541794> .
+<https://doi.org/10.6069/uwlswd.2eg3-1x53#pound> <http://www.w3.org/2004/02/skos/core#notation> "#" .
+<https://doi.org/10.6069/uwlswd.2eg3-1x53> <https://doi.org/10.6069/uwlib.55.d.3#appliesToMaterial> "books" .
+<https://doi.org/10.6069/uwlswd.2eg3-1x53#a> <http://www.w3.org/2004/02/skos/core#prefLabel> "autonomous or semi-autonomous component"@en .
+<https://doi.org/10.6069/uwlswd.2eg3-1x53> <http://purl.org/dc/terms/provenance> <https://doi.org/10.6069/uwlswd.2e2b-y833#marc00Xvalues> .
+<https://doi.org/10.6069/uwlswd.2eg3-1x53> <http://purl.org/dc/elements/1.1/contributor> "Metadata Management Associates"@en .
+<https://doi.org/10.6069/uwlswd.2eg3-1x53#u> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<https://doi.org/10.6069/uwlswd.2eg3-1x53#o> <http://www.w3.org/2004/02/skos/core#inScheme> <https://doi.org/10.6069/uwlswd.2eg3-1x53> .
+<https://doi.org/10.6069/uwlswd.2eg3-1x53#l> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<https://doi.org/10.6069/uwlswd.2eg3-1x53#f> <http://www.w3.org/2004/02/skos/core#notation> "f" .
+<https://doi.org/10.6069/uwlswd.2eg3-1x53#l> <http://www.w3.org/2004/02/skos/core#prefLabel> "local"@en .

@@ -1,34 +1,11 @@
-<?xml version='1.0' encoding='UTF-8'?>
-<rdf:RDF xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dct="http://purl.org/dc/terms/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:schema="https://schema.org/" xmlns:skos="http://www.w3.org/2004/02/skos/core#">
-  <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.ggnh-4s58#k">
-    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-    <skos:inScheme rdf:resource="https://doi.org/10.6069/uwlswd.ggnh-4s58"/>
-    <skos:prefLabel xml:lang="en">continuously updated</skos:prefLabel>
-    <skos:definition xml:lang="en">More frequent than daily.</skos:definition>
-    <skos:notation>k</skos:notation>
-  </rdf:Description>
-  <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.ggnh-4s58#d">
-    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-    <skos:inScheme rdf:resource="https://doi.org/10.6069/uwlswd.ggnh-4s58"/>
-    <skos:prefLabel xml:lang="en">daily</skos:prefLabel>
-    <skos:definition xml:lang="en">Once a day.</skos:definition>
-    <skos:notation>d</skos:notation>
-    <skos:scopeNote xml:lang="en">This may include Saturday and Sunday.</skos:scopeNote>
-  </rdf:Description>
-  <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.ggnh-4s58#s">
-    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-    <skos:inScheme rdf:resource="https://doi.org/10.6069/uwlswd.ggnh-4s58"/>
-    <skos:prefLabel xml:lang="en">semimonthly</skos:prefLabel>
-    <skos:definition xml:lang="en">Twice a month.</skos:definition>
-    <skos:notation>s</skos:notation>
-  </rdf:Description>
-  <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.ggnh-4s58#e">
-    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-    <skos:inScheme rdf:resource="https://doi.org/10.6069/uwlswd.ggnh-4s58"/>
-    <skos:prefLabel xml:lang="en">biweekly</skos:prefLabel>
-    <skos:definition xml:lang="en">Every two weeks.</skos:definition>
-    <skos:notation>e</skos:notation>
-  </rdf:Description>
+<?xml version="1.0" encoding="utf-8"?>
+<rdf:RDF
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:dct="http://purl.org/dc/terms/"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:schema="https://schema.org/"
+   xmlns:skos="http://www.w3.org/2004/02/skos/core#"
+>
   <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.ggnh-4s58">
     <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#ConceptScheme"/>
     <dct:type rdf:resource="http://purl.org/dc/dcmitype/Dataset"/>
@@ -53,47 +30,47 @@
     <dct:hasFormat rdf:resource="https://uwlib-cams.github.io/uwlswd_vocabs_marc_006_008/008/continuing_frequency/continuing_frequency.html"/>
     <dct:format rdf:resource="http://www.w3.org/ns/formats/RDF_XML"/>
   </rdf:Description>
+  <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.ggnh-4s58#q">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <skos:inScheme rdf:resource="https://doi.org/10.6069/uwlswd.ggnh-4s58"/>
+    <skos:prefLabel xml:lang="en">quarterly</skos:prefLabel>
+    <skos:definition xml:lang="en">Every three months.</skos:definition>
+    <skos:notation>q</skos:notation>
+    <skos:scopeNote xml:lang="en">Includes publications whose frequency is 4 times a year.</skos:scopeNote>
+  </rdf:Description>
   <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.ggnh-4s58#t">
     <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
     <skos:inScheme rdf:resource="https://doi.org/10.6069/uwlswd.ggnh-4s58"/>
     <skos:prefLabel xml:lang="en">three times a year</skos:prefLabel>
     <skos:notation>t</skos:notation>
   </rdf:Description>
-  <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.ggnh-4s58#w">
+  <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.ggnh-4s58#z">
     <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
     <skos:inScheme rdf:resource="https://doi.org/10.6069/uwlswd.ggnh-4s58"/>
-    <skos:prefLabel xml:lang="en">weekly</skos:prefLabel>
-    <skos:definition xml:lang="en">Once a week.</skos:definition>
-    <skos:notation>w</skos:notation>
+    <skos:prefLabel xml:lang="en">other</skos:prefLabel>
+    <skos:definition xml:lang="en">Frequency other than intentionally irregulay, annual, bimonthly, semiweekly, daily, biweekly, semiannual, biennial, triennial, three times a week, three times a month, continuously updated, monthly, quarterly, semimonthly, three times a year, weekly, or unknown.</skos:definition>
+    <skos:notation>z</skos:notation>
   </rdf:Description>
-  <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.ggnh-4s58#c">
+  <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.ggnh-4s58#f">
     <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
     <skos:inScheme rdf:resource="https://doi.org/10.6069/uwlswd.ggnh-4s58"/>
-    <skos:prefLabel xml:lang="en">semiweekly</skos:prefLabel>
-    <skos:definition xml:lang="en">Twice a week.</skos:definition>
-    <skos:notation>c</skos:notation>
+    <skos:prefLabel xml:lang="en">semiannual</skos:prefLabel>
+    <skos:definition xml:lang="en">Twice a year.</skos:definition>
+    <skos:notation>f</skos:notation>
   </rdf:Description>
-  <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.ggnh-4s58#g">
+  <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.ggnh-4s58#s">
     <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
     <skos:inScheme rdf:resource="https://doi.org/10.6069/uwlswd.ggnh-4s58"/>
-    <skos:prefLabel xml:lang="en">biennial</skos:prefLabel>
-    <skos:definition xml:lang="en">Every two years.</skos:definition>
-    <skos:notation>g</skos:notation>
+    <skos:prefLabel xml:lang="en">semimonthly</skos:prefLabel>
+    <skos:definition xml:lang="en">Twice a month.</skos:definition>
+    <skos:notation>s</skos:notation>
   </rdf:Description>
-  <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.ggnh-4s58#pound">
+  <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.ggnh-4s58#u">
     <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
     <skos:inScheme rdf:resource="https://doi.org/10.6069/uwlswd.ggnh-4s58"/>
-    <skos:prefLabel xml:lang="en">no determinable frequency</skos:prefLabel>
-    <skos:definition xml:lang="en">Used when the frequency is known to be intentionally irregular.</skos:definition>
-    <skos:notation>#</skos:notation>
-  </rdf:Description>
-  <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.ggnh-4s58#b">
-    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-    <skos:inScheme rdf:resource="https://doi.org/10.6069/uwlswd.ggnh-4s58"/>
-    <skos:prefLabel xml:lang="en">bimonthly</skos:prefLabel>
-    <skos:definition xml:lang="en">Every two months.</skos:definition>
-    <skos:notation>b</skos:notation>
-    <skos:scopeNote xml:lang="en">Includes publications whose frequency is 6, 7, or 8 times a year.</skos:scopeNote>
+    <skos:prefLabel xml:lang="en">unknown</skos:prefLabel>
+    <skos:definition xml:lang="en">Current frequency of the item is unknown.</skos:definition>
+    <skos:notation>u</skos:notation>
   </rdf:Description>
   <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.ggnh-4s58#a">
     <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
@@ -109,33 +86,35 @@
     <skos:definition xml:lang="en">Every three years.</skos:definition>
     <skos:notation>h</skos:notation>
   </rdf:Description>
-  <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.ggnh-4s58#q">
+  <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.ggnh-4s58#pound">
     <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
     <skos:inScheme rdf:resource="https://doi.org/10.6069/uwlswd.ggnh-4s58"/>
-    <skos:prefLabel xml:lang="en">quarterly</skos:prefLabel>
-    <skos:definition xml:lang="en">Every three months.</skos:definition>
-    <skos:notation>q</skos:notation>
-    <skos:scopeNote xml:lang="en">Includes publications whose frequency is 4 times a year.</skos:scopeNote>
+    <skos:prefLabel xml:lang="en">no determinable frequency</skos:prefLabel>
+    <skos:definition xml:lang="en">Used when the frequency is known to be intentionally irregular.</skos:definition>
+    <skos:notation>#</skos:notation>
   </rdf:Description>
-  <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.ggnh-4s58#j">
+  <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.ggnh-4s58#d">
     <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
     <skos:inScheme rdf:resource="https://doi.org/10.6069/uwlswd.ggnh-4s58"/>
-    <skos:prefLabel xml:lang="en">three times a month</skos:prefLabel>
-    <skos:notation>j</skos:notation>
+    <skos:prefLabel xml:lang="en">daily</skos:prefLabel>
+    <skos:definition xml:lang="en">Once a day.</skos:definition>
+    <skos:notation>d</skos:notation>
+    <skos:scopeNote xml:lang="en">This may include Saturday and Sunday.</skos:scopeNote>
   </rdf:Description>
-  <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.ggnh-4s58#u">
+  <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.ggnh-4s58#g">
     <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
     <skos:inScheme rdf:resource="https://doi.org/10.6069/uwlswd.ggnh-4s58"/>
-    <skos:prefLabel xml:lang="en">unknown</skos:prefLabel>
-    <skos:definition xml:lang="en">Current frequency of the item is unknown.</skos:definition>
-    <skos:notation>u</skos:notation>
+    <skos:prefLabel xml:lang="en">biennial</skos:prefLabel>
+    <skos:definition xml:lang="en">Every two years.</skos:definition>
+    <skos:notation>g</skos:notation>
   </rdf:Description>
-  <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.ggnh-4s58#z">
+  <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.ggnh-4s58#b">
     <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
     <skos:inScheme rdf:resource="https://doi.org/10.6069/uwlswd.ggnh-4s58"/>
-    <skos:prefLabel xml:lang="en">other</skos:prefLabel>
-    <skos:definition xml:lang="en">Frequency other than intentionally irregulay, annual, bimonthly, semiweekly, daily, biweekly, semiannual, biennial, triennial, three times a week, three times a month, continuously updated, monthly, quarterly, semimonthly, three times a year, weekly, or unknown.</skos:definition>
-    <skos:notation>z</skos:notation>
+    <skos:prefLabel xml:lang="en">bimonthly</skos:prefLabel>
+    <skos:definition xml:lang="en">Every two months.</skos:definition>
+    <skos:notation>b</skos:notation>
+    <skos:scopeNote xml:lang="en">Includes publications whose frequency is 6, 7, or 8 times a year.</skos:scopeNote>
   </rdf:Description>
   <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.ggnh-4s58#m">
     <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
@@ -144,17 +123,44 @@
     <skos:notation>m</skos:notation>
     <skos:scopeNote xml:lang="en">Includes publications whose frequency is 9, 10, 11, or 12 times a year.</skos:scopeNote>
   </rdf:Description>
+  <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.ggnh-4s58#k">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <skos:inScheme rdf:resource="https://doi.org/10.6069/uwlswd.ggnh-4s58"/>
+    <skos:prefLabel xml:lang="en">continuously updated</skos:prefLabel>
+    <skos:definition xml:lang="en">More frequent than daily.</skos:definition>
+    <skos:notation>k</skos:notation>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.ggnh-4s58#e">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <skos:inScheme rdf:resource="https://doi.org/10.6069/uwlswd.ggnh-4s58"/>
+    <skos:prefLabel xml:lang="en">biweekly</skos:prefLabel>
+    <skos:definition xml:lang="en">Every two weeks.</skos:definition>
+    <skos:notation>e</skos:notation>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.ggnh-4s58#w">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <skos:inScheme rdf:resource="https://doi.org/10.6069/uwlswd.ggnh-4s58"/>
+    <skos:prefLabel xml:lang="en">weekly</skos:prefLabel>
+    <skos:definition xml:lang="en">Once a week.</skos:definition>
+    <skos:notation>w</skos:notation>
+  </rdf:Description>
   <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.ggnh-4s58#i">
     <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
     <skos:inScheme rdf:resource="https://doi.org/10.6069/uwlswd.ggnh-4s58"/>
     <skos:prefLabel xml:lang="en">three times a week</skos:prefLabel>
     <skos:notation>i</skos:notation>
   </rdf:Description>
-  <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.ggnh-4s58#f">
+  <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.ggnh-4s58#j">
     <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
     <skos:inScheme rdf:resource="https://doi.org/10.6069/uwlswd.ggnh-4s58"/>
-    <skos:prefLabel xml:lang="en">semiannual</skos:prefLabel>
-    <skos:definition xml:lang="en">Twice a year.</skos:definition>
-    <skos:notation>f</skos:notation>
+    <skos:prefLabel xml:lang="en">three times a month</skos:prefLabel>
+    <skos:notation>j</skos:notation>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.ggnh-4s58#c">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <skos:inScheme rdf:resource="https://doi.org/10.6069/uwlswd.ggnh-4s58"/>
+    <skos:prefLabel xml:lang="en">semiweekly</skos:prefLabel>
+    <skos:definition xml:lang="en">Twice a week.</skos:definition>
+    <skos:notation>c</skos:notation>
   </rdf:Description>
 </rdf:RDF>

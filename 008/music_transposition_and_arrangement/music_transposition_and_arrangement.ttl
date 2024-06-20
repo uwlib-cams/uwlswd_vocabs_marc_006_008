@@ -6,37 +6,37 @@
 <https://doi.org/10.6069/uwlswd.axz0-z371#a> a skos:Concept ;
     skos:definition "Item has been transposed to a different pitch from the original."@en ;
     skos:inScheme <https://doi.org/10.6069/uwlswd.axz0-z371> ;
-    skos:notation "a"@en ;
+    skos:notation "a" ;
     skos:prefLabel "transposition"@en .
 
 <https://doi.org/10.6069/uwlswd.axz0-z371#b> a skos:Concept ;
     skos:definition "Item has been adapted as regards medium and/or texture."@en ;
     skos:inScheme <https://doi.org/10.6069/uwlswd.axz0-z371> ;
-    skos:notation "b"@en ;
+    skos:notation "b" ;
     skos:prefLabel "arrangement"@en .
 
 <https://doi.org/10.6069/uwlswd.axz0-z371#c> a skos:Concept ;
     skos:definition "Item has been both transposed to a different pitch from the original and has been adapted as regards medium and/or texture."@en ;
     skos:inScheme <https://doi.org/10.6069/uwlswd.axz0-z371> ;
-    skos:notation "c"@en ;
+    skos:notation "c" ;
     skos:prefLabel "both transposed and arranged"@en .
 
 <https://doi.org/10.6069/uwlswd.axz0-z371#n> a skos:Concept ;
     skos:definition "Item is not notated music."@en ;
     skos:inScheme <https://doi.org/10.6069/uwlswd.axz0-z371> ;
-    skos:notation "n"@en ;
+    skos:notation "n" ;
     skos:prefLabel "not applicable"@en .
 
 <https://doi.org/10.6069/uwlswd.axz0-z371#pound> a skos:Concept ;
     skos:definition "Not arrangements or the transposition of the item is not specified."@en ;
     skos:inScheme <https://doi.org/10.6069/uwlswd.axz0-z371> ;
-    skos:notation "#"@en ;
+    skos:notation "#" ;
     skos:prefLabel "not arrangement or transposition or not specified"@en .
 
 <https://doi.org/10.6069/uwlswd.axz0-z371#u> a skos:Concept ;
     skos:definition "Unknown whether the item is a transposition or arrangement."@en ;
     skos:inScheme <https://doi.org/10.6069/uwlswd.axz0-z371> ;
-    skos:notation "u"@en ;
+    skos:notation "u" ;
     skos:prefLabel "unknown"@en .
 
 <https://doi.org/10.6069/uwlswd.axz0-z371> a skos:ConceptScheme ;
@@ -53,12 +53,12 @@
         <https://uwlib-cams.github.io/uwlswd_vocabs_marc_006_008/008/music_transposition_and_arrangement/music_transposition_and_arrangement.rdf> ;
     dct:issued "2023" ;
     dct:license <http://creativecommons.org/publicdomain/zero/1.0> ;
-    dct:provenance <https://doi.org/10.6069/uwlswd.2e2b-y833> ;
+    dct:provenance <https://doi.org/10.6069/uwlswd.2e2b-y833#marc00Xvalues> ;
     dct:publisher <http://viaf.org/viaf/139541794> ;
     dct:source <http://marc21rdf.info>,
         <https://www.loc.gov/marc/bibliographic/bd008.html> ;
     dct:title "Music: transposition and arrangement"@en ;
     dct:type <http://purl.org/dc/dcmitype/Dataset> ;
-    schema:disambiguatingDescription "SKOS Concept Scheme for MARC 00X Values" ;
-    schema:version "1-0-1" .
+    schema:disambiguatingDescription "SKOS Concept Scheme for MARC 00X Values"@en ;
+    schema:version "1-1-0" .
 

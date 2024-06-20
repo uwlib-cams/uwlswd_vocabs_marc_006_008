@@ -7,103 +7,103 @@
 <https://doi.org/10.6069/uwlswd.dh5m-5y16#a> a skos:Concept ;
     skos:definition "Microfilm."@en ;
     skos:inScheme <https://doi.org/10.6069/uwlswd.dh5m-5y16> ;
-    skos:notation "a"@en ;
+    skos:notation "a" ;
     skos:prefLabel "microfilm"@en .
 
 <https://doi.org/10.6069/uwlswd.dh5m-5y16#b> a skos:Concept ;
     skos:definition "Microfiche."@en ;
     skos:inScheme <https://doi.org/10.6069/uwlswd.dh5m-5y16> ;
-    skos:notation "b"@en ;
+    skos:notation "b" ;
     skos:prefLabel "microfiche"@en .
 
 <https://doi.org/10.6069/uwlswd.dh5m-5y16#c> a skos:Concept ;
     skos:definition "Microopaque."@en ;
     skos:inScheme <https://doi.org/10.6069/uwlswd.dh5m-5y16> ;
-    skos:notation "c"@en ;
+    skos:notation "c" ;
     skos:prefLabel "microopaque"@en .
 
 <https://doi.org/10.6069/uwlswd.dh5m-5y16#d> a skos:Concept ;
     skos:definition "Large print."@en ;
     skos:inScheme <https://doi.org/10.6069/uwlswd.dh5m-5y16> ;
-    skos:notation "d"@en ;
+    skos:notation "d" ;
     skos:prefLabel "large print"@en .
 
 <https://doi.org/10.6069/uwlswd.dh5m-5y16#f> a skos:Concept ;
     skos:definition "Braille."@en ;
     skos:inScheme <https://doi.org/10.6069/uwlswd.dh5m-5y16> ;
-    skos:notation "f"@en ;
+    skos:notation "f" ;
     skos:prefLabel "braille"@en .
 
 <https://doi.org/10.6069/uwlswd.dh5m-5y16#gx> a skos:Concept ;
     skos:inScheme <https://doi.org/10.6069/uwlswd.dh5m-5y16> ;
-    skos:notation "g"@en ;
+    skos:notation "g" ;
     skos:prefLabel "punched paper tape [obsolete]"@en .
 
 <https://doi.org/10.6069/uwlswd.dh5m-5y16#hx> a skos:Concept ;
     skos:inScheme <https://doi.org/10.6069/uwlswd.dh5m-5y16> ;
-    skos:notation "h"@en ;
+    skos:notation "h" ;
     skos:prefLabel "magnetic tape [obsolete]"@en .
 
 <https://doi.org/10.6069/uwlswd.dh5m-5y16#ix> a skos:Concept ;
     skos:inScheme <https://doi.org/10.6069/uwlswd.dh5m-5y16> ;
-    skos:notation "i"@en ;
+    skos:notation "i" ;
     skos:prefLabel "multimedia [obsolete]"@en .
 
 <https://doi.org/10.6069/uwlswd.dh5m-5y16#jx> a skos:Concept ;
     skos:inScheme <https://doi.org/10.6069/uwlswd.dh5m-5y16> ;
-    skos:notation "j"@en ;
+    skos:notation "j" ;
     skos:prefLabel "handwritten transcript [obsolete]"@en .
 
 <https://doi.org/10.6069/uwlswd.dh5m-5y16#o> a skos:Concept ;
     skos:definition "Accessed by means of hardware and software connections to a communications network."@en ;
     skos:inScheme <https://doi.org/10.6069/uwlswd.dh5m-5y16> ;
-    skos:notation "o"@en ;
+    skos:notation "o" ;
     skos:prefLabel "online"@en .
 
 <https://doi.org/10.6069/uwlswd.dh5m-5y16#pound> a skos:Concept ;
     skos:definition "Form of item other than microfilm, microfiche, microopaque, large print, braille, online, direct electronic, regular print reproduction, or electronic."@en ;
     skos:inScheme <https://doi.org/10.6069/uwlswd.dh5m-5y16> ;
-    skos:notation "#"@en ;
+    skos:notation "#" ;
     skos:prefLabel "none of the following"@en ;
     skos:scopeNote "Not specified by one of the other codes."@en .
 
 <https://doi.org/10.6069/uwlswd.dh5m-5y16#px> a skos:Concept ;
     skos:inScheme <https://doi.org/10.6069/uwlswd.dh5m-5y16> ;
-    skos:notation "p"@en ;
+    skos:notation "p" ;
     skos:prefLabel "photocopy [obsolete]"@en .
 
 <https://doi.org/10.6069/uwlswd.dh5m-5y16#q> a skos:Concept ;
     skos:definition "Storage on a directly accessible tangible recording medium, e.g. disc, tape, playaway device, flashdrive, portable hard drive, etc."@en ;
     skos:inScheme <https://doi.org/10.6069/uwlswd.dh5m-5y16> ;
-    skos:notation "q"@en ;
+    skos:notation "q" ;
     skos:prefLabel "direct electronic"@en .
 
 <https://doi.org/10.6069/uwlswd.dh5m-5y16#r> a skos:Concept ;
     skos:definition "Eye-readable print, such as a photocopy."@en ;
     skos:inScheme <https://doi.org/10.6069/uwlswd.dh5m-5y16> ;
-    skos:notation "r"@en ;
+    skos:notation "r" ;
     skos:prefLabel "regular print reproduction"@en .
 
 <https://doi.org/10.6069/uwlswd.dh5m-5y16#s> a skos:Concept ;
     skos:definition "Intended for manipulation by a computer. May reside in a carrier accessed either directly or remotely, in some cases requiring the use of peripheral devices attached to the computer (e.g., a CD-ROM player)."@en ;
     skos:inScheme <https://doi.org/10.6069/uwlswd.dh5m-5y16> ;
-    skos:notation "s"@en ;
+    skos:notation "s" ;
     skos:prefLabel "electronic"@en ;
     skos:scopeNote "Not used for items that do not require the use of a computer (e.g., music compact discs, videodiscs)."@en .
 
 <https://doi.org/10.6069/uwlswd.dh5m-5y16#tx> a skos:Concept ;
     skos:inScheme <https://doi.org/10.6069/uwlswd.dh5m-5y16> ;
-    skos:notation "t"@en ;
+    skos:notation "t" ;
     skos:prefLabel "typewritten transcript [obsolete]"@en .
 
 <https://doi.org/10.6069/uwlswd.dh5m-5y16#xx> a skos:Concept ;
     skos:inScheme <https://doi.org/10.6069/uwlswd.dh5m-5y16> ;
-    skos:notation "x"@en ;
+    skos:notation "x" ;
     skos:prefLabel "other form of reproduction [obsolete] [USMARC only]"@en .
 
 <https://doi.org/10.6069/uwlswd.dh5m-5y16#zx> a skos:Concept ;
     skos:inScheme <https://doi.org/10.6069/uwlswd.dh5m-5y16> ;
-    skos:notation "z"@en ;
+    skos:notation "z" ;
     skos:prefLabel "other form of reproduction [obsolete]"@en .
 
 <https://doi.org/10.6069/uwlswd.dh5m-5y16> a skos:ConceptScheme ;
@@ -120,7 +120,7 @@
         <https://uwlib-cams.github.io/uwlswd_vocabs_marc_006_008/008/some_form_of_item/some_form_of_item.rdf> ;
     dct:issued "2024" ;
     dct:license <http://creativecommons.org/publicdomain/zero/1.0> ;
-    dct:provenance <https://doi.org/10.6069/uwlswd.2e2b-y833> ;
+    dct:provenance <https://doi.org/10.6069/uwlswd.2e2b-y833#marc00Xvalues> ;
     dct:publisher <http://viaf.org/viaf/139541794> ;
     dct:source <http://marc21rdf.info>,
         <https://www.loc.gov/marc/bibliographic/bd008.html> ;
@@ -130,6 +130,6 @@
         "continuing resources",
         "mixed materials",
         "music" ;
-    schema:disambiguatingDescription "SKOS Concept Scheme for MARC 00X Values" ;
-    schema:version "1-0-2" .
+    schema:disambiguatingDescription "SKOS Concept Scheme for MARC 00X Values"@en ;
+    schema:version "1-1-0" .
 

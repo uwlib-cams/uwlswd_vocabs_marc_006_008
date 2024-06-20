@@ -6,31 +6,31 @@
 <https://doi.org/10.6069/uwlswd.x4ce-sd21#a> a skos:Concept ;
     skos:definition "Autobiography."@en ;
     skos:inScheme <https://doi.org/10.6069/uwlswd.x4ce-sd21> ;
-    skos:notation "a"@en ;
+    skos:notation "a" ;
     skos:prefLabel "autobiography"@en .
 
 <https://doi.org/10.6069/uwlswd.x4ce-sd21#b> a skos:Concept ;
     skos:definition "Biography of one individual."@en ;
     skos:inScheme <https://doi.org/10.6069/uwlswd.x4ce-sd21> ;
-    skos:notation "b"@en ;
+    skos:notation "b" ;
     skos:prefLabel "individual biography"@en .
 
 <https://doi.org/10.6069/uwlswd.x4ce-sd21#c> a skos:Concept ;
     skos:definition "Biographical material about more than one individual."@en ;
     skos:inScheme <https://doi.org/10.6069/uwlswd.x4ce-sd21> ;
-    skos:notation "c"@en ;
+    skos:notation "c" ;
     skos:prefLabel "collective biography"@en .
 
 <https://doi.org/10.6069/uwlswd.x4ce-sd21#d> a skos:Concept ;
     skos:definition "Contains biographical information."@en ;
     skos:inScheme <https://doi.org/10.6069/uwlswd.x4ce-sd21> ;
-    skos:notation "d"@en ;
+    skos:notation "d" ;
     skos:prefLabel "contains biographical information"@en .
 
 <https://doi.org/10.6069/uwlswd.x4ce-sd21#pound> a skos:Concept ;
     skos:definition "No biographical or autobiographical material."@en ;
     skos:inScheme <https://doi.org/10.6069/uwlswd.x4ce-sd21> ;
-    skos:notation "#"@en ;
+    skos:notation "#" ;
     skos:prefLabel "no biographical material"@en .
 
 <https://doi.org/10.6069/uwlswd.x4ce-sd21> a skos:ConceptScheme ;
@@ -47,12 +47,12 @@
         <https://uwlib-cams.github.io/uwlswd_vocabs_marc_006_008/008/books_biography/books_biography.rdf> ;
     dct:issued "2023" ;
     dct:license <http://creativecommons.org/publicdomain/zero/1.0> ;
-    dct:provenance <https://doi.org/10.6069/uwlswd.2e2b-y833> ;
+    dct:provenance <https://doi.org/10.6069/uwlswd.2e2b-y833#marc00Xvalues> ;
     dct:publisher <http://viaf.org/viaf/139541794> ;
     dct:source <http://marc21rdf.info>,
         <https://www.loc.gov/marc/bibliographic/bd008.html> ;
     dct:title "Books: biography"@en ;
     dct:type <http://purl.org/dc/dcmitype/Dataset> ;
-    schema:disambiguatingDescription "SKOS Concept Scheme for MARC 00X Values" ;
-    schema:version "1-0-1" .
+    schema:disambiguatingDescription "SKOS Concept Scheme for MARC 00X Values"@en ;
+    schema:version "1-1-0" .
 

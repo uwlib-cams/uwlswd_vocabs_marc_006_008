@@ -6,87 +6,87 @@
 <https://doi.org/10.6069/uwlswd.62zz-1534#d> a skos:Concept ;
     skos:definition "Collection of logically interrelated data stored together in one or more computerized files, usually created and managed by a database management system and which may be accessible via a search interface."@en ;
     skos:inScheme <https://doi.org/10.6069/uwlswd.62zz-1534> ;
-    skos:notation "d"@en ;
+    skos:notation "d" ;
     skos:prefLabel "updating database"@en .
 
 <https://doi.org/10.6069/uwlswd.62zz-1534#g> a skos:Concept ;
     skos:definition "Periodical addressing non-scientific, non-professional general interest topics. Magazines can be print or digital."@en ;
     skos:inScheme <https://doi.org/10.6069/uwlswd.62zz-1534> ;
-    skos:notation "g"@en ;
+    skos:notation "g" ;
     skos:prefLabel "magazine"@en .
 
 <https://doi.org/10.6069/uwlswd.62zz-1534#h> a skos:Concept ;
     skos:definition "Online periodical appearing on a web page that may contain web links and/or comments on a particular topic or subject (broad or narrow in scope), often in the form of short articles arranged in reverse chronological order, the most recently added piece of information appearing first."@en ;
     skos:inScheme <https://doi.org/10.6069/uwlswd.62zz-1534> ;
-    skos:notation "h"@en ;
+    skos:notation "h" ;
     skos:prefLabel "blog"@en ;
     skos:scopeNote "Blog content may be written or collected by the site owner, or contributed by users."@en .
 
 <https://doi.org/10.6069/uwlswd.62zz-1534#j> a skos:Concept ;
     skos:definition "Periodical addressing readers interested in a specific subject or profession. Often includes original research and current developments."@en ;
     skos:inScheme <https://doi.org/10.6069/uwlswd.62zz-1534> ;
-    skos:notation "j"@en ;
+    skos:notation "j" ;
     skos:prefLabel "journal"@en ;
     skos:scopeNote "Journals can be print or digital."@en .
 
 <https://doi.org/10.6069/uwlswd.62zz-1534#l> a skos:Concept ;
     skos:definition "Bibliographic resource that consists of a base volume(s) updated by separate pages which are inserted, removed, and/or substituted."@en ;
     skos:inScheme <https://doi.org/10.6069/uwlswd.62zz-1534> ;
-    skos:notation "l"@en ;
+    skos:notation "l" ;
     skos:prefLabel "updating loose-leaf"@en .
 
 <https://doi.org/10.6069/uwlswd.62zz-1534#m> a skos:Concept ;
     skos:definition "A group of analyzable items (i.e., each piece has a distinctive title) that are related to one another by a collective title. The individual items may or may not be numbered."@en ;
     skos:inScheme <https://doi.org/10.6069/uwlswd.62zz-1534> ;
-    skos:notation "m"@en ;
+    skos:notation "m" ;
     skos:prefLabel "monographic series"@en ;
     skos:scopeNote "Used for any title that is a series, regardless of its treatment."@en .
 
 <https://doi.org/10.6069/uwlswd.62zz-1534#n> a skos:Concept ;
     skos:definition "Continuing resource that is mainly designed to be a primary source of written information on current events connected with public affairs, either local, national and/or international in scope. It contains a broad range of news on all subjects and activities and is not limited to any specific subject matter. It may include (although not primarily) articles on literary or other subjects as well as advertising, legal notices, vital statistics, and illustrations."@en ;
     skos:inScheme <https://doi.org/10.6069/uwlswd.62zz-1534> ;
-    skos:notation "n"@en ;
+    skos:notation "n" ;
     skos:prefLabel "newspaper"@en .
 
 <https://doi.org/10.6069/uwlswd.62zz-1534#p> a skos:Concept ;
     skos:definition "Includes resources with separate articles, stories, other writings, etc. that are published or distributed generally more frequently than annual including journals, magazines, newsletters and blogs."@en ;
     skos:inScheme <https://doi.org/10.6069/uwlswd.62zz-1534> ;
-    skos:notation "p"@en ;
+    skos:notation "p" ;
     skos:prefLabel "periodical"@en ;
     skos:scopeNote "Can be print or digital."@en .
 
 <https://doi.org/10.6069/uwlswd.62zz-1534#pound> a skos:Concept ;
     skos:definition "Type of continuing resource other than updating database, updating loose-leaf, monographic series, newspaper, periodical, magazine, blog, journal, repository, newsletter, directory, or an updating web site."@en ;
     skos:inScheme <https://doi.org/10.6069/uwlswd.62zz-1534> ;
-    skos:notation "#"@en ;
+    skos:notation "#" ;
     skos:prefLabel "none of the following"@en ;
     skos:scopeNote "Used for yearbooks and annual reports."@en .
 
 <https://doi.org/10.6069/uwlswd.62zz-1534#r> a skos:Concept ;
     skos:definition "Online collection, often scholarly in nature, for storing the publications of an institution, a group of institutions. Can also be a collection of materials on a specific subject, or from a specific community."@en ;
     skos:inScheme <https://doi.org/10.6069/uwlswd.62zz-1534> ;
-    skos:notation "r"@en ;
+    skos:notation "r" ;
     skos:prefLabel "repository"@en ;
     skos:scopeNote "Materials collected include e-prints, technical reports, theses and dissertations, datasets, and teaching and learning materials."@en .
 
 <https://doi.org/10.6069/uwlswd.62zz-1534#s> a skos:Concept ;
     skos:definition "Periodical that can be issued by an organization, generally to its members, or to a specific audience to give current information about a topic or sphere of activity."@en ;
     skos:inScheme <https://doi.org/10.6069/uwlswd.62zz-1534> ;
-    skos:notation "s"@en ;
+    skos:notation "s" ;
     skos:prefLabel "newsletter"@en ;
     skos:scopeNote "Can be print or digital."@en .
 
 <https://doi.org/10.6069/uwlswd.62zz-1534#t> a skos:Concept ;
     skos:definition "Itemized listing of information for the identification or location of persons, objects, organizations or places, arranged alphabetically, chronologically, or in other systematic order, and updated over time."@en ;
     skos:inScheme <https://doi.org/10.6069/uwlswd.62zz-1534> ;
-    skos:notation "t"@en ;
+    skos:notation "t" ;
     skos:prefLabel "directory"@en ;
     skos:scopeNote "Can be print or digital."@en .
 
 <https://doi.org/10.6069/uwlswd.62zz-1534#w> a skos:Concept ;
     skos:definition "Web site that is updated."@en ;
     skos:inScheme <https://doi.org/10.6069/uwlswd.62zz-1534> ;
-    skos:notation "w"@en ;
+    skos:notation "w" ;
     skos:prefLabel "updating web site"@en ;
     skos:scopeNote "Not used for periodical, newspaper, magazine, blog, journal, repository, newsletter, directory or database."@en .
 
@@ -104,12 +104,12 @@
         <https://uwlib-cams.github.io/uwlswd_vocabs_marc_006_008/008/continuing_type_of_continuing_resource/continuing_type_of_continuing_resource.rdf> ;
     dct:issued "2023" ;
     dct:license <http://creativecommons.org/publicdomain/zero/1.0> ;
-    dct:provenance <https://doi.org/10.6069/uwlswd.2e2b-y833> ;
+    dct:provenance <https://doi.org/10.6069/uwlswd.2e2b-y833#marc00Xvalues> ;
     dct:publisher <http://viaf.org/viaf/139541794> ;
     dct:source <http://marc21rdf.info>,
         <https://www.loc.gov/marc/bibliographic/bd008.html> ;
     dct:title "Continuing: type of continuing resource"@en ;
     dct:type <http://purl.org/dc/dcmitype/Dataset> ;
-    schema:disambiguatingDescription "SKOS Concept Scheme for MARC 00X Values" ;
-    schema:version "1-0-1" .
+    schema:disambiguatingDescription "SKOS Concept Scheme for MARC 00X Values"@en ;
+    schema:version "1-1-0" .
 

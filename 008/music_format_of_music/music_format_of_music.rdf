@@ -1,18 +1,24 @@
-<?xml version='1.0' encoding='UTF-8'?>
-<rdf:RDF xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dct="http://purl.org/dc/terms/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:schema="https://schema.org/" xmlns:skos="http://www.w3.org/2004/02/skos/core#">
-  <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.06xx-6744#j">
+<?xml version="1.0" encoding="utf-8"?>
+<rdf:RDF
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:dct="http://purl.org/dc/terms/"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:schema="https://schema.org/"
+   xmlns:skos="http://www.w3.org/2004/02/skos/core#"
+>
+  <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.06xx-6744#e">
     <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
     <skos:inScheme rdf:resource="https://doi.org/10.6069/uwlswd.06xx-6744"/>
-    <skos:prefLabel xml:lang="en">performer-conductor part</skos:prefLabel>
-    <skos:definition xml:lang="en">A performance part for a single instrument in an ensemble, with cues for the other instruments that enable the performer of that part also to conduct.</skos:definition>
-    <skos:notation>j</skos:notation>
+    <skos:prefLabel xml:lang="en">condensed score or piano-conductor score</skos:prefLabel>
+    <skos:definition xml:lang="en">Orchestral or band music that has been reduced. It may be part of an ensemble work for a particular instrument, with cues for other instruments. Such a score is used by an individual playing the instrument for which the score was written or for the conductor.</skos:definition>
+    <skos:notation>e</skos:notation>
   </rdf:Description>
-  <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.06xx-6744#g">
+  <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.06xx-6744#k">
     <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
     <skos:inScheme rdf:resource="https://doi.org/10.6069/uwlswd.06xx-6744"/>
-    <skos:prefLabel xml:lang="en">close score</skos:prefLabel>
-    <skos:definition xml:lang="en">Score (e.g., a hymnal) that has separate parts transcribed in condensed form.</skos:definition>
-    <skos:notation>g</skos:notation>
+    <skos:prefLabel xml:lang="en">vocal score</skos:prefLabel>
+    <skos:definition xml:lang="en">Score showing all vocal parts, solo and/or choral, with the instrumental accompaniment either arranged for keyboard(s) or other chordal instrument(s) or omitted.</skos:definition>
+    <skos:notation>k</skos:notation>
   </rdf:Description>
   <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.06xx-6744#m">
     <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
@@ -45,14 +51,6 @@
     <dct:hasFormat rdf:resource="https://uwlib-cams.github.io/uwlswd_vocabs_marc_006_008/008/music_format_of_music/music_format_of_music.html"/>
     <dct:format rdf:resource="http://www.w3.org/ns/formats/RDF_XML"/>
   </rdf:Description>
-  <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.06xx-6744#i">
-    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-    <skos:inScheme rdf:resource="https://doi.org/10.6069/uwlswd.06xx-6744"/>
-    <skos:prefLabel xml:lang="en">condensed score</skos:prefLabel>
-    <skos:definition xml:lang="en">A score in which the number of staves is reduced to two or a few, generally organized by instrumental sections or vocal parts, and often with cues for individual parts.</skos:definition>
-    <skos:scopeNote xml:lang="en">Used for: Reduced score, Short score.</skos:scopeNote>
-    <skos:notation>i</skos:notation>
-  </rdf:Description>
   <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.06xx-6744#u">
     <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
     <skos:inScheme rdf:resource="https://doi.org/10.6069/uwlswd.06xx-6744"/>
@@ -60,12 +58,35 @@
     <skos:definition xml:lang="en">Format of the item is unknown.</skos:definition>
     <skos:notation>u</skos:notation>
   </rdf:Description>
-  <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.06xx-6744#e">
+  <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.06xx-6744#j">
     <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
     <skos:inScheme rdf:resource="https://doi.org/10.6069/uwlswd.06xx-6744"/>
-    <skos:prefLabel xml:lang="en">condensed score or piano-conductor score</skos:prefLabel>
-    <skos:definition xml:lang="en">Orchestral or band music that has been reduced. It may be part of an ensemble work for a particular instrument, with cues for other instruments. Such a score is used by an individual playing the instrument for which the score was written or for the conductor.</skos:definition>
-    <skos:notation>e</skos:notation>
+    <skos:prefLabel xml:lang="en">performer-conductor part</skos:prefLabel>
+    <skos:definition xml:lang="en">A performance part for a single instrument in an ensemble, with cues for the other instruments that enable the performer of that part also to conduct.</skos:definition>
+    <skos:notation>j</skos:notation>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.06xx-6744#z">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <skos:inScheme rdf:resource="https://doi.org/10.6069/uwlswd.06xx-6744"/>
+    <skos:prefLabel xml:lang="en">other</skos:prefLabel>
+    <skos:definition xml:lang="en">Format of music other than full score, miniature or study score, accompaniment reduced for keyboard, voice score with accompaniment omitted, condensed score or piano-conductor score, close score, chorus score, condensed score, performer-conductor part, vocal score, score, multiple score formats, piano score, or unknown.</skos:definition>
+    <skos:notation>z</skos:notation>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.06xx-6744#p">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <skos:inScheme rdf:resource="https://doi.org/10.6069/uwlswd.06xx-6744"/>
+    <skos:prefLabel xml:lang="en">piano score</skos:prefLabel>
+    <skos:definition xml:lang="en">A reduction of an instrumental work or a vocal work with instruments to a version for piano.</skos:definition>
+    <skos:scopeNote xml:lang="en">May include the words of a vocal work.</skos:scopeNote>
+    <skos:notation>p</skos:notation>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.06xx-6744#i">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <skos:inScheme rdf:resource="https://doi.org/10.6069/uwlswd.06xx-6744"/>
+    <skos:prefLabel xml:lang="en">condensed score</skos:prefLabel>
+    <skos:definition xml:lang="en">A score in which the number of staves is reduced to two or a few, generally organized by instrumental sections or vocal parts, and often with cues for individual parts.</skos:definition>
+    <skos:scopeNote xml:lang="en">Used for: Reduced score, Short score.</skos:scopeNote>
+    <skos:notation>i</skos:notation>
   </rdf:Description>
   <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.06xx-6744#l">
     <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
@@ -81,19 +102,33 @@
     <skos:definition xml:lang="en">Score of a work for solo voices and chorus showing only the parts for chorus, with the instrumental accompaniment either arranged for keyboard(s) or other chordal instrument(s) or omitted.</skos:definition>
     <skos:notation>h</skos:notation>
   </rdf:Description>
-  <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.06xx-6744#k">
+  <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.06xx-6744#n">
     <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
     <skos:inScheme rdf:resource="https://doi.org/10.6069/uwlswd.06xx-6744"/>
-    <skos:prefLabel xml:lang="en">vocal score</skos:prefLabel>
-    <skos:definition xml:lang="en">Score showing all vocal parts, solo and/or choral, with the instrumental accompaniment either arranged for keyboard(s) or other chordal instrument(s) or omitted.</skos:definition>
-    <skos:notation>k</skos:notation>
+    <skos:prefLabel xml:lang="en">not applicable</skos:prefLabel>
+    <skos:definition xml:lang="en">Item is a sound recording.</skos:definition>
+    <skos:notation>n</skos:notation>
   </rdf:Description>
-  <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.06xx-6744#z">
+  <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.06xx-6744#a">
     <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
     <skos:inScheme rdf:resource="https://doi.org/10.6069/uwlswd.06xx-6744"/>
-    <skos:prefLabel xml:lang="en">other</skos:prefLabel>
-    <skos:definition xml:lang="en">Format of music other than full score, miniature or study score, accompaniment reduced for keyboard, voice score with accompaniment omitted, condensed score or piano-conductor score, close score, chorus score, condensed score, performer-conductor part, vocal score, score, multiple score formats, piano score, or unknown.</skos:definition>
-    <skos:notation>z</skos:notation>
+    <skos:prefLabel xml:lang="en">full score</skos:prefLabel>
+    <skos:definition xml:lang="en">Staff notation representing the sounds of all the parts of an ensemble (instrumental and/or vocal), arranged so that they can be read simultaneously.</skos:definition>
+    <skos:notation>a</skos:notation>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.06xx-6744#g">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <skos:inScheme rdf:resource="https://doi.org/10.6069/uwlswd.06xx-6744"/>
+    <skos:prefLabel xml:lang="en">close score</skos:prefLabel>
+    <skos:definition xml:lang="en">Score (e.g., a hymnal) that has separate parts transcribed in condensed form.</skos:definition>
+    <skos:notation>g</skos:notation>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.06xx-6744#b">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <skos:inScheme rdf:resource="https://doi.org/10.6069/uwlswd.06xx-6744"/>
+    <skos:prefLabel xml:lang="en">miniature or study score</skos:prefLabel>
+    <skos:definition xml:lang="en">Score issued in a musical image of small size, usually redueced from a larger original, and not primarily intended for use in performance.</skos:definition>
+    <skos:notation>b</skos:notation>
   </rdf:Description>
   <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.06xx-6744#d">
     <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
@@ -103,27 +138,6 @@
     <skos:notation>d</skos:notation>
     <skos:scopeNote xml:lang="en">Not used for vocal works originally unaccompanied.</skos:scopeNote>
   </rdf:Description>
-  <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.06xx-6744#b">
-    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-    <skos:inScheme rdf:resource="https://doi.org/10.6069/uwlswd.06xx-6744"/>
-    <skos:prefLabel xml:lang="en">miniature or study score</skos:prefLabel>
-    <skos:definition xml:lang="en">Score issued in a musical image of small size, usually redueced from a larger original, and not primarily intended for use in performance.</skos:definition>
-    <skos:notation>b</skos:notation>
-  </rdf:Description>
-  <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.06xx-6744#a">
-    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-    <skos:inScheme rdf:resource="https://doi.org/10.6069/uwlswd.06xx-6744"/>
-    <skos:prefLabel xml:lang="en">full score</skos:prefLabel>
-    <skos:definition xml:lang="en">Staff notation representing the sounds of all the parts of an ensemble (instrumental and/or vocal), arranged so that they can be read simultaneously.</skos:definition>
-    <skos:notation>a</skos:notation>
-  </rdf:Description>
-  <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.06xx-6744#n">
-    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-    <skos:inScheme rdf:resource="https://doi.org/10.6069/uwlswd.06xx-6744"/>
-    <skos:prefLabel xml:lang="en">not applicable</skos:prefLabel>
-    <skos:definition xml:lang="en">Item is a sound recording.</skos:definition>
-    <skos:notation>n</skos:notation>
-  </rdf:Description>
   <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.06xx-6744#c">
     <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
     <skos:inScheme rdf:resource="https://doi.org/10.6069/uwlswd.06xx-6744"/>
@@ -131,13 +145,5 @@
     <skos:definition xml:lang="en">Score with instrumental accompaniment reduced for keyboard(s).</skos:definition>
     <skos:notation>c</skos:notation>
     <skos:scopeNote xml:lang="en">Not used for chorus scores and vocal scores.</skos:scopeNote>
-  </rdf:Description>
-  <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.06xx-6744#p">
-    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-    <skos:inScheme rdf:resource="https://doi.org/10.6069/uwlswd.06xx-6744"/>
-    <skos:prefLabel xml:lang="en">piano score</skos:prefLabel>
-    <skos:definition xml:lang="en">A reduction of an instrumental work or a vocal work with instruments to a version for piano.</skos:definition>
-    <skos:scopeNote xml:lang="en">May include the words of a vocal work.</skos:scopeNote>
-    <skos:notation>p</skos:notation>
   </rdf:Description>
 </rdf:RDF>

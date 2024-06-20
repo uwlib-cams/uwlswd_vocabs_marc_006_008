@@ -6,84 +6,84 @@
 <https://doi.org/10.6069/uwlswd.1c2x-cj09#a> a skos:Concept ;
     skos:definition "Relief shown by contours."@en ;
     skos:inScheme <https://doi.org/10.6069/uwlswd.1c2x-cj09> ;
-    skos:notation "a"@en ;
+    skos:notation "a" ;
     skos:prefLabel "contours"@en .
 
 <https://doi.org/10.6069/uwlswd.1c2x-cj09#b> a skos:Concept ;
     skos:definition "Relief shown by shading (generally of a single color)."@en ;
     skos:inScheme <https://doi.org/10.6069/uwlswd.1c2x-cj09> ;
-    skos:notation "b"@en ;
+    skos:notation "b" ;
     skos:prefLabel "shading"@en .
 
 <https://doi.org/10.6069/uwlswd.1c2x-cj09#c> a skos:Concept ;
     skos:definition "Relief shown by gradient or bathymetric tints."@en ;
     skos:inScheme <https://doi.org/10.6069/uwlswd.1c2x-cj09> ;
-    skos:notation "c"@en ;
+    skos:notation "c" ;
     skos:prefLabel "gradient and bathymetric tints"@en .
 
 <https://doi.org/10.6069/uwlswd.1c2x-cj09#d> a skos:Concept ;
     skos:definition "Relief shown by hachures (short lines which follow the direction of maximum slope)."@en ;
     skos:inScheme <https://doi.org/10.6069/uwlswd.1c2x-cj09> ;
-    skos:notation "d"@en ;
+    skos:notation "d" ;
     skos:prefLabel "hachures"@en .
 
 <https://doi.org/10.6069/uwlswd.1c2x-cj09#e> a skos:Concept ;
     skos:definition "Underwater relief (depth) shown by soundings or spot depths."@en ;
     skos:inScheme <https://doi.org/10.6069/uwlswd.1c2x-cj09> ;
-    skos:notation "e"@en ;
+    skos:notation "e" ;
     skos:prefLabel "bathymetry/soundings"@en .
 
 <https://doi.org/10.6069/uwlswd.1c2x-cj09#f> a skos:Concept ;
     skos:definition "Relief shown by form lines."@en ;
     skos:inScheme <https://doi.org/10.6069/uwlswd.1c2x-cj09> ;
-    skos:notation "f"@en ;
+    skos:notation "f" ;
     skos:prefLabel "form lines"@en .
 
 <https://doi.org/10.6069/uwlswd.1c2x-cj09#g> a skos:Concept ;
     skos:definition "Relief shown by spot heights."@en ;
     skos:inScheme <https://doi.org/10.6069/uwlswd.1c2x-cj09> ;
-    skos:notation "g"@en ;
+    skos:notation "g" ;
     skos:prefLabel "spot heights"@en .
 
 <https://doi.org/10.6069/uwlswd.1c2x-cj09#hx> a skos:Concept ;
     skos:inScheme <https://doi.org/10.6069/uwlswd.1c2x-cj09> ;
-    skos:notation "h"@en ;
+    skos:notation "h" ;
     skos:prefLabel "color [obsolete]"@en .
 
 <https://doi.org/10.6069/uwlswd.1c2x-cj09#i> a skos:Concept ;
     skos:definition "Land forms and other topographic features shown in the correct planimetric position by pictorial symbols representing their appearance from a high oblique view."@en ;
     skos:inScheme <https://doi.org/10.6069/uwlswd.1c2x-cj09> ;
-    skos:notation "i"@en ;
+    skos:notation "i" ;
     skos:prefLabel "pictorially"@en .
 
 <https://doi.org/10.6069/uwlswd.1c2x-cj09#j> a skos:Concept ;
     skos:definition "Relief shown by land forms."@en ;
     skos:inScheme <https://doi.org/10.6069/uwlswd.1c2x-cj09> ;
-    skos:notation "j"@en ;
+    skos:notation "j" ;
     skos:prefLabel "land forms"@en .
 
 <https://doi.org/10.6069/uwlswd.1c2x-cj09#k> a skos:Concept ;
     skos:definition "Underwater relief (depth) shown by isolines (lines that represent constant depths)."@en ;
     skos:inScheme <https://doi.org/10.6069/uwlswd.1c2x-cj09> ;
-    skos:notation "k"@en ;
+    skos:notation "k" ;
     skos:prefLabel "bathymetry by isolines"@en .
 
 <https://doi.org/10.6069/uwlswd.1c2x-cj09#m> a skos:Concept ;
     skos:definition "Relief rock drawing."@en ;
     skos:inScheme <https://doi.org/10.6069/uwlswd.1c2x-cj09> ;
-    skos:notation "m"@en ;
+    skos:notation "m" ;
     skos:prefLabel "rock drawings"@en .
 
 <https://doi.org/10.6069/uwlswd.1c2x-cj09#pound> a skos:Concept ;
     skos:definition "No relief shown."@en ;
     skos:inScheme <https://doi.org/10.6069/uwlswd.1c2x-cj09> ;
-    skos:notation "#"@en ;
+    skos:notation "#" ;
     skos:prefLabel "no relief shown"@en .
 
 <https://doi.org/10.6069/uwlswd.1c2x-cj09#z> a skos:Concept ;
     skos:definition "Relief other than contours, shading, gradient and bathymetric tints, hachures, bathymetry/soundings, form lines, spot heights, pictorially, land forms, bathymetry by isolines, rock drawings."@en ;
     skos:inScheme <https://doi.org/10.6069/uwlswd.1c2x-cj09> ;
-    skos:notation "z"@en ;
+    skos:notation "z" ;
     skos:prefLabel "other"@en .
 
 <https://doi.org/10.6069/uwlswd.1c2x-cj09> a skos:ConceptScheme ;
@@ -100,12 +100,12 @@
         <https://uwlib-cams.github.io/uwlswd_vocabs_marc_006_008/008/maps_relief/maps_relief.rdf> ;
     dct:issued "2023" ;
     dct:license <http://creativecommons.org/publicdomain/zero/1.0> ;
-    dct:provenance <https://doi.org/10.6069/uwlswd.2e2b-y833> ;
+    dct:provenance <https://doi.org/10.6069/uwlswd.2e2b-y833#marc00Xvalues> ;
     dct:publisher <http://viaf.org/viaf/139541794> ;
     dct:source <http://marc21rdf.info>,
         <https://www.loc.gov/marc/bibliographic/bd008.html> ;
     dct:title "Maps: relief"@en ;
     dct:type <http://purl.org/dc/dcmitype/Dataset> ;
-    schema:disambiguatingDescription "SKOS Concept Scheme for MARC 00X Values" ;
-    schema:version "1-0-1" .
+    schema:disambiguatingDescription "SKOS Concept Scheme for MARC 00X Values"@en ;
+    schema:version "1-1-0" .
 

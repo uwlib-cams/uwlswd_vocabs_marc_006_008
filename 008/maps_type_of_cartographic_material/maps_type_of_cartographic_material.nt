@@ -1,72 +1,72 @@
-<https://doi.org/10.6069/uwlswd.vw5v-gh79> <http://purl.org/dc/elements/1.1/language> "en" .
-<https://doi.org/10.6069/uwlswd.vw5v-gh79#f> <http://www.w3.org/2004/02/skos/core#notation> "f"@en .
-<https://doi.org/10.6069/uwlswd.vw5v-gh79#g> <http://www.w3.org/2004/02/skos/core#notation> "g"@en .
-<https://doi.org/10.6069/uwlswd.vw5v-gh79#c> <http://www.w3.org/2004/02/skos/core#scopeNote> "Not used for serially issued atlases."@en .
-<https://doi.org/10.6069/uwlswd.vw5v-gh79#a> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
-<https://doi.org/10.6069/uwlswd.vw5v-gh79> <http://purl.org/dc/terms/title> "Maps: type of cartographic material"@en .
-<https://doi.org/10.6069/uwlswd.vw5v-gh79#e> <http://www.w3.org/2004/02/skos/core#notation> "e"@en .
-<https://doi.org/10.6069/uwlswd.vw5v-gh79#f> <http://www.w3.org/2004/02/skos/core#prefLabel> "separate supplement to another work"@en .
-<https://doi.org/10.6069/uwlswd.vw5v-gh79#c> <http://www.w3.org/2004/02/skos/core#definition> "Issued in successive parts bearing numerical or chronological designations and intended to be continued indefinitely."@en .
-<https://doi.org/10.6069/uwlswd.vw5v-gh79> <http://purl.org/dc/terms/creator> <http://viaf.org/viaf/139541794> .
-<https://doi.org/10.6069/uwlswd.vw5v-gh79#c> <http://www.w3.org/2004/02/skos/core#prefLabel> "map serial"@en .
-<https://doi.org/10.6069/uwlswd.vw5v-gh79#b> <http://www.w3.org/2004/02/skos/core#inScheme> <https://doi.org/10.6069/uwlswd.vw5v-gh79> .
 <https://doi.org/10.6069/uwlswd.vw5v-gh79> <http://purl.org/dc/terms/hasFormat> <https://uwlib-cams.github.io/uwlswd_vocabs_marc_006_008/008/maps_type_of_cartographic_material/maps_type_of_cartographic_material.html> .
-<https://doi.org/10.6069/uwlswd.vw5v-gh79> <http://purl.org/dc/terms/hasFormat> <https://uwlib-cams.github.io/uwlswd_vocabs_marc_006_008/008/maps_type_of_cartographic_material/maps_type_of_cartographic_material.rdf> .
-<https://doi.org/10.6069/uwlswd.vw5v-gh79#z> <http://www.w3.org/2004/02/skos/core#notation> "z"@en .
-<https://doi.org/10.6069/uwlswd.vw5v-gh79> <http://purl.org/dc/terms/issued> "2023" .
-<https://doi.org/10.6069/uwlswd.vw5v-gh79#g> <http://www.w3.org/2004/02/skos/core#prefLabel> "bound as part of another work"@en .
-<https://doi.org/10.6069/uwlswd.vw5v-gh79#b> <http://www.w3.org/2004/02/skos/core#scopeNote> "Not used for atlas series."@en .
-<https://doi.org/10.6069/uwlswd.vw5v-gh79#d> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
-<https://doi.org/10.6069/uwlswd.vw5v-gh79> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#ConceptScheme> .
-<https://doi.org/10.6069/uwlswd.vw5v-gh79#f> <http://www.w3.org/2004/02/skos/core#scopeNote> "Other work being supplemented does not have to be cartographic material."@en .
-<https://doi.org/10.6069/uwlswd.vw5v-gh79> <http://purl.org/dc/terms/alternative> "MARC21 008/25 values for maps expressed using RDF"@en .
-<https://doi.org/10.6069/uwlswd.vw5v-gh79#f> <http://www.w3.org/2004/02/skos/core#inScheme> <https://doi.org/10.6069/uwlswd.vw5v-gh79> .
-<https://doi.org/10.6069/uwlswd.vw5v-gh79#b> <http://www.w3.org/2004/02/skos/core#notation> "b"@en .
-<https://doi.org/10.6069/uwlswd.vw5v-gh79#g> <http://www.w3.org/2004/02/skos/core#definition> "Bound as part of another work"@en .
-<https://doi.org/10.6069/uwlswd.vw5v-gh79#e> <http://www.w3.org/2004/02/skos/core#definition> "Atlas."@en .
-<https://doi.org/10.6069/uwlswd.vw5v-gh79> <http://purl.org/dc/elements/1.1/contributor> "Metadata Management Associates"@en .
-<https://doi.org/10.6069/uwlswd.vw5v-gh79#z> <http://www.w3.org/2004/02/skos/core#inScheme> <https://doi.org/10.6069/uwlswd.vw5v-gh79> .
-<https://doi.org/10.6069/uwlswd.vw5v-gh79#u> <http://www.w3.org/2004/02/skos/core#definition> "Unknown."@en .
-<https://doi.org/10.6069/uwlswd.vw5v-gh79#c> <http://www.w3.org/2004/02/skos/core#inScheme> <https://doi.org/10.6069/uwlswd.vw5v-gh79> .
-<https://doi.org/10.6069/uwlswd.vw5v-gh79> <http://purl.org/dc/terms/contributor> <http://viaf.org/viaf/151962300> .
-<https://doi.org/10.6069/uwlswd.vw5v-gh79> <http://purl.org/dc/terms/license> <http://creativecommons.org/publicdomain/zero/1.0> .
-<https://doi.org/10.6069/uwlswd.vw5v-gh79#z> <http://www.w3.org/2004/02/skos/core#definition> "Type of cartographic material other than single map, map series, map serial, globe, atlas, separate map supplement to another work, or map bound as part of another work."@en .
-<https://doi.org/10.6069/uwlswd.vw5v-gh79#c> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
-<https://doi.org/10.6069/uwlswd.vw5v-gh79#u> <http://www.w3.org/2004/02/skos/core#inScheme> <https://doi.org/10.6069/uwlswd.vw5v-gh79> .
-<https://doi.org/10.6069/uwlswd.vw5v-gh79> <http://purl.org/dc/terms/format> <http://www.w3.org/ns/formats/N-Triples> .
-<https://doi.org/10.6069/uwlswd.vw5v-gh79> <http://purl.org/dc/terms/source> <https://www.loc.gov/marc/bibliographic/bd008.html> .
-<https://doi.org/10.6069/uwlswd.vw5v-gh79#e> <http://www.w3.org/2004/02/skos/core#inScheme> <https://doi.org/10.6069/uwlswd.vw5v-gh79> .
-<https://doi.org/10.6069/uwlswd.vw5v-gh79#b> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
-<https://doi.org/10.6069/uwlswd.vw5v-gh79#a> <http://www.w3.org/2004/02/skos/core#definition> "Single map."@en .
 <https://doi.org/10.6069/uwlswd.vw5v-gh79#d> <http://www.w3.org/2004/02/skos/core#prefLabel> "globe"@en .
-<https://doi.org/10.6069/uwlswd.vw5v-gh79#e> <http://www.w3.org/2004/02/skos/core#prefLabel> "atlas"@en .
-<https://doi.org/10.6069/uwlswd.vw5v-gh79#a> <http://www.w3.org/2004/02/skos/core#prefLabel> "single map"@en .
-<https://doi.org/10.6069/uwlswd.vw5v-gh79> <https://schema.org/disambiguatingDescription> "SKOS Concept Scheme for MARC 00X Values" .
-<https://doi.org/10.6069/uwlswd.vw5v-gh79> <https://schema.org/version> "1-0-1" .
-<https://doi.org/10.6069/uwlswd.vw5v-gh79> <http://purl.org/dc/terms/publisher> <http://viaf.org/viaf/139541794> .
-<https://doi.org/10.6069/uwlswd.vw5v-gh79#g> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
-<https://doi.org/10.6069/uwlswd.vw5v-gh79#u> <http://www.w3.org/2004/02/skos/core#prefLabel> "unknown"@en .
-<https://doi.org/10.6069/uwlswd.vw5v-gh79#e> <http://www.w3.org/2004/02/skos/core#scopeNote> "Includes atlas series, and serially issued atlases."@en .
-<https://doi.org/10.6069/uwlswd.vw5v-gh79#f> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
-<https://doi.org/10.6069/uwlswd.vw5v-gh79#g> <http://www.w3.org/2004/02/skos/core#inScheme> <https://doi.org/10.6069/uwlswd.vw5v-gh79> .
-<https://doi.org/10.6069/uwlswd.vw5v-gh79> <http://purl.org/dc/terms/source> <http://marc21rdf.info> .
-<https://doi.org/10.6069/uwlswd.vw5v-gh79> <http://purl.org/dc/terms/hasFormat> <https://uwlib-cams.github.io/uwlswd_vocabs_marc_006_008/008/maps_type_of_cartographic_material/maps_type_of_cartographic_material.jsonld> .
-<https://doi.org/10.6069/uwlswd.vw5v-gh79#c> <http://www.w3.org/2004/02/skos/core#notation> "c"@en .
-<https://doi.org/10.6069/uwlswd.vw5v-gh79> <http://purl.org/dc/terms/hasFormat> <https://uwlib-cams.github.io/uwlswd_vocabs_marc_006_008/008/maps_type_of_cartographic_material/maps_type_of_cartographic_material.ttl> .
-<https://doi.org/10.6069/uwlswd.vw5v-gh79> <http://purl.org/dc/terms/type> <http://purl.org/dc/dcmitype/Dataset> .
-<https://doi.org/10.6069/uwlswd.vw5v-gh79#g> <http://www.w3.org/2004/02/skos/core#scopeNote> "Other work included does not have to be cartographic material."@en .
-<https://doi.org/10.6069/uwlswd.vw5v-gh79#z> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
-<https://doi.org/10.6069/uwlswd.vw5v-gh79#d> <http://www.w3.org/2004/02/skos/core#inScheme> <https://doi.org/10.6069/uwlswd.vw5v-gh79> .
-<https://doi.org/10.6069/uwlswd.vw5v-gh79#b> <http://www.w3.org/2004/02/skos/core#prefLabel> "map series"@en .
-<https://doi.org/10.6069/uwlswd.vw5v-gh79> <http://purl.org/dc/terms/provenance> <https://doi.org/10.6069/uwlswd.2e2b-y833> .
-<https://doi.org/10.6069/uwlswd.vw5v-gh79#d> <http://www.w3.org/2004/02/skos/core#definition> "Globe."@en .
-<https://doi.org/10.6069/uwlswd.vw5v-gh79#u> <http://www.w3.org/2004/02/skos/core#notation> "u"@en .
-<https://doi.org/10.6069/uwlswd.vw5v-gh79#a> <http://www.w3.org/2004/02/skos/core#notation> "a"@en .
-<https://doi.org/10.6069/uwlswd.vw5v-gh79#e> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
-<https://doi.org/10.6069/uwlswd.vw5v-gh79> <http://purl.org/dc/terms/description> "Indicates the type of cartographic item described."@en .
-<https://doi.org/10.6069/uwlswd.vw5v-gh79#a> <http://www.w3.org/2004/02/skos/core#inScheme> <https://doi.org/10.6069/uwlswd.vw5v-gh79> .
-<https://doi.org/10.6069/uwlswd.vw5v-gh79#d> <http://www.w3.org/2004/02/skos/core#notation> "d"@en .
-<https://doi.org/10.6069/uwlswd.vw5v-gh79#u> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
-<https://doi.org/10.6069/uwlswd.vw5v-gh79#b> <http://www.w3.org/2004/02/skos/core#definition> "Number of related but physically separate and bibliographically distinct cartographic units intended by the producer(s) or issuing body(s) to form a single group."@en .
-<https://doi.org/10.6069/uwlswd.vw5v-gh79#z> <http://www.w3.org/2004/02/skos/core#prefLabel> "other"@en .
 <https://doi.org/10.6069/uwlswd.vw5v-gh79#f> <http://www.w3.org/2004/02/skos/core#definition> "Separate supplement to another work"@en .
+<https://doi.org/10.6069/uwlswd.vw5v-gh79#f> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<https://doi.org/10.6069/uwlswd.vw5v-gh79#b> <http://www.w3.org/2004/02/skos/core#prefLabel> "map series"@en .
+<https://doi.org/10.6069/uwlswd.vw5v-gh79> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#ConceptScheme> .
+<https://doi.org/10.6069/uwlswd.vw5v-gh79> <http://purl.org/dc/terms/description> "Indicates the type of cartographic item described."@en .
+<https://doi.org/10.6069/uwlswd.vw5v-gh79#a> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<https://doi.org/10.6069/uwlswd.vw5v-gh79#e> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<https://doi.org/10.6069/uwlswd.vw5v-gh79#e> <http://www.w3.org/2004/02/skos/core#prefLabel> "atlas"@en .
+<https://doi.org/10.6069/uwlswd.vw5v-gh79> <http://purl.org/dc/terms/format> <http://www.w3.org/ns/formats/N-Triples> .
+<https://doi.org/10.6069/uwlswd.vw5v-gh79#g> <http://www.w3.org/2004/02/skos/core#prefLabel> "bound as part of another work"@en .
+<https://doi.org/10.6069/uwlswd.vw5v-gh79#a> <http://www.w3.org/2004/02/skos/core#definition> "Single map."@en .
+<https://doi.org/10.6069/uwlswd.vw5v-gh79#c> <http://www.w3.org/2004/02/skos/core#inScheme> <https://doi.org/10.6069/uwlswd.vw5v-gh79> .
+<https://doi.org/10.6069/uwlswd.vw5v-gh79#b> <http://www.w3.org/2004/02/skos/core#notation> "b" .
+<https://doi.org/10.6069/uwlswd.vw5v-gh79#b> <http://www.w3.org/2004/02/skos/core#inScheme> <https://doi.org/10.6069/uwlswd.vw5v-gh79> .
+<https://doi.org/10.6069/uwlswd.vw5v-gh79#z> <http://www.w3.org/2004/02/skos/core#notation> "z" .
+<https://doi.org/10.6069/uwlswd.vw5v-gh79> <http://purl.org/dc/terms/provenance> <https://doi.org/10.6069/uwlswd.2e2b-y833#marc00Xvalues> .
+<https://doi.org/10.6069/uwlswd.vw5v-gh79#g> <http://www.w3.org/2004/02/skos/core#scopeNote> "Other work included does not have to be cartographic material."@en .
+<https://doi.org/10.6069/uwlswd.vw5v-gh79> <http://purl.org/dc/terms/title> "Maps: type of cartographic material"@en .
+<https://doi.org/10.6069/uwlswd.vw5v-gh79#e> <http://www.w3.org/2004/02/skos/core#definition> "Atlas."@en .
+<https://doi.org/10.6069/uwlswd.vw5v-gh79> <http://purl.org/dc/terms/source> <http://marc21rdf.info> .
+<https://doi.org/10.6069/uwlswd.vw5v-gh79> <http://purl.org/dc/terms/hasFormat> <https://uwlib-cams.github.io/uwlswd_vocabs_marc_006_008/008/maps_type_of_cartographic_material/maps_type_of_cartographic_material.rdf> .
+<https://doi.org/10.6069/uwlswd.vw5v-gh79#d> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<https://doi.org/10.6069/uwlswd.vw5v-gh79#g> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<https://doi.org/10.6069/uwlswd.vw5v-gh79> <http://purl.org/dc/terms/creator> <http://viaf.org/viaf/139541794> .
+<https://doi.org/10.6069/uwlswd.vw5v-gh79> <http://purl.org/dc/elements/1.1/contributor> "Metadata Management Associates"@en .
+<https://doi.org/10.6069/uwlswd.vw5v-gh79#b> <http://www.w3.org/2004/02/skos/core#scopeNote> "Not used for atlas series."@en .
+<https://doi.org/10.6069/uwlswd.vw5v-gh79#d> <http://www.w3.org/2004/02/skos/core#definition> "Globe."@en .
+<https://doi.org/10.6069/uwlswd.vw5v-gh79> <https://schema.org/disambiguatingDescription> "SKOS Concept Scheme for MARC 00X Values"@en .
+<https://doi.org/10.6069/uwlswd.vw5v-gh79#d> <http://www.w3.org/2004/02/skos/core#inScheme> <https://doi.org/10.6069/uwlswd.vw5v-gh79> .
+<https://doi.org/10.6069/uwlswd.vw5v-gh79#c> <http://www.w3.org/2004/02/skos/core#definition> "Issued in successive parts bearing numerical or chronological designations and intended to be continued indefinitely."@en .
+<https://doi.org/10.6069/uwlswd.vw5v-gh79#z> <http://www.w3.org/2004/02/skos/core#inScheme> <https://doi.org/10.6069/uwlswd.vw5v-gh79> .
+<https://doi.org/10.6069/uwlswd.vw5v-gh79> <http://purl.org/dc/terms/type> <http://purl.org/dc/dcmitype/Dataset> .
+<https://doi.org/10.6069/uwlswd.vw5v-gh79#u> <http://www.w3.org/2004/02/skos/core#prefLabel> "unknown"@en .
+<https://doi.org/10.6069/uwlswd.vw5v-gh79> <http://purl.org/dc/terms/issued> "2023" .
+<https://doi.org/10.6069/uwlswd.vw5v-gh79#c> <http://www.w3.org/2004/02/skos/core#notation> "c" .
+<https://doi.org/10.6069/uwlswd.vw5v-gh79> <http://purl.org/dc/terms/license> <http://creativecommons.org/publicdomain/zero/1.0> .
+<https://doi.org/10.6069/uwlswd.vw5v-gh79#e> <http://www.w3.org/2004/02/skos/core#scopeNote> "Includes atlas series, and serially issued atlases."@en .
+<https://doi.org/10.6069/uwlswd.vw5v-gh79#u> <http://www.w3.org/2004/02/skos/core#inScheme> <https://doi.org/10.6069/uwlswd.vw5v-gh79> .
+<https://doi.org/10.6069/uwlswd.vw5v-gh79#d> <http://www.w3.org/2004/02/skos/core#notation> "d" .
+<https://doi.org/10.6069/uwlswd.vw5v-gh79#c> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<https://doi.org/10.6069/uwlswd.vw5v-gh79#b> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<https://doi.org/10.6069/uwlswd.vw5v-gh79#z> <http://www.w3.org/2004/02/skos/core#definition> "Type of cartographic material other than single map, map series, map serial, globe, atlas, separate map supplement to another work, or map bound as part of another work."@en .
+<https://doi.org/10.6069/uwlswd.vw5v-gh79> <http://purl.org/dc/terms/hasFormat> <https://uwlib-cams.github.io/uwlswd_vocabs_marc_006_008/008/maps_type_of_cartographic_material/maps_type_of_cartographic_material.ttl> .
+<https://doi.org/10.6069/uwlswd.vw5v-gh79#f> <http://www.w3.org/2004/02/skos/core#scopeNote> "Other work being supplemented does not have to be cartographic material."@en .
+<https://doi.org/10.6069/uwlswd.vw5v-gh79#b> <http://www.w3.org/2004/02/skos/core#definition> "Number of related but physically separate and bibliographically distinct cartographic units intended by the producer(s) or issuing body(s) to form a single group."@en .
+<https://doi.org/10.6069/uwlswd.vw5v-gh79#f> <http://www.w3.org/2004/02/skos/core#prefLabel> "separate supplement to another work"@en .
+<https://doi.org/10.6069/uwlswd.vw5v-gh79#f> <http://www.w3.org/2004/02/skos/core#inScheme> <https://doi.org/10.6069/uwlswd.vw5v-gh79> .
+<https://doi.org/10.6069/uwlswd.vw5v-gh79> <http://purl.org/dc/terms/hasFormat> <https://uwlib-cams.github.io/uwlswd_vocabs_marc_006_008/008/maps_type_of_cartographic_material/maps_type_of_cartographic_material.jsonld> .
+<https://doi.org/10.6069/uwlswd.vw5v-gh79#f> <http://www.w3.org/2004/02/skos/core#notation> "f" .
+<https://doi.org/10.6069/uwlswd.vw5v-gh79#e> <http://www.w3.org/2004/02/skos/core#inScheme> <https://doi.org/10.6069/uwlswd.vw5v-gh79> .
+<https://doi.org/10.6069/uwlswd.vw5v-gh79#a> <http://www.w3.org/2004/02/skos/core#prefLabel> "single map"@en .
+<https://doi.org/10.6069/uwlswd.vw5v-gh79> <https://schema.org/version> "1-1-0" .
+<https://doi.org/10.6069/uwlswd.vw5v-gh79#u> <http://www.w3.org/2004/02/skos/core#notation> "u" .
+<https://doi.org/10.6069/uwlswd.vw5v-gh79#a> <http://www.w3.org/2004/02/skos/core#notation> "a" .
+<https://doi.org/10.6069/uwlswd.vw5v-gh79> <http://purl.org/dc/terms/source> <https://www.loc.gov/marc/bibliographic/bd008.html> .
+<https://doi.org/10.6069/uwlswd.vw5v-gh79> <http://purl.org/dc/terms/publisher> <http://viaf.org/viaf/139541794> .
+<https://doi.org/10.6069/uwlswd.vw5v-gh79#c> <http://www.w3.org/2004/02/skos/core#scopeNote> "Not used for serially issued atlases."@en .
+<https://doi.org/10.6069/uwlswd.vw5v-gh79#g> <http://www.w3.org/2004/02/skos/core#notation> "g" .
+<https://doi.org/10.6069/uwlswd.vw5v-gh79#a> <http://www.w3.org/2004/02/skos/core#inScheme> <https://doi.org/10.6069/uwlswd.vw5v-gh79> .
+<https://doi.org/10.6069/uwlswd.vw5v-gh79#z> <http://www.w3.org/2004/02/skos/core#prefLabel> "other"@en .
+<https://doi.org/10.6069/uwlswd.vw5v-gh79#g> <http://www.w3.org/2004/02/skos/core#definition> "Bound as part of another work"@en .
+<https://doi.org/10.6069/uwlswd.vw5v-gh79#u> <http://www.w3.org/2004/02/skos/core#definition> "Unknown."@en .
+<https://doi.org/10.6069/uwlswd.vw5v-gh79> <http://purl.org/dc/terms/contributor> <http://viaf.org/viaf/151962300> .
+<https://doi.org/10.6069/uwlswd.vw5v-gh79#z> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<https://doi.org/10.6069/uwlswd.vw5v-gh79#g> <http://www.w3.org/2004/02/skos/core#inScheme> <https://doi.org/10.6069/uwlswd.vw5v-gh79> .
+<https://doi.org/10.6069/uwlswd.vw5v-gh79#e> <http://www.w3.org/2004/02/skos/core#notation> "e" .
+<https://doi.org/10.6069/uwlswd.vw5v-gh79#u> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<https://doi.org/10.6069/uwlswd.vw5v-gh79> <http://purl.org/dc/elements/1.1/language> "en" .
+<https://doi.org/10.6069/uwlswd.vw5v-gh79#c> <http://www.w3.org/2004/02/skos/core#prefLabel> "map serial"@en .
+<https://doi.org/10.6069/uwlswd.vw5v-gh79> <http://purl.org/dc/terms/alternative> "MARC21 008/25 values for maps expressed using RDF"@en .

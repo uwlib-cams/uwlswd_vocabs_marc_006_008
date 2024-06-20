@@ -6,27 +6,27 @@
 <https://doi.org/10.6069/uwlswd.npns-e903#n> a skos:Concept ;
     skos:definition "Predictable irregularity pattern."@en ;
     skos:inScheme <https://doi.org/10.6069/uwlswd.npns-e903> ;
-    skos:notation "n"@en ;
+    skos:notation "n" ;
     skos:prefLabel "normalized irregular"@en ;
     skos:scopeNote "Used, for example, when the publishing pattern intentionally deviates from a standard pattern (example: Monthly, except July and Aug) or to accommodate an annual cumulation."@en .
 
 <https://doi.org/10.6069/uwlswd.npns-e903#r> a skos:Concept ;
     skos:definition "Intended regular publishing pattern."@en ;
     skos:inScheme <https://doi.org/10.6069/uwlswd.npns-e903> ;
-    skos:notation "r"@en ;
+    skos:notation "r" ;
     skos:prefLabel "regular"@en ;
     skos:scopeNote "This may be determined from information on the piece or by examining the publishing pattern. Thus, use this pattern if an item states that it is to be issued, for example, bimonthly, even though the publishing pattern is known to have occasional variations due to publishing difficulties."@en .
 
 <https://doi.org/10.6069/uwlswd.npns-e903#u> a skos:Concept ;
     skos:definition "Regularity of the item is unknown."@en ;
     skos:inScheme <https://doi.org/10.6069/uwlswd.npns-e903> ;
-    skos:notation "u"@en ;
+    skos:notation "u" ;
     skos:prefLabel "unknown"@en .
 
 <https://doi.org/10.6069/uwlswd.npns-e903#x> a skos:Concept ;
     skos:definition "Intentionally irregular."@en ;
     skos:inScheme <https://doi.org/10.6069/uwlswd.npns-e903> ;
-    skos:notation "x"@en ;
+    skos:notation "x" ;
     skos:prefLabel "completely irregular"@en ;
     skos:scopeNote "Used when the frequency is known to be intentionally irregular."@en .
 
@@ -44,12 +44,12 @@
         <https://uwlib-cams.github.io/uwlswd_vocabs_marc_006_008/008/continuing_regularity/continuing_regularity.rdf> ;
     dct:issued "2023" ;
     dct:license <http://creativecommons.org/publicdomain/zero/1.0> ;
-    dct:provenance <https://doi.org/10.6069/uwlswd.2e2b-y833> ;
+    dct:provenance <https://doi.org/10.6069/uwlswd.2e2b-y833#marc00Xvalues> ;
     dct:publisher <http://viaf.org/viaf/139541794> ;
     dct:source <http://marc21rdf.info>,
         <https://www.loc.gov/marc/bibliographic/bd008.html> ;
     dct:title "Continuing: regularity"@en ;
     dct:type <http://purl.org/dc/dcmitype/Dataset> ;
-    schema:disambiguatingDescription "SKOS Concept Scheme for MARC 00X Values" ;
-    schema:version "1-0-1" .
+    schema:disambiguatingDescription "SKOS Concept Scheme for MARC 00X Values"@en ;
+    schema:version "1-1-0" .
 

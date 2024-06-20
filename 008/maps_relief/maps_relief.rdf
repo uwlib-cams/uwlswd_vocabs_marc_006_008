@@ -1,52 +1,30 @@
-<?xml version='1.0' encoding='UTF-8'?>
-<rdf:RDF xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dct="http://purl.org/dc/terms/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:schema="https://schema.org/" xmlns:skos="http://www.w3.org/2004/02/skos/core#">
-  <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.1c2x-cj09#a">
-    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-    <skos:inScheme rdf:resource="https://doi.org/10.6069/uwlswd.1c2x-cj09"/>
-    <skos:prefLabel xml:lang="en">contours</skos:prefLabel>
-    <skos:definition xml:lang="en">Relief shown by contours.</skos:definition>
-    <skos:notation>a</skos:notation>
-  </rdf:Description>
-  <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.1c2x-cj09#e">
-    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-    <skos:inScheme rdf:resource="https://doi.org/10.6069/uwlswd.1c2x-cj09"/>
-    <skos:prefLabel xml:lang="en">bathymetry/soundings</skos:prefLabel>
-    <skos:definition xml:lang="en">Underwater relief (depth) shown by soundings or spot depths.</skos:definition>
-    <skos:notation>e</skos:notation>
-  </rdf:Description>
-  <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.1c2x-cj09#m">
-    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-    <skos:inScheme rdf:resource="https://doi.org/10.6069/uwlswd.1c2x-cj09"/>
-    <skos:prefLabel xml:lang="en">rock drawings</skos:prefLabel>
-    <skos:definition xml:lang="en">Relief rock drawing.</skos:definition>
-    <skos:notation>m</skos:notation>
-  </rdf:Description>
-  <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.1c2x-cj09#f">
-    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-    <skos:inScheme rdf:resource="https://doi.org/10.6069/uwlswd.1c2x-cj09"/>
-    <skos:prefLabel xml:lang="en">form lines</skos:prefLabel>
-    <skos:definition xml:lang="en">Relief shown by form lines.</skos:definition>
-    <skos:notation>f</skos:notation>
-  </rdf:Description>
-  <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.1c2x-cj09#j">
-    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-    <skos:inScheme rdf:resource="https://doi.org/10.6069/uwlswd.1c2x-cj09"/>
-    <skos:prefLabel xml:lang="en">land forms</skos:prefLabel>
-    <skos:definition xml:lang="en">Relief shown by land forms.</skos:definition>
-    <skos:notation>j</skos:notation>
-  </rdf:Description>
+<?xml version="1.0" encoding="utf-8"?>
+<rdf:RDF
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:dct="http://purl.org/dc/terms/"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:schema="https://schema.org/"
+   xmlns:skos="http://www.w3.org/2004/02/skos/core#"
+>
   <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.1c2x-cj09#hx">
     <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
     <skos:inScheme rdf:resource="https://doi.org/10.6069/uwlswd.1c2x-cj09"/>
     <skos:prefLabel xml:lang="en">color [obsolete]</skos:prefLabel>
     <skos:notation>h</skos:notation>
   </rdf:Description>
-  <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.1c2x-cj09#i">
+  <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.1c2x-cj09#g">
     <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
     <skos:inScheme rdf:resource="https://doi.org/10.6069/uwlswd.1c2x-cj09"/>
-    <skos:prefLabel xml:lang="en">pictorially</skos:prefLabel>
-    <skos:definition xml:lang="en">Land forms and other topographic features shown in the correct planimetric position by pictorial symbols representing their appearance from a high oblique view.</skos:definition>
-    <skos:notation>i</skos:notation>
+    <skos:prefLabel xml:lang="en">spot heights</skos:prefLabel>
+    <skos:definition xml:lang="en">Relief shown by spot heights.</skos:definition>
+    <skos:notation>g</skos:notation>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.1c2x-cj09#a">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <skos:inScheme rdf:resource="https://doi.org/10.6069/uwlswd.1c2x-cj09"/>
+    <skos:prefLabel xml:lang="en">contours</skos:prefLabel>
+    <skos:definition xml:lang="en">Relief shown by contours.</skos:definition>
+    <skos:notation>a</skos:notation>
   </rdf:Description>
   <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.1c2x-cj09">
     <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#ConceptScheme"/>
@@ -72,33 +50,12 @@
     <dct:hasFormat rdf:resource="https://uwlib-cams.github.io/uwlswd_vocabs_marc_006_008/008/maps_relief/maps_relief.html"/>
     <dct:format rdf:resource="http://www.w3.org/ns/formats/RDF_XML"/>
   </rdf:Description>
-  <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.1c2x-cj09#c">
+  <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.1c2x-cj09#d">
     <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
     <skos:inScheme rdf:resource="https://doi.org/10.6069/uwlswd.1c2x-cj09"/>
-    <skos:prefLabel xml:lang="en">gradient and bathymetric tints</skos:prefLabel>
-    <skos:definition xml:lang="en">Relief shown by gradient or bathymetric tints.</skos:definition>
-    <skos:notation>c</skos:notation>
-  </rdf:Description>
-  <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.1c2x-cj09#g">
-    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-    <skos:inScheme rdf:resource="https://doi.org/10.6069/uwlswd.1c2x-cj09"/>
-    <skos:prefLabel xml:lang="en">spot heights</skos:prefLabel>
-    <skos:definition xml:lang="en">Relief shown by spot heights.</skos:definition>
-    <skos:notation>g</skos:notation>
-  </rdf:Description>
-  <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.1c2x-cj09#b">
-    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-    <skos:inScheme rdf:resource="https://doi.org/10.6069/uwlswd.1c2x-cj09"/>
-    <skos:prefLabel xml:lang="en">shading</skos:prefLabel>
-    <skos:definition xml:lang="en">Relief shown by shading (generally of a single color).</skos:definition>
-    <skos:notation>b</skos:notation>
-  </rdf:Description>
-  <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.1c2x-cj09#k">
-    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-    <skos:inScheme rdf:resource="https://doi.org/10.6069/uwlswd.1c2x-cj09"/>
-    <skos:prefLabel xml:lang="en">bathymetry by isolines</skos:prefLabel>
-    <skos:definition xml:lang="en">Underwater relief (depth) shown by isolines (lines that represent constant depths).</skos:definition>
-    <skos:notation>k</skos:notation>
+    <skos:prefLabel xml:lang="en">hachures</skos:prefLabel>
+    <skos:definition xml:lang="en">Relief shown by hachures (short lines which follow the direction of maximum slope).</skos:definition>
+    <skos:notation>d</skos:notation>
   </rdf:Description>
   <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.1c2x-cj09#z">
     <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
@@ -107,12 +64,26 @@
     <skos:definition xml:lang="en">Relief other than contours, shading, gradient and bathymetric tints, hachures, bathymetry/soundings, form lines, spot heights, pictorially, land forms, bathymetry by isolines, rock drawings.</skos:definition>
     <skos:notation>z</skos:notation>
   </rdf:Description>
-  <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.1c2x-cj09#d">
+  <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.1c2x-cj09#m">
     <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
     <skos:inScheme rdf:resource="https://doi.org/10.6069/uwlswd.1c2x-cj09"/>
-    <skos:prefLabel xml:lang="en">hachures</skos:prefLabel>
-    <skos:definition xml:lang="en">Relief shown by hachures (short lines which follow the direction of maximum slope).</skos:definition>
-    <skos:notation>d</skos:notation>
+    <skos:prefLabel xml:lang="en">rock drawings</skos:prefLabel>
+    <skos:definition xml:lang="en">Relief rock drawing.</skos:definition>
+    <skos:notation>m</skos:notation>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.1c2x-cj09#b">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <skos:inScheme rdf:resource="https://doi.org/10.6069/uwlswd.1c2x-cj09"/>
+    <skos:prefLabel xml:lang="en">shading</skos:prefLabel>
+    <skos:definition xml:lang="en">Relief shown by shading (generally of a single color).</skos:definition>
+    <skos:notation>b</skos:notation>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.1c2x-cj09#i">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <skos:inScheme rdf:resource="https://doi.org/10.6069/uwlswd.1c2x-cj09"/>
+    <skos:prefLabel xml:lang="en">pictorially</skos:prefLabel>
+    <skos:definition xml:lang="en">Land forms and other topographic features shown in the correct planimetric position by pictorial symbols representing their appearance from a high oblique view.</skos:definition>
+    <skos:notation>i</skos:notation>
   </rdf:Description>
   <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.1c2x-cj09#pound">
     <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
@@ -120,5 +91,40 @@
     <skos:prefLabel xml:lang="en">no relief shown</skos:prefLabel>
     <skos:definition xml:lang="en">No relief shown.</skos:definition>
     <skos:notation>#</skos:notation>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.1c2x-cj09#f">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <skos:inScheme rdf:resource="https://doi.org/10.6069/uwlswd.1c2x-cj09"/>
+    <skos:prefLabel xml:lang="en">form lines</skos:prefLabel>
+    <skos:definition xml:lang="en">Relief shown by form lines.</skos:definition>
+    <skos:notation>f</skos:notation>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.1c2x-cj09#k">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <skos:inScheme rdf:resource="https://doi.org/10.6069/uwlswd.1c2x-cj09"/>
+    <skos:prefLabel xml:lang="en">bathymetry by isolines</skos:prefLabel>
+    <skos:definition xml:lang="en">Underwater relief (depth) shown by isolines (lines that represent constant depths).</skos:definition>
+    <skos:notation>k</skos:notation>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.1c2x-cj09#j">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <skos:inScheme rdf:resource="https://doi.org/10.6069/uwlswd.1c2x-cj09"/>
+    <skos:prefLabel xml:lang="en">land forms</skos:prefLabel>
+    <skos:definition xml:lang="en">Relief shown by land forms.</skos:definition>
+    <skos:notation>j</skos:notation>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.1c2x-cj09#e">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <skos:inScheme rdf:resource="https://doi.org/10.6069/uwlswd.1c2x-cj09"/>
+    <skos:prefLabel xml:lang="en">bathymetry/soundings</skos:prefLabel>
+    <skos:definition xml:lang="en">Underwater relief (depth) shown by soundings or spot depths.</skos:definition>
+    <skos:notation>e</skos:notation>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.1c2x-cj09#c">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <skos:inScheme rdf:resource="https://doi.org/10.6069/uwlswd.1c2x-cj09"/>
+    <skos:prefLabel xml:lang="en">gradient and bathymetric tints</skos:prefLabel>
+    <skos:definition xml:lang="en">Relief shown by gradient or bathymetric tints.</skos:definition>
+    <skos:notation>c</skos:notation>
   </rdf:Description>
 </rdf:RDF>

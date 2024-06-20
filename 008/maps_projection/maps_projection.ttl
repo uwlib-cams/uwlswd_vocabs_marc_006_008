@@ -6,284 +6,284 @@
 <https://doi.org/10.6069/uwlswd.4jrs-m847#aa> a skos:Concept ;
     skos:definition "Aitoff."@en ;
     skos:inScheme <https://doi.org/10.6069/uwlswd.4jrs-m847> ;
-    skos:notation "aa"@en ;
+    skos:notation "aa" ;
     skos:prefLabel "Aitoff"@en .
 
 <https://doi.org/10.6069/uwlswd.4jrs-m847#ab> a skos:Concept ;
     skos:definition "Gnomic."@en ;
     skos:inScheme <https://doi.org/10.6069/uwlswd.4jrs-m847> ;
-    skos:notation "ab"@en ;
+    skos:notation "ab" ;
     skos:prefLabel "Gnomic"@en .
 
 <https://doi.org/10.6069/uwlswd.4jrs-m847#ac> a skos:Concept ;
     skos:definition "Lambert's azimuthal equal area."@en ;
     skos:inScheme <https://doi.org/10.6069/uwlswd.4jrs-m847> ;
-    skos:notation "ac"@en ;
+    skos:notation "ac" ;
     skos:prefLabel "Lambert's azimuthal equal area"@en .
 
 <https://doi.org/10.6069/uwlswd.4jrs-m847#ad> a skos:Concept ;
     skos:definition "Orthographic."@en ;
     skos:inScheme <https://doi.org/10.6069/uwlswd.4jrs-m847> ;
-    skos:notation "ad"@en ;
+    skos:notation "ad" ;
     skos:prefLabel "orthographic"@en .
 
 <https://doi.org/10.6069/uwlswd.4jrs-m847#ae> a skos:Concept ;
     skos:definition "Azimuthal equidistant."@en ;
     skos:inScheme <https://doi.org/10.6069/uwlswd.4jrs-m847> ;
-    skos:notation "ae"@en ;
+    skos:notation "ae" ;
     skos:prefLabel "azimuthal equidistant"@en .
 
 <https://doi.org/10.6069/uwlswd.4jrs-m847#af> a skos:Concept ;
     skos:definition "Stereographic."@en ;
     skos:inScheme <https://doi.org/10.6069/uwlswd.4jrs-m847> ;
-    skos:notation "af"@en ;
+    skos:notation "af" ;
     skos:prefLabel "stereographic"@en .
 
 <https://doi.org/10.6069/uwlswd.4jrs-m847#ag> a skos:Concept ;
     skos:definition "General vertical near-sided."@en ;
     skos:inScheme <https://doi.org/10.6069/uwlswd.4jrs-m847> ;
-    skos:notation "ag"@en ;
+    skos:notation "ag" ;
     skos:prefLabel "general vertical near-sided"@en .
 
 <https://doi.org/10.6069/uwlswd.4jrs-m847#am> a skos:Concept ;
     skos:definition "Modified stereographic for Alaska."@en ;
     skos:inScheme <https://doi.org/10.6069/uwlswd.4jrs-m847> ;
-    skos:notation "am"@en ;
+    skos:notation "am" ;
     skos:prefLabel "modified stereographic for Alaska"@en .
 
 <https://doi.org/10.6069/uwlswd.4jrs-m847#an> a skos:Concept ;
     skos:definition "Chamberlin trimetric."@en ;
     skos:inScheme <https://doi.org/10.6069/uwlswd.4jrs-m847> ;
-    skos:notation "an"@en ;
+    skos:notation "an" ;
     skos:prefLabel "Chamberlin trimetric"@en .
 
 <https://doi.org/10.6069/uwlswd.4jrs-m847#ap> a skos:Concept ;
     skos:definition "Polar stereographic."@en ;
     skos:inScheme <https://doi.org/10.6069/uwlswd.4jrs-m847> ;
-    skos:notation "ap"@en ;
+    skos:notation "ap" ;
     skos:prefLabel "polar stereographic"@en .
 
 <https://doi.org/10.6069/uwlswd.4jrs-m847#au> a skos:Concept ;
     skos:definition "Azimuthal, specific type unknown. Only the projection type (azimuthal) is known, not the specific projection."@en ;
     skos:inScheme <https://doi.org/10.6069/uwlswd.4jrs-m847> ;
-    skos:notation "au"@en ;
+    skos:notation "au" ;
     skos:prefLabel "azimuthal, specific type unknown"@en .
 
 <https://doi.org/10.6069/uwlswd.4jrs-m847#az> a skos:Concept ;
     skos:definition "Azimuthal, other."@en ;
     skos:inScheme <https://doi.org/10.6069/uwlswd.4jrs-m847> ;
-    skos:notation "az"@en ;
+    skos:notation "az" ;
     skos:prefLabel "azimuthal, other"@en .
 
 <https://doi.org/10.6069/uwlswd.4jrs-m847#ba> a skos:Concept ;
     skos:definition "Gall."@en ;
     skos:inScheme <https://doi.org/10.6069/uwlswd.4jrs-m847> ;
-    skos:notation "ba"@en ;
+    skos:notation "ba" ;
     skos:prefLabel "Gall"@en .
 
 <https://doi.org/10.6069/uwlswd.4jrs-m847#bb> a skos:Concept ;
     skos:definition "Goode's homolographic."@en ;
     skos:inScheme <https://doi.org/10.6069/uwlswd.4jrs-m847> ;
-    skos:notation "bb"@en ;
+    skos:notation "bb" ;
     skos:prefLabel "Goode's homolographic"@en .
 
 <https://doi.org/10.6069/uwlswd.4jrs-m847#bc> a skos:Concept ;
     skos:definition "Lambert's cylindrical equal area."@en ;
     skos:inScheme <https://doi.org/10.6069/uwlswd.4jrs-m847> ;
-    skos:notation "bc"@en ;
+    skos:notation "bc" ;
     skos:prefLabel "Lambert's cylindrical equal area"@en .
 
 <https://doi.org/10.6069/uwlswd.4jrs-m847#bd> a skos:Concept ;
     skos:definition "Mercator."@en ;
     skos:inScheme <https://doi.org/10.6069/uwlswd.4jrs-m847> ;
-    skos:notation "bd"@en ;
+    skos:notation "bd" ;
     skos:prefLabel "Mercator"@en .
 
 <https://doi.org/10.6069/uwlswd.4jrs-m847#be> a skos:Concept ;
     skos:definition "Miller."@en ;
     skos:inScheme <https://doi.org/10.6069/uwlswd.4jrs-m847> ;
-    skos:notation "be"@en ;
+    skos:notation "be" ;
     skos:prefLabel "Miller"@en .
 
 <https://doi.org/10.6069/uwlswd.4jrs-m847#bf> a skos:Concept ;
     skos:definition "Mollweide."@en ;
     skos:inScheme <https://doi.org/10.6069/uwlswd.4jrs-m847> ;
-    skos:notation "bf"@en ;
+    skos:notation "bf" ;
     skos:prefLabel "Mollweide"@en .
 
 <https://doi.org/10.6069/uwlswd.4jrs-m847#bg> a skos:Concept ;
     skos:definition "Sinusoidal."@en ;
     skos:inScheme <https://doi.org/10.6069/uwlswd.4jrs-m847> ;
-    skos:notation "bg"@en ;
+    skos:notation "bg" ;
     skos:prefLabel "sinusoidal"@en .
 
 <https://doi.org/10.6069/uwlswd.4jrs-m847#bh> a skos:Concept ;
     skos:definition "Transverse Mercator."@en ;
     skos:inScheme <https://doi.org/10.6069/uwlswd.4jrs-m847> ;
-    skos:notation "bh"@en ;
+    skos:notation "bh" ;
     skos:prefLabel "transverse Mercator"@en .
 
 <https://doi.org/10.6069/uwlswd.4jrs-m847#bi> a skos:Concept ;
     skos:definition "Gauss-Kruger."@en ;
     skos:inScheme <https://doi.org/10.6069/uwlswd.4jrs-m847> ;
-    skos:notation "bi"@en ;
+    skos:notation "bi" ;
     skos:prefLabel "Gauss-Kruger"@en .
 
 <https://doi.org/10.6069/uwlswd.4jrs-m847#bj> a skos:Concept ;
     skos:definition "Equirectangular."@en ;
     skos:inScheme <https://doi.org/10.6069/uwlswd.4jrs-m847> ;
-    skos:notation "bj"@en ;
+    skos:notation "bj" ;
     skos:prefLabel "equirectangular"@en .
 
 <https://doi.org/10.6069/uwlswd.4jrs-m847#bk> a skos:Concept ;
     skos:definition "Krovak."@en ;
     skos:inScheme <https://doi.org/10.6069/uwlswd.4jrs-m847> ;
-    skos:notation "bk"@en ;
+    skos:notation "bk" ;
     skos:prefLabel "krovak"@en .
 
 <https://doi.org/10.6069/uwlswd.4jrs-m847#bl> a skos:Concept ;
     skos:definition "Cassini-Soldner."@en ;
     skos:inScheme <https://doi.org/10.6069/uwlswd.4jrs-m847> ;
-    skos:notation "bl"@en ;
+    skos:notation "bl" ;
     skos:prefLabel "Cassini-Soldner"@en .
 
 <https://doi.org/10.6069/uwlswd.4jrs-m847#bo> a skos:Concept ;
     skos:definition "Oblique Mercator."@en ;
     skos:inScheme <https://doi.org/10.6069/uwlswd.4jrs-m847> ;
-    skos:notation "bo"@en ;
+    skos:notation "bo" ;
     skos:prefLabel "oblique Mercator"@en .
 
 <https://doi.org/10.6069/uwlswd.4jrs-m847#br> a skos:Concept ;
     skos:definition "Robinson."@en ;
     skos:inScheme <https://doi.org/10.6069/uwlswd.4jrs-m847> ;
-    skos:notation "br"@en ;
+    skos:notation "br" ;
     skos:prefLabel "Robinson"@en .
 
 <https://doi.org/10.6069/uwlswd.4jrs-m847#bs> a skos:Concept ;
     skos:definition "Space oblique Mercator."@en ;
     skos:inScheme <https://doi.org/10.6069/uwlswd.4jrs-m847> ;
-    skos:notation "bs"@en ;
+    skos:notation "bs" ;
     skos:prefLabel "space oblique Mercator"@en .
 
 <https://doi.org/10.6069/uwlswd.4jrs-m847#bu> a skos:Concept ;
     skos:definition "Cylindrical, specific type unknown. Only the projection type (cylindrical) is known, not the specific projection."@en ;
     skos:inScheme <https://doi.org/10.6069/uwlswd.4jrs-m847> ;
-    skos:notation "bu"@en ;
+    skos:notation "bu" ;
     skos:prefLabel "cylindrical, specific type unknown"@en .
 
 <https://doi.org/10.6069/uwlswd.4jrs-m847#bz> a skos:Concept ;
     skos:definition "Cylindrical, other."@en ;
     skos:inScheme <https://doi.org/10.6069/uwlswd.4jrs-m847> ;
-    skos:notation "bz"@en ;
+    skos:notation "bz" ;
     skos:prefLabel "cylindrical, other"@en .
 
 <https://doi.org/10.6069/uwlswd.4jrs-m847#ca> a skos:Concept ;
     skos:definition "Alber's equal area."@en ;
     skos:inScheme <https://doi.org/10.6069/uwlswd.4jrs-m847> ;
-    skos:notation "ca"@en ;
+    skos:notation "ca" ;
     skos:prefLabel "Alber's equal area"@en .
 
 <https://doi.org/10.6069/uwlswd.4jrs-m847#cb> a skos:Concept ;
     skos:definition "Bonne."@en ;
     skos:inScheme <https://doi.org/10.6069/uwlswd.4jrs-m847> ;
-    skos:notation "cb"@en ;
+    skos:notation "cb" ;
     skos:prefLabel "Bonne"@en .
 
 <https://doi.org/10.6069/uwlswd.4jrs-m847#cc> a skos:Concept ;
     skos:definition "Lambert's conformal conic."@en ;
     skos:inScheme <https://doi.org/10.6069/uwlswd.4jrs-m847> ;
-    skos:notation "cc"@en ;
+    skos:notation "cc" ;
     skos:prefLabel "Lambert's conformal conic"@en .
 
 <https://doi.org/10.6069/uwlswd.4jrs-m847#ce> a skos:Concept ;
     skos:definition "Equidistant conic."@en ;
     skos:inScheme <https://doi.org/10.6069/uwlswd.4jrs-m847> ;
-    skos:notation "ce"@en ;
+    skos:notation "ce" ;
     skos:prefLabel "equidistant conic"@en .
 
 <https://doi.org/10.6069/uwlswd.4jrs-m847#cp> a skos:Concept ;
     skos:definition "Polyconic."@en ;
     skos:inScheme <https://doi.org/10.6069/uwlswd.4jrs-m847> ;
-    skos:notation "cp"@en ;
+    skos:notation "cp" ;
     skos:prefLabel "polyconic"@en .
 
 <https://doi.org/10.6069/uwlswd.4jrs-m847#cu> a skos:Concept ;
     skos:definition "Conic, specific type unknown. Only the projection type (conic) is known, not the specific projection."@en ;
     skos:inScheme <https://doi.org/10.6069/uwlswd.4jrs-m847> ;
-    skos:notation "cu"@en ;
+    skos:notation "cu" ;
     skos:prefLabel "conic, specific type unknown"@en .
 
 <https://doi.org/10.6069/uwlswd.4jrs-m847#cz> a skos:Concept ;
     skos:definition "Conic, other."@en ;
     skos:inScheme <https://doi.org/10.6069/uwlswd.4jrs-m847> ;
-    skos:notation "cz"@en ;
+    skos:notation "cz" ;
     skos:prefLabel "conic, other"@en .
 
 <https://doi.org/10.6069/uwlswd.4jrs-m847#da> a skos:Concept ;
     skos:definition "Armadillo."@en ;
     skos:inScheme <https://doi.org/10.6069/uwlswd.4jrs-m847> ;
-    skos:notation "da"@en ;
+    skos:notation "da" ;
     skos:prefLabel "armadillo"@en .
 
 <https://doi.org/10.6069/uwlswd.4jrs-m847#db> a skos:Concept ;
     skos:definition "Butterfly."@en ;
     skos:inScheme <https://doi.org/10.6069/uwlswd.4jrs-m847> ;
-    skos:notation "db"@en ;
+    skos:notation "db" ;
     skos:prefLabel "butterfly"@en .
 
 <https://doi.org/10.6069/uwlswd.4jrs-m847#dc> a skos:Concept ;
     skos:definition "Eckert."@en ;
     skos:inScheme <https://doi.org/10.6069/uwlswd.4jrs-m847> ;
-    skos:notation "dc"@en ;
+    skos:notation "dc" ;
     skos:prefLabel "Eckert"@en .
 
 <https://doi.org/10.6069/uwlswd.4jrs-m847#dd> a skos:Concept ;
     skos:definition "Goode's homolosine."@en ;
     skos:inScheme <https://doi.org/10.6069/uwlswd.4jrs-m847> ;
-    skos:notation "dd"@en ;
+    skos:notation "dd" ;
     skos:prefLabel "Goode's homolosine"@en .
 
 <https://doi.org/10.6069/uwlswd.4jrs-m847#de> a skos:Concept ;
     skos:definition "Miller's bipolar oblique conformal conic."@en ;
     skos:inScheme <https://doi.org/10.6069/uwlswd.4jrs-m847> ;
-    skos:notation "de"@en ;
+    skos:notation "de" ;
     skos:prefLabel "Miller's bipolar oblique conformal conic"@en .
 
 <https://doi.org/10.6069/uwlswd.4jrs-m847#df> a skos:Concept ;
     skos:definition "Van Der Grinten."@en ;
     skos:inScheme <https://doi.org/10.6069/uwlswd.4jrs-m847> ;
-    skos:notation "df"@en ;
+    skos:notation "df" ;
     skos:prefLabel "Van Der Grinten"@en .
 
 <https://doi.org/10.6069/uwlswd.4jrs-m847#dg> a skos:Concept ;
     skos:definition "Dimaxion."@en ;
     skos:inScheme <https://doi.org/10.6069/uwlswd.4jrs-m847> ;
-    skos:notation "dg"@en ;
+    skos:notation "dg" ;
     skos:prefLabel "dimaxion"@en .
 
 <https://doi.org/10.6069/uwlswd.4jrs-m847#dh> a skos:Concept ;
     skos:definition "Cordiform."@en ;
     skos:inScheme <https://doi.org/10.6069/uwlswd.4jrs-m847> ;
-    skos:notation "dh"@en ;
+    skos:notation "dh" ;
     skos:prefLabel "cordiform"@en .
 
 <https://doi.org/10.6069/uwlswd.4jrs-m847#dl> a skos:Concept ;
     skos:definition "Lambert conformal."@en ;
     skos:inScheme <https://doi.org/10.6069/uwlswd.4jrs-m847> ;
-    skos:notation "dl"@en ;
+    skos:notation "dl" ;
     skos:prefLabel "Lambert conformal"@en .
 
 <https://doi.org/10.6069/uwlswd.4jrs-m847#pound2> a skos:Concept ;
     skos:definition "Projection not specified."@en ;
     skos:inScheme <https://doi.org/10.6069/uwlswd.4jrs-m847> ;
-    skos:notation "##"@en ;
+    skos:notation "##" ;
     skos:prefLabel "projection not specified"@en ;
     skos:scopeNote "Used for most globes."@en .
 
 <https://doi.org/10.6069/uwlswd.4jrs-m847#zz> a skos:Concept ;
     skos:definition "Projection other than Aitoff, gnomic, Lambert's azimuthal equal area, orthographic, azimuthal equidistant, stereographic, general vertical near-sided, modified stereographic for Alaska, Chamberlin trimetric, polar stereographic, azimuthal, specific type unknown, azimuthal, other, Gall, Goode's homolographic, Lambert's cylindrical equal area, Mercator, Miller, Mollweide, sinusoidal, transverse mercator, Gauss-Kruger, equirectangular, Krovak, Cassini-Soldner, oblique Mercator, Robinson, space oblique Mercator, cylindrical, specific type unknown, cylindrical, other, Alber's equal area, Bonne, Lambert's conformal conic, equidistant conic, polyconic, conic, specific type unknown, conic, other, armadillo, butterfly, Eckert, Goode's homolosine, Miller's bipolar oblique conformal conic, Van der Grinten, dimaxion, cordiform, Lambert conformal."@en ;
     skos:inScheme <https://doi.org/10.6069/uwlswd.4jrs-m847> ;
-    skos:notation "zz"@en ;
+    skos:notation "zz" ;
     skos:prefLabel "other"@en .
 
 <https://doi.org/10.6069/uwlswd.4jrs-m847> a skos:ConceptScheme ;
@@ -300,12 +300,12 @@
         <https://uwlib-cams.github.io/uwlswd_vocabs_marc_006_008/008/maps_projection/maps_projection.rdf> ;
     dct:issued "2023" ;
     dct:license <http://creativecommons.org/publicdomain/zero/1.0> ;
-    dct:provenance <https://doi.org/10.6069/uwlswd.2e2b-y833> ;
+    dct:provenance <https://doi.org/10.6069/uwlswd.2e2b-y833#marc00Xvalues> ;
     dct:publisher <http://viaf.org/viaf/139541794> ;
     dct:source <http://marc21rdf.info>,
         <https://www.loc.gov/marc/bibliographic/bd008.html> ;
     dct:title "Maps: projection"@en ;
     dct:type <http://purl.org/dc/dcmitype/Dataset> ;
-    schema:disambiguatingDescription "SKOS Concept Scheme for MARC 00X Values" ;
-    schema:version "1-0-1" .
+    schema:disambiguatingDescription "SKOS Concept Scheme for MARC 00X Values"@en ;
+    schema:version "1-1-0" .
 

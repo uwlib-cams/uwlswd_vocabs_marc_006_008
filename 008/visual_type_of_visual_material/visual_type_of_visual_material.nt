@@ -1,133 +1,133 @@
+<https://doi.org/10.6069/uwlswd.qgc0-9r48> <http://purl.org/dc/terms/title> "Visual: type of visual material"@en .
+<https://doi.org/10.6069/uwlswd.qgc0-9r48#r> <http://www.w3.org/2004/02/skos/core#inScheme> <https://doi.org/10.6069/uwlswd.qgc0-9r48> .
+<https://doi.org/10.6069/uwlswd.qgc0-9r48#s> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<https://doi.org/10.6069/uwlswd.qgc0-9r48#n> <http://www.w3.org/2004/02/skos/core#notation> "n" .
+<https://doi.org/10.6069/uwlswd.qgc0-9r48#ex> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<https://doi.org/10.6069/uwlswd.qgc0-9r48#i> <http://www.w3.org/2004/02/skos/core#definition> "Two-dimensional visual representation accessible to the naked eye and generally on an opaque backing."@en .
+<https://doi.org/10.6069/uwlswd.qgc0-9r48#q> <http://www.w3.org/2004/02/skos/core#definition> "Three-dimensional representation of a real thing, either of the exact size of the original or to scale."@en .
+<https://doi.org/10.6069/uwlswd.qgc0-9r48#ex> <http://www.w3.org/2004/02/skos/core#prefLabel> "electronic videorecording [obsolete]"@en .
+<https://doi.org/10.6069/uwlswd.qgc0-9r48#k> <http://www.w3.org/2004/02/skos/core#prefLabel> "graphic"@en .
 <https://doi.org/10.6069/uwlswd.qgc0-9r48#k> <http://www.w3.org/2004/02/skos/core#scopeNote> "Used for original or historical graphic material."@en .
-<https://doi.org/10.6069/uwlswd.qgc0-9r48#s> <http://www.w3.org/2004/02/skos/core#scopeNote> "Modern stereographs, for example, Viewmaster reels, are included here."@en .
-<https://doi.org/10.6069/uwlswd.qgc0-9r48#n> <http://www.w3.org/2004/02/skos/core#inScheme> <https://doi.org/10.6069/uwlswd.qgc0-9r48> .
+<https://doi.org/10.6069/uwlswd.qgc0-9r48#w> <http://www.w3.org/2004/02/skos/core#inScheme> <https://doi.org/10.6069/uwlswd.qgc0-9r48> .
+<https://doi.org/10.6069/uwlswd.qgc0-9r48#a> <http://www.w3.org/2004/02/skos/core#definition> "Two or three-dimensional work of art created by an artist, for example, a sculpture, as contrasted with a reproduction of it."@en .
+<https://doi.org/10.6069/uwlswd.qgc0-9r48#c> <http://www.w3.org/2004/02/skos/core#prefLabel> "art reproduction"@en .
+<https://doi.org/10.6069/uwlswd.qgc0-9r48> <http://purl.org/dc/elements/1.1/contributor> "Metadata Management Associates"@en .
+<https://doi.org/10.6069/uwlswd.qgc0-9r48> <http://purl.org/dc/terms/publisher> <http://viaf.org/viaf/139541794> .
+<https://doi.org/10.6069/uwlswd.qgc0-9r48#i> <http://www.w3.org/2004/02/skos/core#notation> "i" .
+<https://doi.org/10.6069/uwlswd.qgc0-9r48#a> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<https://doi.org/10.6069/uwlswd.qgc0-9r48#g> <http://www.w3.org/2004/02/skos/core#scopeNote> "includes puzzles and simulations."@en .
+<https://doi.org/10.6069/uwlswd.qgc0-9r48#g> <http://www.w3.org/2004/02/skos/core#notation> "g" .
+<https://doi.org/10.6069/uwlswd.qgc0-9r48#l> <http://www.w3.org/2004/02/skos/core#notation> "l" .
+<https://doi.org/10.6069/uwlswd.qgc0-9r48#b> <http://www.w3.org/2004/02/skos/core#prefLabel> "kit"@en .
+<https://doi.org/10.6069/uwlswd.qgc0-9r48#b> <http://www.w3.org/2004/02/skos/core#definition> "Mixture of components from two or more categories, that is, sound recording, maps, filmstrips, etc., no one of which is the predominant constituent of the item."@en .
+<https://doi.org/10.6069/uwlswd.qgc0-9r48#c> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<https://doi.org/10.6069/uwlswd.qgc0-9r48#i> <http://www.w3.org/2004/02/skos/core#prefLabel> "picture"@en .
+<https://doi.org/10.6069/uwlswd.qgc0-9r48#b> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<https://doi.org/10.6069/uwlswd.qgc0-9r48#p> <http://www.w3.org/2004/02/skos/core#inScheme> <https://doi.org/10.6069/uwlswd.qgc0-9r48> .
+<https://doi.org/10.6069/uwlswd.qgc0-9r48#p> <http://www.w3.org/2004/02/skos/core#definition> "Transparent mount, usually glass, containing a minute object to be viewed through a microscope or microprojector."@en .
+<https://doi.org/10.6069/uwlswd.qgc0-9r48#o> <http://www.w3.org/2004/02/skos/core#definition> "Card or other opaque material printed with words, numerals, or pictures and designed for rapid display."@en .
+<https://doi.org/10.6069/uwlswd.qgc0-9r48#w> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<https://doi.org/10.6069/uwlswd.qgc0-9r48#t> <http://www.w3.org/2004/02/skos/core#inScheme> <https://doi.org/10.6069/uwlswd.qgc0-9r48> .
+<https://doi.org/10.6069/uwlswd.qgc0-9r48#m> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<https://doi.org/10.6069/uwlswd.qgc0-9r48#s> <http://www.w3.org/2004/02/skos/core#notation> "s" .
+<https://doi.org/10.6069/uwlswd.qgc0-9r48> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#ConceptScheme> .
+<https://doi.org/10.6069/uwlswd.qgc0-9r48#n> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<https://doi.org/10.6069/uwlswd.qgc0-9r48#r> <http://www.w3.org/2004/02/skos/core#scopeNote> "Includes 1) all three-dimensional items such as clothing, stitchery, fabrics, tools, and utensils; and 2) naturally occurring objects."@en .
+<https://doi.org/10.6069/uwlswd.qgc0-9r48#r> <http://www.w3.org/2004/02/skos/core#definition> "Realia."@en .
+<https://doi.org/10.6069/uwlswd.qgc0-9r48#n> <http://www.w3.org/2004/02/skos/core#prefLabel> "chart"@en .
+<https://doi.org/10.6069/uwlswd.qgc0-9r48#l> <http://www.w3.org/2004/02/skos/core#prefLabel> "technical drawing"@en .
+<https://doi.org/10.6069/uwlswd.qgc0-9r48#m> <http://www.w3.org/2004/02/skos/core#prefLabel> "motion picture"@en .
+<https://doi.org/10.6069/uwlswd.qgc0-9r48#l> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<https://doi.org/10.6069/uwlswd.qgc0-9r48#t> <http://www.w3.org/2004/02/skos/core#scopeNote> "X-rays are coded as transparencies."@en .
+<https://doi.org/10.6069/uwlswd.qgc0-9r48#f> <http://www.w3.org/2004/02/skos/core#inScheme> <https://doi.org/10.6069/uwlswd.qgc0-9r48> .
+<https://doi.org/10.6069/uwlswd.qgc0-9r48#i> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
 <https://doi.org/10.6069/uwlswd.qgc0-9r48> <http://purl.org/dc/terms/format> <http://www.w3.org/ns/formats/N-Triples> .
+<https://doi.org/10.6069/uwlswd.qgc0-9r48#m> <http://www.w3.org/2004/02/skos/core#notation> "m" .
+<https://doi.org/10.6069/uwlswd.qgc0-9r48> <http://purl.org/dc/terms/hasFormat> <https://uwlib-cams.github.io/uwlswd_vocabs_marc_006_008/008/visual_type_of_visual_material/visual_type_of_visual_material.rdf> .
+<https://doi.org/10.6069/uwlswd.qgc0-9r48#s> <http://www.w3.org/2004/02/skos/core#prefLabel> "slide"@en .
+<https://doi.org/10.6069/uwlswd.qgc0-9r48#z> <http://www.w3.org/2004/02/skos/core#prefLabel> "other"@en .
+<https://doi.org/10.6069/uwlswd.qgc0-9r48#d> <http://www.w3.org/2004/02/skos/core#prefLabel> "diorama"@en .
+<https://doi.org/10.6069/uwlswd.qgc0-9r48> <http://purl.org/dc/terms/creator> <http://viaf.org/viaf/139541794> .
+<https://doi.org/10.6069/uwlswd.qgc0-9r48#v> <http://www.w3.org/2004/02/skos/core#inScheme> <https://doi.org/10.6069/uwlswd.qgc0-9r48> .
+<https://doi.org/10.6069/uwlswd.qgc0-9r48> <http://purl.org/dc/terms/provenance> <https://doi.org/10.6069/uwlswd.2e2b-y833#marc00Xvalues> .
+<https://doi.org/10.6069/uwlswd.qgc0-9r48#g> <http://www.w3.org/2004/02/skos/core#definition> "Item or set of items designed for play according to prescribed rules and intended for recreation or instruction."@en .
+<https://doi.org/10.6069/uwlswd.qgc0-9r48#l> <http://www.w3.org/2004/02/skos/core#inScheme> <https://doi.org/10.6069/uwlswd.qgc0-9r48> .
+<https://doi.org/10.6069/uwlswd.qgc0-9r48#q> <http://www.w3.org/2004/02/skos/core#inScheme> <https://doi.org/10.6069/uwlswd.qgc0-9r48> .
+<https://doi.org/10.6069/uwlswd.qgc0-9r48#i> <http://www.w3.org/2004/02/skos/core#inScheme> <https://doi.org/10.6069/uwlswd.qgc0-9r48> .
+<https://doi.org/10.6069/uwlswd.qgc0-9r48#z> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<https://doi.org/10.6069/uwlswd.qgc0-9r48#ex> <http://www.w3.org/2004/02/skos/core#notation> "e" .
+<https://doi.org/10.6069/uwlswd.qgc0-9r48#o> <http://www.w3.org/2004/02/skos/core#prefLabel> "flash card"@en .
+<https://doi.org/10.6069/uwlswd.qgc0-9r48#t> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<https://doi.org/10.6069/uwlswd.qgc0-9r48#d> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<https://doi.org/10.6069/uwlswd.qgc0-9r48> <http://purl.org/dc/terms/license> <http://creativecommons.org/publicdomain/zero/1.0> .
+<https://doi.org/10.6069/uwlswd.qgc0-9r48#k> <http://www.w3.org/2004/02/skos/core#inScheme> <https://doi.org/10.6069/uwlswd.qgc0-9r48> .
+<https://doi.org/10.6069/uwlswd.qgc0-9r48#t> <http://www.w3.org/2004/02/skos/core#notation> "t" .
+<https://doi.org/10.6069/uwlswd.qgc0-9r48#p> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<https://doi.org/10.6069/uwlswd.qgc0-9r48#w> <http://www.w3.org/2004/02/skos/core#prefLabel> "toy"@en .
+<https://doi.org/10.6069/uwlswd.qgc0-9r48#r> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<https://doi.org/10.6069/uwlswd.qgc0-9r48#w> <http://www.w3.org/2004/02/skos/core#notation> "w" .
+<https://doi.org/10.6069/uwlswd.qgc0-9r48#z> <http://www.w3.org/2004/02/skos/core#definition> "Type of visual material other than art original, kit, art reproduction, diorama, filmstrip, game, picture, graphic, technical drawing, motion picture, chart, flash card, microscope slide, model, realia, slide, transparency, videorecording, or toy."@en .
+<https://doi.org/10.6069/uwlswd.qgc0-9r48#f> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<https://doi.org/10.6069/uwlswd.qgc0-9r48#b> <http://www.w3.org/2004/02/skos/core#notation> "b" .
+<https://doi.org/10.6069/uwlswd.qgc0-9r48#c> <http://www.w3.org/2004/02/skos/core#notation> "c" .
+<https://doi.org/10.6069/uwlswd.qgc0-9r48#c> <http://www.w3.org/2004/02/skos/core#inScheme> <https://doi.org/10.6069/uwlswd.qgc0-9r48> .
+<https://doi.org/10.6069/uwlswd.qgc0-9r48#l> <http://www.w3.org/2004/02/skos/core#definition> "Cross section, detail, diagram, elevation, perspective, plan, working plan, etc., made for use in an architectural engineering or other technical context."@en .
+<https://doi.org/10.6069/uwlswd.qgc0-9r48#r> <http://www.w3.org/2004/02/skos/core#prefLabel> "realia"@en .
+<https://doi.org/10.6069/uwlswd.qgc0-9r48#t> <http://www.w3.org/2004/02/skos/core#definition> "Transparent material on which a basically still image is recorded. Transparencies are designed for use with an overhead projector or a light box."@en .
+<https://doi.org/10.6069/uwlswd.qgc0-9r48#k> <http://www.w3.org/2004/02/skos/core#notation> "k" .
+<https://doi.org/10.6069/uwlswd.qgc0-9r48#r> <http://www.w3.org/2004/02/skos/core#notation> "r" .
+<https://doi.org/10.6069/uwlswd.qgc0-9r48#q> <http://www.w3.org/2004/02/skos/core#prefLabel> "model"@en .
+<https://doi.org/10.6069/uwlswd.qgc0-9r48#o> <http://www.w3.org/2004/02/skos/core#inScheme> <https://doi.org/10.6069/uwlswd.qgc0-9r48> .
+<https://doi.org/10.6069/uwlswd.qgc0-9r48#ex> <http://www.w3.org/2004/02/skos/core#inScheme> <https://doi.org/10.6069/uwlswd.qgc0-9r48> .
+<https://doi.org/10.6069/uwlswd.qgc0-9r48#q> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<https://doi.org/10.6069/uwlswd.qgc0-9r48> <http://purl.org/dc/terms/source> <https://www.loc.gov/marc/bibliographic/bd008.html> .
+<https://doi.org/10.6069/uwlswd.qgc0-9r48#a> <http://www.w3.org/2004/02/skos/core#prefLabel> "art original"@en .
+<https://doi.org/10.6069/uwlswd.qgc0-9r48#z> <http://www.w3.org/2004/02/skos/core#notation> "z" .
+<https://doi.org/10.6069/uwlswd.qgc0-9r48#n> <http://www.w3.org/2004/02/skos/core#definition> "Opaque sheet that exhibits data in graphic or tabular form (e.g., a calendar)."@en .
+<https://doi.org/10.6069/uwlswd.qgc0-9r48#g> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<https://doi.org/10.6069/uwlswd.qgc0-9r48#b> <http://www.w3.org/2004/02/skos/core#scopeNote> "Also includes the packages of material called laboratory kits, and packages of assorted materials, such as a set of K-12 social studies curriculum material (all books, workbooks, guides, activities, etc.) or packages of educational test materials (tests, answer sheets, scoring guides, score charts, interpretative manuals, etc.)."@en .
+<https://doi.org/10.6069/uwlswd.qgc0-9r48#d> <http://www.w3.org/2004/02/skos/core#definition> "Three-dimensional representation of a scene created by placing objects, figures, etc. in front of a two-dimensional background."@en .
+<https://doi.org/10.6069/uwlswd.qgc0-9r48#g> <http://www.w3.org/2004/02/skos/core#inScheme> <https://doi.org/10.6069/uwlswd.qgc0-9r48> .
+<https://doi.org/10.6069/uwlswd.qgc0-9r48> <https://schema.org/disambiguatingDescription> "SKOS Concept Scheme for MARC 00X Values"@en .
+<https://doi.org/10.6069/uwlswd.qgc0-9r48#a> <http://www.w3.org/2004/02/skos/core#notation> "a" .
+<https://doi.org/10.6069/uwlswd.qgc0-9r48#o> <http://www.w3.org/2004/02/skos/core#notation> "o" .
+<https://doi.org/10.6069/uwlswd.qgc0-9r48#f> <http://www.w3.org/2004/02/skos/core#prefLabel> "filmstrip"@en .
+<https://doi.org/10.6069/uwlswd.qgc0-9r48> <http://purl.org/dc/terms/description> "Indicates the type of visual material being described."@en .
+<https://doi.org/10.6069/uwlswd.qgc0-9r48> <http://purl.org/dc/terms/hasFormat> <https://uwlib-cams.github.io/uwlswd_vocabs_marc_006_008/008/visual_type_of_visual_material/visual_type_of_visual_material.jsonld> .
+<https://doi.org/10.6069/uwlswd.qgc0-9r48#g> <http://www.w3.org/2004/02/skos/core#prefLabel> "game"@en .
+<https://doi.org/10.6069/uwlswd.qgc0-9r48#p> <http://www.w3.org/2004/02/skos/core#prefLabel> "microscope slide"@en .
+<https://doi.org/10.6069/uwlswd.qgc0-9r48#c> <http://www.w3.org/2004/02/skos/core#definition> "Two or three-dimensional mechanically reproduced copy of a work of art, generally as one of a commercial edition."@en .
+<https://doi.org/10.6069/uwlswd.qgc0-9r48> <http://purl.org/dc/terms/alternative> "MARC21 008/33 values for visual materials expressed using RDF"@en .
+<https://doi.org/10.6069/uwlswd.qgc0-9r48#s> <http://www.w3.org/2004/02/skos/core#scopeNote> "Modern stereographs, for example, Viewmaster reels, are included here."@en .
+<https://doi.org/10.6069/uwlswd.qgc0-9r48> <http://purl.org/dc/elements/1.1/language> "en" .
+<https://doi.org/10.6069/uwlswd.qgc0-9r48#q> <http://www.w3.org/2004/02/skos/core#notation> "q" .
+<https://doi.org/10.6069/uwlswd.qgc0-9r48#o> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<https://doi.org/10.6069/uwlswd.qgc0-9r48#t> <http://www.w3.org/2004/02/skos/core#prefLabel> "transparency"@en .
+<https://doi.org/10.6069/uwlswd.qgc0-9r48> <http://purl.org/dc/terms/hasFormat> <https://uwlib-cams.github.io/uwlswd_vocabs_marc_006_008/008/visual_type_of_visual_material/visual_type_of_visual_material.html> .
+<https://doi.org/10.6069/uwlswd.qgc0-9r48#m> <http://www.w3.org/2004/02/skos/core#inScheme> <https://doi.org/10.6069/uwlswd.qgc0-9r48> .
+<https://doi.org/10.6069/uwlswd.qgc0-9r48> <http://purl.org/dc/terms/hasFormat> <https://uwlib-cams.github.io/uwlswd_vocabs_marc_006_008/008/visual_type_of_visual_material/visual_type_of_visual_material.ttl> .
+<https://doi.org/10.6069/uwlswd.qgc0-9r48#f> <http://www.w3.org/2004/02/skos/core#definition> "Length of film containing a succession of images intended for projection one frame at a time with or without recorded sound."@en .
+<https://doi.org/10.6069/uwlswd.qgc0-9r48#w> <http://www.w3.org/2004/02/skos/core#definition> "Material object for children or others to play with (often an imitation of some familiar object); a plaything; also, something contrived for amusement rather than for practical use."@en .
+<https://doi.org/10.6069/uwlswd.qgc0-9r48#n> <http://www.w3.org/2004/02/skos/core#inScheme> <https://doi.org/10.6069/uwlswd.qgc0-9r48> .
+<https://doi.org/10.6069/uwlswd.qgc0-9r48#f> <http://www.w3.org/2004/02/skos/core#notation> "f" .
+<https://doi.org/10.6069/uwlswd.qgc0-9r48#d> <http://www.w3.org/2004/02/skos/core#notation> "d" .
+<https://doi.org/10.6069/uwlswd.qgc0-9r48> <https://schema.org/version> "1-1-0" .
+<https://doi.org/10.6069/uwlswd.qgc0-9r48#v> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<https://doi.org/10.6069/uwlswd.qgc0-9r48#s> <http://www.w3.org/2004/02/skos/core#inScheme> <https://doi.org/10.6069/uwlswd.qgc0-9r48> .
+<https://doi.org/10.6069/uwlswd.qgc0-9r48> <http://purl.org/dc/terms/source> <http://marc21rdf.info> .
+<https://doi.org/10.6069/uwlswd.qgc0-9r48#v> <http://www.w3.org/2004/02/skos/core#prefLabel> "videorecording"@en .
+<https://doi.org/10.6069/uwlswd.qgc0-9r48#v> <http://www.w3.org/2004/02/skos/core#notation> "v" .
 <https://doi.org/10.6069/uwlswd.qgc0-9r48> <http://purl.org/dc/terms/contributor> <http://viaf.org/viaf/151962300> .
 <https://doi.org/10.6069/uwlswd.qgc0-9r48#s> <http://www.w3.org/2004/02/skos/core#definition> "Transparent material on which there is a two-dimensional image, usually held in a mount, and designed for use in a projector or viewer."@en .
-<https://doi.org/10.6069/uwlswd.qgc0-9r48#m> <http://www.w3.org/2004/02/skos/core#notation> "m"@en .
-<https://doi.org/10.6069/uwlswd.qgc0-9r48#d> <http://www.w3.org/2004/02/skos/core#notation> "d"@en .
-<https://doi.org/10.6069/uwlswd.qgc0-9r48#z> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
-<https://doi.org/10.6069/uwlswd.qgc0-9r48#m> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
-<https://doi.org/10.6069/uwlswd.qgc0-9r48> <http://purl.org/dc/terms/hasFormat> <https://uwlib-cams.github.io/uwlswd_vocabs_marc_006_008/008/visual_type_of_visual_material/visual_type_of_visual_material.html> .
-<https://doi.org/10.6069/uwlswd.qgc0-9r48> <http://purl.org/dc/terms/publisher> <http://viaf.org/viaf/139541794> .
-<https://doi.org/10.6069/uwlswd.qgc0-9r48#g> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
-<https://doi.org/10.6069/uwlswd.qgc0-9r48#b> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
-<https://doi.org/10.6069/uwlswd.qgc0-9r48> <http://purl.org/dc/terms/title> "Visual: type of visual material"@en .
-<https://doi.org/10.6069/uwlswd.qgc0-9r48#d> <http://www.w3.org/2004/02/skos/core#prefLabel> "diorama"@en .
-<https://doi.org/10.6069/uwlswd.qgc0-9r48> <https://schema.org/version> "1-0-1" .
-<https://doi.org/10.6069/uwlswd.qgc0-9r48#a> <http://www.w3.org/2004/02/skos/core#notation> "a"@en .
-<https://doi.org/10.6069/uwlswd.qgc0-9r48#z> <http://www.w3.org/2004/02/skos/core#prefLabel> "other"@en .
-<https://doi.org/10.6069/uwlswd.qgc0-9r48#l> <http://www.w3.org/2004/02/skos/core#notation> "l"@en .
-<https://doi.org/10.6069/uwlswd.qgc0-9r48#i> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
-<https://doi.org/10.6069/uwlswd.qgc0-9r48#t> <http://www.w3.org/2004/02/skos/core#prefLabel> "transparency"@en .
-<https://doi.org/10.6069/uwlswd.qgc0-9r48#f> <http://www.w3.org/2004/02/skos/core#definition> "Length of film containing a succession of images intended for projection one frame at a time with or without recorded sound."@en .
-<https://doi.org/10.6069/uwlswd.qgc0-9r48#o> <http://www.w3.org/2004/02/skos/core#inScheme> <https://doi.org/10.6069/uwlswd.qgc0-9r48> .
-<https://doi.org/10.6069/uwlswd.qgc0-9r48> <http://purl.org/dc/terms/license> <http://creativecommons.org/publicdomain/zero/1.0> .
-<https://doi.org/10.6069/uwlswd.qgc0-9r48#r> <http://www.w3.org/2004/02/skos/core#scopeNote> "Includes 1) all three-dimensional items such as clothing, stitchery, fabrics, tools, and utensils; and 2) naturally occurring objects."@en .
-<https://doi.org/10.6069/uwlswd.qgc0-9r48#l> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
-<https://doi.org/10.6069/uwlswd.qgc0-9r48#d> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
-<https://doi.org/10.6069/uwlswd.qgc0-9r48#g> <http://www.w3.org/2004/02/skos/core#prefLabel> "game"@en .
-<https://doi.org/10.6069/uwlswd.qgc0-9r48#c> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
-<https://doi.org/10.6069/uwlswd.qgc0-9r48#l> <http://www.w3.org/2004/02/skos/core#inScheme> <https://doi.org/10.6069/uwlswd.qgc0-9r48> .
-<https://doi.org/10.6069/uwlswd.qgc0-9r48#ex> <http://www.w3.org/2004/02/skos/core#inScheme> <https://doi.org/10.6069/uwlswd.qgc0-9r48> .
-<https://doi.org/10.6069/uwlswd.qgc0-9r48#b> <http://www.w3.org/2004/02/skos/core#scopeNote> "Also includes the packages of material called laboratory kits, and packages of assorted materials, such as a set of K-12 social studies curriculum material (all books, workbooks, guides, activities, etc.) or packages of educational test materials (tests, answer sheets, scoring guides, score charts, interpretative manuals, etc.)."@en .
-<https://doi.org/10.6069/uwlswd.qgc0-9r48#t> <http://www.w3.org/2004/02/skos/core#inScheme> <https://doi.org/10.6069/uwlswd.qgc0-9r48> .
-<https://doi.org/10.6069/uwlswd.qgc0-9r48#t> <http://www.w3.org/2004/02/skos/core#notation> "t"@en .
-<https://doi.org/10.6069/uwlswd.qgc0-9r48#p> <http://www.w3.org/2004/02/skos/core#definition> "Transparent mount, usually glass, containing a minute object to be viewed through a microscope or microprojector."@en .
-<https://doi.org/10.6069/uwlswd.qgc0-9r48#s> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
-<https://doi.org/10.6069/uwlswd.qgc0-9r48#k> <http://www.w3.org/2004/02/skos/core#inScheme> <https://doi.org/10.6069/uwlswd.qgc0-9r48> .
-<https://doi.org/10.6069/uwlswd.qgc0-9r48#r> <http://www.w3.org/2004/02/skos/core#inScheme> <https://doi.org/10.6069/uwlswd.qgc0-9r48> .
-<https://doi.org/10.6069/uwlswd.qgc0-9r48#n> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
-<https://doi.org/10.6069/uwlswd.qgc0-9r48#i> <http://www.w3.org/2004/02/skos/core#notation> "i"@en .
-<https://doi.org/10.6069/uwlswd.qgc0-9r48#s> <http://www.w3.org/2004/02/skos/core#prefLabel> "slide"@en .
-<https://doi.org/10.6069/uwlswd.qgc0-9r48#ex> <http://www.w3.org/2004/02/skos/core#notation> "e"@en .
-<https://doi.org/10.6069/uwlswd.qgc0-9r48#f> <http://www.w3.org/2004/02/skos/core#prefLabel> "filmstrip"@en .
-<https://doi.org/10.6069/uwlswd.qgc0-9r48> <http://purl.org/dc/terms/creator> <http://viaf.org/viaf/139541794> .
-<https://doi.org/10.6069/uwlswd.qgc0-9r48#k> <http://www.w3.org/2004/02/skos/core#prefLabel> "graphic"@en .
-<https://doi.org/10.6069/uwlswd.qgc0-9r48#m> <http://www.w3.org/2004/02/skos/core#definition> "Series of still pictures on film with or without sound, designed to be projected in rapid succession to produce the optical effect of motion."@en .
-<https://doi.org/10.6069/uwlswd.qgc0-9r48#o> <http://www.w3.org/2004/02/skos/core#prefLabel> "flash card"@en .
-<https://doi.org/10.6069/uwlswd.qgc0-9r48#c> <http://www.w3.org/2004/02/skos/core#prefLabel> "art reproduction"@en .
-<https://doi.org/10.6069/uwlswd.qgc0-9r48#b> <http://www.w3.org/2004/02/skos/core#prefLabel> "kit"@en .
-<https://doi.org/10.6069/uwlswd.qgc0-9r48#o> <http://www.w3.org/2004/02/skos/core#notation> "o"@en .
-<https://doi.org/10.6069/uwlswd.qgc0-9r48#o> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
-<https://doi.org/10.6069/uwlswd.qgc0-9r48> <http://purl.org/dc/terms/source> <http://marc21rdf.info> .
-<https://doi.org/10.6069/uwlswd.qgc0-9r48#z> <http://www.w3.org/2004/02/skos/core#definition> "Type of visual material other than art original, kit, art reproduction, diorama, filmstrip, game, picture, graphic, technical drawing, motion picture, chart, flash card, microscope slide, model, realia, slide, transparency, videorecording, or toy."@en .
-<https://doi.org/10.6069/uwlswd.qgc0-9r48> <http://purl.org/dc/terms/hasFormat> <https://uwlib-cams.github.io/uwlswd_vocabs_marc_006_008/008/visual_type_of_visual_material/visual_type_of_visual_material.jsonld> .
-<https://doi.org/10.6069/uwlswd.qgc0-9r48#g> <http://www.w3.org/2004/02/skos/core#scopeNote> "includes puzzles and simulations."@en .
-<https://doi.org/10.6069/uwlswd.qgc0-9r48#w> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
-<https://doi.org/10.6069/uwlswd.qgc0-9r48#k> <http://www.w3.org/2004/02/skos/core#notation> "k"@en .
-<https://doi.org/10.6069/uwlswd.qgc0-9r48#b> <http://www.w3.org/2004/02/skos/core#notation> "b"@en .
-<https://doi.org/10.6069/uwlswd.qgc0-9r48#z> <http://www.w3.org/2004/02/skos/core#notation> "z"@en .
-<https://doi.org/10.6069/uwlswd.qgc0-9r48#v> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
-<https://doi.org/10.6069/uwlswd.qgc0-9r48#p> <http://www.w3.org/2004/02/skos/core#prefLabel> "microscope slide"@en .
-<https://doi.org/10.6069/uwlswd.qgc0-9r48> <http://purl.org/dc/terms/type> <http://purl.org/dc/dcmitype/Dataset> .
 <https://doi.org/10.6069/uwlswd.qgc0-9r48#a> <http://www.w3.org/2004/02/skos/core#inScheme> <https://doi.org/10.6069/uwlswd.qgc0-9r48> .
-<https://doi.org/10.6069/uwlswd.qgc0-9r48#k> <http://www.w3.org/2004/02/skos/core#definition> "Graphic."@en .
-<https://doi.org/10.6069/uwlswd.qgc0-9r48> <http://purl.org/dc/terms/hasFormat> <https://uwlib-cams.github.io/uwlswd_vocabs_marc_006_008/008/visual_type_of_visual_material/visual_type_of_visual_material.ttl> .
-<https://doi.org/10.6069/uwlswd.qgc0-9r48> <http://purl.org/dc/terms/provenance> <https://doi.org/10.6069/uwlswd.2e2b-y833> .
-<https://doi.org/10.6069/uwlswd.qgc0-9r48#q> <http://www.w3.org/2004/02/skos/core#inScheme> <https://doi.org/10.6069/uwlswd.qgc0-9r48> .
-<https://doi.org/10.6069/uwlswd.qgc0-9r48#f> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
-<https://doi.org/10.6069/uwlswd.qgc0-9r48#s> <http://www.w3.org/2004/02/skos/core#notation> "s"@en .
-<https://doi.org/10.6069/uwlswd.qgc0-9r48#ex> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
-<https://doi.org/10.6069/uwlswd.qgc0-9r48#o> <http://www.w3.org/2004/02/skos/core#definition> "Card or other opaque material printed with words, numerals, or pictures and designed for rapid display."@en .
-<https://doi.org/10.6069/uwlswd.qgc0-9r48#w> <http://www.w3.org/2004/02/skos/core#inScheme> <https://doi.org/10.6069/uwlswd.qgc0-9r48> .
-<https://doi.org/10.6069/uwlswd.qgc0-9r48#t> <http://www.w3.org/2004/02/skos/core#definition> "Transparent material on which a basically still image is recorded. Transparencies are designed for use with an overhead projector or a light box."@en .
-<https://doi.org/10.6069/uwlswd.qgc0-9r48#a> <http://www.w3.org/2004/02/skos/core#prefLabel> "art original"@en .
-<https://doi.org/10.6069/uwlswd.qgc0-9r48#f> <http://www.w3.org/2004/02/skos/core#inScheme> <https://doi.org/10.6069/uwlswd.qgc0-9r48> .
-<https://doi.org/10.6069/uwlswd.qgc0-9r48#p> <http://www.w3.org/2004/02/skos/core#notation> "p"@en .
-<https://doi.org/10.6069/uwlswd.qgc0-9r48#n> <http://www.w3.org/2004/02/skos/core#notation> "n"@en .
-<https://doi.org/10.6069/uwlswd.qgc0-9r48#g> <http://www.w3.org/2004/02/skos/core#notation> "g"@en .
-<https://doi.org/10.6069/uwlswd.qgc0-9r48> <http://purl.org/dc/terms/alternative> "MARC21 008/33 values for visual materials expressed using RDF"@en .
-<https://doi.org/10.6069/uwlswd.qgc0-9r48#r> <http://www.w3.org/2004/02/skos/core#definition> "Realia."@en .
-<https://doi.org/10.6069/uwlswd.qgc0-9r48#b> <http://www.w3.org/2004/02/skos/core#inScheme> <https://doi.org/10.6069/uwlswd.qgc0-9r48> .
-<https://doi.org/10.6069/uwlswd.qgc0-9r48#r> <http://www.w3.org/2004/02/skos/core#notation> "r"@en .
 <https://doi.org/10.6069/uwlswd.qgc0-9r48#v> <http://www.w3.org/2004/02/skos/core#definition> "Recording on which visual images, usually in motion and accompanied by sound, have been registered. Videorecordings are designed for playback by means of a television receiver or monitor."@en .
-<https://doi.org/10.6069/uwlswd.qgc0-9r48#z> <http://www.w3.org/2004/02/skos/core#inScheme> <https://doi.org/10.6069/uwlswd.qgc0-9r48> .
-<https://doi.org/10.6069/uwlswd.qgc0-9r48#f> <http://www.w3.org/2004/02/skos/core#notation> "f"@en .
-<https://doi.org/10.6069/uwlswd.qgc0-9r48#m> <http://www.w3.org/2004/02/skos/core#inScheme> <https://doi.org/10.6069/uwlswd.qgc0-9r48> .
-<https://doi.org/10.6069/uwlswd.qgc0-9r48#g> <http://www.w3.org/2004/02/skos/core#inScheme> <https://doi.org/10.6069/uwlswd.qgc0-9r48> .
-<https://doi.org/10.6069/uwlswd.qgc0-9r48> <http://purl.org/dc/terms/issued> "2023" .
-<https://doi.org/10.6069/uwlswd.qgc0-9r48#w> <http://www.w3.org/2004/02/skos/core#definition> "Material object for children or others to play with (often an imitation of some familiar object); a plaything; also, something contrived for amusement rather than for practical use."@en .
-<https://doi.org/10.6069/uwlswd.qgc0-9r48#q> <http://www.w3.org/2004/02/skos/core#prefLabel> "model"@en .
-<https://doi.org/10.6069/uwlswd.qgc0-9r48#i> <http://www.w3.org/2004/02/skos/core#definition> "Two-dimensional visual representation accessible to the naked eye and generally on an opaque backing."@en .
-<https://doi.org/10.6069/uwlswd.qgc0-9r48#i> <http://www.w3.org/2004/02/skos/core#inScheme> <https://doi.org/10.6069/uwlswd.qgc0-9r48> .
-<https://doi.org/10.6069/uwlswd.qgc0-9r48> <http://purl.org/dc/terms/description> "Indicates the type of visual material being described."@en .
-<https://doi.org/10.6069/uwlswd.qgc0-9r48#l> <http://www.w3.org/2004/02/skos/core#prefLabel> "technical drawing"@en .
-<https://doi.org/10.6069/uwlswd.qgc0-9r48#p> <http://www.w3.org/2004/02/skos/core#inScheme> <https://doi.org/10.6069/uwlswd.qgc0-9r48> .
-<https://doi.org/10.6069/uwlswd.qgc0-9r48#q> <http://www.w3.org/2004/02/skos/core#definition> "Three-dimensional representation of a real thing, either of the exact size of the original or to scale."@en .
-<https://doi.org/10.6069/uwlswd.qgc0-9r48#n> <http://www.w3.org/2004/02/skos/core#prefLabel> "chart"@en .
-<https://doi.org/10.6069/uwlswd.qgc0-9r48#n> <http://www.w3.org/2004/02/skos/core#definition> "Opaque sheet that exhibits data in graphic or tabular form (e.g., a calendar)."@en .
-<https://doi.org/10.6069/uwlswd.qgc0-9r48#i> <http://www.w3.org/2004/02/skos/core#prefLabel> "picture"@en .
-<https://doi.org/10.6069/uwlswd.qgc0-9r48#t> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
-<https://doi.org/10.6069/uwlswd.qgc0-9r48#m> <http://www.w3.org/2004/02/skos/core#prefLabel> "motion picture"@en .
 <https://doi.org/10.6069/uwlswd.qgc0-9r48#k> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
-<https://doi.org/10.6069/uwlswd.qgc0-9r48#r> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
-<https://doi.org/10.6069/uwlswd.qgc0-9r48#r> <http://www.w3.org/2004/02/skos/core#prefLabel> "realia"@en .
-<https://doi.org/10.6069/uwlswd.qgc0-9r48#s> <http://www.w3.org/2004/02/skos/core#inScheme> <https://doi.org/10.6069/uwlswd.qgc0-9r48> .
-<https://doi.org/10.6069/uwlswd.qgc0-9r48> <http://purl.org/dc/terms/source> <https://www.loc.gov/marc/bibliographic/bd008.html> .
-<https://doi.org/10.6069/uwlswd.qgc0-9r48#a> <http://www.w3.org/2004/02/skos/core#definition> "Two or three-dimensional work of art created by an artist, for example, a sculpture, as contrasted with a reproduction of it."@en .
+<https://doi.org/10.6069/uwlswd.qgc0-9r48#p> <http://www.w3.org/2004/02/skos/core#notation> "p" .
+<https://doi.org/10.6069/uwlswd.qgc0-9r48> <http://purl.org/dc/terms/type> <http://purl.org/dc/dcmitype/Dataset> .
+<https://doi.org/10.6069/uwlswd.qgc0-9r48> <http://purl.org/dc/terms/issued> "2023" .
+<https://doi.org/10.6069/uwlswd.qgc0-9r48#z> <http://www.w3.org/2004/02/skos/core#inScheme> <https://doi.org/10.6069/uwlswd.qgc0-9r48> .
+<https://doi.org/10.6069/uwlswd.qgc0-9r48#b> <http://www.w3.org/2004/02/skos/core#inScheme> <https://doi.org/10.6069/uwlswd.qgc0-9r48> .
+<https://doi.org/10.6069/uwlswd.qgc0-9r48#k> <http://www.w3.org/2004/02/skos/core#definition> "Graphic."@en .
 <https://doi.org/10.6069/uwlswd.qgc0-9r48#o> <http://www.w3.org/2004/02/skos/core#scopeNote> "Activity cards are included in this category."@en .
-<https://doi.org/10.6069/uwlswd.qgc0-9r48#ex> <http://www.w3.org/2004/02/skos/core#prefLabel> "electronic videorecording [obsolete]"@en .
-<https://doi.org/10.6069/uwlswd.qgc0-9r48> <http://purl.org/dc/elements/1.1/language> "en" .
-<https://doi.org/10.6069/uwlswd.qgc0-9r48#w> <http://www.w3.org/2004/02/skos/core#notation> "w"@en .
-<https://doi.org/10.6069/uwlswd.qgc0-9r48#l> <http://www.w3.org/2004/02/skos/core#definition> "Cross section, detail, diagram, elevation, perspective, plan, working plan, etc., made for use in an architectural engineering or other technical context."@en .
-<https://doi.org/10.6069/uwlswd.qgc0-9r48> <https://schema.org/disambiguatingDescription> "SKOS Concept Scheme for MARC 00X Values" .
-<https://doi.org/10.6069/uwlswd.qgc0-9r48> <http://purl.org/dc/terms/hasFormat> <https://uwlib-cams.github.io/uwlswd_vocabs_marc_006_008/008/visual_type_of_visual_material/visual_type_of_visual_material.rdf> .
-<https://doi.org/10.6069/uwlswd.qgc0-9r48#w> <http://www.w3.org/2004/02/skos/core#prefLabel> "toy"@en .
-<https://doi.org/10.6069/uwlswd.qgc0-9r48#t> <http://www.w3.org/2004/02/skos/core#scopeNote> "X-rays are coded as transparencies."@en .
-<https://doi.org/10.6069/uwlswd.qgc0-9r48> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#ConceptScheme> .
-<https://doi.org/10.6069/uwlswd.qgc0-9r48#d> <http://www.w3.org/2004/02/skos/core#definition> "Three-dimensional representation of a scene created by placing objects, figures, etc. in front of a two-dimensional background."@en .
-<https://doi.org/10.6069/uwlswd.qgc0-9r48#g> <http://www.w3.org/2004/02/skos/core#definition> "Item or set of items designed for play according to prescribed rules and intended for recreation or instruction."@en .
-<https://doi.org/10.6069/uwlswd.qgc0-9r48#c> <http://www.w3.org/2004/02/skos/core#notation> "c"@en .
-<https://doi.org/10.6069/uwlswd.qgc0-9r48#c> <http://www.w3.org/2004/02/skos/core#definition> "Two or three-dimensional mechanically reproduced copy of a work of art, generally as one of a commercial edition."@en .
-<https://doi.org/10.6069/uwlswd.qgc0-9r48#v> <http://www.w3.org/2004/02/skos/core#prefLabel> "videorecording"@en .
-<https://doi.org/10.6069/uwlswd.qgc0-9r48#b> <http://www.w3.org/2004/02/skos/core#definition> "Mixture of components from two or more categories, that is, sound recording, maps, filmstrips, etc., no one of which is the predominant constituent of the item."@en .
 <https://doi.org/10.6069/uwlswd.qgc0-9r48#d> <http://www.w3.org/2004/02/skos/core#inScheme> <https://doi.org/10.6069/uwlswd.qgc0-9r48> .
-<https://doi.org/10.6069/uwlswd.qgc0-9r48#a> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
-<https://doi.org/10.6069/uwlswd.qgc0-9r48> <http://purl.org/dc/elements/1.1/contributor> "Metadata Management Associates"@en .
-<https://doi.org/10.6069/uwlswd.qgc0-9r48#q> <http://www.w3.org/2004/02/skos/core#notation> "q"@en .
-<https://doi.org/10.6069/uwlswd.qgc0-9r48#c> <http://www.w3.org/2004/02/skos/core#inScheme> <https://doi.org/10.6069/uwlswd.qgc0-9r48> .
-<https://doi.org/10.6069/uwlswd.qgc0-9r48#p> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
-<https://doi.org/10.6069/uwlswd.qgc0-9r48#q> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
-<https://doi.org/10.6069/uwlswd.qgc0-9r48#v> <http://www.w3.org/2004/02/skos/core#inScheme> <https://doi.org/10.6069/uwlswd.qgc0-9r48> .
-<https://doi.org/10.6069/uwlswd.qgc0-9r48#v> <http://www.w3.org/2004/02/skos/core#notation> "v"@en .
+<https://doi.org/10.6069/uwlswd.qgc0-9r48#m> <http://www.w3.org/2004/02/skos/core#definition> "Series of still pictures on film with or without sound, designed to be projected in rapid succession to produce the optical effect of motion."@en .

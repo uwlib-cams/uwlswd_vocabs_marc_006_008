@@ -6,99 +6,99 @@
 <https://doi.org/10.6069/uwlswd.gq3z-mv97#a> a skos:Concept ;
     skos:definition "Illustrations."@en ;
     skos:inScheme <https://doi.org/10.6069/uwlswd.gq3z-mv97> ;
-    skos:notation "a"@en ;
+    skos:notation "a" ;
     skos:prefLabel "illustrations"@en ;
     skos:scopeNote "Types of illustrations not covered by any of the more specific concepts."@en .
 
 <https://doi.org/10.6069/uwlswd.gq3z-mv97#b> a skos:Concept ;
     skos:definition "Maps."@en ;
     skos:inScheme <https://doi.org/10.6069/uwlswd.gq3z-mv97> ;
-    skos:notation "b"@en ;
+    skos:notation "b" ;
     skos:prefLabel "maps"@en .
 
 <https://doi.org/10.6069/uwlswd.gq3z-mv97#c> a skos:Concept ;
     skos:definition "Portraits."@en ;
     skos:inScheme <https://doi.org/10.6069/uwlswd.gq3z-mv97> ;
-    skos:notation "c"@en ;
+    skos:notation "c" ;
     skos:prefLabel "portraits"@en .
 
 <https://doi.org/10.6069/uwlswd.gq3z-mv97#d> a skos:Concept ;
     skos:definition "Charts."@en ;
     skos:inScheme <https://doi.org/10.6069/uwlswd.gq3z-mv97> ;
-    skos:notation "d"@en ;
+    skos:notation "d" ;
     skos:prefLabel "charts"@en .
 
 <https://doi.org/10.6069/uwlswd.gq3z-mv97#e> a skos:Concept ;
     skos:definition "Plans."@en ;
     skos:inScheme <https://doi.org/10.6069/uwlswd.gq3z-mv97> ;
-    skos:notation "e"@en ;
+    skos:notation "e" ;
     skos:prefLabel "plans"@en .
 
 <https://doi.org/10.6069/uwlswd.gq3z-mv97#f> a skos:Concept ;
     skos:definition "Plates."@en ;
     skos:inScheme <https://doi.org/10.6069/uwlswd.gq3z-mv97> ;
-    skos:notation "f"@en ;
+    skos:notation "f" ;
     skos:prefLabel "plates"@en .
 
 <https://doi.org/10.6069/uwlswd.gq3z-mv97#g> a skos:Concept ;
     skos:definition "Music."@en ;
     skos:inScheme <https://doi.org/10.6069/uwlswd.gq3z-mv97> ;
-    skos:notation "g"@en ;
+    skos:notation "g" ;
     skos:prefLabel "music"@en .
 
 <https://doi.org/10.6069/uwlswd.gq3z-mv97#h> a skos:Concept ;
     skos:definition "Facsimiles."@en ;
     skos:inScheme <https://doi.org/10.6069/uwlswd.gq3z-mv97> ;
-    skos:notation "h"@en ;
+    skos:notation "h" ;
     skos:prefLabel "facsimiles"@en .
 
 <https://doi.org/10.6069/uwlswd.gq3z-mv97#i> a skos:Concept ;
     skos:definition "Coats of arms."@en ;
     skos:inScheme <https://doi.org/10.6069/uwlswd.gq3z-mv97> ;
-    skos:notation "i"@en ;
+    skos:notation "i" ;
     skos:prefLabel "coats of arms"@en .
 
 <https://doi.org/10.6069/uwlswd.gq3z-mv97#j> a skos:Concept ;
     skos:definition "Genealogical tables."@en ;
     skos:inScheme <https://doi.org/10.6069/uwlswd.gq3z-mv97> ;
-    skos:notation "j"@en ;
+    skos:notation "j" ;
     skos:prefLabel "genealogical tables"@en .
 
 <https://doi.org/10.6069/uwlswd.gq3z-mv97#k> a skos:Concept ;
     skos:definition "Forms."@en ;
     skos:inScheme <https://doi.org/10.6069/uwlswd.gq3z-mv97> ;
-    skos:notation "k"@en ;
+    skos:notation "k" ;
     skos:prefLabel "forms"@en .
 
 <https://doi.org/10.6069/uwlswd.gq3z-mv97#l> a skos:Concept ;
     skos:definition "Samples."@en ;
     skos:inScheme <https://doi.org/10.6069/uwlswd.gq3z-mv97> ;
-    skos:notation "l"@en ;
+    skos:notation "l" ;
     skos:prefLabel "samples"@en .
 
 <https://doi.org/10.6069/uwlswd.gq3z-mv97#m> a skos:Concept ;
     skos:definition "Phonodisc, phonowire, etc."@en ;
     skos:inScheme <https://doi.org/10.6069/uwlswd.gq3z-mv97> ;
-    skos:notation "m"@en ;
+    skos:notation "m" ;
     skos:prefLabel "phonodisc, phonowire, etc."@en .
 
 <https://doi.org/10.6069/uwlswd.gq3z-mv97#o> a skos:Concept ;
     skos:definition "Photographs."@en ;
     skos:inScheme <https://doi.org/10.6069/uwlswd.gq3z-mv97> ;
-    skos:notation "o"@en ;
+    skos:notation "o" ;
     skos:prefLabel "photographs"@en ;
     skos:scopeNote "If of minor importance, code as illustrations instead of photographs."@en .
 
 <https://doi.org/10.6069/uwlswd.gq3z-mv97#p> a skos:Concept ;
     skos:definition "Illuminations."@en ;
     skos:inScheme <https://doi.org/10.6069/uwlswd.gq3z-mv97> ;
-    skos:notation "p"@en ;
+    skos:notation "p" ;
     skos:prefLabel "illuminations"@en .
 
 <https://doi.org/10.6069/uwlswd.gq3z-mv97#pound> a skos:Concept ;
     skos:definition "Work does not contain illustrations."@en ;
     skos:inScheme <https://doi.org/10.6069/uwlswd.gq3z-mv97> ;
-    skos:notation "#"@en ;
+    skos:notation "#" ;
     skos:prefLabel "no illustrations"@en .
 
 <https://doi.org/10.6069/uwlswd.gq3z-mv97> a skos:ConceptScheme ;
@@ -115,12 +115,12 @@
         <https://uwlib-cams.github.io/uwlswd_vocabs_marc_006_008/008/books_illustrations/books_illustrations.rdf> ;
     dct:issued "2023" ;
     dct:license <http://creativecommons.org/publicdomain/zero/1.0> ;
-    dct:provenance <https://doi.org/10.6069/uwlswd.2e2b-y833> ;
+    dct:provenance <https://doi.org/10.6069/uwlswd.2e2b-y833#marc00Xvalues> ;
     dct:publisher <http://viaf.org/viaf/139541794> ;
     dct:source <http://marc21rdf.info>,
         <https://www.loc.gov/marc/bibliographic/bd008.html> ;
     dct:title "Books: illustrations"@en ;
     dct:type <http://purl.org/dc/dcmitype/Dataset> ;
-    schema:disambiguatingDescription "SKOS Concept Scheme for MARC 00X Values" ;
-    schema:version "1-0-1" .
+    schema:disambiguatingDescription "SKOS Concept Scheme for MARC 00X Values"@en ;
+    schema:version "1-1-0" .
 

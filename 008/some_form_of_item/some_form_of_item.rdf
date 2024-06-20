@@ -1,10 +1,18 @@
-<?xml version='1.0' encoding='UTF-8'?>
-<rdf:RDF xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dct="http://purl.org/dc/terms/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:schema="https://schema.org/" xmlns:skos="http://www.w3.org/2004/02/skos/core#" xmlns:uwp="https://doi.org/10.6069/uwlib.55.d.3#">
-  <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.dh5m-5y16#px">
+<?xml version="1.0" encoding="utf-8"?>
+<rdf:RDF
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:dct="http://purl.org/dc/terms/"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:schema="https://schema.org/"
+   xmlns:skos="http://www.w3.org/2004/02/skos/core#"
+   xmlns:uwp="https://doi.org/10.6069/uwlib.55.d.3#"
+>
+  <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.dh5m-5y16#f">
     <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
     <skos:inScheme rdf:resource="https://doi.org/10.6069/uwlswd.dh5m-5y16"/>
-    <skos:prefLabel xml:lang="en">photocopy [obsolete]</skos:prefLabel>
-    <skos:notation>p</skos:notation>
+    <skos:prefLabel xml:lang="en">braille</skos:prefLabel>
+    <skos:definition xml:lang="en">Braille.</skos:definition>
+    <skos:notation>f</skos:notation>
   </rdf:Description>
   <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.dh5m-5y16">
     <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#ConceptScheme"/>
@@ -34,50 +42,18 @@
     <uwp:appliesToMaterial>continuing resources</uwp:appliesToMaterial>
     <uwp:appliesToMaterial>mixed materials</uwp:appliesToMaterial>
   </rdf:Description>
+  <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.dh5m-5y16#c">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <skos:inScheme rdf:resource="https://doi.org/10.6069/uwlswd.dh5m-5y16"/>
+    <skos:prefLabel xml:lang="en">microopaque</skos:prefLabel>
+    <skos:definition xml:lang="en">Microopaque.</skos:definition>
+    <skos:notation>c</skos:notation>
+  </rdf:Description>
   <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.dh5m-5y16#gx">
     <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
     <skos:inScheme rdf:resource="https://doi.org/10.6069/uwlswd.dh5m-5y16"/>
     <skos:prefLabel xml:lang="en">punched paper tape [obsolete]</skos:prefLabel>
     <skos:notation>g</skos:notation>
-  </rdf:Description>
-  <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.dh5m-5y16#zx">
-    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-    <skos:inScheme rdf:resource="https://doi.org/10.6069/uwlswd.dh5m-5y16"/>
-    <skos:prefLabel xml:lang="en">other form of reproduction [obsolete]</skos:prefLabel>
-    <skos:notation>z</skos:notation>
-  </rdf:Description>
-  <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.dh5m-5y16#f">
-    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-    <skos:inScheme rdf:resource="https://doi.org/10.6069/uwlswd.dh5m-5y16"/>
-    <skos:prefLabel xml:lang="en">braille</skos:prefLabel>
-    <skos:definition xml:lang="en">Braille.</skos:definition>
-    <skos:notation>f</skos:notation>
-  </rdf:Description>
-  <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.dh5m-5y16#r">
-    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-    <skos:inScheme rdf:resource="https://doi.org/10.6069/uwlswd.dh5m-5y16"/>
-    <skos:prefLabel xml:lang="en">regular print reproduction</skos:prefLabel>
-    <skos:definition xml:lang="en">Eye-readable print, such as a photocopy.</skos:definition>
-    <skos:notation>r</skos:notation>
-  </rdf:Description>
-  <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.dh5m-5y16#q">
-    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-    <skos:inScheme rdf:resource="https://doi.org/10.6069/uwlswd.dh5m-5y16"/>
-    <skos:prefLabel xml:lang="en">direct electronic</skos:prefLabel>
-    <skos:definition xml:lang="en">Storage on a directly accessible tangible recording medium, e.g. disc, tape, playaway device, flashdrive, portable hard drive, etc.</skos:definition>
-    <skos:notation>q</skos:notation>
-  </rdf:Description>
-  <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.dh5m-5y16#xx">
-    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-    <skos:inScheme rdf:resource="https://doi.org/10.6069/uwlswd.dh5m-5y16"/>
-    <skos:prefLabel xml:lang="en">other form of reproduction [obsolete] [USMARC only]</skos:prefLabel>
-    <skos:notation>x</skos:notation>
-  </rdf:Description>
-  <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.dh5m-5y16#hx">
-    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-    <skos:inScheme rdf:resource="https://doi.org/10.6069/uwlswd.dh5m-5y16"/>
-    <skos:prefLabel xml:lang="en">magnetic tape [obsolete]</skos:prefLabel>
-    <skos:notation>h</skos:notation>
   </rdf:Description>
   <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.dh5m-5y16#d">
     <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
@@ -86,6 +62,26 @@
     <skos:definition xml:lang="en">Large print.</skos:definition>
     <skos:notation>d</skos:notation>
   </rdf:Description>
+  <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.dh5m-5y16#a">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <skos:inScheme rdf:resource="https://doi.org/10.6069/uwlswd.dh5m-5y16"/>
+    <skos:prefLabel xml:lang="en">microfilm</skos:prefLabel>
+    <skos:definition xml:lang="en">Microfilm.</skos:definition>
+    <skos:notation>a</skos:notation>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.dh5m-5y16#q">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <skos:inScheme rdf:resource="https://doi.org/10.6069/uwlswd.dh5m-5y16"/>
+    <skos:prefLabel xml:lang="en">direct electronic</skos:prefLabel>
+    <skos:definition xml:lang="en">Storage on a directly accessible tangible recording medium, e.g. disc, tape, playaway device, flashdrive, portable hard drive, etc.</skos:definition>
+    <skos:notation>q</skos:notation>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.dh5m-5y16#tx">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <skos:inScheme rdf:resource="https://doi.org/10.6069/uwlswd.dh5m-5y16"/>
+    <skos:prefLabel xml:lang="en">typewritten transcript [obsolete]</skos:prefLabel>
+    <skos:notation>t</skos:notation>
+  </rdf:Description>
   <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.dh5m-5y16#o">
     <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
     <skos:inScheme rdf:resource="https://doi.org/10.6069/uwlswd.dh5m-5y16"/>
@@ -93,12 +89,11 @@
     <skos:definition xml:lang="en">Accessed by means of hardware and software connections to a communications network.</skos:definition>
     <skos:notation>o</skos:notation>
   </rdf:Description>
-  <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.dh5m-5y16#c">
+  <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.dh5m-5y16#zx">
     <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
     <skos:inScheme rdf:resource="https://doi.org/10.6069/uwlswd.dh5m-5y16"/>
-    <skos:prefLabel xml:lang="en">microopaque</skos:prefLabel>
-    <skos:definition xml:lang="en">Microopaque.</skos:definition>
-    <skos:notation>c</skos:notation>
+    <skos:prefLabel xml:lang="en">other form of reproduction [obsolete]</skos:prefLabel>
+    <skos:notation>z</skos:notation>
   </rdf:Description>
   <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.dh5m-5y16#b">
     <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
@@ -106,21 +101,6 @@
     <skos:prefLabel xml:lang="en">microfiche</skos:prefLabel>
     <skos:definition xml:lang="en">Microfiche.</skos:definition>
     <skos:notation>b</skos:notation>
-  </rdf:Description>
-  <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.dh5m-5y16#pound">
-    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-    <skos:inScheme rdf:resource="https://doi.org/10.6069/uwlswd.dh5m-5y16"/>
-    <skos:prefLabel xml:lang="en">none of the following</skos:prefLabel>
-    <skos:definition xml:lang="en">Form of item other than microfilm, microfiche, microopaque, large print, braille, online, direct electronic, regular print reproduction, or electronic.</skos:definition>
-    <skos:notation>#</skos:notation>
-    <skos:scopeNote xml:lang="en">Not specified by one of the other codes.</skos:scopeNote>
-  </rdf:Description>
-  <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.dh5m-5y16#a">
-    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-    <skos:inScheme rdf:resource="https://doi.org/10.6069/uwlswd.dh5m-5y16"/>
-    <skos:prefLabel xml:lang="en">microfilm</skos:prefLabel>
-    <skos:definition xml:lang="en">Microfilm.</skos:definition>
-    <skos:notation>a</skos:notation>
   </rdf:Description>
   <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.dh5m-5y16#s">
     <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
@@ -130,17 +110,44 @@
     <skos:notation>s</skos:notation>
     <skos:scopeNote xml:lang="en">Not used for items that do not require the use of a computer (e.g., music compact discs, videodiscs).</skos:scopeNote>
   </rdf:Description>
-  <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.dh5m-5y16#tx">
+  <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.dh5m-5y16#hx">
     <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
     <skos:inScheme rdf:resource="https://doi.org/10.6069/uwlswd.dh5m-5y16"/>
-    <skos:prefLabel xml:lang="en">typewritten transcript [obsolete]</skos:prefLabel>
-    <skos:notation>t</skos:notation>
+    <skos:prefLabel xml:lang="en">magnetic tape [obsolete]</skos:prefLabel>
+    <skos:notation>h</skos:notation>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.dh5m-5y16#pound">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <skos:inScheme rdf:resource="https://doi.org/10.6069/uwlswd.dh5m-5y16"/>
+    <skos:prefLabel xml:lang="en">none of the following</skos:prefLabel>
+    <skos:definition xml:lang="en">Form of item other than microfilm, microfiche, microopaque, large print, braille, online, direct electronic, regular print reproduction, or electronic.</skos:definition>
+    <skos:notation>#</skos:notation>
+    <skos:scopeNote xml:lang="en">Not specified by one of the other codes.</skos:scopeNote>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.dh5m-5y16#r">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <skos:inScheme rdf:resource="https://doi.org/10.6069/uwlswd.dh5m-5y16"/>
+    <skos:prefLabel xml:lang="en">regular print reproduction</skos:prefLabel>
+    <skos:definition xml:lang="en">Eye-readable print, such as a photocopy.</skos:definition>
+    <skos:notation>r</skos:notation>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.dh5m-5y16#xx">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <skos:inScheme rdf:resource="https://doi.org/10.6069/uwlswd.dh5m-5y16"/>
+    <skos:prefLabel xml:lang="en">other form of reproduction [obsolete] [USMARC only]</skos:prefLabel>
+    <skos:notation>x</skos:notation>
   </rdf:Description>
   <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.dh5m-5y16#jx">
     <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
     <skos:inScheme rdf:resource="https://doi.org/10.6069/uwlswd.dh5m-5y16"/>
     <skos:prefLabel xml:lang="en">handwritten transcript [obsolete]</skos:prefLabel>
     <skos:notation>j</skos:notation>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.dh5m-5y16#px">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <skos:inScheme rdf:resource="https://doi.org/10.6069/uwlswd.dh5m-5y16"/>
+    <skos:prefLabel xml:lang="en">photocopy [obsolete]</skos:prefLabel>
+    <skos:notation>p</skos:notation>
   </rdf:Description>
   <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.dh5m-5y16#ix">
     <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>

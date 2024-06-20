@@ -1,258 +1,258 @@
-<https://doi.org/10.6069/uwlswd.4jrs-m847#be> <http://www.w3.org/2004/02/skos/core#inScheme> <https://doi.org/10.6069/uwlswd.4jrs-m847> .
-<https://doi.org/10.6069/uwlswd.4jrs-m847#ca> <http://www.w3.org/2004/02/skos/core#prefLabel> "Alber's equal area"@en .
-<https://doi.org/10.6069/uwlswd.4jrs-m847#bb> <http://www.w3.org/2004/02/skos/core#definition> "Goode's homolographic."@en .
-<https://doi.org/10.6069/uwlswd.4jrs-m847#dl> <http://www.w3.org/2004/02/skos/core#inScheme> <https://doi.org/10.6069/uwlswd.4jrs-m847> .
-<https://doi.org/10.6069/uwlswd.4jrs-m847#br> <http://www.w3.org/2004/02/skos/core#notation> "br"@en .
-<https://doi.org/10.6069/uwlswd.4jrs-m847#pound2> <http://www.w3.org/2004/02/skos/core#prefLabel> "projection not specified"@en .
-<https://doi.org/10.6069/uwlswd.4jrs-m847#dh> <http://www.w3.org/2004/02/skos/core#notation> "dh"@en .
-<https://doi.org/10.6069/uwlswd.4jrs-m847#bb> <http://www.w3.org/2004/02/skos/core#inScheme> <https://doi.org/10.6069/uwlswd.4jrs-m847> .
-<https://doi.org/10.6069/uwlswd.4jrs-m847#de> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
-<https://doi.org/10.6069/uwlswd.4jrs-m847#cz> <http://www.w3.org/2004/02/skos/core#definition> "Conic, other."@en .
-<https://doi.org/10.6069/uwlswd.4jrs-m847#au> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
-<https://doi.org/10.6069/uwlswd.4jrs-m847#bk> <http://www.w3.org/2004/02/skos/core#notation> "bk"@en .
-<https://doi.org/10.6069/uwlswd.4jrs-m847#dl> <http://www.w3.org/2004/02/skos/core#definition> "Lambert conformal."@en .
-<https://doi.org/10.6069/uwlswd.4jrs-m847#dh> <http://www.w3.org/2004/02/skos/core#prefLabel> "cordiform"@en .
-<https://doi.org/10.6069/uwlswd.4jrs-m847#bo> <http://www.w3.org/2004/02/skos/core#definition> "Oblique Mercator."@en .
-<https://doi.org/10.6069/uwlswd.4jrs-m847#am> <http://www.w3.org/2004/02/skos/core#notation> "am"@en .
-<https://doi.org/10.6069/uwlswd.4jrs-m847> <http://purl.org/dc/terms/issued> "2023" .
-<https://doi.org/10.6069/uwlswd.4jrs-m847#dl> <http://www.w3.org/2004/02/skos/core#notation> "dl"@en .
-<https://doi.org/10.6069/uwlswd.4jrs-m847#bs> <http://www.w3.org/2004/02/skos/core#notation> "bs"@en .
-<https://doi.org/10.6069/uwlswd.4jrs-m847#dc> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
-<https://doi.org/10.6069/uwlswd.4jrs-m847#de> <http://www.w3.org/2004/02/skos/core#notation> "de"@en .
-<https://doi.org/10.6069/uwlswd.4jrs-m847#ag> <http://www.w3.org/2004/02/skos/core#notation> "ag"@en .
-<https://doi.org/10.6069/uwlswd.4jrs-m847#af> <http://www.w3.org/2004/02/skos/core#inScheme> <https://doi.org/10.6069/uwlswd.4jrs-m847> .
-<https://doi.org/10.6069/uwlswd.4jrs-m847#ac> <http://www.w3.org/2004/02/skos/core#prefLabel> "Lambert's azimuthal equal area"@en .
-<https://doi.org/10.6069/uwlswd.4jrs-m847#aa> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
-<https://doi.org/10.6069/uwlswd.4jrs-m847#cb> <http://www.w3.org/2004/02/skos/core#prefLabel> "Bonne"@en .
-<https://doi.org/10.6069/uwlswd.4jrs-m847#ca> <http://www.w3.org/2004/02/skos/core#inScheme> <https://doi.org/10.6069/uwlswd.4jrs-m847> .
-<https://doi.org/10.6069/uwlswd.4jrs-m847#cu> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
-<https://doi.org/10.6069/uwlswd.4jrs-m847#bb> <http://www.w3.org/2004/02/skos/core#notation> "bb"@en .
-<https://doi.org/10.6069/uwlswd.4jrs-m847#bu> <http://www.w3.org/2004/02/skos/core#inScheme> <https://doi.org/10.6069/uwlswd.4jrs-m847> .
-<https://doi.org/10.6069/uwlswd.4jrs-m847#cb> <http://www.w3.org/2004/02/skos/core#definition> "Bonne."@en .
-<https://doi.org/10.6069/uwlswd.4jrs-m847#bl> <http://www.w3.org/2004/02/skos/core#prefLabel> "Cassini-Soldner"@en .
-<https://doi.org/10.6069/uwlswd.4jrs-m847#ca> <http://www.w3.org/2004/02/skos/core#definition> "Alber's equal area."@en .
-<https://doi.org/10.6069/uwlswd.4jrs-m847#pound2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
-<https://doi.org/10.6069/uwlswd.4jrs-m847> <http://purl.org/dc/terms/format> <http://www.w3.org/ns/formats/N-Triples> .
-<https://doi.org/10.6069/uwlswd.4jrs-m847#au> <http://www.w3.org/2004/02/skos/core#inScheme> <https://doi.org/10.6069/uwlswd.4jrs-m847> .
-<https://doi.org/10.6069/uwlswd.4jrs-m847#bz> <http://www.w3.org/2004/02/skos/core#definition> "Cylindrical, other."@en .
-<https://doi.org/10.6069/uwlswd.4jrs-m847#cc> <http://www.w3.org/2004/02/skos/core#notation> "cc"@en .
-<https://doi.org/10.6069/uwlswd.4jrs-m847#br> <http://www.w3.org/2004/02/skos/core#prefLabel> "Robinson"@en .
-<https://doi.org/10.6069/uwlswd.4jrs-m847#cc> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
-<https://doi.org/10.6069/uwlswd.4jrs-m847#bl> <http://www.w3.org/2004/02/skos/core#notation> "bl"@en .
-<https://doi.org/10.6069/uwlswd.4jrs-m847> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#ConceptScheme> .
-<https://doi.org/10.6069/uwlswd.4jrs-m847#bo> <http://www.w3.org/2004/02/skos/core#prefLabel> "oblique Mercator"@en .
-<https://doi.org/10.6069/uwlswd.4jrs-m847#cu> <http://www.w3.org/2004/02/skos/core#inScheme> <https://doi.org/10.6069/uwlswd.4jrs-m847> .
-<https://doi.org/10.6069/uwlswd.4jrs-m847#bu> <http://www.w3.org/2004/02/skos/core#notation> "bu"@en .
-<https://doi.org/10.6069/uwlswd.4jrs-m847> <http://purl.org/dc/terms/source> <http://marc21rdf.info> .
-<https://doi.org/10.6069/uwlswd.4jrs-m847#da> <http://www.w3.org/2004/02/skos/core#notation> "da"@en .
-<https://doi.org/10.6069/uwlswd.4jrs-m847#ap> <http://www.w3.org/2004/02/skos/core#inScheme> <https://doi.org/10.6069/uwlswd.4jrs-m847> .
-<https://doi.org/10.6069/uwlswd.4jrs-m847#ce> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
-<https://doi.org/10.6069/uwlswd.4jrs-m847#bu> <http://www.w3.org/2004/02/skos/core#prefLabel> "cylindrical, specific type unknown"@en .
-<https://doi.org/10.6069/uwlswd.4jrs-m847#ce> <http://www.w3.org/2004/02/skos/core#notation> "ce"@en .
-<https://doi.org/10.6069/uwlswd.4jrs-m847> <http://purl.org/dc/terms/hasFormat> <https://uwlib-cams.github.io/uwlswd_vocabs_marc_006_008/008/maps_projection/maps_projection.jsonld> .
-<https://doi.org/10.6069/uwlswd.4jrs-m847#ae> <http://www.w3.org/2004/02/skos/core#prefLabel> "azimuthal equidistant"@en .
-<https://doi.org/10.6069/uwlswd.4jrs-m847#cc> <http://www.w3.org/2004/02/skos/core#inScheme> <https://doi.org/10.6069/uwlswd.4jrs-m847> .
-<https://doi.org/10.6069/uwlswd.4jrs-m847#bf> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
-<https://doi.org/10.6069/uwlswd.4jrs-m847#an> <http://www.w3.org/2004/02/skos/core#definition> "Chamberlin trimetric."@en .
-<https://doi.org/10.6069/uwlswd.4jrs-m847#be> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
-<https://doi.org/10.6069/uwlswd.4jrs-m847#am> <http://www.w3.org/2004/02/skos/core#definition> "Modified stereographic for Alaska."@en .
-<https://doi.org/10.6069/uwlswd.4jrs-m847#bc> <http://www.w3.org/2004/02/skos/core#inScheme> <https://doi.org/10.6069/uwlswd.4jrs-m847> .
-<https://doi.org/10.6069/uwlswd.4jrs-m847#df> <http://www.w3.org/2004/02/skos/core#definition> "Van Der Grinten."@en .
-<https://doi.org/10.6069/uwlswd.4jrs-m847#de> <http://www.w3.org/2004/02/skos/core#inScheme> <https://doi.org/10.6069/uwlswd.4jrs-m847> .
-<https://doi.org/10.6069/uwlswd.4jrs-m847#dl> <http://www.w3.org/2004/02/skos/core#prefLabel> "Lambert conformal"@en .
-<https://doi.org/10.6069/uwlswd.4jrs-m847#bf> <http://www.w3.org/2004/02/skos/core#prefLabel> "Mollweide"@en .
-<https://doi.org/10.6069/uwlswd.4jrs-m847#bs> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
-<https://doi.org/10.6069/uwlswd.4jrs-m847#bf> <http://www.w3.org/2004/02/skos/core#notation> "bf"@en .
-<https://doi.org/10.6069/uwlswd.4jrs-m847#pound2> <http://www.w3.org/2004/02/skos/core#scopeNote> "Used for most globes."@en .
-<https://doi.org/10.6069/uwlswd.4jrs-m847#bc> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
-<https://doi.org/10.6069/uwlswd.4jrs-m847#bc> <http://www.w3.org/2004/02/skos/core#prefLabel> "Lambert's cylindrical equal area"@en .
-<https://doi.org/10.6069/uwlswd.4jrs-m847#an> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
-<https://doi.org/10.6069/uwlswd.4jrs-m847#ce> <http://www.w3.org/2004/02/skos/core#inScheme> <https://doi.org/10.6069/uwlswd.4jrs-m847> .
-<https://doi.org/10.6069/uwlswd.4jrs-m847#be> <http://www.w3.org/2004/02/skos/core#notation> "be"@en .
-<https://doi.org/10.6069/uwlswd.4jrs-m847#cc> <http://www.w3.org/2004/02/skos/core#definition> "Lambert's conformal conic."@en .
-<https://doi.org/10.6069/uwlswd.4jrs-m847#ag> <http://www.w3.org/2004/02/skos/core#inScheme> <https://doi.org/10.6069/uwlswd.4jrs-m847> .
-<https://doi.org/10.6069/uwlswd.4jrs-m847#df> <http://www.w3.org/2004/02/skos/core#inScheme> <https://doi.org/10.6069/uwlswd.4jrs-m847> .
-<https://doi.org/10.6069/uwlswd.4jrs-m847#am> <http://www.w3.org/2004/02/skos/core#prefLabel> "modified stereographic for Alaska"@en .
-<https://doi.org/10.6069/uwlswd.4jrs-m847> <http://purl.org/dc/terms/hasFormat> <https://uwlib-cams.github.io/uwlswd_vocabs_marc_006_008/008/maps_projection/maps_projection.ttl> .
-<https://doi.org/10.6069/uwlswd.4jrs-m847#ad> <http://www.w3.org/2004/02/skos/core#notation> "ad"@en .
-<https://doi.org/10.6069/uwlswd.4jrs-m847#ac> <http://www.w3.org/2004/02/skos/core#definition> "Lambert's azimuthal equal area."@en .
-<https://doi.org/10.6069/uwlswd.4jrs-m847#bi> <http://www.w3.org/2004/02/skos/core#notation> "bi"@en .
-<https://doi.org/10.6069/uwlswd.4jrs-m847#ag> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
-<https://doi.org/10.6069/uwlswd.4jrs-m847#ce> <http://www.w3.org/2004/02/skos/core#prefLabel> "equidistant conic"@en .
-<https://doi.org/10.6069/uwlswd.4jrs-m847#bj> <http://www.w3.org/2004/02/skos/core#notation> "bj"@en .
-<https://doi.org/10.6069/uwlswd.4jrs-m847#ad> <http://www.w3.org/2004/02/skos/core#inScheme> <https://doi.org/10.6069/uwlswd.4jrs-m847> .
-<https://doi.org/10.6069/uwlswd.4jrs-m847#da> <http://www.w3.org/2004/02/skos/core#inScheme> <https://doi.org/10.6069/uwlswd.4jrs-m847> .
-<https://doi.org/10.6069/uwlswd.4jrs-m847#bo> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
-<https://doi.org/10.6069/uwlswd.4jrs-m847#bu> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
-<https://doi.org/10.6069/uwlswd.4jrs-m847#ap> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
-<https://doi.org/10.6069/uwlswd.4jrs-m847#ap> <http://www.w3.org/2004/02/skos/core#definition> "Polar stereographic."@en .
-<https://doi.org/10.6069/uwlswd.4jrs-m847> <http://purl.org/dc/terms/contributor> <http://viaf.org/viaf/151962300> .
-<https://doi.org/10.6069/uwlswd.4jrs-m847#ad> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
-<https://doi.org/10.6069/uwlswd.4jrs-m847#bs> <http://www.w3.org/2004/02/skos/core#inScheme> <https://doi.org/10.6069/uwlswd.4jrs-m847> .
-<https://doi.org/10.6069/uwlswd.4jrs-m847#dg> <http://www.w3.org/2004/02/skos/core#notation> "dg"@en .
-<https://doi.org/10.6069/uwlswd.4jrs-m847#br> <http://www.w3.org/2004/02/skos/core#definition> "Robinson."@en .
-<https://doi.org/10.6069/uwlswd.4jrs-m847#bf> <http://www.w3.org/2004/02/skos/core#inScheme> <https://doi.org/10.6069/uwlswd.4jrs-m847> .
-<https://doi.org/10.6069/uwlswd.4jrs-m847> <http://purl.org/dc/terms/source> <https://www.loc.gov/marc/bibliographic/bd008.html> .
-<https://doi.org/10.6069/uwlswd.4jrs-m847#bh> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
-<https://doi.org/10.6069/uwlswd.4jrs-m847#cb> <http://www.w3.org/2004/02/skos/core#inScheme> <https://doi.org/10.6069/uwlswd.4jrs-m847> .
-<https://doi.org/10.6069/uwlswd.4jrs-m847#br> <http://www.w3.org/2004/02/skos/core#inScheme> <https://doi.org/10.6069/uwlswd.4jrs-m847> .
-<https://doi.org/10.6069/uwlswd.4jrs-m847#cu> <http://www.w3.org/2004/02/skos/core#prefLabel> "conic, specific type unknown"@en .
-<https://doi.org/10.6069/uwlswd.4jrs-m847#an> <http://www.w3.org/2004/02/skos/core#inScheme> <https://doi.org/10.6069/uwlswd.4jrs-m847> .
-<https://doi.org/10.6069/uwlswd.4jrs-m847#ab> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
-<https://doi.org/10.6069/uwlswd.4jrs-m847#cb> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
-<https://doi.org/10.6069/uwlswd.4jrs-m847> <https://schema.org/version> "1-0-1" .
-<https://doi.org/10.6069/uwlswd.4jrs-m847#bg> <http://www.w3.org/2004/02/skos/core#prefLabel> "sinusoidal"@en .
-<https://doi.org/10.6069/uwlswd.4jrs-m847#cz> <http://www.w3.org/2004/02/skos/core#prefLabel> "conic, other"@en .
-<https://doi.org/10.6069/uwlswd.4jrs-m847> <http://purl.org/dc/terms/publisher> <http://viaf.org/viaf/139541794> .
-<https://doi.org/10.6069/uwlswd.4jrs-m847> <http://purl.org/dc/terms/hasFormat> <https://uwlib-cams.github.io/uwlswd_vocabs_marc_006_008/008/maps_projection/maps_projection.html> .
-<https://doi.org/10.6069/uwlswd.4jrs-m847#da> <http://www.w3.org/2004/02/skos/core#definition> "Armadillo."@en .
-<https://doi.org/10.6069/uwlswd.4jrs-m847#af> <http://www.w3.org/2004/02/skos/core#prefLabel> "stereographic"@en .
-<https://doi.org/10.6069/uwlswd.4jrs-m847#dc> <http://www.w3.org/2004/02/skos/core#notation> "dc"@en .
-<https://doi.org/10.6069/uwlswd.4jrs-m847#bh> <http://www.w3.org/2004/02/skos/core#notation> "bh"@en .
-<https://doi.org/10.6069/uwlswd.4jrs-m847#cp> <http://www.w3.org/2004/02/skos/core#definition> "Polyconic."@en .
-<https://doi.org/10.6069/uwlswd.4jrs-m847#bo> <http://www.w3.org/2004/02/skos/core#inScheme> <https://doi.org/10.6069/uwlswd.4jrs-m847> .
-<https://doi.org/10.6069/uwlswd.4jrs-m847#ag> <http://www.w3.org/2004/02/skos/core#definition> "General vertical near-sided."@en .
-<https://doi.org/10.6069/uwlswd.4jrs-m847#zz> <http://www.w3.org/2004/02/skos/core#definition> "Projection other than Aitoff, gnomic, Lambert's azimuthal equal area, orthographic, azimuthal equidistant, stereographic, general vertical near-sided, modified stereographic for Alaska, Chamberlin trimetric, polar stereographic, azimuthal, specific type unknown, azimuthal, other, Gall, Goode's homolographic, Lambert's cylindrical equal area, Mercator, Miller, Mollweide, sinusoidal, transverse mercator, Gauss-Kruger, equirectangular, Krovak, Cassini-Soldner, oblique Mercator, Robinson, space oblique Mercator, cylindrical, specific type unknown, cylindrical, other, Alber's equal area, Bonne, Lambert's conformal conic, equidistant conic, polyconic, conic, specific type unknown, conic, other, armadillo, butterfly, Eckert, Goode's homolosine, Miller's bipolar oblique conformal conic, Van der Grinten, dimaxion, cordiform, Lambert conformal."@en .
-<https://doi.org/10.6069/uwlswd.4jrs-m847#bl> <http://www.w3.org/2004/02/skos/core#definition> "Cassini-Soldner."@en .
-<https://doi.org/10.6069/uwlswd.4jrs-m847#df> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
-<https://doi.org/10.6069/uwlswd.4jrs-m847#az> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
-<https://doi.org/10.6069/uwlswd.4jrs-m847#df> <http://www.w3.org/2004/02/skos/core#notation> "df"@en .
-<https://doi.org/10.6069/uwlswd.4jrs-m847#ca> <http://www.w3.org/2004/02/skos/core#notation> "ca"@en .
-<https://doi.org/10.6069/uwlswd.4jrs-m847#au> <http://www.w3.org/2004/02/skos/core#prefLabel> "azimuthal, specific type unknown"@en .
-<https://doi.org/10.6069/uwlswd.4jrs-m847#cu> <http://www.w3.org/2004/02/skos/core#definition> "Conic, specific type unknown. Only the projection type (conic) is known, not the specific projection."@en .
-<https://doi.org/10.6069/uwlswd.4jrs-m847> <http://purl.org/dc/terms/type> <http://purl.org/dc/dcmitype/Dataset> .
-<https://doi.org/10.6069/uwlswd.4jrs-m847#aa> <http://www.w3.org/2004/02/skos/core#prefLabel> "Aitoff"@en .
 <https://doi.org/10.6069/uwlswd.4jrs-m847#af> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
-<https://doi.org/10.6069/uwlswd.4jrs-m847#pound2> <http://www.w3.org/2004/02/skos/core#notation> "##"@en .
-<https://doi.org/10.6069/uwlswd.4jrs-m847#bo> <http://www.w3.org/2004/02/skos/core#notation> "bo"@en .
-<https://doi.org/10.6069/uwlswd.4jrs-m847#ab> <http://www.w3.org/2004/02/skos/core#inScheme> <https://doi.org/10.6069/uwlswd.4jrs-m847> .
-<https://doi.org/10.6069/uwlswd.4jrs-m847#bc> <http://www.w3.org/2004/02/skos/core#definition> "Lambert's cylindrical equal area."@en .
 <https://doi.org/10.6069/uwlswd.4jrs-m847#dh> <http://www.w3.org/2004/02/skos/core#inScheme> <https://doi.org/10.6069/uwlswd.4jrs-m847> .
-<https://doi.org/10.6069/uwlswd.4jrs-m847#db> <http://www.w3.org/2004/02/skos/core#prefLabel> "butterfly"@en .
-<https://doi.org/10.6069/uwlswd.4jrs-m847#bg> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
-<https://doi.org/10.6069/uwlswd.4jrs-m847#db> <http://www.w3.org/2004/02/skos/core#notation> "db"@en .
-<https://doi.org/10.6069/uwlswd.4jrs-m847#bi> <http://www.w3.org/2004/02/skos/core#prefLabel> "Gauss-Kruger"@en .
-<https://doi.org/10.6069/uwlswd.4jrs-m847#bg> <http://www.w3.org/2004/02/skos/core#notation> "bg"@en .
-<https://doi.org/10.6069/uwlswd.4jrs-m847#az> <http://www.w3.org/2004/02/skos/core#definition> "Azimuthal, other."@en .
-<https://doi.org/10.6069/uwlswd.4jrs-m847#cp> <http://www.w3.org/2004/02/skos/core#prefLabel> "polyconic"@en .
-<https://doi.org/10.6069/uwlswd.4jrs-m847#au> <http://www.w3.org/2004/02/skos/core#definition> "Azimuthal, specific type unknown. Only the projection type (azimuthal) is known, not the specific projection."@en .
-<https://doi.org/10.6069/uwlswd.4jrs-m847#dd> <http://www.w3.org/2004/02/skos/core#notation> "dd"@en .
-<https://doi.org/10.6069/uwlswd.4jrs-m847#bh> <http://www.w3.org/2004/02/skos/core#prefLabel> "transverse Mercator"@en .
-<https://doi.org/10.6069/uwlswd.4jrs-m847#cu> <http://www.w3.org/2004/02/skos/core#notation> "cu"@en .
-<https://doi.org/10.6069/uwlswd.4jrs-m847#az> <http://www.w3.org/2004/02/skos/core#inScheme> <https://doi.org/10.6069/uwlswd.4jrs-m847> .
-<https://doi.org/10.6069/uwlswd.4jrs-m847#dd> <http://www.w3.org/2004/02/skos/core#definition> "Goode's homolosine."@en .
-<https://doi.org/10.6069/uwlswd.4jrs-m847#bb> <http://www.w3.org/2004/02/skos/core#prefLabel> "Goode's homolographic"@en .
-<https://doi.org/10.6069/uwlswd.4jrs-m847#ba> <http://www.w3.org/2004/02/skos/core#prefLabel> "Gall"@en .
-<https://doi.org/10.6069/uwlswd.4jrs-m847#ba> <http://www.w3.org/2004/02/skos/core#notation> "ba"@en .
-<https://doi.org/10.6069/uwlswd.4jrs-m847#ac> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
-<https://doi.org/10.6069/uwlswd.4jrs-m847#bf> <http://www.w3.org/2004/02/skos/core#definition> "Mollweide."@en .
-<https://doi.org/10.6069/uwlswd.4jrs-m847#ae> <http://www.w3.org/2004/02/skos/core#notation> "ae"@en .
-<https://doi.org/10.6069/uwlswd.4jrs-m847#af> <http://www.w3.org/2004/02/skos/core#definition> "Stereographic."@en .
-<https://doi.org/10.6069/uwlswd.4jrs-m847#ab> <http://www.w3.org/2004/02/skos/core#prefLabel> "Gnomic"@en .
-<https://doi.org/10.6069/uwlswd.4jrs-m847#bs> <http://www.w3.org/2004/02/skos/core#definition> "Space oblique Mercator."@en .
-<https://doi.org/10.6069/uwlswd.4jrs-m847#bg> <http://www.w3.org/2004/02/skos/core#inScheme> <https://doi.org/10.6069/uwlswd.4jrs-m847> .
-<https://doi.org/10.6069/uwlswd.4jrs-m847#da> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
-<https://doi.org/10.6069/uwlswd.4jrs-m847> <http://purl.org/dc/elements/1.1/contributor> "Metadata Management Associates"@en .
-<https://doi.org/10.6069/uwlswd.4jrs-m847#bh> <http://www.w3.org/2004/02/skos/core#definition> "Transverse Mercator."@en .
-<https://doi.org/10.6069/uwlswd.4jrs-m847#zz> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
-<https://doi.org/10.6069/uwlswd.4jrs-m847#dd> <http://www.w3.org/2004/02/skos/core#inScheme> <https://doi.org/10.6069/uwlswd.4jrs-m847> .
-<https://doi.org/10.6069/uwlswd.4jrs-m847> <http://purl.org/dc/terms/license> <http://creativecommons.org/publicdomain/zero/1.0> .
-<https://doi.org/10.6069/uwlswd.4jrs-m847#cc> <http://www.w3.org/2004/02/skos/core#prefLabel> "Lambert's conformal conic"@en .
-<https://doi.org/10.6069/uwlswd.4jrs-m847#bh> <http://www.w3.org/2004/02/skos/core#inScheme> <https://doi.org/10.6069/uwlswd.4jrs-m847> .
-<https://doi.org/10.6069/uwlswd.4jrs-m847#dg> <http://www.w3.org/2004/02/skos/core#prefLabel> "dimaxion"@en .
-<https://doi.org/10.6069/uwlswd.4jrs-m847#bj> <http://www.w3.org/2004/02/skos/core#prefLabel> "equirectangular"@en .
-<https://doi.org/10.6069/uwlswd.4jrs-m847#cp> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
-<https://doi.org/10.6069/uwlswd.4jrs-m847#ba> <http://www.w3.org/2004/02/skos/core#inScheme> <https://doi.org/10.6069/uwlswd.4jrs-m847> .
-<https://doi.org/10.6069/uwlswd.4jrs-m847#ce> <http://www.w3.org/2004/02/skos/core#definition> "Equidistant conic."@en .
-<https://doi.org/10.6069/uwlswd.4jrs-m847#dc> <http://www.w3.org/2004/02/skos/core#definition> "Eckert."@en .
-<https://doi.org/10.6069/uwlswd.4jrs-m847#zz> <http://www.w3.org/2004/02/skos/core#notation> "zz"@en .
-<https://doi.org/10.6069/uwlswd.4jrs-m847#az> <http://www.w3.org/2004/02/skos/core#prefLabel> "azimuthal, other"@en .
-<https://doi.org/10.6069/uwlswd.4jrs-m847#az> <http://www.w3.org/2004/02/skos/core#notation> "az"@en .
-<https://doi.org/10.6069/uwlswd.4jrs-m847#ba> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
-<https://doi.org/10.6069/uwlswd.4jrs-m847> <https://schema.org/disambiguatingDescription> "SKOS Concept Scheme for MARC 00X Values" .
-<https://doi.org/10.6069/uwlswd.4jrs-m847#ad> <http://www.w3.org/2004/02/skos/core#definition> "Orthographic."@en .
-<https://doi.org/10.6069/uwlswd.4jrs-m847#db> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
-<https://doi.org/10.6069/uwlswd.4jrs-m847#ba> <http://www.w3.org/2004/02/skos/core#definition> "Gall."@en .
-<https://doi.org/10.6069/uwlswd.4jrs-m847#br> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
-<https://doi.org/10.6069/uwlswd.4jrs-m847#bd> <http://www.w3.org/2004/02/skos/core#inScheme> <https://doi.org/10.6069/uwlswd.4jrs-m847> .
-<https://doi.org/10.6069/uwlswd.4jrs-m847#be> <http://www.w3.org/2004/02/skos/core#prefLabel> "Miller"@en .
-<https://doi.org/10.6069/uwlswd.4jrs-m847#be> <http://www.w3.org/2004/02/skos/core#definition> "Miller."@en .
-<https://doi.org/10.6069/uwlswd.4jrs-m847#aa> <http://www.w3.org/2004/02/skos/core#notation> "aa"@en .
-<https://doi.org/10.6069/uwlswd.4jrs-m847#zz> <http://www.w3.org/2004/02/skos/core#inScheme> <https://doi.org/10.6069/uwlswd.4jrs-m847> .
-<https://doi.org/10.6069/uwlswd.4jrs-m847#bi> <http://www.w3.org/2004/02/skos/core#definition> "Gauss-Kruger."@en .
-<https://doi.org/10.6069/uwlswd.4jrs-m847#ab> <http://www.w3.org/2004/02/skos/core#definition> "Gnomic."@en .
-<https://doi.org/10.6069/uwlswd.4jrs-m847#db> <http://www.w3.org/2004/02/skos/core#definition> "Butterfly."@en .
-<https://doi.org/10.6069/uwlswd.4jrs-m847#bj> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
-<https://doi.org/10.6069/uwlswd.4jrs-m847> <http://purl.org/dc/terms/description> "Indicates the projection used in producing the item."@en .
-<https://doi.org/10.6069/uwlswd.4jrs-m847#aa> <http://www.w3.org/2004/02/skos/core#inScheme> <https://doi.org/10.6069/uwlswd.4jrs-m847> .
-<https://doi.org/10.6069/uwlswd.4jrs-m847#bk> <http://www.w3.org/2004/02/skos/core#prefLabel> "krovak"@en .
-<https://doi.org/10.6069/uwlswd.4jrs-m847#ag> <http://www.w3.org/2004/02/skos/core#prefLabel> "general vertical near-sided"@en .
-<https://doi.org/10.6069/uwlswd.4jrs-m847#df> <http://www.w3.org/2004/02/skos/core#prefLabel> "Van Der Grinten"@en .
-<https://doi.org/10.6069/uwlswd.4jrs-m847#aa> <http://www.w3.org/2004/02/skos/core#definition> "Aitoff."@en .
-<https://doi.org/10.6069/uwlswd.4jrs-m847#cb> <http://www.w3.org/2004/02/skos/core#notation> "cb"@en .
-<https://doi.org/10.6069/uwlswd.4jrs-m847#au> <http://www.w3.org/2004/02/skos/core#notation> "au"@en .
-<https://doi.org/10.6069/uwlswd.4jrs-m847#bz> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
-<https://doi.org/10.6069/uwlswd.4jrs-m847#dh> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
-<https://doi.org/10.6069/uwlswd.4jrs-m847> <http://purl.org/dc/terms/title> "Maps: projection"@en .
-<https://doi.org/10.6069/uwlswd.4jrs-m847#bl> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
-<https://doi.org/10.6069/uwlswd.4jrs-m847#cz> <http://www.w3.org/2004/02/skos/core#notation> "cz"@en .
-<https://doi.org/10.6069/uwlswd.4jrs-m847#cp> <http://www.w3.org/2004/02/skos/core#inScheme> <https://doi.org/10.6069/uwlswd.4jrs-m847> .
-<https://doi.org/10.6069/uwlswd.4jrs-m847#pound2> <http://www.w3.org/2004/02/skos/core#inScheme> <https://doi.org/10.6069/uwlswd.4jrs-m847> .
-<https://doi.org/10.6069/uwlswd.4jrs-m847> <http://purl.org/dc/elements/1.1/language> "en" .
-<https://doi.org/10.6069/uwlswd.4jrs-m847#ae> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
-<https://doi.org/10.6069/uwlswd.4jrs-m847#am> <http://www.w3.org/2004/02/skos/core#inScheme> <https://doi.org/10.6069/uwlswd.4jrs-m847> .
-<https://doi.org/10.6069/uwlswd.4jrs-m847#af> <http://www.w3.org/2004/02/skos/core#notation> "af"@en .
-<https://doi.org/10.6069/uwlswd.4jrs-m847#ae> <http://www.w3.org/2004/02/skos/core#definition> "Azimuthal equidistant."@en .
-<https://doi.org/10.6069/uwlswd.4jrs-m847#ap> <http://www.w3.org/2004/02/skos/core#prefLabel> "polar stereographic"@en .
-<https://doi.org/10.6069/uwlswd.4jrs-m847#ab> <http://www.w3.org/2004/02/skos/core#notation> "ab"@en .
-<https://doi.org/10.6069/uwlswd.4jrs-m847#an> <http://www.w3.org/2004/02/skos/core#prefLabel> "Chamberlin trimetric"@en .
-<https://doi.org/10.6069/uwlswd.4jrs-m847#da> <http://www.w3.org/2004/02/skos/core#prefLabel> "armadillo"@en .
-<https://doi.org/10.6069/uwlswd.4jrs-m847#bi> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
-<https://doi.org/10.6069/uwlswd.4jrs-m847> <http://purl.org/dc/terms/creator> <http://viaf.org/viaf/139541794> .
-<https://doi.org/10.6069/uwlswd.4jrs-m847#bs> <http://www.w3.org/2004/02/skos/core#prefLabel> "space oblique Mercator"@en .
-<https://doi.org/10.6069/uwlswd.4jrs-m847#bj> <http://www.w3.org/2004/02/skos/core#inScheme> <https://doi.org/10.6069/uwlswd.4jrs-m847> .
-<https://doi.org/10.6069/uwlswd.4jrs-m847#db> <http://www.w3.org/2004/02/skos/core#inScheme> <https://doi.org/10.6069/uwlswd.4jrs-m847> .
-<https://doi.org/10.6069/uwlswd.4jrs-m847#ac> <http://www.w3.org/2004/02/skos/core#inScheme> <https://doi.org/10.6069/uwlswd.4jrs-m847> .
-<https://doi.org/10.6069/uwlswd.4jrs-m847#bz> <http://www.w3.org/2004/02/skos/core#notation> "bz"@en .
-<https://doi.org/10.6069/uwlswd.4jrs-m847#bd> <http://www.w3.org/2004/02/skos/core#prefLabel> "Mercator"@en .
-<https://doi.org/10.6069/uwlswd.4jrs-m847#bg> <http://www.w3.org/2004/02/skos/core#definition> "Sinusoidal."@en .
-<https://doi.org/10.6069/uwlswd.4jrs-m847#bc> <http://www.w3.org/2004/02/skos/core#notation> "bc"@en .
-<https://doi.org/10.6069/uwlswd.4jrs-m847#bz> <http://www.w3.org/2004/02/skos/core#inScheme> <https://doi.org/10.6069/uwlswd.4jrs-m847> .
-<https://doi.org/10.6069/uwlswd.4jrs-m847#dc> <http://www.w3.org/2004/02/skos/core#inScheme> <https://doi.org/10.6069/uwlswd.4jrs-m847> .
-<https://doi.org/10.6069/uwlswd.4jrs-m847#cp> <http://www.w3.org/2004/02/skos/core#notation> "cp"@en .
-<https://doi.org/10.6069/uwlswd.4jrs-m847#de> <http://www.w3.org/2004/02/skos/core#prefLabel> "Miller's bipolar oblique conformal conic"@en .
-<https://doi.org/10.6069/uwlswd.4jrs-m847#dd> <http://www.w3.org/2004/02/skos/core#prefLabel> "Goode's homolosine"@en .
-<https://doi.org/10.6069/uwlswd.4jrs-m847#dh> <http://www.w3.org/2004/02/skos/core#definition> "Cordiform."@en .
-<https://doi.org/10.6069/uwlswd.4jrs-m847> <http://purl.org/dc/terms/alternative> "MARC21 008/22-23 values for maps expressed using RDF"@en .
-<https://doi.org/10.6069/uwlswd.4jrs-m847#dg> <http://www.w3.org/2004/02/skos/core#definition> "Dimaxion."@en .
-<https://doi.org/10.6069/uwlswd.4jrs-m847#dd> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
-<https://doi.org/10.6069/uwlswd.4jrs-m847#ae> <http://www.w3.org/2004/02/skos/core#inScheme> <https://doi.org/10.6069/uwlswd.4jrs-m847> .
-<https://doi.org/10.6069/uwlswd.4jrs-m847#cz> <http://www.w3.org/2004/02/skos/core#inScheme> <https://doi.org/10.6069/uwlswd.4jrs-m847> .
-<https://doi.org/10.6069/uwlswd.4jrs-m847#de> <http://www.w3.org/2004/02/skos/core#definition> "Miller's bipolar oblique conformal conic."@en .
-<https://doi.org/10.6069/uwlswd.4jrs-m847> <http://purl.org/dc/terms/hasFormat> <https://uwlib-cams.github.io/uwlswd_vocabs_marc_006_008/008/maps_projection/maps_projection.rdf> .
-<https://doi.org/10.6069/uwlswd.4jrs-m847#bi> <http://www.w3.org/2004/02/skos/core#inScheme> <https://doi.org/10.6069/uwlswd.4jrs-m847> .
-<https://doi.org/10.6069/uwlswd.4jrs-m847#bz> <http://www.w3.org/2004/02/skos/core#prefLabel> "cylindrical, other"@en .
-<https://doi.org/10.6069/uwlswd.4jrs-m847#dg> <http://www.w3.org/2004/02/skos/core#inScheme> <https://doi.org/10.6069/uwlswd.4jrs-m847> .
-<https://doi.org/10.6069/uwlswd.4jrs-m847#cz> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
-<https://doi.org/10.6069/uwlswd.4jrs-m847#bj> <http://www.w3.org/2004/02/skos/core#definition> "Equirectangular."@en .
-<https://doi.org/10.6069/uwlswd.4jrs-m847#bk> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
-<https://doi.org/10.6069/uwlswd.4jrs-m847#dc> <http://www.w3.org/2004/02/skos/core#prefLabel> "Eckert"@en .
-<https://doi.org/10.6069/uwlswd.4jrs-m847#dg> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
-<https://doi.org/10.6069/uwlswd.4jrs-m847#pound2> <http://www.w3.org/2004/02/skos/core#definition> "Projection not specified."@en .
-<https://doi.org/10.6069/uwlswd.4jrs-m847#dl> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
-<https://doi.org/10.6069/uwlswd.4jrs-m847#an> <http://www.w3.org/2004/02/skos/core#notation> "an"@en .
-<https://doi.org/10.6069/uwlswd.4jrs-m847#bd> <http://www.w3.org/2004/02/skos/core#notation> "bd"@en .
-<https://doi.org/10.6069/uwlswd.4jrs-m847#bd> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
-<https://doi.org/10.6069/uwlswd.4jrs-m847#ac> <http://www.w3.org/2004/02/skos/core#notation> "ac"@en .
-<https://doi.org/10.6069/uwlswd.4jrs-m847#ap> <http://www.w3.org/2004/02/skos/core#notation> "ap"@en .
-<https://doi.org/10.6069/uwlswd.4jrs-m847#bb> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
-<https://doi.org/10.6069/uwlswd.4jrs-m847#bk> <http://www.w3.org/2004/02/skos/core#definition> "Krovak."@en .
-<https://doi.org/10.6069/uwlswd.4jrs-m847#bk> <http://www.w3.org/2004/02/skos/core#inScheme> <https://doi.org/10.6069/uwlswd.4jrs-m847> .
-<https://doi.org/10.6069/uwlswd.4jrs-m847#bd> <http://www.w3.org/2004/02/skos/core#definition> "Mercator."@en .
-<https://doi.org/10.6069/uwlswd.4jrs-m847#bl> <http://www.w3.org/2004/02/skos/core#inScheme> <https://doi.org/10.6069/uwlswd.4jrs-m847> .
-<https://doi.org/10.6069/uwlswd.4jrs-m847> <http://purl.org/dc/terms/provenance> <https://doi.org/10.6069/uwlswd.2e2b-y833> .
-<https://doi.org/10.6069/uwlswd.4jrs-m847#ad> <http://www.w3.org/2004/02/skos/core#prefLabel> "orthographic"@en .
-<https://doi.org/10.6069/uwlswd.4jrs-m847#zz> <http://www.w3.org/2004/02/skos/core#prefLabel> "other"@en .
 <https://doi.org/10.6069/uwlswd.4jrs-m847#ca> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<https://doi.org/10.6069/uwlswd.4jrs-m847#bs> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<https://doi.org/10.6069/uwlswd.4jrs-m847#ce> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<https://doi.org/10.6069/uwlswd.4jrs-m847#cp> <http://www.w3.org/2004/02/skos/core#prefLabel> "polyconic"@en .
+<https://doi.org/10.6069/uwlswd.4jrs-m847#cb> <http://www.w3.org/2004/02/skos/core#inScheme> <https://doi.org/10.6069/uwlswd.4jrs-m847> .
+<https://doi.org/10.6069/uwlswd.4jrs-m847#am> <http://www.w3.org/2004/02/skos/core#inScheme> <https://doi.org/10.6069/uwlswd.4jrs-m847> .
+<https://doi.org/10.6069/uwlswd.4jrs-m847#ap> <http://www.w3.org/2004/02/skos/core#definition> "Polar stereographic."@en .
+<https://doi.org/10.6069/uwlswd.4jrs-m847#ab> <http://www.w3.org/2004/02/skos/core#inScheme> <https://doi.org/10.6069/uwlswd.4jrs-m847> .
+<https://doi.org/10.6069/uwlswd.4jrs-m847#cc> <http://www.w3.org/2004/02/skos/core#notation> "cc" .
+<https://doi.org/10.6069/uwlswd.4jrs-m847#an> <http://www.w3.org/2004/02/skos/core#definition> "Chamberlin trimetric."@en .
+<https://doi.org/10.6069/uwlswd.4jrs-m847#au> <http://www.w3.org/2004/02/skos/core#definition> "Azimuthal, specific type unknown. Only the projection type (azimuthal) is known, not the specific projection."@en .
+<https://doi.org/10.6069/uwlswd.4jrs-m847#zz> <http://www.w3.org/2004/02/skos/core#prefLabel> "other"@en .
+<https://doi.org/10.6069/uwlswd.4jrs-m847#an> <http://www.w3.org/2004/02/skos/core#notation> "an" .
+<https://doi.org/10.6069/uwlswd.4jrs-m847#zz> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<https://doi.org/10.6069/uwlswd.4jrs-m847#bg> <http://www.w3.org/2004/02/skos/core#notation> "bg" .
+<https://doi.org/10.6069/uwlswd.4jrs-m847> <http://purl.org/dc/terms/description> "Indicates the projection used in producing the item."@en .
+<https://doi.org/10.6069/uwlswd.4jrs-m847#pound2> <http://www.w3.org/2004/02/skos/core#definition> "Projection not specified."@en .
+<https://doi.org/10.6069/uwlswd.4jrs-m847#br> <http://www.w3.org/2004/02/skos/core#inScheme> <https://doi.org/10.6069/uwlswd.4jrs-m847> .
+<https://doi.org/10.6069/uwlswd.4jrs-m847#af> <http://www.w3.org/2004/02/skos/core#inScheme> <https://doi.org/10.6069/uwlswd.4jrs-m847> .
+<https://doi.org/10.6069/uwlswd.4jrs-m847#az> <http://www.w3.org/2004/02/skos/core#inScheme> <https://doi.org/10.6069/uwlswd.4jrs-m847> .
+<https://doi.org/10.6069/uwlswd.4jrs-m847#pound2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<https://doi.org/10.6069/uwlswd.4jrs-m847#dd> <http://www.w3.org/2004/02/skos/core#notation> "dd" .
+<https://doi.org/10.6069/uwlswd.4jrs-m847#dd> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<https://doi.org/10.6069/uwlswd.4jrs-m847#dl> <http://www.w3.org/2004/02/skos/core#definition> "Lambert conformal."@en .
+<https://doi.org/10.6069/uwlswd.4jrs-m847#ce> <http://www.w3.org/2004/02/skos/core#definition> "Equidistant conic."@en .
+<https://doi.org/10.6069/uwlswd.4jrs-m847#dc> <http://www.w3.org/2004/02/skos/core#notation> "dc" .
+<https://doi.org/10.6069/uwlswd.4jrs-m847#ce> <http://www.w3.org/2004/02/skos/core#inScheme> <https://doi.org/10.6069/uwlswd.4jrs-m847> .
+<https://doi.org/10.6069/uwlswd.4jrs-m847#af> <http://www.w3.org/2004/02/skos/core#notation> "af" .
+<https://doi.org/10.6069/uwlswd.4jrs-m847#cc> <http://www.w3.org/2004/02/skos/core#prefLabel> "Lambert's conformal conic"@en .
+<https://doi.org/10.6069/uwlswd.4jrs-m847#bj> <http://www.w3.org/2004/02/skos/core#notation> "bj" .
+<https://doi.org/10.6069/uwlswd.4jrs-m847> <http://purl.org/dc/terms/license> <http://creativecommons.org/publicdomain/zero/1.0> .
+<https://doi.org/10.6069/uwlswd.4jrs-m847#cc> <http://www.w3.org/2004/02/skos/core#definition> "Lambert's conformal conic."@en .
+<https://doi.org/10.6069/uwlswd.4jrs-m847#cz> <http://www.w3.org/2004/02/skos/core#definition> "Conic, other."@en .
+<https://doi.org/10.6069/uwlswd.4jrs-m847#bj> <http://www.w3.org/2004/02/skos/core#inScheme> <https://doi.org/10.6069/uwlswd.4jrs-m847> .
+<https://doi.org/10.6069/uwlswd.4jrs-m847#ae> <http://www.w3.org/2004/02/skos/core#inScheme> <https://doi.org/10.6069/uwlswd.4jrs-m847> .
+<https://doi.org/10.6069/uwlswd.4jrs-m847#de> <http://www.w3.org/2004/02/skos/core#notation> "de" .
+<https://doi.org/10.6069/uwlswd.4jrs-m847#bl> <http://www.w3.org/2004/02/skos/core#prefLabel> "Cassini-Soldner"@en .
+<https://doi.org/10.6069/uwlswd.4jrs-m847#bz> <http://www.w3.org/2004/02/skos/core#definition> "Cylindrical, other."@en .
+<https://doi.org/10.6069/uwlswd.4jrs-m847> <http://purl.org/dc/terms/source> <http://marc21rdf.info> .
+<https://doi.org/10.6069/uwlswd.4jrs-m847#pound2> <http://www.w3.org/2004/02/skos/core#inScheme> <https://doi.org/10.6069/uwlswd.4jrs-m847> .
+<https://doi.org/10.6069/uwlswd.4jrs-m847#ab> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<https://doi.org/10.6069/uwlswd.4jrs-m847#am> <http://www.w3.org/2004/02/skos/core#prefLabel> "modified stereographic for Alaska"@en .
+<https://doi.org/10.6069/uwlswd.4jrs-m847#bz> <http://www.w3.org/2004/02/skos/core#prefLabel> "cylindrical, other"@en .
+<https://doi.org/10.6069/uwlswd.4jrs-m847#cp> <http://www.w3.org/2004/02/skos/core#definition> "Polyconic."@en .
+<https://doi.org/10.6069/uwlswd.4jrs-m847#cc> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<https://doi.org/10.6069/uwlswd.4jrs-m847#bk> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<https://doi.org/10.6069/uwlswd.4jrs-m847#dg> <http://www.w3.org/2004/02/skos/core#notation> "dg" .
+<https://doi.org/10.6069/uwlswd.4jrs-m847#cz> <http://www.w3.org/2004/02/skos/core#inScheme> <https://doi.org/10.6069/uwlswd.4jrs-m847> .
+<https://doi.org/10.6069/uwlswd.4jrs-m847#bf> <http://www.w3.org/2004/02/skos/core#notation> "bf" .
+<https://doi.org/10.6069/uwlswd.4jrs-m847#br> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<https://doi.org/10.6069/uwlswd.4jrs-m847#bz> <http://www.w3.org/2004/02/skos/core#notation> "bz" .
+<https://doi.org/10.6069/uwlswd.4jrs-m847#bf> <http://www.w3.org/2004/02/skos/core#inScheme> <https://doi.org/10.6069/uwlswd.4jrs-m847> .
+<https://doi.org/10.6069/uwlswd.4jrs-m847#bj> <http://www.w3.org/2004/02/skos/core#definition> "Equirectangular."@en .
+<https://doi.org/10.6069/uwlswd.4jrs-m847#bk> <http://www.w3.org/2004/02/skos/core#notation> "bk" .
+<https://doi.org/10.6069/uwlswd.4jrs-m847#de> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<https://doi.org/10.6069/uwlswd.4jrs-m847#cb> <http://www.w3.org/2004/02/skos/core#notation> "cb" .
+<https://doi.org/10.6069/uwlswd.4jrs-m847#bk> <http://www.w3.org/2004/02/skos/core#definition> "Krovak."@en .
+<https://doi.org/10.6069/uwlswd.4jrs-m847#bs> <http://www.w3.org/2004/02/skos/core#prefLabel> "space oblique Mercator"@en .
+<https://doi.org/10.6069/uwlswd.4jrs-m847#df> <http://www.w3.org/2004/02/skos/core#definition> "Van Der Grinten."@en .
+<https://doi.org/10.6069/uwlswd.4jrs-m847#bb> <http://www.w3.org/2004/02/skos/core#definition> "Goode's homolographic."@en .
+<https://doi.org/10.6069/uwlswd.4jrs-m847#cc> <http://www.w3.org/2004/02/skos/core#inScheme> <https://doi.org/10.6069/uwlswd.4jrs-m847> .
+<https://doi.org/10.6069/uwlswd.4jrs-m847#bk> <http://www.w3.org/2004/02/skos/core#inScheme> <https://doi.org/10.6069/uwlswd.4jrs-m847> .
+<https://doi.org/10.6069/uwlswd.4jrs-m847#bc> <http://www.w3.org/2004/02/skos/core#definition> "Lambert's cylindrical equal area."@en .
+<https://doi.org/10.6069/uwlswd.4jrs-m847#ad> <http://www.w3.org/2004/02/skos/core#definition> "Orthographic."@en .
+<https://doi.org/10.6069/uwlswd.4jrs-m847#zz> <http://www.w3.org/2004/02/skos/core#inScheme> <https://doi.org/10.6069/uwlswd.4jrs-m847> .
+<https://doi.org/10.6069/uwlswd.4jrs-m847#dh> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<https://doi.org/10.6069/uwlswd.4jrs-m847#dh> <http://www.w3.org/2004/02/skos/core#notation> "dh" .
+<https://doi.org/10.6069/uwlswd.4jrs-m847#zz> <http://www.w3.org/2004/02/skos/core#notation> "zz" .
+<https://doi.org/10.6069/uwlswd.4jrs-m847#cp> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<https://doi.org/10.6069/uwlswd.4jrs-m847> <https://schema.org/version> "1-1-0" .
+<https://doi.org/10.6069/uwlswd.4jrs-m847#ad> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<https://doi.org/10.6069/uwlswd.4jrs-m847#aa> <http://www.w3.org/2004/02/skos/core#notation> "aa" .
+<https://doi.org/10.6069/uwlswd.4jrs-m847> <http://purl.org/dc/terms/alternative> "MARC21 008/22-23 values for maps expressed using RDF"@en .
 <https://doi.org/10.6069/uwlswd.4jrs-m847#am> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<https://doi.org/10.6069/uwlswd.4jrs-m847#aa> <http://www.w3.org/2004/02/skos/core#definition> "Aitoff."@en .
+<https://doi.org/10.6069/uwlswd.4jrs-m847> <http://purl.org/dc/elements/1.1/contributor> "Metadata Management Associates"@en .
+<https://doi.org/10.6069/uwlswd.4jrs-m847#az> <http://www.w3.org/2004/02/skos/core#notation> "az" .
+<https://doi.org/10.6069/uwlswd.4jrs-m847#bd> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<https://doi.org/10.6069/uwlswd.4jrs-m847#db> <http://www.w3.org/2004/02/skos/core#definition> "Butterfly."@en .
+<https://doi.org/10.6069/uwlswd.4jrs-m847#de> <http://www.w3.org/2004/02/skos/core#inScheme> <https://doi.org/10.6069/uwlswd.4jrs-m847> .
+<https://doi.org/10.6069/uwlswd.4jrs-m847#ba> <http://www.w3.org/2004/02/skos/core#prefLabel> "Gall"@en .
+<https://doi.org/10.6069/uwlswd.4jrs-m847#ca> <http://www.w3.org/2004/02/skos/core#prefLabel> "Alber's equal area"@en .
+<https://doi.org/10.6069/uwlswd.4jrs-m847#br> <http://www.w3.org/2004/02/skos/core#notation> "br" .
+<https://doi.org/10.6069/uwlswd.4jrs-m847#br> <http://www.w3.org/2004/02/skos/core#definition> "Robinson."@en .
+<https://doi.org/10.6069/uwlswd.4jrs-m847#dh> <http://www.w3.org/2004/02/skos/core#prefLabel> "cordiform"@en .
+<https://doi.org/10.6069/uwlswd.4jrs-m847#da> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<https://doi.org/10.6069/uwlswd.4jrs-m847#be> <http://www.w3.org/2004/02/skos/core#definition> "Miller."@en .
+<https://doi.org/10.6069/uwlswd.4jrs-m847> <http://purl.org/dc/terms/type> <http://purl.org/dc/dcmitype/Dataset> .
+<https://doi.org/10.6069/uwlswd.4jrs-m847#bo> <http://www.w3.org/2004/02/skos/core#notation> "bo" .
+<https://doi.org/10.6069/uwlswd.4jrs-m847> <http://purl.org/dc/terms/issued> "2023" .
+<https://doi.org/10.6069/uwlswd.4jrs-m847#az> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<https://doi.org/10.6069/uwlswd.4jrs-m847#bf> <http://www.w3.org/2004/02/skos/core#prefLabel> "Mollweide"@en .
+<https://doi.org/10.6069/uwlswd.4jrs-m847#bh> <http://www.w3.org/2004/02/skos/core#notation> "bh" .
+<https://doi.org/10.6069/uwlswd.4jrs-m847#ca> <http://www.w3.org/2004/02/skos/core#definition> "Alber's equal area."@en .
+<https://doi.org/10.6069/uwlswd.4jrs-m847#da> <http://www.w3.org/2004/02/skos/core#definition> "Armadillo."@en .
+<https://doi.org/10.6069/uwlswd.4jrs-m847#ag> <http://www.w3.org/2004/02/skos/core#definition> "General vertical near-sided."@en .
+<https://doi.org/10.6069/uwlswd.4jrs-m847#cp> <http://www.w3.org/2004/02/skos/core#inScheme> <https://doi.org/10.6069/uwlswd.4jrs-m847> .
+<https://doi.org/10.6069/uwlswd.4jrs-m847#bg> <http://www.w3.org/2004/02/skos/core#definition> "Sinusoidal."@en .
+<https://doi.org/10.6069/uwlswd.4jrs-m847#df> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<https://doi.org/10.6069/uwlswd.4jrs-m847#ap> <http://www.w3.org/2004/02/skos/core#inScheme> <https://doi.org/10.6069/uwlswd.4jrs-m847> .
+<https://doi.org/10.6069/uwlswd.4jrs-m847#bi> <http://www.w3.org/2004/02/skos/core#notation> "bi" .
+<https://doi.org/10.6069/uwlswd.4jrs-m847#ba> <http://www.w3.org/2004/02/skos/core#definition> "Gall."@en .
+<https://doi.org/10.6069/uwlswd.4jrs-m847#bc> <http://www.w3.org/2004/02/skos/core#notation> "bc" .
+<https://doi.org/10.6069/uwlswd.4jrs-m847#bu> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<https://doi.org/10.6069/uwlswd.4jrs-m847#bj> <http://www.w3.org/2004/02/skos/core#prefLabel> "equirectangular"@en .
+<https://doi.org/10.6069/uwlswd.4jrs-m847#an> <http://www.w3.org/2004/02/skos/core#inScheme> <https://doi.org/10.6069/uwlswd.4jrs-m847> .
+<https://doi.org/10.6069/uwlswd.4jrs-m847#dc> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<https://doi.org/10.6069/uwlswd.4jrs-m847#dl> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<https://doi.org/10.6069/uwlswd.4jrs-m847#dc> <http://www.w3.org/2004/02/skos/core#definition> "Eckert."@en .
+<https://doi.org/10.6069/uwlswd.4jrs-m847#ac> <http://www.w3.org/2004/02/skos/core#notation> "ac" .
+<https://doi.org/10.6069/uwlswd.4jrs-m847> <http://purl.org/dc/terms/provenance> <https://doi.org/10.6069/uwlswd.2e2b-y833#marc00Xvalues> .
+<https://doi.org/10.6069/uwlswd.4jrs-m847#ca> <http://www.w3.org/2004/02/skos/core#notation> "ca" .
+<https://doi.org/10.6069/uwlswd.4jrs-m847#bs> <http://www.w3.org/2004/02/skos/core#notation> "bs" .
+<https://doi.org/10.6069/uwlswd.4jrs-m847#df> <http://www.w3.org/2004/02/skos/core#notation> "df" .
+<https://doi.org/10.6069/uwlswd.4jrs-m847#bf> <http://www.w3.org/2004/02/skos/core#definition> "Mollweide."@en .
+<https://doi.org/10.6069/uwlswd.4jrs-m847#df> <http://www.w3.org/2004/02/skos/core#prefLabel> "Van Der Grinten"@en .
+<https://doi.org/10.6069/uwlswd.4jrs-m847#bk> <http://www.w3.org/2004/02/skos/core#prefLabel> "krovak"@en .
+<https://doi.org/10.6069/uwlswd.4jrs-m847#bo> <http://www.w3.org/2004/02/skos/core#prefLabel> "oblique Mercator"@en .
+<https://doi.org/10.6069/uwlswd.4jrs-m847#bg> <http://www.w3.org/2004/02/skos/core#prefLabel> "sinusoidal"@en .
+<https://doi.org/10.6069/uwlswd.4jrs-m847#db> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<https://doi.org/10.6069/uwlswd.4jrs-m847#bb> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<https://doi.org/10.6069/uwlswd.4jrs-m847#df> <http://www.w3.org/2004/02/skos/core#inScheme> <https://doi.org/10.6069/uwlswd.4jrs-m847> .
+<https://doi.org/10.6069/uwlswd.4jrs-m847> <http://purl.org/dc/terms/hasFormat> <https://uwlib-cams.github.io/uwlswd_vocabs_marc_006_008/008/maps_projection/maps_projection.ttl> .
 <https://doi.org/10.6069/uwlswd.4jrs-m847#bu> <http://www.w3.org/2004/02/skos/core#definition> "Cylindrical, specific type unknown. Only the projection type (cylindrical) is known, not the specific projection."@en .
+<https://doi.org/10.6069/uwlswd.4jrs-m847#aa> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<https://doi.org/10.6069/uwlswd.4jrs-m847#ad> <http://www.w3.org/2004/02/skos/core#notation> "ad" .
+<https://doi.org/10.6069/uwlswd.4jrs-m847#dc> <http://www.w3.org/2004/02/skos/core#inScheme> <https://doi.org/10.6069/uwlswd.4jrs-m847> .
+<https://doi.org/10.6069/uwlswd.4jrs-m847> <http://purl.org/dc/terms/hasFormat> <https://uwlib-cams.github.io/uwlswd_vocabs_marc_006_008/008/maps_projection/maps_projection.jsonld> .
+<https://doi.org/10.6069/uwlswd.4jrs-m847#ad> <http://www.w3.org/2004/02/skos/core#inScheme> <https://doi.org/10.6069/uwlswd.4jrs-m847> .
+<https://doi.org/10.6069/uwlswd.4jrs-m847#bg> <http://www.w3.org/2004/02/skos/core#inScheme> <https://doi.org/10.6069/uwlswd.4jrs-m847> .
+<https://doi.org/10.6069/uwlswd.4jrs-m847#dd> <http://www.w3.org/2004/02/skos/core#prefLabel> "Goode's homolosine"@en .
+<https://doi.org/10.6069/uwlswd.4jrs-m847#pound2> <http://www.w3.org/2004/02/skos/core#scopeNote> "Used for most globes."@en .
+<https://doi.org/10.6069/uwlswd.4jrs-m847#dl> <http://www.w3.org/2004/02/skos/core#inScheme> <https://doi.org/10.6069/uwlswd.4jrs-m847> .
+<https://doi.org/10.6069/uwlswd.4jrs-m847#au> <http://www.w3.org/2004/02/skos/core#prefLabel> "azimuthal, specific type unknown"@en .
+<https://doi.org/10.6069/uwlswd.4jrs-m847> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#ConceptScheme> .
+<https://doi.org/10.6069/uwlswd.4jrs-m847#bi> <http://www.w3.org/2004/02/skos/core#inScheme> <https://doi.org/10.6069/uwlswd.4jrs-m847> .
+<https://doi.org/10.6069/uwlswd.4jrs-m847#au> <http://www.w3.org/2004/02/skos/core#notation> "au" .
+<https://doi.org/10.6069/uwlswd.4jrs-m847#bo> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<https://doi.org/10.6069/uwlswd.4jrs-m847#dc> <http://www.w3.org/2004/02/skos/core#prefLabel> "Eckert"@en .
+<https://doi.org/10.6069/uwlswd.4jrs-m847#bz> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<https://doi.org/10.6069/uwlswd.4jrs-m847#ap> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<https://doi.org/10.6069/uwlswd.4jrs-m847#cb> <http://www.w3.org/2004/02/skos/core#definition> "Bonne."@en .
+<https://doi.org/10.6069/uwlswd.4jrs-m847> <http://purl.org/dc/terms/source> <https://www.loc.gov/marc/bibliographic/bd008.html> .
+<https://doi.org/10.6069/uwlswd.4jrs-m847#db> <http://www.w3.org/2004/02/skos/core#inScheme> <https://doi.org/10.6069/uwlswd.4jrs-m847> .
+<https://doi.org/10.6069/uwlswd.4jrs-m847#da> <http://www.w3.org/2004/02/skos/core#inScheme> <https://doi.org/10.6069/uwlswd.4jrs-m847> .
+<https://doi.org/10.6069/uwlswd.4jrs-m847#bl> <http://www.w3.org/2004/02/skos/core#definition> "Cassini-Soldner."@en .
+<https://doi.org/10.6069/uwlswd.4jrs-m847#bb> <http://www.w3.org/2004/02/skos/core#inScheme> <https://doi.org/10.6069/uwlswd.4jrs-m847> .
+<https://doi.org/10.6069/uwlswd.4jrs-m847#ba> <http://www.w3.org/2004/02/skos/core#inScheme> <https://doi.org/10.6069/uwlswd.4jrs-m847> .
+<https://doi.org/10.6069/uwlswd.4jrs-m847#bd> <http://www.w3.org/2004/02/skos/core#inScheme> <https://doi.org/10.6069/uwlswd.4jrs-m847> .
+<https://doi.org/10.6069/uwlswd.4jrs-m847> <http://purl.org/dc/terms/hasFormat> <https://uwlib-cams.github.io/uwlswd_vocabs_marc_006_008/008/maps_projection/maps_projection.html> .
+<https://doi.org/10.6069/uwlswd.4jrs-m847#cb> <http://www.w3.org/2004/02/skos/core#prefLabel> "Bonne"@en .
+<https://doi.org/10.6069/uwlswd.4jrs-m847#ap> <http://www.w3.org/2004/02/skos/core#notation> "ap" .
+<https://doi.org/10.6069/uwlswd.4jrs-m847#bs> <http://www.w3.org/2004/02/skos/core#definition> "Space oblique Mercator."@en .
+<https://doi.org/10.6069/uwlswd.4jrs-m847> <http://purl.org/dc/terms/creator> <http://viaf.org/viaf/139541794> .
+<https://doi.org/10.6069/uwlswd.4jrs-m847#zz> <http://www.w3.org/2004/02/skos/core#definition> "Projection other than Aitoff, gnomic, Lambert's azimuthal equal area, orthographic, azimuthal equidistant, stereographic, general vertical near-sided, modified stereographic for Alaska, Chamberlin trimetric, polar stereographic, azimuthal, specific type unknown, azimuthal, other, Gall, Goode's homolographic, Lambert's cylindrical equal area, Mercator, Miller, Mollweide, sinusoidal, transverse mercator, Gauss-Kruger, equirectangular, Krovak, Cassini-Soldner, oblique Mercator, Robinson, space oblique Mercator, cylindrical, specific type unknown, cylindrical, other, Alber's equal area, Bonne, Lambert's conformal conic, equidistant conic, polyconic, conic, specific type unknown, conic, other, armadillo, butterfly, Eckert, Goode's homolosine, Miller's bipolar oblique conformal conic, Van der Grinten, dimaxion, cordiform, Lambert conformal."@en .
+<https://doi.org/10.6069/uwlswd.4jrs-m847#af> <http://www.w3.org/2004/02/skos/core#definition> "Stereographic."@en .
+<https://doi.org/10.6069/uwlswd.4jrs-m847#pound2> <http://www.w3.org/2004/02/skos/core#prefLabel> "projection not specified"@en .
+<https://doi.org/10.6069/uwlswd.4jrs-m847#cu> <http://www.w3.org/2004/02/skos/core#definition> "Conic, specific type unknown. Only the projection type (conic) is known, not the specific projection."@en .
+<https://doi.org/10.6069/uwlswd.4jrs-m847#ae> <http://www.w3.org/2004/02/skos/core#prefLabel> "azimuthal equidistant"@en .
+<https://doi.org/10.6069/uwlswd.4jrs-m847#ab> <http://www.w3.org/2004/02/skos/core#prefLabel> "Gnomic"@en .
+<https://doi.org/10.6069/uwlswd.4jrs-m847#an> <http://www.w3.org/2004/02/skos/core#prefLabel> "Chamberlin trimetric"@en .
+<https://doi.org/10.6069/uwlswd.4jrs-m847> <http://purl.org/dc/terms/contributor> <http://viaf.org/viaf/151962300> .
+<https://doi.org/10.6069/uwlswd.4jrs-m847#ac> <http://www.w3.org/2004/02/skos/core#definition> "Lambert's azimuthal equal area."@en .
+<https://doi.org/10.6069/uwlswd.4jrs-m847#dg> <http://www.w3.org/2004/02/skos/core#inScheme> <https://doi.org/10.6069/uwlswd.4jrs-m847> .
+<https://doi.org/10.6069/uwlswd.4jrs-m847#bz> <http://www.w3.org/2004/02/skos/core#inScheme> <https://doi.org/10.6069/uwlswd.4jrs-m847> .
+<https://doi.org/10.6069/uwlswd.4jrs-m847#bb> <http://www.w3.org/2004/02/skos/core#notation> "bb" .
+<https://doi.org/10.6069/uwlswd.4jrs-m847> <http://purl.org/dc/elements/1.1/language> "en" .
+<https://doi.org/10.6069/uwlswd.4jrs-m847#bb> <http://www.w3.org/2004/02/skos/core#prefLabel> "Goode's homolographic"@en .
+<https://doi.org/10.6069/uwlswd.4jrs-m847#ac> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<https://doi.org/10.6069/uwlswd.4jrs-m847#cu> <http://www.w3.org/2004/02/skos/core#prefLabel> "conic, specific type unknown"@en .
+<https://doi.org/10.6069/uwlswd.4jrs-m847#bc> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<https://doi.org/10.6069/uwlswd.4jrs-m847#cz> <http://www.w3.org/2004/02/skos/core#notation> "cz" .
+<https://doi.org/10.6069/uwlswd.4jrs-m847#cp> <http://www.w3.org/2004/02/skos/core#notation> "cp" .
+<https://doi.org/10.6069/uwlswd.4jrs-m847#au> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<https://doi.org/10.6069/uwlswd.4jrs-m847#pound2> <http://www.w3.org/2004/02/skos/core#notation> "##" .
+<https://doi.org/10.6069/uwlswd.4jrs-m847#de> <http://www.w3.org/2004/02/skos/core#prefLabel> "Miller's bipolar oblique conformal conic"@en .
+<https://doi.org/10.6069/uwlswd.4jrs-m847#an> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<https://doi.org/10.6069/uwlswd.4jrs-m847#ag> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<https://doi.org/10.6069/uwlswd.4jrs-m847#bi> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<https://doi.org/10.6069/uwlswd.4jrs-m847#bi> <http://www.w3.org/2004/02/skos/core#prefLabel> "Gauss-Kruger"@en .
+<https://doi.org/10.6069/uwlswd.4jrs-m847#cu> <http://www.w3.org/2004/02/skos/core#notation> "cu" .
+<https://doi.org/10.6069/uwlswd.4jrs-m847#bu> <http://www.w3.org/2004/02/skos/core#notation> "bu" .
+<https://doi.org/10.6069/uwlswd.4jrs-m847#ab> <http://www.w3.org/2004/02/skos/core#notation> "ab" .
+<https://doi.org/10.6069/uwlswd.4jrs-m847#aa> <http://www.w3.org/2004/02/skos/core#inScheme> <https://doi.org/10.6069/uwlswd.4jrs-m847> .
+<https://doi.org/10.6069/uwlswd.4jrs-m847> <http://purl.org/dc/terms/hasFormat> <https://uwlib-cams.github.io/uwlswd_vocabs_marc_006_008/008/maps_projection/maps_projection.rdf> .
+<https://doi.org/10.6069/uwlswd.4jrs-m847> <https://schema.org/disambiguatingDescription> "SKOS Concept Scheme for MARC 00X Values"@en .
+<https://doi.org/10.6069/uwlswd.4jrs-m847#br> <http://www.w3.org/2004/02/skos/core#prefLabel> "Robinson"@en .
+<https://doi.org/10.6069/uwlswd.4jrs-m847#bh> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<https://doi.org/10.6069/uwlswd.4jrs-m847#bu> <http://www.w3.org/2004/02/skos/core#inScheme> <https://doi.org/10.6069/uwlswd.4jrs-m847> .
+<https://doi.org/10.6069/uwlswd.4jrs-m847#bs> <http://www.w3.org/2004/02/skos/core#inScheme> <https://doi.org/10.6069/uwlswd.4jrs-m847> .
+<https://doi.org/10.6069/uwlswd.4jrs-m847#bd> <http://www.w3.org/2004/02/skos/core#definition> "Mercator."@en .
+<https://doi.org/10.6069/uwlswd.4jrs-m847#ba> <http://www.w3.org/2004/02/skos/core#notation> "ba" .
+<https://doi.org/10.6069/uwlswd.4jrs-m847#dl> <http://www.w3.org/2004/02/skos/core#notation> "dl" .
+<https://doi.org/10.6069/uwlswd.4jrs-m847#dg> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<https://doi.org/10.6069/uwlswd.4jrs-m847#am> <http://www.w3.org/2004/02/skos/core#definition> "Modified stereographic for Alaska."@en .
+<https://doi.org/10.6069/uwlswd.4jrs-m847#be> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<https://doi.org/10.6069/uwlswd.4jrs-m847#ag> <http://www.w3.org/2004/02/skos/core#inScheme> <https://doi.org/10.6069/uwlswd.4jrs-m847> .
+<https://doi.org/10.6069/uwlswd.4jrs-m847> <http://purl.org/dc/terms/format> <http://www.w3.org/ns/formats/N-Triples> .
+<https://doi.org/10.6069/uwlswd.4jrs-m847#bu> <http://www.w3.org/2004/02/skos/core#prefLabel> "cylindrical, specific type unknown"@en .
+<https://doi.org/10.6069/uwlswd.4jrs-m847#bg> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<https://doi.org/10.6069/uwlswd.4jrs-m847> <http://purl.org/dc/terms/publisher> <http://viaf.org/viaf/139541794> .
+<https://doi.org/10.6069/uwlswd.4jrs-m847#ae> <http://www.w3.org/2004/02/skos/core#definition> "Azimuthal equidistant."@en .
+<https://doi.org/10.6069/uwlswd.4jrs-m847#cb> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<https://doi.org/10.6069/uwlswd.4jrs-m847#dh> <http://www.w3.org/2004/02/skos/core#definition> "Cordiform."@en .
+<https://doi.org/10.6069/uwlswd.4jrs-m847#dg> <http://www.w3.org/2004/02/skos/core#prefLabel> "dimaxion"@en .
+<https://doi.org/10.6069/uwlswd.4jrs-m847#ce> <http://www.w3.org/2004/02/skos/core#prefLabel> "equidistant conic"@en .
+<https://doi.org/10.6069/uwlswd.4jrs-m847#az> <http://www.w3.org/2004/02/skos/core#definition> "Azimuthal, other."@en .
+<https://doi.org/10.6069/uwlswd.4jrs-m847#dd> <http://www.w3.org/2004/02/skos/core#inScheme> <https://doi.org/10.6069/uwlswd.4jrs-m847> .
+<https://doi.org/10.6069/uwlswd.4jrs-m847#bh> <http://www.w3.org/2004/02/skos/core#inScheme> <https://doi.org/10.6069/uwlswd.4jrs-m847> .
+<https://doi.org/10.6069/uwlswd.4jrs-m847#bd> <http://www.w3.org/2004/02/skos/core#notation> "bd" .
+<https://doi.org/10.6069/uwlswd.4jrs-m847#be> <http://www.w3.org/2004/02/skos/core#notation> "be" .
+<https://doi.org/10.6069/uwlswd.4jrs-m847#bd> <http://www.w3.org/2004/02/skos/core#prefLabel> "Mercator"@en .
+<https://doi.org/10.6069/uwlswd.4jrs-m847#ad> <http://www.w3.org/2004/02/skos/core#prefLabel> "orthographic"@en .
+<https://doi.org/10.6069/uwlswd.4jrs-m847#bc> <http://www.w3.org/2004/02/skos/core#inScheme> <https://doi.org/10.6069/uwlswd.4jrs-m847> .
+<https://doi.org/10.6069/uwlswd.4jrs-m847#ba> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<https://doi.org/10.6069/uwlswd.4jrs-m847#bh> <http://www.w3.org/2004/02/skos/core#prefLabel> "transverse Mercator"@en .
+<https://doi.org/10.6069/uwlswd.4jrs-m847#bl> <http://www.w3.org/2004/02/skos/core#notation> "bl" .
+<https://doi.org/10.6069/uwlswd.4jrs-m847#bc> <http://www.w3.org/2004/02/skos/core#prefLabel> "Lambert's cylindrical equal area"@en .
+<https://doi.org/10.6069/uwlswd.4jrs-m847#ac> <http://www.w3.org/2004/02/skos/core#inScheme> <https://doi.org/10.6069/uwlswd.4jrs-m847> .
+<https://doi.org/10.6069/uwlswd.4jrs-m847#ae> <http://www.w3.org/2004/02/skos/core#notation> "ae" .
+<https://doi.org/10.6069/uwlswd.4jrs-m847#cz> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<https://doi.org/10.6069/uwlswd.4jrs-m847#ab> <http://www.w3.org/2004/02/skos/core#definition> "Gnomic."@en .
+<https://doi.org/10.6069/uwlswd.4jrs-m847#bo> <http://www.w3.org/2004/02/skos/core#inScheme> <https://doi.org/10.6069/uwlswd.4jrs-m847> .
+<https://doi.org/10.6069/uwlswd.4jrs-m847> <http://purl.org/dc/terms/title> "Maps: projection"@en .
+<https://doi.org/10.6069/uwlswd.4jrs-m847#be> <http://www.w3.org/2004/02/skos/core#prefLabel> "Miller"@en .
+<https://doi.org/10.6069/uwlswd.4jrs-m847#cu> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<https://doi.org/10.6069/uwlswd.4jrs-m847#ca> <http://www.w3.org/2004/02/skos/core#inScheme> <https://doi.org/10.6069/uwlswd.4jrs-m847> .
+<https://doi.org/10.6069/uwlswd.4jrs-m847#af> <http://www.w3.org/2004/02/skos/core#prefLabel> "stereographic"@en .
+<https://doi.org/10.6069/uwlswd.4jrs-m847#bi> <http://www.w3.org/2004/02/skos/core#definition> "Gauss-Kruger."@en .
+<https://doi.org/10.6069/uwlswd.4jrs-m847#cz> <http://www.w3.org/2004/02/skos/core#prefLabel> "conic, other"@en .
+<https://doi.org/10.6069/uwlswd.4jrs-m847#bo> <http://www.w3.org/2004/02/skos/core#definition> "Oblique Mercator."@en .
+<https://doi.org/10.6069/uwlswd.4jrs-m847#db> <http://www.w3.org/2004/02/skos/core#prefLabel> "butterfly"@en .
+<https://doi.org/10.6069/uwlswd.4jrs-m847#dg> <http://www.w3.org/2004/02/skos/core#definition> "Dimaxion."@en .
+<https://doi.org/10.6069/uwlswd.4jrs-m847#au> <http://www.w3.org/2004/02/skos/core#inScheme> <https://doi.org/10.6069/uwlswd.4jrs-m847> .
+<https://doi.org/10.6069/uwlswd.4jrs-m847#bj> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<https://doi.org/10.6069/uwlswd.4jrs-m847#bl> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<https://doi.org/10.6069/uwlswd.4jrs-m847#ag> <http://www.w3.org/2004/02/skos/core#prefLabel> "general vertical near-sided"@en .
+<https://doi.org/10.6069/uwlswd.4jrs-m847#ae> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<https://doi.org/10.6069/uwlswd.4jrs-m847#dl> <http://www.w3.org/2004/02/skos/core#prefLabel> "Lambert conformal"@en .
+<https://doi.org/10.6069/uwlswd.4jrs-m847#db> <http://www.w3.org/2004/02/skos/core#notation> "db" .
+<https://doi.org/10.6069/uwlswd.4jrs-m847#ac> <http://www.w3.org/2004/02/skos/core#prefLabel> "Lambert's azimuthal equal area"@en .
+<https://doi.org/10.6069/uwlswd.4jrs-m847#ap> <http://www.w3.org/2004/02/skos/core#prefLabel> "polar stereographic"@en .
+<https://doi.org/10.6069/uwlswd.4jrs-m847#bh> <http://www.w3.org/2004/02/skos/core#definition> "Transverse Mercator."@en .
+<https://doi.org/10.6069/uwlswd.4jrs-m847#cu> <http://www.w3.org/2004/02/skos/core#inScheme> <https://doi.org/10.6069/uwlswd.4jrs-m847> .
+<https://doi.org/10.6069/uwlswd.4jrs-m847#ag> <http://www.w3.org/2004/02/skos/core#notation> "ag" .
+<https://doi.org/10.6069/uwlswd.4jrs-m847#az> <http://www.w3.org/2004/02/skos/core#prefLabel> "azimuthal, other"@en .
+<https://doi.org/10.6069/uwlswd.4jrs-m847#da> <http://www.w3.org/2004/02/skos/core#prefLabel> "armadillo"@en .
+<https://doi.org/10.6069/uwlswd.4jrs-m847#da> <http://www.w3.org/2004/02/skos/core#notation> "da" .
+<https://doi.org/10.6069/uwlswd.4jrs-m847#am> <http://www.w3.org/2004/02/skos/core#notation> "am" .
+<https://doi.org/10.6069/uwlswd.4jrs-m847#dd> <http://www.w3.org/2004/02/skos/core#definition> "Goode's homolosine."@en .
+<https://doi.org/10.6069/uwlswd.4jrs-m847#be> <http://www.w3.org/2004/02/skos/core#inScheme> <https://doi.org/10.6069/uwlswd.4jrs-m847> .
+<https://doi.org/10.6069/uwlswd.4jrs-m847#de> <http://www.w3.org/2004/02/skos/core#definition> "Miller's bipolar oblique conformal conic."@en .
+<https://doi.org/10.6069/uwlswd.4jrs-m847#aa> <http://www.w3.org/2004/02/skos/core#prefLabel> "Aitoff"@en .
+<https://doi.org/10.6069/uwlswd.4jrs-m847#bf> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<https://doi.org/10.6069/uwlswd.4jrs-m847#bl> <http://www.w3.org/2004/02/skos/core#inScheme> <https://doi.org/10.6069/uwlswd.4jrs-m847> .
+<https://doi.org/10.6069/uwlswd.4jrs-m847#ce> <http://www.w3.org/2004/02/skos/core#notation> "ce" .

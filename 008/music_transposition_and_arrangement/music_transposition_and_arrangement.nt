@@ -1,52 +1,52 @@
-<https://doi.org/10.6069/uwlswd.axz0-z371> <http://purl.org/dc/terms/description> "Whether all or part of the item being cataloged is a transposition and/or arrangement of another work."@en .
-<https://doi.org/10.6069/uwlswd.axz0-z371> <http://purl.org/dc/terms/provenance> <https://doi.org/10.6069/uwlswd.2e2b-y833> .
-<https://doi.org/10.6069/uwlswd.axz0-z371> <http://purl.org/dc/terms/contributor> <http://viaf.org/viaf/151962300> .
 <https://doi.org/10.6069/uwlswd.axz0-z371> <http://purl.org/dc/terms/license> <http://creativecommons.org/publicdomain/zero/1.0> .
-<https://doi.org/10.6069/uwlswd.axz0-z371#n> <http://www.w3.org/2004/02/skos/core#inScheme> <https://doi.org/10.6069/uwlswd.axz0-z371> .
-<https://doi.org/10.6069/uwlswd.axz0-z371#a> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
-<https://doi.org/10.6069/uwlswd.axz0-z371> <http://purl.org/dc/terms/hasFormat> <https://uwlib-cams.github.io/uwlswd_vocabs_marc_006_008/008/music_transposition_and_arrangement/music_transposition_and_arrangement.html> .
-<https://doi.org/10.6069/uwlswd.axz0-z371#pound> <http://www.w3.org/2004/02/skos/core#definition> "Not arrangements or the transposition of the item is not specified."@en .
-<https://doi.org/10.6069/uwlswd.axz0-z371#u> <http://www.w3.org/2004/02/skos/core#notation> "u"@en .
-<https://doi.org/10.6069/uwlswd.axz0-z371#a> <http://www.w3.org/2004/02/skos/core#prefLabel> "transposition"@en .
-<https://doi.org/10.6069/uwlswd.axz0-z371#a> <http://www.w3.org/2004/02/skos/core#definition> "Item has been transposed to a different pitch from the original."@en .
-<https://doi.org/10.6069/uwlswd.axz0-z371> <http://purl.org/dc/terms/format> <http://www.w3.org/ns/formats/N-Triples> .
-<https://doi.org/10.6069/uwlswd.axz0-z371#pound> <http://www.w3.org/2004/02/skos/core#inScheme> <https://doi.org/10.6069/uwlswd.axz0-z371> .
-<https://doi.org/10.6069/uwlswd.axz0-z371#c> <http://www.w3.org/2004/02/skos/core#inScheme> <https://doi.org/10.6069/uwlswd.axz0-z371> .
 <https://doi.org/10.6069/uwlswd.axz0-z371> <http://purl.org/dc/terms/hasFormat> <https://uwlib-cams.github.io/uwlswd_vocabs_marc_006_008/008/music_transposition_and_arrangement/music_transposition_and_arrangement.jsonld> .
-<https://doi.org/10.6069/uwlswd.axz0-z371> <http://purl.org/dc/terms/source> <https://www.loc.gov/marc/bibliographic/bd008.html> .
-<https://doi.org/10.6069/uwlswd.axz0-z371#u> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
-<https://doi.org/10.6069/uwlswd.axz0-z371#c> <http://www.w3.org/2004/02/skos/core#definition> "Item has been both transposed to a different pitch from the original and has been adapted as regards medium and/or texture."@en .
-<https://doi.org/10.6069/uwlswd.axz0-z371> <http://purl.org/dc/elements/1.1/language> "en" .
-<https://doi.org/10.6069/uwlswd.axz0-z371#n> <http://www.w3.org/2004/02/skos/core#notation> "n"@en .
-<https://doi.org/10.6069/uwlswd.axz0-z371#pound> <http://www.w3.org/2004/02/skos/core#notation> "#"@en .
-<https://doi.org/10.6069/uwlswd.axz0-z371#n> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
-<https://doi.org/10.6069/uwlswd.axz0-z371> <https://schema.org/version> "1-0-1" .
-<https://doi.org/10.6069/uwlswd.axz0-z371> <https://schema.org/disambiguatingDescription> "SKOS Concept Scheme for MARC 00X Values" .
-<https://doi.org/10.6069/uwlswd.axz0-z371#c> <http://www.w3.org/2004/02/skos/core#notation> "c"@en .
-<https://doi.org/10.6069/uwlswd.axz0-z371#b> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
-<https://doi.org/10.6069/uwlswd.axz0-z371> <http://purl.org/dc/terms/publisher> <http://viaf.org/viaf/139541794> .
-<https://doi.org/10.6069/uwlswd.axz0-z371#b> <http://www.w3.org/2004/02/skos/core#prefLabel> "arrangement"@en .
 <https://doi.org/10.6069/uwlswd.axz0-z371#b> <http://www.w3.org/2004/02/skos/core#definition> "Item has been adapted as regards medium and/or texture."@en .
-<https://doi.org/10.6069/uwlswd.axz0-z371> <http://purl.org/dc/terms/hasFormat> <https://uwlib-cams.github.io/uwlswd_vocabs_marc_006_008/008/music_transposition_and_arrangement/music_transposition_and_arrangement.ttl> .
-<https://doi.org/10.6069/uwlswd.axz0-z371> <http://purl.org/dc/terms/creator> <http://viaf.org/viaf/139541794> .
-<https://doi.org/10.6069/uwlswd.axz0-z371> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#ConceptScheme> .
-<https://doi.org/10.6069/uwlswd.axz0-z371#c> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
-<https://doi.org/10.6069/uwlswd.axz0-z371#a> <http://www.w3.org/2004/02/skos/core#inScheme> <https://doi.org/10.6069/uwlswd.axz0-z371> .
-<https://doi.org/10.6069/uwlswd.axz0-z371> <http://purl.org/dc/terms/issued> "2023" .
-<https://doi.org/10.6069/uwlswd.axz0-z371#u> <http://www.w3.org/2004/02/skos/core#prefLabel> "unknown"@en .
-<https://doi.org/10.6069/uwlswd.axz0-z371> <http://purl.org/dc/terms/title> "Music: transposition and arrangement"@en .
-<https://doi.org/10.6069/uwlswd.axz0-z371> <http://purl.org/dc/terms/hasFormat> <https://uwlib-cams.github.io/uwlswd_vocabs_marc_006_008/008/music_transposition_and_arrangement/music_transposition_and_arrangement.rdf> .
-<https://doi.org/10.6069/uwlswd.axz0-z371#pound> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
-<https://doi.org/10.6069/uwlswd.axz0-z371#a> <http://www.w3.org/2004/02/skos/core#notation> "a"@en .
-<https://doi.org/10.6069/uwlswd.axz0-z371#pound> <http://www.w3.org/2004/02/skos/core#prefLabel> "not arrangement or transposition or not specified"@en .
-<https://doi.org/10.6069/uwlswd.axz0-z371#b> <http://www.w3.org/2004/02/skos/core#notation> "b"@en .
-<https://doi.org/10.6069/uwlswd.axz0-z371> <http://purl.org/dc/terms/source> <http://marc21rdf.info> .
-<https://doi.org/10.6069/uwlswd.axz0-z371#n> <http://www.w3.org/2004/02/skos/core#definition> "Item is not notated music."@en .
-<https://doi.org/10.6069/uwlswd.axz0-z371> <http://purl.org/dc/terms/alternative> "MARC21 008/33 values for music expressed using RDF"@en .
-<https://doi.org/10.6069/uwlswd.axz0-z371#u> <http://www.w3.org/2004/02/skos/core#definition> "Unknown whether the item is a transposition or arrangement."@en .
-<https://doi.org/10.6069/uwlswd.axz0-z371#c> <http://www.w3.org/2004/02/skos/core#prefLabel> "both transposed and arranged"@en .
-<https://doi.org/10.6069/uwlswd.axz0-z371#b> <http://www.w3.org/2004/02/skos/core#inScheme> <https://doi.org/10.6069/uwlswd.axz0-z371> .
-<https://doi.org/10.6069/uwlswd.axz0-z371> <http://purl.org/dc/elements/1.1/contributor> "Metadata Management Associates"@en .
+<https://doi.org/10.6069/uwlswd.axz0-z371#b> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<https://doi.org/10.6069/uwlswd.axz0-z371#b> <http://www.w3.org/2004/02/skos/core#notation> "b" .
+<https://doi.org/10.6069/uwlswd.axz0-z371#n> <http://www.w3.org/2004/02/skos/core#inScheme> <https://doi.org/10.6069/uwlswd.axz0-z371> .
+<https://doi.org/10.6069/uwlswd.axz0-z371> <http://purl.org/dc/elements/1.1/language> "en" .
 <https://doi.org/10.6069/uwlswd.axz0-z371> <http://purl.org/dc/terms/type> <http://purl.org/dc/dcmitype/Dataset> .
-<https://doi.org/10.6069/uwlswd.axz0-z371#u> <http://www.w3.org/2004/02/skos/core#inScheme> <https://doi.org/10.6069/uwlswd.axz0-z371> .
+<https://doi.org/10.6069/uwlswd.axz0-z371#c> <http://www.w3.org/2004/02/skos/core#inScheme> <https://doi.org/10.6069/uwlswd.axz0-z371> .
+<https://doi.org/10.6069/uwlswd.axz0-z371#n> <http://www.w3.org/2004/02/skos/core#definition> "Item is not notated music."@en .
+<https://doi.org/10.6069/uwlswd.axz0-z371#c> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<https://doi.org/10.6069/uwlswd.axz0-z371#n> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<https://doi.org/10.6069/uwlswd.axz0-z371#a> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<https://doi.org/10.6069/uwlswd.axz0-z371#n> <http://www.w3.org/2004/02/skos/core#notation> "n" .
+<https://doi.org/10.6069/uwlswd.axz0-z371#u> <http://www.w3.org/2004/02/skos/core#definition> "Unknown whether the item is a transposition or arrangement."@en .
+<https://doi.org/10.6069/uwlswd.axz0-z371#c> <http://www.w3.org/2004/02/skos/core#notation> "c" .
+<https://doi.org/10.6069/uwlswd.axz0-z371#u> <http://www.w3.org/2004/02/skos/core#prefLabel> "unknown"@en .
+<https://doi.org/10.6069/uwlswd.axz0-z371> <https://schema.org/version> "1-1-0" .
+<https://doi.org/10.6069/uwlswd.axz0-z371#a> <http://www.w3.org/2004/02/skos/core#notation> "a" .
+<https://doi.org/10.6069/uwlswd.axz0-z371> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#ConceptScheme> .
+<https://doi.org/10.6069/uwlswd.axz0-z371> <http://purl.org/dc/terms/alternative> "MARC21 008/33 values for music expressed using RDF"@en .
+<https://doi.org/10.6069/uwlswd.axz0-z371#pound> <http://www.w3.org/2004/02/skos/core#definition> "Not arrangements or the transposition of the item is not specified."@en .
+<https://doi.org/10.6069/uwlswd.axz0-z371> <http://purl.org/dc/terms/publisher> <http://viaf.org/viaf/139541794> .
+<https://doi.org/10.6069/uwlswd.axz0-z371#c> <http://www.w3.org/2004/02/skos/core#prefLabel> "both transposed and arranged"@en .
+<https://doi.org/10.6069/uwlswd.axz0-z371> <http://purl.org/dc/terms/title> "Music: transposition and arrangement"@en .
+<https://doi.org/10.6069/uwlswd.axz0-z371#c> <http://www.w3.org/2004/02/skos/core#definition> "Item has been both transposed to a different pitch from the original and has been adapted as regards medium and/or texture."@en .
+<https://doi.org/10.6069/uwlswd.axz0-z371> <http://purl.org/dc/terms/creator> <http://viaf.org/viaf/139541794> .
+<https://doi.org/10.6069/uwlswd.axz0-z371#u> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<https://doi.org/10.6069/uwlswd.axz0-z371> <http://purl.org/dc/terms/format> <http://www.w3.org/ns/formats/N-Triples> .
+<https://doi.org/10.6069/uwlswd.axz0-z371> <http://purl.org/dc/terms/source> <https://www.loc.gov/marc/bibliographic/bd008.html> .
+<https://doi.org/10.6069/uwlswd.axz0-z371> <http://purl.org/dc/terms/provenance> <https://doi.org/10.6069/uwlswd.2e2b-y833#marc00Xvalues> .
+<https://doi.org/10.6069/uwlswd.axz0-z371#pound> <http://www.w3.org/2004/02/skos/core#prefLabel> "not arrangement or transposition or not specified"@en .
+<https://doi.org/10.6069/uwlswd.axz0-z371#a> <http://www.w3.org/2004/02/skos/core#prefLabel> "transposition"@en .
+<https://doi.org/10.6069/uwlswd.axz0-z371> <http://purl.org/dc/terms/description> "Whether all or part of the item being cataloged is a transposition and/or arrangement of another work."@en .
+<https://doi.org/10.6069/uwlswd.axz0-z371> <http://purl.org/dc/terms/source> <http://marc21rdf.info> .
+<https://doi.org/10.6069/uwlswd.axz0-z371> <http://purl.org/dc/terms/hasFormat> <https://uwlib-cams.github.io/uwlswd_vocabs_marc_006_008/008/music_transposition_and_arrangement/music_transposition_and_arrangement.rdf> .
+<https://doi.org/10.6069/uwlswd.axz0-z371#b> <http://www.w3.org/2004/02/skos/core#prefLabel> "arrangement"@en .
+<https://doi.org/10.6069/uwlswd.axz0-z371#pound> <http://www.w3.org/2004/02/skos/core#inScheme> <https://doi.org/10.6069/uwlswd.axz0-z371> .
+<https://doi.org/10.6069/uwlswd.axz0-z371> <http://purl.org/dc/elements/1.1/contributor> "Metadata Management Associates"@en .
 <https://doi.org/10.6069/uwlswd.axz0-z371#n> <http://www.w3.org/2004/02/skos/core#prefLabel> "not applicable"@en .
+<https://doi.org/10.6069/uwlswd.axz0-z371> <https://schema.org/disambiguatingDescription> "SKOS Concept Scheme for MARC 00X Values"@en .
+<https://doi.org/10.6069/uwlswd.axz0-z371> <http://purl.org/dc/terms/hasFormat> <https://uwlib-cams.github.io/uwlswd_vocabs_marc_006_008/008/music_transposition_and_arrangement/music_transposition_and_arrangement.html> .
+<https://doi.org/10.6069/uwlswd.axz0-z371> <http://purl.org/dc/terms/contributor> <http://viaf.org/viaf/151962300> .
+<https://doi.org/10.6069/uwlswd.axz0-z371#pound> <http://www.w3.org/2004/02/skos/core#notation> "#" .
+<https://doi.org/10.6069/uwlswd.axz0-z371#pound> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<https://doi.org/10.6069/uwlswd.axz0-z371#b> <http://www.w3.org/2004/02/skos/core#inScheme> <https://doi.org/10.6069/uwlswd.axz0-z371> .
+<https://doi.org/10.6069/uwlswd.axz0-z371> <http://purl.org/dc/terms/hasFormat> <https://uwlib-cams.github.io/uwlswd_vocabs_marc_006_008/008/music_transposition_and_arrangement/music_transposition_and_arrangement.ttl> .
+<https://doi.org/10.6069/uwlswd.axz0-z371#a> <http://www.w3.org/2004/02/skos/core#inScheme> <https://doi.org/10.6069/uwlswd.axz0-z371> .
+<https://doi.org/10.6069/uwlswd.axz0-z371#u> <http://www.w3.org/2004/02/skos/core#notation> "u" .
+<https://doi.org/10.6069/uwlswd.axz0-z371> <http://purl.org/dc/terms/issued> "2023" .
+<https://doi.org/10.6069/uwlswd.axz0-z371#a> <http://www.w3.org/2004/02/skos/core#definition> "Item has been transposed to a different pitch from the original."@en .
+<https://doi.org/10.6069/uwlswd.axz0-z371#u> <http://www.w3.org/2004/02/skos/core#inScheme> <https://doi.org/10.6069/uwlswd.axz0-z371> .

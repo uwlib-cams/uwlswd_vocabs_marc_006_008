@@ -1,106 +1,106 @@
-<https://doi.org/10.6069/uwlswd.06xx-6744#j> <http://www.w3.org/2004/02/skos/core#notation> "j"@en .
-<https://doi.org/10.6069/uwlswd.06xx-6744#g> <http://www.w3.org/2004/02/skos/core#definition> "Score (e.g., a hymnal) that has separate parts transcribed in condensed form."@en .
-<https://doi.org/10.6069/uwlswd.06xx-6744#m> <http://www.w3.org/2004/02/skos/core#prefLabel> "multiple score formats"@en .
-<https://doi.org/10.6069/uwlswd.06xx-6744> <http://purl.org/dc/terms/alternative> "MARC21 008/20 values for music expressed using RDF"@en .
-<https://doi.org/10.6069/uwlswd.06xx-6744#i> <http://www.w3.org/2004/02/skos/core#definition> "A score in which the number of staves is reduced to two or a few, generally organized by instrumental sections or vocal parts, and often with cues for individual parts."@en .
-<https://doi.org/10.6069/uwlswd.06xx-6744> <http://purl.org/dc/terms/creator> <http://viaf.org/viaf/139541794> .
-<https://doi.org/10.6069/uwlswd.06xx-6744#i> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
-<https://doi.org/10.6069/uwlswd.06xx-6744#u> <http://www.w3.org/2004/02/skos/core#inScheme> <https://doi.org/10.6069/uwlswd.06xx-6744> .
-<https://doi.org/10.6069/uwlswd.06xx-6744#e> <http://www.w3.org/2004/02/skos/core#inScheme> <https://doi.org/10.6069/uwlswd.06xx-6744> .
-<https://doi.org/10.6069/uwlswd.06xx-6744#l> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
-<https://doi.org/10.6069/uwlswd.06xx-6744#h> <http://www.w3.org/2004/02/skos/core#prefLabel> "chorus score"@en .
-<https://doi.org/10.6069/uwlswd.06xx-6744#k> <http://www.w3.org/2004/02/skos/core#definition> "Score showing all vocal parts, solo and/or choral, with the instrumental accompaniment either arranged for keyboard(s) or other chordal instrument(s) or omitted."@en .
-<https://doi.org/10.6069/uwlswd.06xx-6744#k> <http://www.w3.org/2004/02/skos/core#prefLabel> "vocal score"@en .
-<https://doi.org/10.6069/uwlswd.06xx-6744#z> <http://www.w3.org/2004/02/skos/core#notation> "z"@en .
-<https://doi.org/10.6069/uwlswd.06xx-6744> <https://schema.org/version> "1-0-1" .
-<https://doi.org/10.6069/uwlswd.06xx-6744> <http://purl.org/dc/terms/issued> "2023" .
-<https://doi.org/10.6069/uwlswd.06xx-6744#i> <http://www.w3.org/2004/02/skos/core#inScheme> <https://doi.org/10.6069/uwlswd.06xx-6744> .
-<https://doi.org/10.6069/uwlswd.06xx-6744#e> <http://www.w3.org/2004/02/skos/core#prefLabel> "condensed score or piano-conductor score"@en .
-<https://doi.org/10.6069/uwlswd.06xx-6744#d> <http://www.w3.org/2004/02/skos/core#definition> "Score for solo and/or choral voice(s) with the accompaniment omitted."@en .
-<https://doi.org/10.6069/uwlswd.06xx-6744#b> <http://www.w3.org/2004/02/skos/core#definition> "Score issued in a musical image of small size, usually redueced from a larger original, and not primarily intended for use in performance."@en .
-<https://doi.org/10.6069/uwlswd.06xx-6744#l> <http://www.w3.org/2004/02/skos/core#inScheme> <https://doi.org/10.6069/uwlswd.06xx-6744> .
-<https://doi.org/10.6069/uwlswd.06xx-6744#k> <http://www.w3.org/2004/02/skos/core#notation> "k"@en .
-<https://doi.org/10.6069/uwlswd.06xx-6744#m> <http://www.w3.org/2004/02/skos/core#definition> "Several types of scores are issued together, as is frequently the case with band music."@en .
-<https://doi.org/10.6069/uwlswd.06xx-6744#a> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
-<https://doi.org/10.6069/uwlswd.06xx-6744> <http://purl.org/dc/terms/hasFormat> <https://uwlib-cams.github.io/uwlswd_vocabs_marc_006_008/008/music_format_of_music/music_format_of_music.rdf> .
-<https://doi.org/10.6069/uwlswd.06xx-6744#u> <http://www.w3.org/2004/02/skos/core#prefLabel> "unknown"@en .
-<https://doi.org/10.6069/uwlswd.06xx-6744#h> <http://www.w3.org/2004/02/skos/core#inScheme> <https://doi.org/10.6069/uwlswd.06xx-6744> .
+<https://doi.org/10.6069/uwlswd.06xx-6744#e> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
 <https://doi.org/10.6069/uwlswd.06xx-6744#k> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
-<https://doi.org/10.6069/uwlswd.06xx-6744#n> <http://www.w3.org/2004/02/skos/core#notation> "n"@en .
-<https://doi.org/10.6069/uwlswd.06xx-6744#b> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<https://doi.org/10.6069/uwlswd.06xx-6744#m> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<https://doi.org/10.6069/uwlswd.06xx-6744> <http://purl.org/dc/terms/alternative> "MARC21 008/20 values for music expressed using RDF"@en .
+<https://doi.org/10.6069/uwlswd.06xx-6744#u> <http://www.w3.org/2004/02/skos/core#prefLabel> "unknown"@en .
+<https://doi.org/10.6069/uwlswd.06xx-6744> <http://purl.org/dc/terms/description> "Indicates the format of a musical composition (e.g., piano-conductor score)."@en .
+<https://doi.org/10.6069/uwlswd.06xx-6744> <http://purl.org/dc/terms/type> <http://purl.org/dc/dcmitype/Dataset> .
+<https://doi.org/10.6069/uwlswd.06xx-6744#j> <http://www.w3.org/2004/02/skos/core#notation> "j" .
+<https://doi.org/10.6069/uwlswd.06xx-6744#e> <http://www.w3.org/2004/02/skos/core#prefLabel> "condensed score or piano-conductor score"@en .
+<https://doi.org/10.6069/uwlswd.06xx-6744> <http://purl.org/dc/terms/issued> "2023" .
+<https://doi.org/10.6069/uwlswd.06xx-6744> <http://purl.org/dc/elements/1.1/language> "en" .
+<https://doi.org/10.6069/uwlswd.06xx-6744#z> <http://www.w3.org/2004/02/skos/core#notation> "z" .
+<https://doi.org/10.6069/uwlswd.06xx-6744#p> <http://www.w3.org/2004/02/skos/core#definition> "A reduction of an instrumental work or a vocal work with instruments to a version for piano."@en .
+<https://doi.org/10.6069/uwlswd.06xx-6744#i> <http://www.w3.org/2004/02/skos/core#definition> "A score in which the number of staves is reduced to two or a few, generally organized by instrumental sections or vocal parts, and often with cues for individual parts."@en .
+<https://doi.org/10.6069/uwlswd.06xx-6744#k> <http://www.w3.org/2004/02/skos/core#notation> "k" .
+<https://doi.org/10.6069/uwlswd.06xx-6744#p> <http://www.w3.org/2004/02/skos/core#prefLabel> "piano score"@en .
+<https://doi.org/10.6069/uwlswd.06xx-6744#i> <http://www.w3.org/2004/02/skos/core#notation> "i" .
+<https://doi.org/10.6069/uwlswd.06xx-6744> <http://purl.org/dc/terms/title> "Music: format of music"@en .
+<https://doi.org/10.6069/uwlswd.06xx-6744#l> <http://www.w3.org/2004/02/skos/core#definition> "Graphical, symbolic (e.g., staff), or word-based musical notation representing the sounds of all the parts of an ensemble, or a work for solo performer or electronic media. Do not confuse with Part."@en .
+<https://doi.org/10.6069/uwlswd.06xx-6744#h> <http://www.w3.org/2004/02/skos/core#prefLabel> "chorus score"@en .
+<https://doi.org/10.6069/uwlswd.06xx-6744#e> <http://www.w3.org/2004/02/skos/core#definition> "Orchestral or band music that has been reduced. It may be part of an ensemble work for a particular instrument, with cues for other instruments. Such a score is used by an individual playing the instrument for which the score was written or for the conductor."@en .
+<https://doi.org/10.6069/uwlswd.06xx-6744#n> <http://www.w3.org/2004/02/skos/core#notation> "n" .
+<https://doi.org/10.6069/uwlswd.06xx-6744#m> <http://www.w3.org/2004/02/skos/core#notation> "m" .
+<https://doi.org/10.6069/uwlswd.06xx-6744#z> <http://www.w3.org/2004/02/skos/core#prefLabel> "other"@en .
+<https://doi.org/10.6069/uwlswd.06xx-6744#a> <http://www.w3.org/2004/02/skos/core#definition> "Staff notation representing the sounds of all the parts of an ensemble (instrumental and/or vocal), arranged so that they can be read simultaneously."@en .
+<https://doi.org/10.6069/uwlswd.06xx-6744> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#ConceptScheme> .
+<https://doi.org/10.6069/uwlswd.06xx-6744#u> <http://www.w3.org/2004/02/skos/core#definition> "Format of the item is unknown."@en .
+<https://doi.org/10.6069/uwlswd.06xx-6744#g> <http://www.w3.org/2004/02/skos/core#notation> "g" .
+<https://doi.org/10.6069/uwlswd.06xx-6744#u> <http://www.w3.org/2004/02/skos/core#notation> "u" .
+<https://doi.org/10.6069/uwlswd.06xx-6744#b> <http://www.w3.org/2004/02/skos/core#prefLabel> "miniature or study score"@en .
+<https://doi.org/10.6069/uwlswd.06xx-6744> <http://purl.org/dc/terms/source> <http://marc21rdf.info> .
+<https://doi.org/10.6069/uwlswd.06xx-6744#b> <http://www.w3.org/2004/02/skos/core#inScheme> <https://doi.org/10.6069/uwlswd.06xx-6744> .
+<https://doi.org/10.6069/uwlswd.06xx-6744#k> <http://www.w3.org/2004/02/skos/core#definition> "Score showing all vocal parts, solo and/or choral, with the instrumental accompaniment either arranged for keyboard(s) or other chordal instrument(s) or omitted."@en .
+<https://doi.org/10.6069/uwlswd.06xx-6744#d> <http://www.w3.org/2004/02/skos/core#scopeNote> "Not used for vocal works originally unaccompanied."@en .
+<https://doi.org/10.6069/uwlswd.06xx-6744> <http://purl.org/dc/terms/hasFormat> <https://uwlib-cams.github.io/uwlswd_vocabs_marc_006_008/008/music_format_of_music/music_format_of_music.rdf> .
+<https://doi.org/10.6069/uwlswd.06xx-6744> <http://purl.org/dc/terms/provenance> <https://doi.org/10.6069/uwlswd.2e2b-y833#marc00Xvalues> .
+<https://doi.org/10.6069/uwlswd.06xx-6744#n> <http://www.w3.org/2004/02/skos/core#prefLabel> "not applicable"@en .
+<https://doi.org/10.6069/uwlswd.06xx-6744#h> <http://www.w3.org/2004/02/skos/core#inScheme> <https://doi.org/10.6069/uwlswd.06xx-6744> .
+<https://doi.org/10.6069/uwlswd.06xx-6744#a> <http://www.w3.org/2004/02/skos/core#notation> "a" .
+<https://doi.org/10.6069/uwlswd.06xx-6744#u> <http://www.w3.org/2004/02/skos/core#inScheme> <https://doi.org/10.6069/uwlswd.06xx-6744> .
+<https://doi.org/10.6069/uwlswd.06xx-6744> <http://purl.org/dc/terms/publisher> <http://viaf.org/viaf/139541794> .
+<https://doi.org/10.6069/uwlswd.06xx-6744#c> <http://www.w3.org/2004/02/skos/core#definition> "Score with instrumental accompaniment reduced for keyboard(s)."@en .
+<https://doi.org/10.6069/uwlswd.06xx-6744#h> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<https://doi.org/10.6069/uwlswd.06xx-6744#c> <http://www.w3.org/2004/02/skos/core#inScheme> <https://doi.org/10.6069/uwlswd.06xx-6744> .
+<https://doi.org/10.6069/uwlswd.06xx-6744#d> <http://www.w3.org/2004/02/skos/core#prefLabel> "voice score with accompaniment omitted"@en .
+<https://doi.org/10.6069/uwlswd.06xx-6744#c> <http://www.w3.org/2004/02/skos/core#prefLabel> "accompaniment reduced for keyboard"@en .
+<https://doi.org/10.6069/uwlswd.06xx-6744#l> <http://www.w3.org/2004/02/skos/core#notation> "l" .
+<https://doi.org/10.6069/uwlswd.06xx-6744> <https://schema.org/disambiguatingDescription> "SKOS Concept Scheme for MARC 00X Values"@en .
+<https://doi.org/10.6069/uwlswd.06xx-6744#j> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<https://doi.org/10.6069/uwlswd.06xx-6744#g> <http://www.w3.org/2004/02/skos/core#inScheme> <https://doi.org/10.6069/uwlswd.06xx-6744> .
+<https://doi.org/10.6069/uwlswd.06xx-6744#n> <http://www.w3.org/2004/02/skos/core#inScheme> <https://doi.org/10.6069/uwlswd.06xx-6744> .
+<https://doi.org/10.6069/uwlswd.06xx-6744#i> <http://www.w3.org/2004/02/skos/core#inScheme> <https://doi.org/10.6069/uwlswd.06xx-6744> .
+<https://doi.org/10.6069/uwlswd.06xx-6744#h> <http://www.w3.org/2004/02/skos/core#notation> "h" .
+<https://doi.org/10.6069/uwlswd.06xx-6744#g> <http://www.w3.org/2004/02/skos/core#prefLabel> "close score"@en .
+<https://doi.org/10.6069/uwlswd.06xx-6744#n> <http://www.w3.org/2004/02/skos/core#definition> "Item is a sound recording."@en .
+<https://doi.org/10.6069/uwlswd.06xx-6744#d> <http://www.w3.org/2004/02/skos/core#inScheme> <https://doi.org/10.6069/uwlswd.06xx-6744> .
+<https://doi.org/10.6069/uwlswd.06xx-6744#c> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<https://doi.org/10.6069/uwlswd.06xx-6744#c> <http://www.w3.org/2004/02/skos/core#scopeNote> "Not used for chorus scores and vocal scores."@en .
+<https://doi.org/10.6069/uwlswd.06xx-6744#m> <http://www.w3.org/2004/02/skos/core#definition> "Several types of scores are issued together, as is frequently the case with band music."@en .
 <https://doi.org/10.6069/uwlswd.06xx-6744#l> <http://www.w3.org/2004/02/skos/core#prefLabel> "score"@en .
 <https://doi.org/10.6069/uwlswd.06xx-6744#d> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
-<https://doi.org/10.6069/uwlswd.06xx-6744#n> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
-<https://doi.org/10.6069/uwlswd.06xx-6744#g> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
-<https://doi.org/10.6069/uwlswd.06xx-6744#u> <http://www.w3.org/2004/02/skos/core#definition> "Format of the item is unknown."@en .
-<https://doi.org/10.6069/uwlswd.06xx-6744#h> <http://www.w3.org/2004/02/skos/core#definition> "Score of a work for solo voices and chorus showing only the parts for chorus, with the instrumental accompaniment either arranged for keyboard(s) or other chordal instrument(s) or omitted."@en .
-<https://doi.org/10.6069/uwlswd.06xx-6744> <http://purl.org/dc/elements/1.1/contributor> "Metadata Management Associates"@en .
-<https://doi.org/10.6069/uwlswd.06xx-6744#c> <http://www.w3.org/2004/02/skos/core#definition> "Score with instrumental accompaniment reduced for keyboard(s)."@en .
-<https://doi.org/10.6069/uwlswd.06xx-6744#i> <http://www.w3.org/2004/02/skos/core#notation> "i"@en .
-<https://doi.org/10.6069/uwlswd.06xx-6744#l> <http://www.w3.org/2004/02/skos/core#definition> "Graphical, symbolic (e.g., staff), or word-based musical notation representing the sounds of all the parts of an ensemble, or a work for solo performer or electronic media. Do not confuse with Part."@en .
-<https://doi.org/10.6069/uwlswd.06xx-6744#a> <http://www.w3.org/2004/02/skos/core#inScheme> <https://doi.org/10.6069/uwlswd.06xx-6744> .
-<https://doi.org/10.6069/uwlswd.06xx-6744#l> <http://www.w3.org/2004/02/skos/core#notation> "l"@en .
-<https://doi.org/10.6069/uwlswd.06xx-6744#n> <http://www.w3.org/2004/02/skos/core#definition> "Item is a sound recording."@en .
-<https://doi.org/10.6069/uwlswd.06xx-6744#k> <http://www.w3.org/2004/02/skos/core#inScheme> <https://doi.org/10.6069/uwlswd.06xx-6744> .
-<https://doi.org/10.6069/uwlswd.06xx-6744#g> <http://www.w3.org/2004/02/skos/core#prefLabel> "close score"@en .
-<https://doi.org/10.6069/uwlswd.06xx-6744#b> <http://www.w3.org/2004/02/skos/core#inScheme> <https://doi.org/10.6069/uwlswd.06xx-6744> .
-<https://doi.org/10.6069/uwlswd.06xx-6744#p> <http://www.w3.org/2004/02/skos/core#definition> "A reduction of an instrumental work or a vocal work with instruments to a version for piano."@en .
-<https://doi.org/10.6069/uwlswd.06xx-6744#d> <http://www.w3.org/2004/02/skos/core#inScheme> <https://doi.org/10.6069/uwlswd.06xx-6744> .
-<https://doi.org/10.6069/uwlswd.06xx-6744#z> <http://www.w3.org/2004/02/skos/core#inScheme> <https://doi.org/10.6069/uwlswd.06xx-6744> .
-<https://doi.org/10.6069/uwlswd.06xx-6744#c> <http://www.w3.org/2004/02/skos/core#inScheme> <https://doi.org/10.6069/uwlswd.06xx-6744> .
-<https://doi.org/10.6069/uwlswd.06xx-6744#z> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
-<https://doi.org/10.6069/uwlswd.06xx-6744#i> <http://www.w3.org/2004/02/skos/core#scopeNote> "Used for: Reduced score, Short score."@en .
-<https://doi.org/10.6069/uwlswd.06xx-6744#b> <http://www.w3.org/2004/02/skos/core#prefLabel> "miniature or study score"@en .
-<https://doi.org/10.6069/uwlswd.06xx-6744#e> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
-<https://doi.org/10.6069/uwlswd.06xx-6744#m> <http://www.w3.org/2004/02/skos/core#notation> "m"@en .
-<https://doi.org/10.6069/uwlswd.06xx-6744#p> <http://www.w3.org/2004/02/skos/core#notation> "p"@en .
-<https://doi.org/10.6069/uwlswd.06xx-6744> <http://purl.org/dc/terms/format> <http://www.w3.org/ns/formats/N-Triples> .
-<https://doi.org/10.6069/uwlswd.06xx-6744#a> <http://www.w3.org/2004/02/skos/core#prefLabel> "full score"@en .
-<https://doi.org/10.6069/uwlswd.06xx-6744#d> <http://www.w3.org/2004/02/skos/core#notation> "d"@en .
-<https://doi.org/10.6069/uwlswd.06xx-6744#b> <http://www.w3.org/2004/02/skos/core#notation> "b"@en .
-<https://doi.org/10.6069/uwlswd.06xx-6744#u> <http://www.w3.org/2004/02/skos/core#notation> "u"@en .
-<https://doi.org/10.6069/uwlswd.06xx-6744#p> <http://www.w3.org/2004/02/skos/core#prefLabel> "piano score"@en .
-<https://doi.org/10.6069/uwlswd.06xx-6744#m> <http://www.w3.org/2004/02/skos/core#inScheme> <https://doi.org/10.6069/uwlswd.06xx-6744> .
-<https://doi.org/10.6069/uwlswd.06xx-6744#m> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
-<https://doi.org/10.6069/uwlswd.06xx-6744#e> <http://www.w3.org/2004/02/skos/core#notation> "e"@en .
-<https://doi.org/10.6069/uwlswd.06xx-6744#z> <http://www.w3.org/2004/02/skos/core#prefLabel> "other"@en .
-<https://doi.org/10.6069/uwlswd.06xx-6744#u> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
-<https://doi.org/10.6069/uwlswd.06xx-6744#n> <http://www.w3.org/2004/02/skos/core#prefLabel> "not applicable"@en .
-<https://doi.org/10.6069/uwlswd.06xx-6744> <https://schema.org/disambiguatingDescription> "SKOS Concept Scheme for MARC 00X Values" .
-<https://doi.org/10.6069/uwlswd.06xx-6744#c> <http://www.w3.org/2004/02/skos/core#prefLabel> "accompaniment reduced for keyboard"@en .
-<https://doi.org/10.6069/uwlswd.06xx-6744> <http://purl.org/dc/terms/publisher> <http://viaf.org/viaf/139541794> .
-<https://doi.org/10.6069/uwlswd.06xx-6744#h> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
-<https://doi.org/10.6069/uwlswd.06xx-6744> <http://purl.org/dc/terms/title> "Music: format of music"@en .
-<https://doi.org/10.6069/uwlswd.06xx-6744#j> <http://www.w3.org/2004/02/skos/core#prefLabel> "performer-conductor part"@en .
-<https://doi.org/10.6069/uwlswd.06xx-6744#d> <http://www.w3.org/2004/02/skos/core#scopeNote> "Not used for vocal works originally unaccompanied."@en .
+<https://doi.org/10.6069/uwlswd.06xx-6744#g> <http://www.w3.org/2004/02/skos/core#definition> "Score (e.g., a hymnal) that has separate parts transcribed in condensed form."@en .
+<https://doi.org/10.6069/uwlswd.06xx-6744#c> <http://www.w3.org/2004/02/skos/core#notation> "c" .
 <https://doi.org/10.6069/uwlswd.06xx-6744> <http://purl.org/dc/terms/hasFormat> <https://uwlib-cams.github.io/uwlswd_vocabs_marc_006_008/008/music_format_of_music/music_format_of_music.jsonld> .
-<https://doi.org/10.6069/uwlswd.06xx-6744#h> <http://www.w3.org/2004/02/skos/core#notation> "h"@en .
-<https://doi.org/10.6069/uwlswd.06xx-6744> <http://purl.org/dc/terms/description> "Indicates the format of a musical composition (e.g., piano-conductor score)."@en .
-<https://doi.org/10.6069/uwlswd.06xx-6744#c> <http://www.w3.org/2004/02/skos/core#scopeNote> "Not used for chorus scores and vocal scores."@en .
-<https://doi.org/10.6069/uwlswd.06xx-6744#g> <http://www.w3.org/2004/02/skos/core#notation> "g"@en .
-<https://doi.org/10.6069/uwlswd.06xx-6744> <http://purl.org/dc/terms/source> <http://marc21rdf.info> .
-<https://doi.org/10.6069/uwlswd.06xx-6744#j> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
-<https://doi.org/10.6069/uwlswd.06xx-6744#a> <http://www.w3.org/2004/02/skos/core#notation> "a"@en .
-<https://doi.org/10.6069/uwlswd.06xx-6744> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#ConceptScheme> .
-<https://doi.org/10.6069/uwlswd.06xx-6744#i> <http://www.w3.org/2004/02/skos/core#prefLabel> "condensed score"@en .
-<https://doi.org/10.6069/uwlswd.06xx-6744#p> <http://www.w3.org/2004/02/skos/core#scopeNote> "May include the words of a vocal work."@en .
-<https://doi.org/10.6069/uwlswd.06xx-6744#c> <http://www.w3.org/2004/02/skos/core#notation> "c"@en .
-<https://doi.org/10.6069/uwlswd.06xx-6744#j> <http://www.w3.org/2004/02/skos/core#inScheme> <https://doi.org/10.6069/uwlswd.06xx-6744> .
-<https://doi.org/10.6069/uwlswd.06xx-6744> <http://purl.org/dc/terms/type> <http://purl.org/dc/dcmitype/Dataset> .
-<https://doi.org/10.6069/uwlswd.06xx-6744> <http://purl.org/dc/terms/license> <http://creativecommons.org/publicdomain/zero/1.0> .
 <https://doi.org/10.6069/uwlswd.06xx-6744#z> <http://www.w3.org/2004/02/skos/core#definition> "Format of music other than full score, miniature or study score, accompaniment reduced for keyboard, voice score with accompaniment omitted, condensed score or piano-conductor score, close score, chorus score, condensed score, performer-conductor part, vocal score, score, multiple score formats, piano score, or unknown."@en .
-<https://doi.org/10.6069/uwlswd.06xx-6744> <http://purl.org/dc/terms/hasFormat> <https://uwlib-cams.github.io/uwlswd_vocabs_marc_006_008/008/music_format_of_music/music_format_of_music.html> .
-<https://doi.org/10.6069/uwlswd.06xx-6744> <http://purl.org/dc/terms/provenance> <https://doi.org/10.6069/uwlswd.2e2b-y833> .
-<https://doi.org/10.6069/uwlswd.06xx-6744#p> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
-<https://doi.org/10.6069/uwlswd.06xx-6744#n> <http://www.w3.org/2004/02/skos/core#inScheme> <https://doi.org/10.6069/uwlswd.06xx-6744> .
-<https://doi.org/10.6069/uwlswd.06xx-6744#c> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
-<https://doi.org/10.6069/uwlswd.06xx-6744#e> <http://www.w3.org/2004/02/skos/core#definition> "Orchestral or band music that has been reduced. It may be part of an ensemble work for a particular instrument, with cues for other instruments. Such a score is used by an individual playing the instrument for which the score was written or for the conductor."@en .
-<https://doi.org/10.6069/uwlswd.06xx-6744#j> <http://www.w3.org/2004/02/skos/core#definition> "A performance part for a single instrument in an ensemble, with cues for the other instruments that enable the performer of that part also to conduct."@en .
+<https://doi.org/10.6069/uwlswd.06xx-6744#z> <http://www.w3.org/2004/02/skos/core#inScheme> <https://doi.org/10.6069/uwlswd.06xx-6744> .
+<https://doi.org/10.6069/uwlswd.06xx-6744#l> <http://www.w3.org/2004/02/skos/core#inScheme> <https://doi.org/10.6069/uwlswd.06xx-6744> .
+<https://doi.org/10.6069/uwlswd.06xx-6744#m> <http://www.w3.org/2004/02/skos/core#prefLabel> "multiple score formats"@en .
+<https://doi.org/10.6069/uwlswd.06xx-6744> <http://purl.org/dc/terms/license> <http://creativecommons.org/publicdomain/zero/1.0> .
+<https://doi.org/10.6069/uwlswd.06xx-6744#g> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<https://doi.org/10.6069/uwlswd.06xx-6744#j> <http://www.w3.org/2004/02/skos/core#prefLabel> "performer-conductor part"@en .
+<https://doi.org/10.6069/uwlswd.06xx-6744#h> <http://www.w3.org/2004/02/skos/core#definition> "Score of a work for solo voices and chorus showing only the parts for chorus, with the instrumental accompaniment either arranged for keyboard(s) or other chordal instrument(s) or omitted."@en .
+<https://doi.org/10.6069/uwlswd.06xx-6744#n> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<https://doi.org/10.6069/uwlswd.06xx-6744#b> <http://www.w3.org/2004/02/skos/core#definition> "Score issued in a musical image of small size, usually redueced from a larger original, and not primarily intended for use in performance."@en .
+<https://doi.org/10.6069/uwlswd.06xx-6744#i> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<https://doi.org/10.6069/uwlswd.06xx-6744#l> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<https://doi.org/10.6069/uwlswd.06xx-6744#a> <http://www.w3.org/2004/02/skos/core#inScheme> <https://doi.org/10.6069/uwlswd.06xx-6744> .
+<https://doi.org/10.6069/uwlswd.06xx-6744#d> <http://www.w3.org/2004/02/skos/core#definition> "Score for solo and/or choral voice(s) with the accompaniment omitted."@en .
+<https://doi.org/10.6069/uwlswd.06xx-6744#e> <http://www.w3.org/2004/02/skos/core#notation> "e" .
+<https://doi.org/10.6069/uwlswd.06xx-6744#p> <http://www.w3.org/2004/02/skos/core#notation> "p" .
+<https://doi.org/10.6069/uwlswd.06xx-6744> <http://purl.org/dc/terms/format> <http://www.w3.org/ns/formats/N-Triples> .
+<https://doi.org/10.6069/uwlswd.06xx-6744#i> <http://www.w3.org/2004/02/skos/core#scopeNote> "Used for: Reduced score, Short score."@en .
 <https://doi.org/10.6069/uwlswd.06xx-6744#p> <http://www.w3.org/2004/02/skos/core#inScheme> <https://doi.org/10.6069/uwlswd.06xx-6744> .
-<https://doi.org/10.6069/uwlswd.06xx-6744> <http://purl.org/dc/terms/contributor> <http://viaf.org/viaf/151962300> .
-<https://doi.org/10.6069/uwlswd.06xx-6744#a> <http://www.w3.org/2004/02/skos/core#definition> "Staff notation representing the sounds of all the parts of an ensemble (instrumental and/or vocal), arranged so that they can be read simultaneously."@en .
-<https://doi.org/10.6069/uwlswd.06xx-6744#g> <http://www.w3.org/2004/02/skos/core#inScheme> <https://doi.org/10.6069/uwlswd.06xx-6744> .
-<https://doi.org/10.6069/uwlswd.06xx-6744#d> <http://www.w3.org/2004/02/skos/core#prefLabel> "voice score with accompaniment omitted"@en .
-<https://doi.org/10.6069/uwlswd.06xx-6744> <http://purl.org/dc/elements/1.1/language> "en" .
 <https://doi.org/10.6069/uwlswd.06xx-6744> <http://purl.org/dc/terms/source> <https://www.loc.gov/marc/bibliographic/bd008.html> .
+<https://doi.org/10.6069/uwlswd.06xx-6744#z> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<https://doi.org/10.6069/uwlswd.06xx-6744#p> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<https://doi.org/10.6069/uwlswd.06xx-6744> <http://purl.org/dc/terms/hasFormat> <https://uwlib-cams.github.io/uwlswd_vocabs_marc_006_008/008/music_format_of_music/music_format_of_music.html> .
 <https://doi.org/10.6069/uwlswd.06xx-6744> <http://purl.org/dc/terms/hasFormat> <https://uwlib-cams.github.io/uwlswd_vocabs_marc_006_008/008/music_format_of_music/music_format_of_music.ttl> .
+<https://doi.org/10.6069/uwlswd.06xx-6744> <https://schema.org/version> "1-1-0" .
+<https://doi.org/10.6069/uwlswd.06xx-6744#a> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<https://doi.org/10.6069/uwlswd.06xx-6744#j> <http://www.w3.org/2004/02/skos/core#definition> "A performance part for a single instrument in an ensemble, with cues for the other instruments that enable the performer of that part also to conduct."@en .
+<https://doi.org/10.6069/uwlswd.06xx-6744#d> <http://www.w3.org/2004/02/skos/core#notation> "d" .
+<https://doi.org/10.6069/uwlswd.06xx-6744#e> <http://www.w3.org/2004/02/skos/core#inScheme> <https://doi.org/10.6069/uwlswd.06xx-6744> .
+<https://doi.org/10.6069/uwlswd.06xx-6744#k> <http://www.w3.org/2004/02/skos/core#inScheme> <https://doi.org/10.6069/uwlswd.06xx-6744> .
+<https://doi.org/10.6069/uwlswd.06xx-6744#m> <http://www.w3.org/2004/02/skos/core#inScheme> <https://doi.org/10.6069/uwlswd.06xx-6744> .
+<https://doi.org/10.6069/uwlswd.06xx-6744#b> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<https://doi.org/10.6069/uwlswd.06xx-6744> <http://purl.org/dc/terms/creator> <http://viaf.org/viaf/139541794> .
+<https://doi.org/10.6069/uwlswd.06xx-6744#k> <http://www.w3.org/2004/02/skos/core#prefLabel> "vocal score"@en .
+<https://doi.org/10.6069/uwlswd.06xx-6744#a> <http://www.w3.org/2004/02/skos/core#prefLabel> "full score"@en .
+<https://doi.org/10.6069/uwlswd.06xx-6744> <http://purl.org/dc/elements/1.1/contributor> "Metadata Management Associates"@en .
+<https://doi.org/10.6069/uwlswd.06xx-6744#j> <http://www.w3.org/2004/02/skos/core#inScheme> <https://doi.org/10.6069/uwlswd.06xx-6744> .
+<https://doi.org/10.6069/uwlswd.06xx-6744#b> <http://www.w3.org/2004/02/skos/core#notation> "b" .
+<https://doi.org/10.6069/uwlswd.06xx-6744#u> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<https://doi.org/10.6069/uwlswd.06xx-6744#i> <http://www.w3.org/2004/02/skos/core#prefLabel> "condensed score"@en .
+<https://doi.org/10.6069/uwlswd.06xx-6744> <http://purl.org/dc/terms/contributor> <http://viaf.org/viaf/151962300> .
+<https://doi.org/10.6069/uwlswd.06xx-6744#p> <http://www.w3.org/2004/02/skos/core#scopeNote> "May include the words of a vocal work."@en .

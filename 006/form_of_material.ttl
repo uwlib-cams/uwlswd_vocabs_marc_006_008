@@ -113,6 +113,6 @@
         <https://www.loc.gov/marc/bibliographic/bd008.html> ;
     dct:title "Form of material"@en ;
     schema:additionalType "Dataset"@en ;
-    schema:disambiguatingDescription "SKOS Concept Scheme for MARC 00X Values" ;
-    schema:version "1-2-0" .
+    schema:disambiguatingDescription "SKOS Concept Scheme for MARC 00X Values"@en ;
+    schema:version "1-3-0" .
 
