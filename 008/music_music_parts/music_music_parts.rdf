@@ -23,7 +23,7 @@
     <dc:language>en</dc:language>
     <dct:source rdf:resource="https://www.loc.gov/marc/bibliographic/bd008.html"/>
     <dct:source rdf:resource="http://marc21rdf.info"/>
-    <dct:provenance rdf:resource="https://doi.org/10.6069/uwlswd.2e2b-y833"/>
+    <dct:provenance rdf:resource="https://doi.org/10.6069/uwlswd.2e2b-y833#marc00Xvalues"/>
     <dct:license rdf:resource="http://creativecommons.org/publicdomain/zero/1.0"/>
     <schema:version>1-0-1</schema:version>
     <dct:hasFormat rdf:resource="https://uwlib-cams.github.io/uwlswd_vocabs_marc_006_008/008/music_music_parts/music_music_parts.ttl"/>
