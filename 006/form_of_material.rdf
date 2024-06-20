@@ -42,7 +42,7 @@
     <dct:license rdf:resource="http://creativecommons.org/publicdomain/zero/1.0"/>
     <dct:description xml:lang="en">Identifies a form of material.</dct:description>
     <schema:disambiguatingDescription xml:lang="en">SKOS Concept Scheme for MARC 00X Values</schema:disambiguatingDescription>
-    <schema:version>1-2-0</schema:version>
+    <schema:version>1-3-0</schema:version>
     <dct:provenance rdf:resource="https://doi.org/10.6069/uwlswd.2e2b-y833#marc00Xvalues"/>
   </rdf:Description>
   <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.25z4-e963#i">
