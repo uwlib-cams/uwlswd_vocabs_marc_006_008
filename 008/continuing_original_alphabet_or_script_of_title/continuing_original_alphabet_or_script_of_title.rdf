@@ -6,100 +6,19 @@
    xmlns:schema="https://schema.org/"
    xmlns:skos="http://www.w3.org/2004/02/skos/core#"
 >
-  <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.084w-3778#f">
-    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-    <skos:inScheme rdf:resource="https://doi.org/10.6069/uwlswd.084w-3778"/>
-    <skos:prefLabel xml:lang="en">arabic</skos:prefLabel>
-    <skos:notation xml:lang="en">f</skos:notation>
-  </rdf:Description>
-  <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.084w-3778#d">
-    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-    <skos:inScheme rdf:resource="https://doi.org/10.6069/uwlswd.084w-3778"/>
-    <skos:prefLabel xml:lang="en">japanese</skos:prefLabel>
-    <skos:notation xml:lang="en">d</skos:notation>
-  </rdf:Description>
-  <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.084w-3778">
-    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#ConceptScheme"/>
-    <dct:type rdf:resource="http://purl.org/dc/dcmitype/Dataset"/>
-    <dct:title xml:lang="en">Continuing: original alphabet or script of title</dct:title>
-    <dct:alternative xml:lang="en">MARC21 008/33 values for continuing resources expressed using RDF</dct:alternative>
-    <dct:description xml:lang="en">Indicates the original alphabet or script of the language of the title on the source item upon which the key title is based.</dct:description>
-    <schema:disambiguatingDescription>SKOS Concept Scheme for MARC 00X Values</schema:disambiguatingDescription>
-    <dct:publisher rdf:resource="http://viaf.org/viaf/139541794"/>
-    <dct:source rdf:resource="https://www.loc.gov/marc/bibliographic/bd008.html"/>
-    <dct:source rdf:resource="http://marc21rdf.info"/>
-    <dct:provenance rdf:resource="https://doi.org/10.6069/uwlswd.2e2b-y833"/>
-    <dct:creator rdf:resource="http://viaf.org/viaf/139541794"/>
-    <dct:contributor rdf:resource="http://viaf.org/viaf/151962300"/>
-    <dc:contributor xml:lang="en">Metadata Management Associates</dc:contributor>
-    <dct:issued>2023</dct:issued>
-    <dc:language>en</dc:language>
-    <dct:license rdf:resource="http://creativecommons.org/publicdomain/zero/1.0"/>
-    <schema:version>1-0-1</schema:version>
-    <dct:hasFormat rdf:resource="https://uwlib-cams.github.io/uwlswd_vocabs_marc_006_008/008/continuing_original_alphabet_or_script_of_title/continuing_original_alphabet_or_script_of_title.ttl"/>
-    <dct:hasFormat rdf:resource="https://uwlib-cams.github.io/uwlswd_vocabs_marc_006_008/008/continuing_original_alphabet_or_script_of_title/continuing_original_alphabet_or_script_of_title.nt"/>
-    <dct:hasFormat rdf:resource="https://uwlib-cams.github.io/uwlswd_vocabs_marc_006_008/008/continuing_original_alphabet_or_script_of_title/continuing_original_alphabet_or_script_of_title.jsonld"/>
-    <dct:hasFormat rdf:resource="https://uwlib-cams.github.io/uwlswd_vocabs_marc_006_008/008/continuing_original_alphabet_or_script_of_title/continuing_original_alphabet_or_script_of_title.html"/>
-    <dct:format rdf:resource="http://www.w3.org/ns/formats/RDF_XML"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.084w-3778#i">
-    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-    <skos:inScheme rdf:resource="https://doi.org/10.6069/uwlswd.084w-3778"/>
-    <skos:prefLabel xml:lang="en">thai</skos:prefLabel>
-    <skos:notation xml:lang="en">i</skos:notation>
-  </rdf:Description>
-  <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.084w-3778#h">
-    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-    <skos:inScheme rdf:resource="https://doi.org/10.6069/uwlswd.084w-3778"/>
-    <skos:prefLabel xml:lang="en">hebrew</skos:prefLabel>
-    <skos:notation xml:lang="en">h</skos:notation>
-  </rdf:Description>
-  <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.084w-3778#b">
-    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-    <skos:inScheme rdf:resource="https://doi.org/10.6069/uwlswd.084w-3778"/>
-    <skos:prefLabel xml:lang="en">extended roman</skos:prefLabel>
-    <skos:definition xml:lang="en">Original alphabet of the title is a Roman alphabet language. Most western European lanuages, with the major exception of English, fall into this group.</skos:definition>
-    <skos:scopeNote xml:lang="en">Includes diacritics and special characters.</skos:scopeNote>
-    <skos:notation xml:lang="en">b</skos:notation>
-  </rdf:Description>
-  <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.084w-3778#c">
-    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-    <skos:inScheme rdf:resource="https://doi.org/10.6069/uwlswd.084w-3778"/>
-    <skos:prefLabel xml:lang="en">cyrillic</skos:prefLabel>
-    <skos:notation xml:lang="en">c</skos:notation>
-  </rdf:Description>
-  <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.084w-3778#l">
-    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-    <skos:inScheme rdf:resource="https://doi.org/10.6069/uwlswd.084w-3778"/>
-    <skos:prefLabel xml:lang="en">tamil</skos:prefLabel>
-    <skos:notation xml:lang="en">l</skos:notation>
-  </rdf:Description>
-  <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.084w-3778#u">
-    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-    <skos:inScheme rdf:resource="https://doi.org/10.6069/uwlswd.084w-3778"/>
-    <skos:prefLabel xml:lang="en">unknown</skos:prefLabel>
-    <skos:definition xml:lang="en">Original alphabet of the title is unknown.</skos:definition>
-    <skos:notation xml:lang="en">u</skos:notation>
-  </rdf:Description>
-  <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.084w-3778#g">
-    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-    <skos:inScheme rdf:resource="https://doi.org/10.6069/uwlswd.084w-3778"/>
-    <skos:prefLabel xml:lang="en">greek</skos:prefLabel>
-    <skos:notation xml:lang="en">g</skos:notation>
-  </rdf:Description>
-  <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.084w-3778#e">
-    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-    <skos:inScheme rdf:resource="https://doi.org/10.6069/uwlswd.084w-3778"/>
-    <skos:prefLabel xml:lang="en">chinese</skos:prefLabel>
-    <skos:notation xml:lang="en">e</skos:notation>
-  </rdf:Description>
   <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.084w-3778#z">
     <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
     <skos:inScheme rdf:resource="https://doi.org/10.6069/uwlswd.084w-3778"/>
     <skos:prefLabel xml:lang="en">other</skos:prefLabel>
     <skos:definition xml:lang="en">Original alphabet or script of title other than basic Roman, extended Roman, cyrillic, Japanese, Chinese, Arabic, Greek, Hebrew, Thai, Devanagari, Korean, or Tamil.</skos:definition>
     <skos:scopeNote xml:lang="en">Also used when the title incorporates words from more than one alphabet or script.</skos:scopeNote>
-    <skos:notation xml:lang="en">z</skos:notation>
+    <skos:notation>z</skos:notation>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.084w-3778#h">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <skos:inScheme rdf:resource="https://doi.org/10.6069/uwlswd.084w-3778"/>
+    <skos:prefLabel xml:lang="en">hebrew</skos:prefLabel>
+    <skos:notation>h</skos:notation>
   </rdf:Description>
   <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.084w-3778#a">
     <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
@@ -107,24 +26,105 @@
     <skos:prefLabel xml:lang="en">basic roman</skos:prefLabel>
     <skos:definition xml:lang="en">Original alphabet of the title is the Roman alphabet. Languages that are usually associated include: Basque, English, Latin, Welsh, and many languages of Central and Southern Africa.</skos:definition>
     <skos:scopeNote xml:lang="en">Includes no diacritics or special characters.</skos:scopeNote>
-    <skos:notation xml:lang="en">a</skos:notation>
-  </rdf:Description>
-  <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.084w-3778#k">
-    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-    <skos:inScheme rdf:resource="https://doi.org/10.6069/uwlswd.084w-3778"/>
-    <skos:prefLabel xml:lang="en">korean</skos:prefLabel>
-    <skos:notation xml:lang="en">k</skos:notation>
+    <skos:notation>a</skos:notation>
   </rdf:Description>
   <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.084w-3778#j">
     <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
     <skos:inScheme rdf:resource="https://doi.org/10.6069/uwlswd.084w-3778"/>
     <skos:prefLabel xml:lang="en">devanagari</skos:prefLabel>
-    <skos:notation xml:lang="en">j</skos:notation>
+    <skos:notation>j</skos:notation>
   </rdf:Description>
   <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.084w-3778#pound">
     <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
     <skos:inScheme rdf:resource="https://doi.org/10.6069/uwlswd.084w-3778"/>
     <skos:prefLabel xml:lang="en">no alphabet or script given/no key title</skos:prefLabel>
-    <skos:notation xml:lang="en">#</skos:notation>
+    <skos:notation>#</skos:notation>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.084w-3778#l">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <skos:inScheme rdf:resource="https://doi.org/10.6069/uwlswd.084w-3778"/>
+    <skos:prefLabel xml:lang="en">tamil</skos:prefLabel>
+    <skos:notation>l</skos:notation>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.084w-3778">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#ConceptScheme"/>
+    <dct:type rdf:resource="http://purl.org/dc/dcmitype/Dataset"/>
+    <dct:title xml:lang="en">Continuing: original alphabet or script of title</dct:title>
+    <dct:alternative xml:lang="en">MARC21 008/33 values for continuing resources expressed using RDF</dct:alternative>
+    <dct:description xml:lang="en">Indicates the original alphabet or script of the language of the title on the source item upon which the key title is based.</dct:description>
+    <schema:disambiguatingDescription xml:lang="en">SKOS Concept Scheme for MARC 00X Values</schema:disambiguatingDescription>
+    <dct:publisher rdf:resource="http://viaf.org/viaf/139541794"/>
+    <dct:source rdf:resource="https://www.loc.gov/marc/bibliographic/bd008.html"/>
+    <dct:source rdf:resource="http://marc21rdf.info"/>
+    <dct:provenance rdf:resource="https://doi.org/10.6069/uwlswd.2e2b-y833#marc00Xvalues"/>
+    <dct:creator rdf:resource="http://viaf.org/viaf/139541794"/>
+    <dct:contributor rdf:resource="http://viaf.org/viaf/151962300"/>
+    <dc:contributor xml:lang="en">Metadata Management Associates</dc:contributor>
+    <dct:issued>2023</dct:issued>
+    <dc:language>en</dc:language>
+    <dct:license rdf:resource="http://creativecommons.org/publicdomain/zero/1.0"/>
+    <schema:version>1-1-0</schema:version>
+    <dct:hasFormat rdf:resource="https://uwlib-cams.github.io/uwlswd_vocabs_marc_006_008/008/continuing_original_alphabet_or_script_of_title/continuing_original_alphabet_or_script_of_title.ttl"/>
+    <dct:hasFormat rdf:resource="https://uwlib-cams.github.io/uwlswd_vocabs_marc_006_008/008/continuing_original_alphabet_or_script_of_title/continuing_original_alphabet_or_script_of_title.nt"/>
+    <dct:hasFormat rdf:resource="https://uwlib-cams.github.io/uwlswd_vocabs_marc_006_008/008/continuing_original_alphabet_or_script_of_title/continuing_original_alphabet_or_script_of_title.jsonld"/>
+    <dct:hasFormat rdf:resource="https://uwlib-cams.github.io/uwlswd_vocabs_marc_006_008/008/continuing_original_alphabet_or_script_of_title/continuing_original_alphabet_or_script_of_title.html"/>
+    <dct:format rdf:resource="http://www.w3.org/ns/formats/RDF_XML"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.084w-3778#g">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <skos:inScheme rdf:resource="https://doi.org/10.6069/uwlswd.084w-3778"/>
+    <skos:prefLabel xml:lang="en">greek</skos:prefLabel>
+    <skos:notation>g</skos:notation>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.084w-3778#b">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <skos:inScheme rdf:resource="https://doi.org/10.6069/uwlswd.084w-3778"/>
+    <skos:prefLabel xml:lang="en">extended roman</skos:prefLabel>
+    <skos:definition xml:lang="en">Original alphabet of the title is a Roman alphabet language. Most western European lanuages, with the major exception of English, fall into this group.</skos:definition>
+    <skos:scopeNote xml:lang="en">Includes diacritics and special characters.</skos:scopeNote>
+    <skos:notation>b</skos:notation>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.084w-3778#e">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <skos:inScheme rdf:resource="https://doi.org/10.6069/uwlswd.084w-3778"/>
+    <skos:prefLabel xml:lang="en">chinese</skos:prefLabel>
+    <skos:notation>e</skos:notation>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.084w-3778#u">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <skos:inScheme rdf:resource="https://doi.org/10.6069/uwlswd.084w-3778"/>
+    <skos:prefLabel xml:lang="en">unknown</skos:prefLabel>
+    <skos:definition xml:lang="en">Original alphabet of the title is unknown.</skos:definition>
+    <skos:notation>u</skos:notation>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.084w-3778#i">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <skos:inScheme rdf:resource="https://doi.org/10.6069/uwlswd.084w-3778"/>
+    <skos:prefLabel xml:lang="en">thai</skos:prefLabel>
+    <skos:notation>i</skos:notation>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.084w-3778#f">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <skos:inScheme rdf:resource="https://doi.org/10.6069/uwlswd.084w-3778"/>
+    <skos:prefLabel xml:lang="en">arabic</skos:prefLabel>
+    <skos:notation>f</skos:notation>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.084w-3778#k">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <skos:inScheme rdf:resource="https://doi.org/10.6069/uwlswd.084w-3778"/>
+    <skos:prefLabel xml:lang="en">korean</skos:prefLabel>
+    <skos:notation>k</skos:notation>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.084w-3778#c">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <skos:inScheme rdf:resource="https://doi.org/10.6069/uwlswd.084w-3778"/>
+    <skos:prefLabel xml:lang="en">cyrillic</skos:prefLabel>
+    <skos:notation>c</skos:notation>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.084w-3778#d">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <skos:inScheme rdf:resource="https://doi.org/10.6069/uwlswd.084w-3778"/>
+    <skos:prefLabel xml:lang="en">japanese</skos:prefLabel>
+    <skos:notation>d</skos:notation>
   </rdf:Description>
 </rdf:RDF>

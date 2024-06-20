@@ -5,43 +5,43 @@
 
 <http://fakeIRI.edu/terms/mapspe#ax> a skos:Concept ;
     skos:inScheme <http://fakeIRI.edu/terms/mapspe#> ;
-    skos:notation "a"@en ;
+    skos:notation "a" ;
     skos:prefLabel "parts exist [obsolete]"@en .
 
 <https://doi.org/10.6069/uwlswd.ywjs-vr46#d> a skos:Concept ;
     skos:definition "Both instrumental and vocal parts are present."@en ;
     skos:inScheme <https://doi.org/10.6069/uwlswd.ywjs-vr46> ;
-    skos:notation "d"@en ;
+    skos:notation "d" ;
     skos:prefLabel "instrumental and vocal parts"@en .
 
 <https://doi.org/10.6069/uwlswd.ywjs-vr46#e> a skos:Concept ;
     skos:definition "Instrumental parts are present."@en ;
     skos:inScheme <https://doi.org/10.6069/uwlswd.ywjs-vr46> ;
-    skos:notation "e"@en ;
+    skos:notation "e" ;
     skos:prefLabel "instrumental parts"@en .
 
 <https://doi.org/10.6069/uwlswd.ywjs-vr46#f> a skos:Concept ;
     skos:definition "Vocal parts are present."@en ;
     skos:inScheme <https://doi.org/10.6069/uwlswd.ywjs-vr46> ;
-    skos:notation "f"@en ;
+    skos:notation "f" ;
     skos:prefLabel "vocal parts"@en .
 
 <https://doi.org/10.6069/uwlswd.ywjs-vr46#n> a skos:Concept ;
     skos:definition "Item is not notated music."@en ;
     skos:inScheme <https://doi.org/10.6069/uwlswd.ywjs-vr46> ;
-    skos:notation "n"@en ;
+    skos:notation "n" ;
     skos:prefLabel "not applicable"@en .
 
 <https://doi.org/10.6069/uwlswd.ywjs-vr46#pound> a skos:Concept ;
     skos:definition "No parts in hand or the musical parts are not specified."@en ;
     skos:inScheme <https://doi.org/10.6069/uwlswd.ywjs-vr46> ;
-    skos:notation "#"@en ;
+    skos:notation "#" ;
     skos:prefLabel "no parts in hand or not specified"@en .
 
 <https://doi.org/10.6069/uwlswd.ywjs-vr46#u> a skos:Concept ;
     skos:definition "Unknown whether the item being cataloged contains parts."@en ;
     skos:inScheme <https://doi.org/10.6069/uwlswd.ywjs-vr46> ;
-    skos:notation "u"@en ;
+    skos:notation "u" ;
     skos:prefLabel "unknown"@en ;
     skos:scopeNote "May be used for records created without examining the item, such as retrospective conversion from a printed card."@en .
 
@@ -59,13 +59,13 @@
         <https://uwlib-cams.github.io/uwlswd_vocabs_marc_006_008/008/music_music_parts/music_music_parts.rdf> ;
     dct:issued "2023" ;
     dct:license <http://creativecommons.org/publicdomain/zero/1.0> ;
-    dct:provenance <https://doi.org/10.6069/uwlswd.2e2b-y833> ;
+    dct:provenance <https://doi.org/10.6069/uwlswd.2e2b-y833#marc00Xvalues> ;
     dct:publisher <http://viaf.org/viaf/139541794> ;
     dct:source <http://marc21rdf.info>,
         <https://www.loc.gov/marc/bibliographic/bd008.html> ;
     dct:title "Music: music parts"@en ;
     dct:type <http://purl.org/dc/dcmitype/Dataset> ;
     skos:scopeNote "Is not used to indicate that parts may exist elsewhere."@en ;
-    schema:disambiguatingDescription "SKOS Concept Scheme for MARC 00X Values" ;
-    schema:version "1-0-1" .
+    schema:disambiguatingDescription "SKOS Concept Scheme for MARC 00X Values"@en ;
+    schema:version "1-1-0" .
 

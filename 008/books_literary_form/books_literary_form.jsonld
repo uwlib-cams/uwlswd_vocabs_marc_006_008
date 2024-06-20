@@ -1,13 +1,13 @@
 [
   {
-    "@id": "https://doi.org/10.6069/uwlswd.f447-ax91#j",
+    "@id": "https://doi.org/10.6069/uwlswd.f447-ax91#f",
     "@type": [
       "http://www.w3.org/2004/02/skos/core#Concept"
     ],
     "http://www.w3.org/2004/02/skos/core#definition": [
       {
         "@language": "en",
-        "@value": "Short story or collection of short stories."
+        "@value": "Novels."
       }
     ],
     "http://www.w3.org/2004/02/skos/core#inScheme": [
@@ -17,26 +17,25 @@
     ],
     "http://www.w3.org/2004/02/skos/core#notation": [
       {
-        "@language": "en",
-        "@value": "j"
+        "@value": "f"
       }
     ],
     "http://www.w3.org/2004/02/skos/core#prefLabel": [
       {
         "@language": "en",
-        "@value": "short stories"
+        "@value": "novels"
       }
     ]
   },
   {
-    "@id": "https://doi.org/10.6069/uwlswd.f447-ax91#m",
+    "@id": "https://doi.org/10.6069/uwlswd.f447-ax91#1",
     "@type": [
       "http://www.w3.org/2004/02/skos/core#Concept"
     ],
     "http://www.w3.org/2004/02/skos/core#definition": [
       {
         "@language": "en",
-        "@value": "Represents a variety of literary forms (e.g., poetry and short stories)."
+        "@value": "Work of fiction but no further identification of the literary form is desired."
       }
     ],
     "http://www.w3.org/2004/02/skos/core#inScheme": [
@@ -46,14 +45,13 @@
     ],
     "http://www.w3.org/2004/02/skos/core#notation": [
       {
-        "@language": "en",
-        "@value": "m"
+        "@value": "1"
       }
     ],
     "http://www.w3.org/2004/02/skos/core#prefLabel": [
       {
         "@language": "en",
-        "@value": "mixed forms"
+        "@value": "fiction (not further specified)"
       }
     ]
   },
@@ -126,7 +124,7 @@
     ],
     "http://purl.org/dc/terms/provenance": [
       {
-        "@id": "https://doi.org/10.6069/uwlswd.2e2b-y833"
+        "@id": "https://doi.org/10.6069/uwlswd.2e2b-y833#marc00Xvalues"
       }
     ],
     "http://purl.org/dc/terms/publisher": [
@@ -155,122 +153,13 @@
     ],
     "https://schema.org/disambiguatingDescription": [
       {
+        "@language": "en",
         "@value": "SKOS Concept Scheme for MARC 00X Values"
       }
     ],
     "https://schema.org/version": [
       {
-        "@value": "1-0-1"
-      }
-    ]
-  },
-  {
-    "@id": "https://doi.org/10.6069/uwlswd.f447-ax91#d",
-    "@type": [
-      "http://www.w3.org/2004/02/skos/core#Concept"
-    ],
-    "http://www.w3.org/2004/02/skos/core#definition": [
-      {
-        "@language": "en",
-        "@value": "Dramas."
-      }
-    ],
-    "http://www.w3.org/2004/02/skos/core#inScheme": [
-      {
-        "@id": "https://doi.org/10.6069/uwlswd.f447-ax91"
-      }
-    ],
-    "http://www.w3.org/2004/02/skos/core#notation": [
-      {
-        "@language": "en",
-        "@value": "d"
-      }
-    ],
-    "http://www.w3.org/2004/02/skos/core#prefLabel": [
-      {
-        "@language": "en",
-        "@value": "dramas"
-      }
-    ]
-  },
-  {
-    "@id": "https://doi.org/10.6069/uwlswd.f447-ax91#c",
-    "@type": [
-      "http://www.w3.org/2004/02/skos/core#Concept"
-    ],
-    "http://www.w3.org/2004/02/skos/core#inScheme": [
-      {
-        "@id": "https://doi.org/10.6069/uwlswd.f447-ax91"
-      }
-    ],
-    "http://www.w3.org/2004/02/skos/core#notation": [
-      {
-        "@language": "en",
-        "@value": "c"
-      }
-    ],
-    "http://www.w3.org/2004/02/skos/core#prefLabel": [
-      {
-        "@language": "en",
-        "@value": "comic strips"
-      }
-    ]
-  },
-  {
-    "@id": "https://doi.org/10.6069/uwlswd.f447-ax91#u",
-    "@type": [
-      "http://www.w3.org/2004/02/skos/core#Concept"
-    ],
-    "http://www.w3.org/2004/02/skos/core#definition": [
-      {
-        "@language": "en",
-        "@value": "Literary form of the item is unknown."
-      }
-    ],
-    "http://www.w3.org/2004/02/skos/core#inScheme": [
-      {
-        "@id": "https://doi.org/10.6069/uwlswd.f447-ax91"
-      }
-    ],
-    "http://www.w3.org/2004/02/skos/core#notation": [
-      {
-        "@language": "en",
-        "@value": "u"
-      }
-    ],
-    "http://www.w3.org/2004/02/skos/core#prefLabel": [
-      {
-        "@language": "en",
-        "@value": "unknown"
-      }
-    ]
-  },
-  {
-    "@id": "https://doi.org/10.6069/uwlswd.f447-ax91#1",
-    "@type": [
-      "http://www.w3.org/2004/02/skos/core#Concept"
-    ],
-    "http://www.w3.org/2004/02/skos/core#definition": [
-      {
-        "@language": "en",
-        "@value": "Work of fiction but no further identification of the literary form is desired."
-      }
-    ],
-    "http://www.w3.org/2004/02/skos/core#inScheme": [
-      {
-        "@id": "https://doi.org/10.6069/uwlswd.f447-ax91"
-      }
-    ],
-    "http://www.w3.org/2004/02/skos/core#notation": [
-      {
-        "@language": "en",
-        "@value": "1"
-      }
-    ],
-    "http://www.w3.org/2004/02/skos/core#prefLabel": [
-      {
-        "@language": "en",
-        "@value": "fiction (not further specified)"
+        "@value": "1-1-0"
       }
     ]
   },
@@ -292,7 +181,6 @@
     ],
     "http://www.w3.org/2004/02/skos/core#notation": [
       {
-        "@language": "en",
         "@value": "e"
       }
     ],
@@ -321,7 +209,6 @@
     ],
     "http://www.w3.org/2004/02/skos/core#notation": [
       {
-        "@language": "en",
         "@value": "s"
       }
     ],
@@ -333,14 +220,14 @@
     ]
   },
   {
-    "@id": "https://doi.org/10.6069/uwlswd.f447-ax91#0",
+    "@id": "https://doi.org/10.6069/uwlswd.f447-ax91#u",
     "@type": [
       "http://www.w3.org/2004/02/skos/core#Concept"
     ],
     "http://www.w3.org/2004/02/skos/core#definition": [
       {
         "@language": "en",
-        "@value": "Not a work of fiction and no further identification of the literary form is desired."
+        "@value": "Literary form of the item is unknown."
       }
     ],
     "http://www.w3.org/2004/02/skos/core#inScheme": [
@@ -350,26 +237,25 @@
     ],
     "http://www.w3.org/2004/02/skos/core#notation": [
       {
-        "@language": "en",
-        "@value": "0"
+        "@value": "u"
       }
     ],
     "http://www.w3.org/2004/02/skos/core#prefLabel": [
       {
         "@language": "en",
-        "@value": "not fiction (not further specified)"
+        "@value": "unknown"
       }
     ]
   },
   {
-    "@id": "https://doi.org/10.6069/uwlswd.f447-ax91#f",
+    "@id": "https://doi.org/10.6069/uwlswd.f447-ax91#j",
     "@type": [
       "http://www.w3.org/2004/02/skos/core#Concept"
     ],
     "http://www.w3.org/2004/02/skos/core#definition": [
       {
         "@language": "en",
-        "@value": "Novels."
+        "@value": "Short story or collection of short stories."
       }
     ],
     "http://www.w3.org/2004/02/skos/core#inScheme": [
@@ -379,26 +265,47 @@
     ],
     "http://www.w3.org/2004/02/skos/core#notation": [
       {
-        "@language": "en",
-        "@value": "f"
+        "@value": "j"
       }
     ],
     "http://www.w3.org/2004/02/skos/core#prefLabel": [
       {
         "@language": "en",
-        "@value": "novels"
+        "@value": "short stories"
       }
     ]
   },
   {
-    "@id": "https://doi.org/10.6069/uwlswd.f447-ax91#i",
+    "@id": "https://doi.org/10.6069/uwlswd.f447-ax91#c",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#inScheme": [
+      {
+        "@id": "https://doi.org/10.6069/uwlswd.f447-ax91"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#notation": [
+      {
+        "@value": "c"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "comic strips"
+      }
+    ]
+  },
+  {
+    "@id": "https://doi.org/10.6069/uwlswd.f447-ax91#m",
     "@type": [
       "http://www.w3.org/2004/02/skos/core#Concept"
     ],
     "http://www.w3.org/2004/02/skos/core#definition": [
       {
         "@language": "en",
-        "@value": "Single letter or collection of correspondence."
+        "@value": "Represents a variety of literary forms (e.g., poetry and short stories)."
       }
     ],
     "http://www.w3.org/2004/02/skos/core#inScheme": [
@@ -408,14 +315,13 @@
     ],
     "http://www.w3.org/2004/02/skos/core#notation": [
       {
-        "@language": "en",
-        "@value": "i"
+        "@value": "m"
       }
     ],
     "http://www.w3.org/2004/02/skos/core#prefLabel": [
       {
         "@language": "en",
-        "@value": "letters"
+        "@value": "mixed forms"
       }
     ]
   },
@@ -437,7 +343,6 @@
     ],
     "http://www.w3.org/2004/02/skos/core#notation": [
       {
-        "@language": "en",
         "@value": "h"
       }
     ],
@@ -445,6 +350,34 @@
       {
         "@language": "en",
         "@value": "humor, satires, etc."
+      }
+    ]
+  },
+  {
+    "@id": "https://doi.org/10.6069/uwlswd.f447-ax91#0",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#definition": [
+      {
+        "@language": "en",
+        "@value": "Not a work of fiction and no further identification of the literary form is desired."
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#inScheme": [
+      {
+        "@id": "https://doi.org/10.6069/uwlswd.f447-ax91"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#notation": [
+      {
+        "@value": "0"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "not fiction (not further specified)"
       }
     ]
   },
@@ -466,7 +399,6 @@
     ],
     "http://www.w3.org/2004/02/skos/core#notation": [
       {
-        "@language": "en",
         "@value": "p"
       }
     ],
@@ -474,6 +406,62 @@
       {
         "@language": "en",
         "@value": "poetry"
+      }
+    ]
+  },
+  {
+    "@id": "https://doi.org/10.6069/uwlswd.f447-ax91#d",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#definition": [
+      {
+        "@language": "en",
+        "@value": "Dramas."
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#inScheme": [
+      {
+        "@id": "https://doi.org/10.6069/uwlswd.f447-ax91"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#notation": [
+      {
+        "@value": "d"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "dramas"
+      }
+    ]
+  },
+  {
+    "@id": "https://doi.org/10.6069/uwlswd.f447-ax91#i",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#definition": [
+      {
+        "@language": "en",
+        "@value": "Single letter or collection of correspondence."
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#inScheme": [
+      {
+        "@id": "https://doi.org/10.6069/uwlswd.f447-ax91"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#notation": [
+      {
+        "@value": "i"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "letters"
       }
     ]
   }

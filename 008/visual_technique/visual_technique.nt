@@ -1,57 +1,57 @@
-<https://doi.org/10.6069/uwlswd.eje7-jq11#u> <http://www.w3.org/2004/02/skos/core#notation> "u"@en .
-<https://doi.org/10.6069/uwlswd.eje7-jq11> <http://purl.org/dc/terms/title> "Visual: technique"@en .
-<https://doi.org/10.6069/uwlswd.eje7-jq11> <http://purl.org/dc/terms/hasFormat> <https://uwlib-cams.github.io/uwlswd_vocabs_marc_006_008/008/visual_technique/visual_technique.jsonld> .
-<https://doi.org/10.6069/uwlswd.eje7-jq11> <http://purl.org/dc/terms/type> <http://purl.org/dc/dcmitype/Dataset> .
-<https://doi.org/10.6069/uwlswd.eje7-jq11> <http://purl.org/dc/terms/contributor> <http://viaf.org/viaf/151962300> .
-<https://doi.org/10.6069/uwlswd.eje7-jq11#c> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
-<https://doi.org/10.6069/uwlswd.eje7-jq11#l> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
-<https://doi.org/10.6069/uwlswd.eje7-jq11> <http://purl.org/dc/terms/hasFormat> <https://uwlib-cams.github.io/uwlswd_vocabs_marc_006_008/008/visual_technique/visual_technique.ttl> .
-<https://doi.org/10.6069/uwlswd.eje7-jq11> <http://purl.org/dc/terms/format> <http://www.w3.org/ns/formats/N-Triples> .
-<https://doi.org/10.6069/uwlswd.eje7-jq11#n> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
-<https://doi.org/10.6069/uwlswd.eje7-jq11#n> <http://www.w3.org/2004/02/skos/core#notation> "n"@en .
-<https://doi.org/10.6069/uwlswd.eje7-jq11> <http://purl.org/dc/terms/source> <https://www.loc.gov/marc/bibliographic/bd008.html> .
+<https://doi.org/10.6069/uwlswd.eje7-jq11#u> <http://www.w3.org/2004/02/skos/core#definition> "Technique for creating motion is unknown."@en .
 <https://doi.org/10.6069/uwlswd.eje7-jq11#u> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
-<https://doi.org/10.6069/uwlswd.eje7-jq11> <http://purl.org/dc/terms/alternative> "MARC21 008/34 values for visual materials expressed using RDF"@en .
-<https://doi.org/10.6069/uwlswd.eje7-jq11#z> <http://www.w3.org/2004/02/skos/core#prefLabel> "other technique"@en .
-<https://doi.org/10.6069/uwlswd.eje7-jq11#c> <http://www.w3.org/2004/02/skos/core#definition> "Combination of animation and live action."@en .
-<https://doi.org/10.6069/uwlswd.eje7-jq11> <http://purl.org/dc/elements/1.1/language> "en" .
-<https://doi.org/10.6069/uwlswd.eje7-jq11> <https://schema.org/disambiguatingDescription> "SKOS Concept Scheme for MARC 00X Values" .
-<https://doi.org/10.6069/uwlswd.eje7-jq11> <http://purl.org/dc/terms/creator> <http://viaf.org/viaf/139541794> .
-<https://doi.org/10.6069/uwlswd.eje7-jq11#poundx> <http://www.w3.org/2004/02/skos/core#notation> "#"@en .
-<https://doi.org/10.6069/uwlswd.eje7-jq11> <http://purl.org/dc/terms/publisher> <http://viaf.org/viaf/139541794> .
-<https://doi.org/10.6069/uwlswd.eje7-jq11#l> <http://www.w3.org/2004/02/skos/core#definition> "Live action"@en .
-<https://doi.org/10.6069/uwlswd.eje7-jq11#z> <http://www.w3.org/2004/02/skos/core#notation> "z"@en .
-<https://doi.org/10.6069/uwlswd.eje7-jq11#poundx> <http://www.w3.org/2004/02/skos/core#inScheme> <https://doi.org/10.6069/uwlswd.eje7-jq11> .
-<https://doi.org/10.6069/uwlswd.eje7-jq11> <http://purl.org/dc/terms/hasFormat> <https://uwlib-cams.github.io/uwlswd_vocabs_marc_006_008/008/visual_technique/visual_technique.rdf> .
-<https://doi.org/10.6069/uwlswd.eje7-jq11> <https://schema.org/version> "1-0-1" .
+<https://doi.org/10.6069/uwlswd.eje7-jq11#z> <http://www.w3.org/2004/02/skos/core#inScheme> <https://doi.org/10.6069/uwlswd.eje7-jq11> .
+<https://doi.org/10.6069/uwlswd.eje7-jq11> <http://purl.org/dc/terms/contributor> <http://viaf.org/viaf/151962300> .
+<https://doi.org/10.6069/uwlswd.eje7-jq11> <http://purl.org/dc/terms/type> <http://purl.org/dc/dcmitype/Dataset> .
 <https://doi.org/10.6069/uwlswd.eje7-jq11> <http://purl.org/dc/terms/issued> "2023" .
 <https://doi.org/10.6069/uwlswd.eje7-jq11#u> <http://www.w3.org/2004/02/skos/core#prefLabel> "unknown"@en .
-<https://doi.org/10.6069/uwlswd.eje7-jq11#poundx> <http://www.w3.org/2004/02/skos/core#prefLabel> "not applicable [obsolete]"@en .
-<https://doi.org/10.6069/uwlswd.eje7-jq11#a> <http://www.w3.org/2004/02/skos/core#inScheme> <https://doi.org/10.6069/uwlswd.eje7-jq11> .
-<https://doi.org/10.6069/uwlswd.eje7-jq11> <http://purl.org/dc/terms/hasFormat> <https://uwlib-cams.github.io/uwlswd_vocabs_marc_006_008/008/visual_technique/visual_technique.html> .
-<https://doi.org/10.6069/uwlswd.eje7-jq11#c> <http://www.w3.org/2004/02/skos/core#notation> "c"@en .
-<https://doi.org/10.6069/uwlswd.eje7-jq11> <http://purl.org/dc/terms/source> <http://marc21rdf.info> .
-<https://doi.org/10.6069/uwlswd.eje7-jq11> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#ConceptScheme> .
-<https://doi.org/10.6069/uwlswd.eje7-jq11#z> <http://www.w3.org/2004/02/skos/core#scopeNote> "This can include microcinematography, time lapse cinematography, trick cinematography, and other techniques. Also used for videorecordings and motion pictures which were made from still image slide sets or filmstrips without adding animation to the images. "@en .
-<https://doi.org/10.6069/uwlswd.eje7-jq11#a> <http://www.w3.org/2004/02/skos/core#notation> "a"@en .
-<https://doi.org/10.6069/uwlswd.eje7-jq11#a> <http://www.w3.org/2004/02/skos/core#definition> "Animated films are produced using a variety of techniques including 1) cartoons; 2) graphic film (with paint or other media directly applied to the surface of the film); 3) model, clay, or puppet animation (where three-dimensional objects are photographed one frame at a time to achieve the effect of animation); and 4) other techniques."@en .
-<https://doi.org/10.6069/uwlswd.eje7-jq11#l> <http://www.w3.org/2004/02/skos/core#notation> "l"@en .
-<https://doi.org/10.6069/uwlswd.eje7-jq11#n> <http://www.w3.org/2004/02/skos/core#inScheme> <https://doi.org/10.6069/uwlswd.eje7-jq11> .
-<https://doi.org/10.6069/uwlswd.eje7-jq11#a> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
-<https://doi.org/10.6069/uwlswd.eje7-jq11#c> <http://www.w3.org/2004/02/skos/core#inScheme> <https://doi.org/10.6069/uwlswd.eje7-jq11> .
-<https://doi.org/10.6069/uwlswd.eje7-jq11#n> <http://www.w3.org/2004/02/skos/core#prefLabel> "not applicable"@en .
-<https://doi.org/10.6069/uwlswd.eje7-jq11#z> <http://www.w3.org/2004/02/skos/core#definition> "Primarily of special techniques which are neither animation nor live action."@en .
-<https://doi.org/10.6069/uwlswd.eje7-jq11#z> <http://www.w3.org/2004/02/skos/core#inScheme> <https://doi.org/10.6069/uwlswd.eje7-jq11> .
-<https://doi.org/10.6069/uwlswd.eje7-jq11> <http://purl.org/dc/terms/description> "Indicates the technique used in creating motion in motion pictures or videorecordings."@en .
-<https://doi.org/10.6069/uwlswd.eje7-jq11#a> <http://www.w3.org/2004/02/skos/core#prefLabel> "animation"@en .
-<https://doi.org/10.6069/uwlswd.eje7-jq11#u> <http://www.w3.org/2004/02/skos/core#inScheme> <https://doi.org/10.6069/uwlswd.eje7-jq11> .
-<https://doi.org/10.6069/uwlswd.eje7-jq11#c> <http://www.w3.org/2004/02/skos/core#prefLabel> "animation and live action"@en .
-<https://doi.org/10.6069/uwlswd.eje7-jq11> <http://purl.org/dc/elements/1.1/contributor> "Metadata Management Associates"@en .
-<https://doi.org/10.6069/uwlswd.eje7-jq11#poundx> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
 <https://doi.org/10.6069/uwlswd.eje7-jq11#l> <http://www.w3.org/2004/02/skos/core#inScheme> <https://doi.org/10.6069/uwlswd.eje7-jq11> .
-<https://doi.org/10.6069/uwlswd.eje7-jq11> <http://purl.org/dc/terms/provenance> <https://doi.org/10.6069/uwlswd.2e2b-y833> .
-<https://doi.org/10.6069/uwlswd.eje7-jq11#u> <http://www.w3.org/2004/02/skos/core#definition> "Technique for creating motion is unknown."@en .
-<https://doi.org/10.6069/uwlswd.eje7-jq11#l> <http://www.w3.org/2004/02/skos/core#prefLabel> "live action"@en .
+<https://doi.org/10.6069/uwlswd.eje7-jq11> <http://purl.org/dc/terms/title> "Visual: technique"@en .
+<https://doi.org/10.6069/uwlswd.eje7-jq11> <http://purl.org/dc/elements/1.1/language> "en" .
+<https://doi.org/10.6069/uwlswd.eje7-jq11#c> <http://www.w3.org/2004/02/skos/core#definition> "Combination of animation and live action."@en .
+<https://doi.org/10.6069/uwlswd.eje7-jq11#c> <http://www.w3.org/2004/02/skos/core#inScheme> <https://doi.org/10.6069/uwlswd.eje7-jq11> .
+<https://doi.org/10.6069/uwlswd.eje7-jq11#z> <http://www.w3.org/2004/02/skos/core#prefLabel> "other technique"@en .
+<https://doi.org/10.6069/uwlswd.eje7-jq11#z> <http://www.w3.org/2004/02/skos/core#definition> "Primarily of special techniques which are neither animation nor live action."@en .
+<https://doi.org/10.6069/uwlswd.eje7-jq11#n> <http://www.w3.org/2004/02/skos/core#prefLabel> "not applicable"@en .
 <https://doi.org/10.6069/uwlswd.eje7-jq11> <http://purl.org/dc/terms/license> <http://creativecommons.org/publicdomain/zero/1.0> .
+<https://doi.org/10.6069/uwlswd.eje7-jq11> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#ConceptScheme> .
+<https://doi.org/10.6069/uwlswd.eje7-jq11> <http://purl.org/dc/terms/alternative> "MARC21 008/34 values for visual materials expressed using RDF"@en .
+<https://doi.org/10.6069/uwlswd.eje7-jq11#l> <http://www.w3.org/2004/02/skos/core#definition> "Live action"@en .
 <https://doi.org/10.6069/uwlswd.eje7-jq11#n> <http://www.w3.org/2004/02/skos/core#definition> "Item is not a motion picture or a videorecording."@en .
+<https://doi.org/10.6069/uwlswd.eje7-jq11> <http://purl.org/dc/terms/description> "Indicates the technique used in creating motion in motion pictures or videorecordings."@en .
 <https://doi.org/10.6069/uwlswd.eje7-jq11#z> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<https://doi.org/10.6069/uwlswd.eje7-jq11#a> <http://www.w3.org/2004/02/skos/core#prefLabel> "animation"@en .
+<https://doi.org/10.6069/uwlswd.eje7-jq11#a> <http://www.w3.org/2004/02/skos/core#inScheme> <https://doi.org/10.6069/uwlswd.eje7-jq11> .
+<https://doi.org/10.6069/uwlswd.eje7-jq11#poundx> <http://www.w3.org/2004/02/skos/core#inScheme> <https://doi.org/10.6069/uwlswd.eje7-jq11> .
+<https://doi.org/10.6069/uwlswd.eje7-jq11> <http://purl.org/dc/terms/hasFormat> <https://uwlib-cams.github.io/uwlswd_vocabs_marc_006_008/008/visual_technique/visual_technique.html> .
+<https://doi.org/10.6069/uwlswd.eje7-jq11#a> <http://www.w3.org/2004/02/skos/core#definition> "Animated films are produced using a variety of techniques including 1) cartoons; 2) graphic film (with paint or other media directly applied to the surface of the film); 3) model, clay, or puppet animation (where three-dimensional objects are photographed one frame at a time to achieve the effect of animation); and 4) other techniques."@en .
+<https://doi.org/10.6069/uwlswd.eje7-jq11#l> <http://www.w3.org/2004/02/skos/core#prefLabel> "live action"@en .
+<https://doi.org/10.6069/uwlswd.eje7-jq11> <http://purl.org/dc/terms/format> <http://www.w3.org/ns/formats/N-Triples> .
+<https://doi.org/10.6069/uwlswd.eje7-jq11#n> <http://www.w3.org/2004/02/skos/core#inScheme> <https://doi.org/10.6069/uwlswd.eje7-jq11> .
+<https://doi.org/10.6069/uwlswd.eje7-jq11#c> <http://www.w3.org/2004/02/skos/core#prefLabel> "animation and live action"@en .
+<https://doi.org/10.6069/uwlswd.eje7-jq11> <https://schema.org/version> "1-1-0" .
+<https://doi.org/10.6069/uwlswd.eje7-jq11#l> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<https://doi.org/10.6069/uwlswd.eje7-jq11> <http://purl.org/dc/terms/source> <https://www.loc.gov/marc/bibliographic/bd008.html> .
+<https://doi.org/10.6069/uwlswd.eje7-jq11> <http://purl.org/dc/terms/source> <http://marc21rdf.info> .
+<https://doi.org/10.6069/uwlswd.eje7-jq11#c> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<https://doi.org/10.6069/uwlswd.eje7-jq11> <http://purl.org/dc/terms/hasFormat> <https://uwlib-cams.github.io/uwlswd_vocabs_marc_006_008/008/visual_technique/visual_technique.ttl> .
+<https://doi.org/10.6069/uwlswd.eje7-jq11#c> <http://www.w3.org/2004/02/skos/core#notation> "c" .
+<https://doi.org/10.6069/uwlswd.eje7-jq11> <http://purl.org/dc/terms/publisher> <http://viaf.org/viaf/139541794> .
+<https://doi.org/10.6069/uwlswd.eje7-jq11#u> <http://www.w3.org/2004/02/skos/core#inScheme> <https://doi.org/10.6069/uwlswd.eje7-jq11> .
+<https://doi.org/10.6069/uwlswd.eje7-jq11#u> <http://www.w3.org/2004/02/skos/core#notation> "u" .
+<https://doi.org/10.6069/uwlswd.eje7-jq11#poundx> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<https://doi.org/10.6069/uwlswd.eje7-jq11> <http://purl.org/dc/terms/creator> <http://viaf.org/viaf/139541794> .
+<https://doi.org/10.6069/uwlswd.eje7-jq11> <http://purl.org/dc/elements/1.1/contributor> "Metadata Management Associates"@en .
+<https://doi.org/10.6069/uwlswd.eje7-jq11> <http://purl.org/dc/terms/provenance> <https://doi.org/10.6069/uwlswd.2e2b-y833#marc00Xvalues> .
+<https://doi.org/10.6069/uwlswd.eje7-jq11#a> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<https://doi.org/10.6069/uwlswd.eje7-jq11> <http://purl.org/dc/terms/hasFormat> <https://uwlib-cams.github.io/uwlswd_vocabs_marc_006_008/008/visual_technique/visual_technique.rdf> .
+<https://doi.org/10.6069/uwlswd.eje7-jq11#poundx> <http://www.w3.org/2004/02/skos/core#notation> "#" .
+<https://doi.org/10.6069/uwlswd.eje7-jq11> <https://schema.org/disambiguatingDescription> "SKOS Concept Scheme for MARC 00X Values"@en .
+<https://doi.org/10.6069/uwlswd.eje7-jq11#z> <http://www.w3.org/2004/02/skos/core#scopeNote> "This can include microcinematography, time lapse cinematography, trick cinematography, and other techniques. Also used for videorecordings and motion pictures which were made from still image slide sets or filmstrips without adding animation to the images. "@en .
+<https://doi.org/10.6069/uwlswd.eje7-jq11#l> <http://www.w3.org/2004/02/skos/core#notation> "l" .
+<https://doi.org/10.6069/uwlswd.eje7-jq11> <http://purl.org/dc/terms/hasFormat> <https://uwlib-cams.github.io/uwlswd_vocabs_marc_006_008/008/visual_technique/visual_technique.jsonld> .
+<https://doi.org/10.6069/uwlswd.eje7-jq11#n> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<https://doi.org/10.6069/uwlswd.eje7-jq11#z> <http://www.w3.org/2004/02/skos/core#notation> "z" .
+<https://doi.org/10.6069/uwlswd.eje7-jq11#poundx> <http://www.w3.org/2004/02/skos/core#prefLabel> "not applicable [obsolete]"@en .
+<https://doi.org/10.6069/uwlswd.eje7-jq11#n> <http://www.w3.org/2004/02/skos/core#notation> "n" .
+<https://doi.org/10.6069/uwlswd.eje7-jq11#a> <http://www.w3.org/2004/02/skos/core#notation> "a" .

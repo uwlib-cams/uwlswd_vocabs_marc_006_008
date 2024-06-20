@@ -5,17 +5,17 @@
 
 <https://doi.org/10.6069/uwlswd.ypcx-6882#0> a skos:Concept ;
     skos:inScheme <https://doi.org/10.6069/uwlswd.ypcx-6882> ;
-    skos:notation "0"@en ;
+    skos:notation "0" ;
     skos:prefLabel "successive entry"@en .
 
 <https://doi.org/10.6069/uwlswd.ypcx-6882#1> a skos:Concept ;
     skos:inScheme <https://doi.org/10.6069/uwlswd.ypcx-6882> ;
-    skos:notation "1"@en ;
+    skos:notation "1" ;
     skos:prefLabel "latest entry"@en .
 
 <https://doi.org/10.6069/uwlswd.ypcx-6882#2> a skos:Concept ;
     skos:inScheme <https://doi.org/10.6069/uwlswd.ypcx-6882> ;
-    skos:notation "2"@en ;
+    skos:notation "2" ;
     skos:prefLabel "integrated entry"@en .
 
 <https://doi.org/10.6069/uwlswd.ypcx-6882> a skos:ConceptScheme ;
@@ -32,12 +32,12 @@
         <https://uwlib-cams.github.io/uwlswd_vocabs_marc_006_008/008/continuing_entry_convention/continuing_entry_convention.rdf> ;
     dct:issued "2023" ;
     dct:license <http://creativecommons.org/publicdomain/zero/1.0> ;
-    dct:provenance <https://doi.org/10.6069/uwlswd.2e2b-y833> ;
+    dct:provenance <https://doi.org/10.6069/uwlswd.2e2b-y833#marc00Xvalues> ;
     dct:publisher <http://viaf.org/viaf/139541794> ;
     dct:source <http://marc21rdf.info>,
         <https://www.loc.gov/marc/bibliographic/bd008.html> ;
     dct:title "Continuing: entry convention"@en ;
     dct:type <http://purl.org/dc/dcmitype/Dataset> ;
-    schema:disambiguatingDescription "SKOS Concept Scheme for MARC 00X Values" ;
-    schema:version "1-0-1" .
+    schema:disambiguatingDescription "SKOS Concept Scheme for MARC 00X Values"@en ;
+    schema:version "1-1-0" .
 

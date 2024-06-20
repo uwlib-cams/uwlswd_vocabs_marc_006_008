@@ -6,96 +6,96 @@
 <https://doi.org/10.6069/uwlswd.nt0v-d633#a> a skos:Concept ;
     skos:definition "Discography or other bibliography of recorded sound."@en ;
     skos:inScheme <https://doi.org/10.6069/uwlswd.nt0v-d633> ;
-    skos:notation "a"@en ;
+    skos:notation "a" ;
     skos:prefLabel "discography"@en .
 
 <https://doi.org/10.6069/uwlswd.nt0v-d633#b> a skos:Concept ;
     skos:definition "Bibliography."@en ;
     skos:inScheme <https://doi.org/10.6069/uwlswd.nt0v-d633> ;
-    skos:notation "b"@en ;
+    skos:notation "b" ;
     skos:prefLabel "bibliography"@en .
 
 <https://doi.org/10.6069/uwlswd.nt0v-d633#c> a skos:Concept ;
     skos:definition "Thematic index."@en ;
     skos:inScheme <https://doi.org/10.6069/uwlswd.nt0v-d633> ;
-    skos:notation "c"@en ;
+    skos:notation "c" ;
     skos:prefLabel "thematic index"@en .
 
 <https://doi.org/10.6069/uwlswd.nt0v-d633#d> a skos:Concept ;
     skos:definition "Printed transcription of the libretto or other text (e.g., a transcript of verbal contents of a sound recording)."@en ;
     skos:inScheme <https://doi.org/10.6069/uwlswd.nt0v-d633> ;
-    skos:notation "d"@en ;
+    skos:notation "d" ;
     skos:prefLabel "libretto or text"@en .
 
 <https://doi.org/10.6069/uwlswd.nt0v-d633#e> a skos:Concept ;
     skos:definition "Significant biographical information on a composer or author."@en ;
     skos:inScheme <https://doi.org/10.6069/uwlswd.nt0v-d633> ;
-    skos:notation "e"@en ;
+    skos:notation "e" ;
     skos:prefLabel "biography of composer or author"@en .
 
 <https://doi.org/10.6069/uwlswd.nt0v-d633#f> a skos:Concept ;
     skos:definition "Significant biographical information on a performer or a history of an ensemble."@en ;
     skos:inScheme <https://doi.org/10.6069/uwlswd.nt0v-d633> ;
-    skos:notation "f"@en ;
+    skos:notation "f" ;
     skos:prefLabel "biography of performer or history of ensemble"@en .
 
 <https://doi.org/10.6069/uwlswd.nt0v-d633#g> a skos:Concept ;
     skos:definition "Significant technical information, including instructions for performance."@en ;
     skos:inScheme <https://doi.org/10.6069/uwlswd.nt0v-d633> ;
-    skos:notation "g"@en ;
+    skos:notation "g" ;
     skos:prefLabel "technical and/or historical information on instruments"@en .
 
 <https://doi.org/10.6069/uwlswd.nt0v-d633#h> a skos:Concept ;
     skos:definition "Significant technical information."@en ;
     skos:inScheme <https://doi.org/10.6069/uwlswd.nt0v-d633> ;
-    skos:notation "h"@en ;
+    skos:notation "h" ;
     skos:prefLabel "technical information on music"@en ;
     skos:scopeNote "Including instructions for performance."@en .
 
 <https://doi.org/10.6069/uwlswd.nt0v-d633#i> a skos:Concept ;
     skos:definition "Significant historical information."@en ;
     skos:inScheme <https://doi.org/10.6069/uwlswd.nt0v-d633> ;
-    skos:notation "i"@en ;
+    skos:notation "i" ;
     skos:prefLabel "historical information"@en .
 
 <https://doi.org/10.6069/uwlswd.nt0v-d633#jx> a skos:Concept ;
     skos:inScheme <https://doi.org/10.6069/uwlswd.nt0v-d633> ;
-    skos:notation "j"@en ;
+    skos:notation "j" ;
     skos:prefLabel "historical information other than music [obsolete]"@en .
 
 <https://doi.org/10.6069/uwlswd.nt0v-d633#k> a skos:Concept ;
     skos:definition "Significant ethnological information that relates to the musical part of the item."@en ;
     skos:inScheme <https://doi.org/10.6069/uwlswd.nt0v-d633> ;
-    skos:notation "k"@en ;
+    skos:notation "k" ;
     skos:prefLabel "ethnological information"@en .
 
 <https://doi.org/10.6069/uwlswd.nt0v-d633#nx> a skos:Concept ;
     skos:inScheme <https://doi.org/10.6069/uwlswd.nt0v-d633> ;
-    skos:notation "n"@en ;
+    skos:notation "n" ;
     skos:prefLabel "not applicable [obsolete]"@en .
 
 <https://doi.org/10.6069/uwlswd.nt0v-d633#pound> a skos:Concept ;
     skos:definition "No accompanying matter or no indication of accompanying matter appears on the item."@en ;
     skos:inScheme <https://doi.org/10.6069/uwlswd.nt0v-d633> ;
-    skos:notation "#"@en ;
+    skos:notation "#" ;
     skos:prefLabel "no accompanying matter"@en .
 
 <https://doi.org/10.6069/uwlswd.nt0v-d633#r> a skos:Concept ;
     skos:definition "Instructional materials."@en ;
     skos:inScheme <https://doi.org/10.6069/uwlswd.nt0v-d633> ;
-    skos:notation "r"@en ;
+    skos:notation "r" ;
     skos:prefLabel "instructional materials"@en .
 
 <https://doi.org/10.6069/uwlswd.nt0v-d633#s> a skos:Concept ;
     skos:definition "A score or other music format than that of the main item."@en ;
     skos:inScheme <https://doi.org/10.6069/uwlswd.nt0v-d633> ;
-    skos:notation "s"@en ;
+    skos:notation "s" ;
     skos:prefLabel "music"@en .
 
 <https://doi.org/10.6069/uwlswd.nt0v-d633#z> a skos:Concept ;
     skos:definition "Accompanying matter other than discography, bibliography, thematic index, libretto or text, biography of composer or author, biography of performer or history of ensemble, technical and/or historical information on instruments, technical information on music, historical information, ethnological information, instructional materials, or music."@en ;
     skos:inScheme <https://doi.org/10.6069/uwlswd.nt0v-d633> ;
-    skos:notation "z"@en ;
+    skos:notation "z" ;
     skos:prefLabel "other"@en .
 
 <https://doi.org/10.6069/uwlswd.nt0v-d633> a skos:ConceptScheme ;
@@ -112,12 +112,12 @@
         <https://uwlib-cams.github.io/uwlswd_vocabs_marc_006_008/008/music_accompanying_matter/music_accompanying_matter.rdf> ;
     dct:issued "2023" ;
     dct:license <http://creativecommons.org/publicdomain/zero/1.0> ;
-    dct:provenance <https://doi.org/10.6069/uwlswd.2e2b-y833> ;
+    dct:provenance <https://doi.org/10.6069/uwlswd.2e2b-y833#marc00Xvalues> ;
     dct:publisher <http://viaf.org/viaf/139541794> ;
     dct:source <http://marc21rdf.info>,
         <https://www.loc.gov/marc/bibliographic/bd008.html> ;
     dct:title "Music: accompanying matter"@en ;
     dct:type <http://purl.org/dc/dcmitype/Dataset> ;
-    schema:disambiguatingDescription "SKOS Concept Scheme for MARC 00X Values" ;
-    schema:version "1-0-1" .
+    schema:disambiguatingDescription "SKOS Concept Scheme for MARC 00X Values"@en ;
+    schema:version "1-1-0" .
 

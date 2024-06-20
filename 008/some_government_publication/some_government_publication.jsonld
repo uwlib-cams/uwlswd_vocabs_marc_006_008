@@ -17,7 +17,6 @@
     ],
     "http://www.w3.org/2004/02/skos/core#notation": [
       {
-        "@language": "en",
         "@value": "l"
       }
     ],
@@ -25,64 +24,6 @@
       {
         "@language": "en",
         "@value": "local"
-      }
-    ]
-  },
-  {
-    "@id": "https://doi.org/10.6069/uwlswd.2eg3-1x53#z",
-    "@type": [
-      "http://www.w3.org/2004/02/skos/core#Concept"
-    ],
-    "http://www.w3.org/2004/02/skos/core#definition": [
-      {
-        "@language": "en",
-        "@value": "Government publication other than autonomous or semi-autonomous component, multilocal, federal or national, international intergovernmental, local, multistate, government publication - level undetermined, state, provincial, territorial, or dependent."
-      }
-    ],
-    "http://www.w3.org/2004/02/skos/core#inScheme": [
-      {
-        "@id": "https://doi.org/10.6069/uwlswd.2eg3-1x53"
-      }
-    ],
-    "http://www.w3.org/2004/02/skos/core#notation": [
-      {
-        "@language": "en",
-        "@value": "z"
-      }
-    ],
-    "http://www.w3.org/2004/02/skos/core#prefLabel": [
-      {
-        "@language": "en",
-        "@value": "other"
-      }
-    ]
-  },
-  {
-    "@id": "https://doi.org/10.6069/uwlswd.2eg3-1x53#a",
-    "@type": [
-      "http://www.w3.org/2004/02/skos/core#Concept"
-    ],
-    "http://www.w3.org/2004/02/skos/core#definition": [
-      {
-        "@language": "en",
-        "@value": "Published or produced by or for a government body of an autonomous or semi-autonomous component of a country."
-      }
-    ],
-    "http://www.w3.org/2004/02/skos/core#inScheme": [
-      {
-        "@id": "https://doi.org/10.6069/uwlswd.2eg3-1x53"
-      }
-    ],
-    "http://www.w3.org/2004/02/skos/core#notation": [
-      {
-        "@language": "en",
-        "@value": "a"
-      }
-    ],
-    "http://www.w3.org/2004/02/skos/core#prefLabel": [
-      {
-        "@language": "en",
-        "@value": "autonomous or semi-autonomous component"
       }
     ]
   },
@@ -104,7 +45,6 @@
     ],
     "http://www.w3.org/2004/02/skos/core#notation": [
       {
-        "@language": "en",
         "@value": "m"
       }
     ],
@@ -112,6 +52,140 @@
       {
         "@language": "en",
         "@value": "multistate"
+      }
+    ]
+  },
+  {
+    "@id": "https://doi.org/10.6069/uwlswd.2eg3-1x53#z",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#definition": [
+      {
+        "@language": "en",
+        "@value": "Government publication other than autonomous or semi-autonomous component, multilocal, federal or national, international intergovernmental, local, multistate, government publication - level undetermined, state, provincial, territorial, or dependent."
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#inScheme": [
+      {
+        "@id": "https://doi.org/10.6069/uwlswd.2eg3-1x53"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#notation": [
+      {
+        "@value": "z"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "other"
+      }
+    ]
+  },
+  {
+    "@id": "https://doi.org/10.6069/uwlswd.2eg3-1x53#pound",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#definition": [
+      {
+        "@language": "en",
+        "@value": "Not published by or for a government body."
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#inScheme": [
+      {
+        "@id": "https://doi.org/10.6069/uwlswd.2eg3-1x53"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#notation": [
+      {
+        "@value": "#"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "not a government publication"
+      }
+    ]
+  },
+  {
+    "@id": "https://doi.org/10.6069/uwlswd.2eg3-1x53#nx",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#inScheme": [
+      {
+        "@id": "https://doi.org/10.6069/uwlswd.2eg3-1x53"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#notation": [
+      {
+        "@value": "n"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "government publication - level undetermined [obsolete]"
+      }
+    ]
+  },
+  {
+    "@id": "https://doi.org/10.6069/uwlswd.2eg3-1x53#f",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#definition": [
+      {
+        "@language": "en",
+        "@value": "Published or produced by or for a federal or national government body (e.g., a sovereign nation, such as Canada). Used for the governments of England, Wales, Scotland, and Northern Ireland. Also used for American Indian tribes."
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#inScheme": [
+      {
+        "@id": "https://doi.org/10.6069/uwlswd.2eg3-1x53"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#notation": [
+      {
+        "@value": "f"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "federal or national"
+      }
+    ]
+  },
+  {
+    "@id": "https://doi.org/10.6069/uwlswd.2eg3-1x53#u",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#definition": [
+      {
+        "@language": "en",
+        "@value": "Whether or not the item is published or produced by or for a government agency is unknown."
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#inScheme": [
+      {
+        "@id": "https://doi.org/10.6069/uwlswd.2eg3-1x53"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#notation": [
+      {
+        "@value": "u"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "unknown if item is government publication"
       }
     ]
   },
@@ -184,7 +258,7 @@
     ],
     "http://purl.org/dc/terms/provenance": [
       {
-        "@id": "https://doi.org/10.6069/uwlswd.2e2b-y833"
+        "@id": "https://doi.org/10.6069/uwlswd.2e2b-y833#marc00Xvalues"
       }
     ],
     "http://purl.org/dc/terms/publisher": [
@@ -230,64 +304,13 @@
     ],
     "https://schema.org/disambiguatingDescription": [
       {
+        "@language": "en",
         "@value": "SKOS Concept Scheme for MARC 00X Values"
       }
     ],
     "https://schema.org/version": [
       {
-        "@value": "1-0-2"
-      }
-    ]
-  },
-  {
-    "@id": "https://doi.org/10.6069/uwlswd.2eg3-1x53#s",
-    "@type": [
-      "http://www.w3.org/2004/02/skos/core#Concept"
-    ],
-    "http://www.w3.org/2004/02/skos/core#definition": [
-      {
-        "@language": "en",
-        "@value": "Jurisdictional level of the government body is a state, province, territory, or other dependent jurisdiction."
-      }
-    ],
-    "http://www.w3.org/2004/02/skos/core#inScheme": [
-      {
-        "@id": "https://doi.org/10.6069/uwlswd.2eg3-1x53"
-      }
-    ],
-    "http://www.w3.org/2004/02/skos/core#notation": [
-      {
-        "@language": "en",
-        "@value": "s"
-      }
-    ],
-    "http://www.w3.org/2004/02/skos/core#prefLabel": [
-      {
-        "@language": "en",
-        "@value": "state, provincial, territorial, dependent, etc."
-      }
-    ]
-  },
-  {
-    "@id": "https://doi.org/10.6069/uwlswd.2eg3-1x53#nx",
-    "@type": [
-      "http://www.w3.org/2004/02/skos/core#Concept"
-    ],
-    "http://www.w3.org/2004/02/skos/core#inScheme": [
-      {
-        "@id": "https://doi.org/10.6069/uwlswd.2eg3-1x53"
-      }
-    ],
-    "http://www.w3.org/2004/02/skos/core#notation": [
-      {
-        "@language": "en",
-        "@value": "n"
-      }
-    ],
-    "http://www.w3.org/2004/02/skos/core#prefLabel": [
-      {
-        "@language": "en",
-        "@value": "government publication - level undetermined [obsolete]"
+        "@value": "1-1-0"
       }
     ]
   },
@@ -309,7 +332,6 @@
     ],
     "http://www.w3.org/2004/02/skos/core#notation": [
       {
-        "@language": "en",
         "@value": "o"
       }
     ],
@@ -321,14 +343,14 @@
     ]
   },
   {
-    "@id": "https://doi.org/10.6069/uwlswd.2eg3-1x53#c",
+    "@id": "https://doi.org/10.6069/uwlswd.2eg3-1x53#a",
     "@type": [
       "http://www.w3.org/2004/02/skos/core#Concept"
     ],
     "http://www.w3.org/2004/02/skos/core#definition": [
       {
         "@language": "en",
-        "@value": "Published or produced by or for a multilocal jurisdiction which is defined as a regional combination of jurisdictions below the state level."
+        "@value": "Published or produced by or for a government body of an autonomous or semi-autonomous component of a country."
       }
     ],
     "http://www.w3.org/2004/02/skos/core#inScheme": [
@@ -338,14 +360,13 @@
     ],
     "http://www.w3.org/2004/02/skos/core#notation": [
       {
-        "@language": "en",
-        "@value": "c"
+        "@value": "a"
       }
     ],
     "http://www.w3.org/2004/02/skos/core#prefLabel": [
       {
         "@language": "en",
-        "@value": "multilocal"
+        "@value": "autonomous or semi-autonomous component"
       }
     ]
   },
@@ -367,7 +388,6 @@
     ],
     "http://www.w3.org/2004/02/skos/core#notation": [
       {
-        "@language": "en",
         "@value": "i"
       }
     ],
@@ -379,14 +399,14 @@
     ]
   },
   {
-    "@id": "https://doi.org/10.6069/uwlswd.2eg3-1x53#pound",
+    "@id": "https://doi.org/10.6069/uwlswd.2eg3-1x53#s",
     "@type": [
       "http://www.w3.org/2004/02/skos/core#Concept"
     ],
     "http://www.w3.org/2004/02/skos/core#definition": [
       {
         "@language": "en",
-        "@value": "Not published by or for a government body."
+        "@value": "Jurisdictional level of the government body is a state, province, territory, or other dependent jurisdiction."
       }
     ],
     "http://www.w3.org/2004/02/skos/core#inScheme": [
@@ -396,26 +416,25 @@
     ],
     "http://www.w3.org/2004/02/skos/core#notation": [
       {
-        "@language": "en",
-        "@value": "#"
+        "@value": "s"
       }
     ],
     "http://www.w3.org/2004/02/skos/core#prefLabel": [
       {
         "@language": "en",
-        "@value": "not a government publication"
+        "@value": "state, provincial, territorial, dependent, etc."
       }
     ]
   },
   {
-    "@id": "https://doi.org/10.6069/uwlswd.2eg3-1x53#u",
+    "@id": "https://doi.org/10.6069/uwlswd.2eg3-1x53#c",
     "@type": [
       "http://www.w3.org/2004/02/skos/core#Concept"
     ],
     "http://www.w3.org/2004/02/skos/core#definition": [
       {
         "@language": "en",
-        "@value": "Whether or not the item is published or produced by or for a government agency is unknown."
+        "@value": "Published or produced by or for a multilocal jurisdiction which is defined as a regional combination of jurisdictions below the state level."
       }
     ],
     "http://www.w3.org/2004/02/skos/core#inScheme": [
@@ -425,43 +444,13 @@
     ],
     "http://www.w3.org/2004/02/skos/core#notation": [
       {
-        "@language": "en",
-        "@value": "u"
+        "@value": "c"
       }
     ],
     "http://www.w3.org/2004/02/skos/core#prefLabel": [
       {
         "@language": "en",
-        "@value": "unknown if item is government publication"
-      }
-    ]
-  },
-  {
-    "@id": "https://doi.org/10.6069/uwlswd.2eg3-1x53#f",
-    "@type": [
-      "http://www.w3.org/2004/02/skos/core#Concept"
-    ],
-    "http://www.w3.org/2004/02/skos/core#definition": [
-      {
-        "@language": "en",
-        "@value": "Published or produced by or for a federal or national government body (e.g., a sovereign nation, such as Canada). Used for the governments of England, Wales, Scotland, and Northern Ireland. Also used for American Indian tribes."
-      }
-    ],
-    "http://www.w3.org/2004/02/skos/core#inScheme": [
-      {
-        "@id": "https://doi.org/10.6069/uwlswd.2eg3-1x53"
-      }
-    ],
-    "http://www.w3.org/2004/02/skos/core#notation": [
-      {
-        "@language": "en",
-        "@value": "f"
-      }
-    ],
-    "http://www.w3.org/2004/02/skos/core#prefLabel": [
-      {
-        "@language": "en",
-        "@value": "federal or national"
+        "@value": "multilocal"
       }
     ]
   }

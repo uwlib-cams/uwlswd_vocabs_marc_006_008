@@ -5,83 +5,83 @@
 
 <https://doi.org/10.6069/uwlswd.42d2-ca58#a> a skos:Concept ;
     skos:inScheme <https://doi.org/10.6069/uwlswd.42d2-ca58> ;
-    skos:notation "a"@en ;
+    skos:notation "a" ;
     skos:prefLabel "microfilm"@en .
 
 <https://doi.org/10.6069/uwlswd.42d2-ca58#b> a skos:Concept ;
     skos:inScheme <https://doi.org/10.6069/uwlswd.42d2-ca58> ;
-    skos:notation "b"@en ;
+    skos:notation "b" ;
     skos:prefLabel "microfiche"@en .
 
 <https://doi.org/10.6069/uwlswd.42d2-ca58#c> a skos:Concept ;
     skos:inScheme <https://doi.org/10.6069/uwlswd.42d2-ca58> ;
-    skos:notation "c"@en ;
+    skos:notation "c" ;
     skos:prefLabel "microopaque"@en .
 
 <https://doi.org/10.6069/uwlswd.42d2-ca58#d> a skos:Concept ;
     skos:inScheme <https://doi.org/10.6069/uwlswd.42d2-ca58> ;
-    skos:notation "d"@en ;
+    skos:notation "d" ;
     skos:prefLabel "large print"@en .
 
 <https://doi.org/10.6069/uwlswd.42d2-ca58#e> a skos:Concept ;
     skos:definition "On newsprint and/or looks like a newspaper."@en ;
     skos:inScheme <https://doi.org/10.6069/uwlswd.42d2-ca58> ;
-    skos:notation "e"@en ;
+    skos:notation "e" ;
     skos:prefLabel "newspaper format"@en .
 
 <https://doi.org/10.6069/uwlswd.42d2-ca58#f> a skos:Concept ;
     skos:inScheme <https://doi.org/10.6069/uwlswd.42d2-ca58> ;
-    skos:notation "f"@en ;
+    skos:notation "f" ;
     skos:prefLabel "braille"@en .
 
 <https://doi.org/10.6069/uwlswd.42d2-ca58#gx> a skos:Concept ;
     skos:inScheme <https://doi.org/10.6069/uwlswd.42d2-ca58> ;
-    skos:notation "g"@en ;
+    skos:notation "g" ;
     skos:prefLabel "punched paper tape [obsolete]"@en .
 
 <https://doi.org/10.6069/uwlswd.42d2-ca58#hx> a skos:Concept ;
     skos:inScheme <https://doi.org/10.6069/uwlswd.42d2-ca58> ;
-    skos:notation "h"@en ;
+    skos:notation "h" ;
     skos:prefLabel "magnetic tape [obsolete]"@en .
 
 <https://doi.org/10.6069/uwlswd.42d2-ca58#ix> a skos:Concept ;
     skos:inScheme <https://doi.org/10.6069/uwlswd.42d2-ca58> ;
-    skos:notation "i"@en ;
+    skos:notation "i" ;
     skos:prefLabel "multimedia [obsolete]"@en .
 
 <https://doi.org/10.6069/uwlswd.42d2-ca58#o> a skos:Concept ;
     skos:definition "Accessed by means of hardware and software connections to a communications network."@en ;
     skos:inScheme <https://doi.org/10.6069/uwlswd.42d2-ca58> ;
-    skos:notation "o"@en ;
+    skos:notation "o" ;
     skos:prefLabel "online"@en .
 
 <https://doi.org/10.6069/uwlswd.42d2-ca58#pound> a skos:Concept ;
     skos:definition "Form of original item other than microfilm, microfiche, microopaque, large print, newspaper format, braille, online, direct electronic, or electronic."@en ;
     skos:inScheme <https://doi.org/10.6069/uwlswd.42d2-ca58> ;
-    skos:notation "#"@en ;
+    skos:notation "#" ;
     skos:prefLabel "none of the following"@en .
 
 <https://doi.org/10.6069/uwlswd.42d2-ca58#q> a skos:Concept ;
     skos:definition "Storage on a directly accessible tangible recording medium, e.g. disc, tape, playaway device, flashdrive, portable hard drive, etc."@en ;
     skos:inScheme <https://doi.org/10.6069/uwlswd.42d2-ca58> ;
-    skos:notation "q"@en ;
+    skos:notation "q" ;
     skos:prefLabel "direct electronic"@en .
 
 <https://doi.org/10.6069/uwlswd.42d2-ca58#s> a skos:Concept ;
     skos:definition "Intended for manipulation by a computer. May reside in a carrier accessed either directly or remotely, in some cases requiring the use of peripheral devices attached to the computer (e.g., a CD-ROM player)."@en ;
     skos:inScheme <https://doi.org/10.6069/uwlswd.42d2-ca58> ;
-    skos:notation "s"@en ;
+    skos:notation "s" ;
     skos:prefLabel "electronic"@en ;
     skos:scopeNote "Not used for items that do not require the use of a computer (e.g., music compact discs, videodiscs)."@en .
 
 <https://doi.org/10.6069/uwlswd.42d2-ca58#xx> a skos:Concept ;
     skos:inScheme <https://doi.org/10.6069/uwlswd.42d2-ca58> ;
-    skos:notation "x"@en ;
+    skos:notation "x" ;
     skos:prefLabel "other physical medium (x) [obsolete]"@en .
 
 <https://doi.org/10.6069/uwlswd.42d2-ca58#zx> a skos:Concept ;
     skos:inScheme <https://doi.org/10.6069/uwlswd.42d2-ca58> ;
-    skos:notation "z"@en ;
+    skos:notation "z" ;
     skos:prefLabel "other physical medium (z) [obsolete]"@en .
 
 <https://doi.org/10.6069/uwlswd.42d2-ca58> a skos:ConceptScheme ;
@@ -98,12 +98,12 @@
         <https://uwlib-cams.github.io/uwlswd_vocabs_marc_006_008/008/continuing_form_of_original_item/continuing_form_of_original_item.rdf> ;
     dct:issued "2023" ;
     dct:license <http://creativecommons.org/publicdomain/zero/1.0> ;
-    dct:provenance <https://doi.org/10.6069/uwlswd.2e2b-y833> ;
+    dct:provenance <https://doi.org/10.6069/uwlswd.2e2b-y833#marc00Xvalues> ;
     dct:publisher <http://viaf.org/viaf/139541794> ;
     dct:source <http://marc21rdf.info>,
         <https://www.loc.gov/marc/bibliographic/bd008.html> ;
     dct:title "Continuing: form of original item"@en ;
     dct:type <http://purl.org/dc/dcmitype/Dataset> ;
-    schema:disambiguatingDescription "SKOS Concept Scheme for MARC 00X Values" ;
-    schema:version "1-0-1" .
+    schema:disambiguatingDescription "SKOS Concept Scheme for MARC 00X Values"@en ;
+    schema:version "1-1-0" .
 

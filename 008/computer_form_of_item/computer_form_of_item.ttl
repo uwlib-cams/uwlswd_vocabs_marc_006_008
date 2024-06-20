@@ -6,18 +6,18 @@
 <https://doi.org/10.6069/uwlswd.3d5s-zx23#o> a skos:Concept ;
     skos:definition "Accessed by means of hardware and software connections to a communications network."@en ;
     skos:inScheme <https://doi.org/10.6069/uwlswd.3d5s-zx23> ;
-    skos:notation "o"@en ;
+    skos:notation "o" ;
     skos:prefLabel "online"@en .
 
 <https://doi.org/10.6069/uwlswd.3d5s-zx23#pound> a skos:Concept ;
     skos:inScheme <https://doi.org/10.6069/uwlswd.3d5s-zx23> ;
-    skos:notation "#"@en ;
+    skos:notation "#" ;
     skos:prefLabel "unknown or not specified"@en .
 
 <https://doi.org/10.6069/uwlswd.3d5s-zx23#q> a skos:Concept ;
     skos:definition "Storage on a directly accessible tangible recording medium, e.g. disc, tape, playaway device, flashdrive, portable hard drive, etc."@en ;
     skos:inScheme <https://doi.org/10.6069/uwlswd.3d5s-zx23> ;
-    skos:notation "q"@en ;
+    skos:notation "q" ;
     skos:prefLabel "direct electronic"@en .
 
 <https://doi.org/10.6069/uwlswd.3d5s-zx23> a skos:ConceptScheme ;
@@ -34,12 +34,12 @@
         <https://uwlib-cams.github.io/uwlswd_vocabs_marc_006_008/008/computer_form_of_item/computer_form_of_item.rdf> ;
     dct:issued "2023" ;
     dct:license <http://creativecommons.org/publicdomain/zero/1.0> ;
-    dct:provenance <https://doi.org/10.6069/uwlswd.2e2b-y833> ;
+    dct:provenance <https://doi.org/10.6069/uwlswd.2e2b-y833#marc00Xvalues> ;
     dct:publisher <http://viaf.org/viaf/139541794> ;
     dct:source <http://marc21rdf.info>,
         <https://www.loc.gov/marc/bibliographic/bd008.html> ;
     dct:title "Computer: form of item"@en ;
     dct:type <http://purl.org/dc/dcmitype/Dataset> ;
-    schema:disambiguatingDescription "SKOS Concept Scheme for MARC 00X Values" ;
-    schema:version "1-0-1" .
+    schema:disambiguatingDescription "SKOS Concept Scheme for MARC 00X Values"@en ;
+    schema:version "1-1-0" .
 

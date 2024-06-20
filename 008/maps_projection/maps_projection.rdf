@@ -6,97 +6,68 @@
    xmlns:schema="https://schema.org/"
    xmlns:skos="http://www.w3.org/2004/02/skos/core#"
 >
-  <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.4jrs-m847#be">
+  <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.4jrs-m847#af">
     <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
     <skos:inScheme rdf:resource="https://doi.org/10.6069/uwlswd.4jrs-m847"/>
-    <skos:prefLabel xml:lang="en">Miller</skos:prefLabel>
-    <skos:definition xml:lang="en">Miller.</skos:definition>
-    <skos:notation xml:lang="en">be</skos:notation>
-  </rdf:Description>
-  <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.4jrs-m847#ca">
-    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-    <skos:inScheme rdf:resource="https://doi.org/10.6069/uwlswd.4jrs-m847"/>
-    <skos:prefLabel xml:lang="en">Alber's equal area</skos:prefLabel>
-    <skos:definition xml:lang="en">Alber's equal area.</skos:definition>
-    <skos:notation xml:lang="en">ca</skos:notation>
-  </rdf:Description>
-  <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.4jrs-m847#bb">
-    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-    <skos:inScheme rdf:resource="https://doi.org/10.6069/uwlswd.4jrs-m847"/>
-    <skos:prefLabel xml:lang="en">Goode's homolographic</skos:prefLabel>
-    <skos:definition xml:lang="en">Goode's homolographic.</skos:definition>
-    <skos:notation xml:lang="en">bb</skos:notation>
-  </rdf:Description>
-  <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.4jrs-m847#dl">
-    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-    <skos:inScheme rdf:resource="https://doi.org/10.6069/uwlswd.4jrs-m847"/>
-    <skos:prefLabel xml:lang="en">Lambert conformal</skos:prefLabel>
-    <skos:definition xml:lang="en">Lambert conformal.</skos:definition>
-    <skos:notation xml:lang="en">dl</skos:notation>
-  </rdf:Description>
-  <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.4jrs-m847#br">
-    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-    <skos:inScheme rdf:resource="https://doi.org/10.6069/uwlswd.4jrs-m847"/>
-    <skos:prefLabel xml:lang="en">Robinson</skos:prefLabel>
-    <skos:definition xml:lang="en">Robinson.</skos:definition>
-    <skos:notation xml:lang="en">br</skos:notation>
-  </rdf:Description>
-  <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.4jrs-m847#pound2">
-    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-    <skos:inScheme rdf:resource="https://doi.org/10.6069/uwlswd.4jrs-m847"/>
-    <skos:prefLabel xml:lang="en">projection not specified</skos:prefLabel>
-    <skos:definition xml:lang="en">Projection not specified.</skos:definition>
-    <skos:notation xml:lang="en">##</skos:notation>
-    <skos:scopeNote xml:lang="en">Used for most globes.</skos:scopeNote>
+    <skos:prefLabel xml:lang="en">stereographic</skos:prefLabel>
+    <skos:definition xml:lang="en">Stereographic.</skos:definition>
+    <skos:notation>af</skos:notation>
   </rdf:Description>
   <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.4jrs-m847#dh">
     <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
     <skos:inScheme rdf:resource="https://doi.org/10.6069/uwlswd.4jrs-m847"/>
     <skos:prefLabel xml:lang="en">cordiform</skos:prefLabel>
     <skos:definition xml:lang="en">Cordiform.</skos:definition>
-    <skos:notation xml:lang="en">dh</skos:notation>
+    <skos:notation>dh</skos:notation>
   </rdf:Description>
-  <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.4jrs-m847#de">
+  <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.4jrs-m847#ca">
     <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
     <skos:inScheme rdf:resource="https://doi.org/10.6069/uwlswd.4jrs-m847"/>
-    <skos:prefLabel xml:lang="en">Miller's bipolar oblique conformal conic</skos:prefLabel>
-    <skos:definition xml:lang="en">Miller's bipolar oblique conformal conic.</skos:definition>
-    <skos:notation xml:lang="en">de</skos:notation>
+    <skos:prefLabel xml:lang="en">Alber's equal area</skos:prefLabel>
+    <skos:definition xml:lang="en">Alber's equal area.</skos:definition>
+    <skos:notation>ca</skos:notation>
   </rdf:Description>
-  <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.4jrs-m847#cz">
+  <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.4jrs-m847#bs">
     <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
     <skos:inScheme rdf:resource="https://doi.org/10.6069/uwlswd.4jrs-m847"/>
-    <skos:prefLabel xml:lang="en">conic, other</skos:prefLabel>
-    <skos:definition xml:lang="en">Conic, other.</skos:definition>
-    <skos:notation xml:lang="en">cz</skos:notation>
+    <skos:prefLabel xml:lang="en">space oblique Mercator</skos:prefLabel>
+    <skos:definition xml:lang="en">Space oblique Mercator.</skos:definition>
+    <skos:notation>bs</skos:notation>
   </rdf:Description>
-  <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.4jrs-m847#au">
+  <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.4jrs-m847#ce">
     <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
     <skos:inScheme rdf:resource="https://doi.org/10.6069/uwlswd.4jrs-m847"/>
-    <skos:prefLabel xml:lang="en">azimuthal, specific type unknown</skos:prefLabel>
-    <skos:definition xml:lang="en">Azimuthal, specific type unknown. Only the projection type (azimuthal) is known, not the specific projection.</skos:definition>
-    <skos:notation xml:lang="en">au</skos:notation>
+    <skos:prefLabel xml:lang="en">equidistant conic</skos:prefLabel>
+    <skos:definition xml:lang="en">Equidistant conic.</skos:definition>
+    <skos:notation>ce</skos:notation>
   </rdf:Description>
-  <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.4jrs-m847#bk">
+  <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.4jrs-m847#cp">
     <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
     <skos:inScheme rdf:resource="https://doi.org/10.6069/uwlswd.4jrs-m847"/>
-    <skos:prefLabel xml:lang="en">krovak</skos:prefLabel>
-    <skos:definition xml:lang="en">Krovak.</skos:definition>
-    <skos:notation xml:lang="en">bk</skos:notation>
+    <skos:prefLabel xml:lang="en">polyconic</skos:prefLabel>
+    <skos:definition xml:lang="en">Polyconic.</skos:definition>
+    <skos:notation>cp</skos:notation>
   </rdf:Description>
-  <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.4jrs-m847#bo">
+  <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.4jrs-m847#cb">
     <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
     <skos:inScheme rdf:resource="https://doi.org/10.6069/uwlswd.4jrs-m847"/>
-    <skos:prefLabel xml:lang="en">oblique Mercator</skos:prefLabel>
-    <skos:definition xml:lang="en">Oblique Mercator.</skos:definition>
-    <skos:notation xml:lang="en">bo</skos:notation>
+    <skos:prefLabel xml:lang="en">Bonne</skos:prefLabel>
+    <skos:definition xml:lang="en">Bonne.</skos:definition>
+    <skos:notation>cb</skos:notation>
   </rdf:Description>
   <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.4jrs-m847#am">
     <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
     <skos:inScheme rdf:resource="https://doi.org/10.6069/uwlswd.4jrs-m847"/>
     <skos:prefLabel xml:lang="en">modified stereographic for Alaska</skos:prefLabel>
     <skos:definition xml:lang="en">Modified stereographic for Alaska.</skos:definition>
-    <skos:notation xml:lang="en">am</skos:notation>
+    <skos:notation>am</skos:notation>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.4jrs-m847#ap">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <skos:inScheme rdf:resource="https://doi.org/10.6069/uwlswd.4jrs-m847"/>
+    <skos:prefLabel xml:lang="en">polar stereographic</skos:prefLabel>
+    <skos:definition xml:lang="en">Polar stereographic.</skos:definition>
+    <skos:notation>ap</skos:notation>
   </rdf:Description>
   <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.4jrs-m847">
     <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#ConceptScheme"/>
@@ -104,260 +75,289 @@
     <dct:title xml:lang="en">Maps: projection</dct:title>
     <dct:alternative xml:lang="en">MARC21 008/22-23 values for maps expressed using RDF</dct:alternative>
     <dct:description xml:lang="en">Indicates the projection used in producing the item.</dct:description>
-    <schema:disambiguatingDescription>SKOS Concept Scheme for MARC 00X Values</schema:disambiguatingDescription>
+    <schema:disambiguatingDescription xml:lang="en">SKOS Concept Scheme for MARC 00X Values</schema:disambiguatingDescription>
     <dct:publisher rdf:resource="http://viaf.org/viaf/139541794"/>
     <dct:source rdf:resource="https://www.loc.gov/marc/bibliographic/bd008.html"/>
     <dct:source rdf:resource="http://marc21rdf.info"/>
-    <dct:provenance rdf:resource="https://doi.org/10.6069/uwlswd.2e2b-y833"/>
+    <dct:provenance rdf:resource="https://doi.org/10.6069/uwlswd.2e2b-y833#marc00Xvalues"/>
     <dct:creator rdf:resource="http://viaf.org/viaf/139541794"/>
     <dct:contributor rdf:resource="http://viaf.org/viaf/151962300"/>
     <dc:contributor xml:lang="en">Metadata Management Associates</dc:contributor>
     <dct:issued>2023</dct:issued>
     <dc:language>en</dc:language>
     <dct:license rdf:resource="http://creativecommons.org/publicdomain/zero/1.0"/>
-    <schema:version>1-0-1</schema:version>
+    <schema:version>1-1-0</schema:version>
     <dct:hasFormat rdf:resource="https://uwlib-cams.github.io/uwlswd_vocabs_marc_006_008/008/maps_projection/maps_projection.ttl"/>
     <dct:hasFormat rdf:resource="https://uwlib-cams.github.io/uwlswd_vocabs_marc_006_008/008/maps_projection/maps_projection.nt"/>
     <dct:hasFormat rdf:resource="https://uwlib-cams.github.io/uwlswd_vocabs_marc_006_008/008/maps_projection/maps_projection.jsonld"/>
     <dct:hasFormat rdf:resource="https://uwlib-cams.github.io/uwlswd_vocabs_marc_006_008/008/maps_projection/maps_projection.html"/>
     <dct:format rdf:resource="http://www.w3.org/ns/formats/RDF_XML"/>
   </rdf:Description>
-  <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.4jrs-m847#bs">
+  <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.4jrs-m847#ab">
     <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
     <skos:inScheme rdf:resource="https://doi.org/10.6069/uwlswd.4jrs-m847"/>
-    <skos:prefLabel xml:lang="en">space oblique Mercator</skos:prefLabel>
-    <skos:definition xml:lang="en">Space oblique Mercator.</skos:definition>
-    <skos:notation xml:lang="en">bs</skos:notation>
-  </rdf:Description>
-  <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.4jrs-m847#dc">
-    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-    <skos:inScheme rdf:resource="https://doi.org/10.6069/uwlswd.4jrs-m847"/>
-    <skos:prefLabel xml:lang="en">Eckert</skos:prefLabel>
-    <skos:definition xml:lang="en">Eckert.</skos:definition>
-    <skos:notation xml:lang="en">dc</skos:notation>
-  </rdf:Description>
-  <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.4jrs-m847#ag">
-    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-    <skos:inScheme rdf:resource="https://doi.org/10.6069/uwlswd.4jrs-m847"/>
-    <skos:prefLabel xml:lang="en">general vertical near-sided</skos:prefLabel>
-    <skos:definition xml:lang="en">General vertical near-sided.</skos:definition>
-    <skos:notation xml:lang="en">ag</skos:notation>
-  </rdf:Description>
-  <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.4jrs-m847#af">
-    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-    <skos:inScheme rdf:resource="https://doi.org/10.6069/uwlswd.4jrs-m847"/>
-    <skos:prefLabel xml:lang="en">stereographic</skos:prefLabel>
-    <skos:definition xml:lang="en">Stereographic.</skos:definition>
-    <skos:notation xml:lang="en">af</skos:notation>
-  </rdf:Description>
-  <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.4jrs-m847#ac">
-    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-    <skos:inScheme rdf:resource="https://doi.org/10.6069/uwlswd.4jrs-m847"/>
-    <skos:prefLabel xml:lang="en">Lambert's azimuthal equal area</skos:prefLabel>
-    <skos:definition xml:lang="en">Lambert's azimuthal equal area.</skos:definition>
-    <skos:notation xml:lang="en">ac</skos:notation>
-  </rdf:Description>
-  <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.4jrs-m847#aa">
-    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-    <skos:inScheme rdf:resource="https://doi.org/10.6069/uwlswd.4jrs-m847"/>
-    <skos:prefLabel xml:lang="en">Aitoff</skos:prefLabel>
-    <skos:definition xml:lang="en">Aitoff.</skos:definition>
-    <skos:notation xml:lang="en">aa</skos:notation>
-  </rdf:Description>
-  <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.4jrs-m847#cb">
-    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-    <skos:inScheme rdf:resource="https://doi.org/10.6069/uwlswd.4jrs-m847"/>
-    <skos:prefLabel xml:lang="en">Bonne</skos:prefLabel>
-    <skos:definition xml:lang="en">Bonne.</skos:definition>
-    <skos:notation xml:lang="en">cb</skos:notation>
-  </rdf:Description>
-  <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.4jrs-m847#cu">
-    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-    <skos:inScheme rdf:resource="https://doi.org/10.6069/uwlswd.4jrs-m847"/>
-    <skos:prefLabel xml:lang="en">conic, specific type unknown</skos:prefLabel>
-    <skos:definition xml:lang="en">Conic, specific type unknown. Only the projection type (conic) is known, not the specific projection.</skos:definition>
-    <skos:notation xml:lang="en">cu</skos:notation>
-  </rdf:Description>
-  <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.4jrs-m847#bu">
-    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-    <skos:inScheme rdf:resource="https://doi.org/10.6069/uwlswd.4jrs-m847"/>
-    <skos:prefLabel xml:lang="en">cylindrical, specific type unknown</skos:prefLabel>
-    <skos:definition xml:lang="en">Cylindrical, specific type unknown. Only the projection type (cylindrical) is known, not the specific projection.</skos:definition>
-    <skos:notation xml:lang="en">bu</skos:notation>
-  </rdf:Description>
-  <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.4jrs-m847#bl">
-    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-    <skos:inScheme rdf:resource="https://doi.org/10.6069/uwlswd.4jrs-m847"/>
-    <skos:prefLabel xml:lang="en">Cassini-Soldner</skos:prefLabel>
-    <skos:definition xml:lang="en">Cassini-Soldner.</skos:definition>
-    <skos:notation xml:lang="en">bl</skos:notation>
-  </rdf:Description>
-  <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.4jrs-m847#bz">
-    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-    <skos:inScheme rdf:resource="https://doi.org/10.6069/uwlswd.4jrs-m847"/>
-    <skos:prefLabel xml:lang="en">cylindrical, other</skos:prefLabel>
-    <skos:definition xml:lang="en">Cylindrical, other.</skos:definition>
-    <skos:notation xml:lang="en">bz</skos:notation>
+    <skos:prefLabel xml:lang="en">Gnomic</skos:prefLabel>
+    <skos:definition xml:lang="en">Gnomic.</skos:definition>
+    <skos:notation>ab</skos:notation>
   </rdf:Description>
   <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.4jrs-m847#cc">
     <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
     <skos:inScheme rdf:resource="https://doi.org/10.6069/uwlswd.4jrs-m847"/>
     <skos:prefLabel xml:lang="en">Lambert's conformal conic</skos:prefLabel>
     <skos:definition xml:lang="en">Lambert's conformal conic.</skos:definition>
-    <skos:notation xml:lang="en">cc</skos:notation>
-  </rdf:Description>
-  <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.4jrs-m847#da">
-    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-    <skos:inScheme rdf:resource="https://doi.org/10.6069/uwlswd.4jrs-m847"/>
-    <skos:prefLabel xml:lang="en">armadillo</skos:prefLabel>
-    <skos:definition xml:lang="en">Armadillo.</skos:definition>
-    <skos:notation xml:lang="en">da</skos:notation>
-  </rdf:Description>
-  <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.4jrs-m847#ap">
-    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-    <skos:inScheme rdf:resource="https://doi.org/10.6069/uwlswd.4jrs-m847"/>
-    <skos:prefLabel xml:lang="en">polar stereographic</skos:prefLabel>
-    <skos:definition xml:lang="en">Polar stereographic.</skos:definition>
-    <skos:notation xml:lang="en">ap</skos:notation>
-  </rdf:Description>
-  <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.4jrs-m847#ce">
-    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-    <skos:inScheme rdf:resource="https://doi.org/10.6069/uwlswd.4jrs-m847"/>
-    <skos:prefLabel xml:lang="en">equidistant conic</skos:prefLabel>
-    <skos:definition xml:lang="en">Equidistant conic.</skos:definition>
-    <skos:notation xml:lang="en">ce</skos:notation>
-  </rdf:Description>
-  <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.4jrs-m847#ae">
-    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-    <skos:inScheme rdf:resource="https://doi.org/10.6069/uwlswd.4jrs-m847"/>
-    <skos:prefLabel xml:lang="en">azimuthal equidistant</skos:prefLabel>
-    <skos:definition xml:lang="en">Azimuthal equidistant.</skos:definition>
-    <skos:notation xml:lang="en">ae</skos:notation>
-  </rdf:Description>
-  <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.4jrs-m847#bf">
-    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-    <skos:inScheme rdf:resource="https://doi.org/10.6069/uwlswd.4jrs-m847"/>
-    <skos:prefLabel xml:lang="en">Mollweide</skos:prefLabel>
-    <skos:definition xml:lang="en">Mollweide.</skos:definition>
-    <skos:notation xml:lang="en">bf</skos:notation>
+    <skos:notation>cc</skos:notation>
   </rdf:Description>
   <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.4jrs-m847#an">
     <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
     <skos:inScheme rdf:resource="https://doi.org/10.6069/uwlswd.4jrs-m847"/>
     <skos:prefLabel xml:lang="en">Chamberlin trimetric</skos:prefLabel>
     <skos:definition xml:lang="en">Chamberlin trimetric.</skos:definition>
-    <skos:notation xml:lang="en">an</skos:notation>
+    <skos:notation>an</skos:notation>
   </rdf:Description>
-  <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.4jrs-m847#bc">
+  <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.4jrs-m847#au">
     <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
     <skos:inScheme rdf:resource="https://doi.org/10.6069/uwlswd.4jrs-m847"/>
-    <skos:prefLabel xml:lang="en">Lambert's cylindrical equal area</skos:prefLabel>
-    <skos:definition xml:lang="en">Lambert's cylindrical equal area.</skos:definition>
-    <skos:notation xml:lang="en">bc</skos:notation>
-  </rdf:Description>
-  <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.4jrs-m847#df">
-    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-    <skos:inScheme rdf:resource="https://doi.org/10.6069/uwlswd.4jrs-m847"/>
-    <skos:prefLabel xml:lang="en">Van Der Grinten</skos:prefLabel>
-    <skos:definition xml:lang="en">Van Der Grinten.</skos:definition>
-    <skos:notation xml:lang="en">df</skos:notation>
-  </rdf:Description>
-  <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.4jrs-m847#ad">
-    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-    <skos:inScheme rdf:resource="https://doi.org/10.6069/uwlswd.4jrs-m847"/>
-    <skos:prefLabel xml:lang="en">orthographic</skos:prefLabel>
-    <skos:definition xml:lang="en">Orthographic.</skos:definition>
-    <skos:notation xml:lang="en">ad</skos:notation>
-  </rdf:Description>
-  <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.4jrs-m847#bi">
-    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-    <skos:inScheme rdf:resource="https://doi.org/10.6069/uwlswd.4jrs-m847"/>
-    <skos:prefLabel xml:lang="en">Gauss-Kruger</skos:prefLabel>
-    <skos:definition xml:lang="en">Gauss-Kruger.</skos:definition>
-    <skos:notation xml:lang="en">bi</skos:notation>
-  </rdf:Description>
-  <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.4jrs-m847#bj">
-    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-    <skos:inScheme rdf:resource="https://doi.org/10.6069/uwlswd.4jrs-m847"/>
-    <skos:prefLabel xml:lang="en">equirectangular</skos:prefLabel>
-    <skos:definition xml:lang="en">Equirectangular.</skos:definition>
-    <skos:notation xml:lang="en">bj</skos:notation>
-  </rdf:Description>
-  <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.4jrs-m847#dg">
-    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-    <skos:inScheme rdf:resource="https://doi.org/10.6069/uwlswd.4jrs-m847"/>
-    <skos:prefLabel xml:lang="en">dimaxion</skos:prefLabel>
-    <skos:definition xml:lang="en">Dimaxion.</skos:definition>
-    <skos:notation xml:lang="en">dg</skos:notation>
-  </rdf:Description>
-  <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.4jrs-m847#bh">
-    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-    <skos:inScheme rdf:resource="https://doi.org/10.6069/uwlswd.4jrs-m847"/>
-    <skos:prefLabel xml:lang="en">transverse Mercator</skos:prefLabel>
-    <skos:definition xml:lang="en">Transverse Mercator.</skos:definition>
-    <skos:notation xml:lang="en">bh</skos:notation>
-  </rdf:Description>
-  <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.4jrs-m847#ab">
-    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-    <skos:inScheme rdf:resource="https://doi.org/10.6069/uwlswd.4jrs-m847"/>
-    <skos:prefLabel xml:lang="en">Gnomic</skos:prefLabel>
-    <skos:definition xml:lang="en">Gnomic.</skos:definition>
-    <skos:notation xml:lang="en">ab</skos:notation>
-  </rdf:Description>
-  <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.4jrs-m847#bg">
-    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-    <skos:inScheme rdf:resource="https://doi.org/10.6069/uwlswd.4jrs-m847"/>
-    <skos:prefLabel xml:lang="en">sinusoidal</skos:prefLabel>
-    <skos:definition xml:lang="en">Sinusoidal.</skos:definition>
-    <skos:notation xml:lang="en">bg</skos:notation>
-  </rdf:Description>
-  <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.4jrs-m847#cp">
-    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-    <skos:inScheme rdf:resource="https://doi.org/10.6069/uwlswd.4jrs-m847"/>
-    <skos:prefLabel xml:lang="en">polyconic</skos:prefLabel>
-    <skos:definition xml:lang="en">Polyconic.</skos:definition>
-    <skos:notation xml:lang="en">cp</skos:notation>
+    <skos:prefLabel xml:lang="en">azimuthal, specific type unknown</skos:prefLabel>
+    <skos:definition xml:lang="en">Azimuthal, specific type unknown. Only the projection type (azimuthal) is known, not the specific projection.</skos:definition>
+    <skos:notation>au</skos:notation>
   </rdf:Description>
   <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.4jrs-m847#zz">
     <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
     <skos:inScheme rdf:resource="https://doi.org/10.6069/uwlswd.4jrs-m847"/>
     <skos:prefLabel xml:lang="en">other</skos:prefLabel>
     <skos:definition xml:lang="en">Projection other than Aitoff, gnomic, Lambert's azimuthal equal area, orthographic, azimuthal equidistant, stereographic, general vertical near-sided, modified stereographic for Alaska, Chamberlin trimetric, polar stereographic, azimuthal, specific type unknown, azimuthal, other, Gall, Goode's homolographic, Lambert's cylindrical equal area, Mercator, Miller, Mollweide, sinusoidal, transverse mercator, Gauss-Kruger, equirectangular, Krovak, Cassini-Soldner, oblique Mercator, Robinson, space oblique Mercator, cylindrical, specific type unknown, cylindrical, other, Alber's equal area, Bonne, Lambert's conformal conic, equidistant conic, polyconic, conic, specific type unknown, conic, other, armadillo, butterfly, Eckert, Goode's homolosine, Miller's bipolar oblique conformal conic, Van der Grinten, dimaxion, cordiform, Lambert conformal.</skos:definition>
-    <skos:notation xml:lang="en">zz</skos:notation>
+    <skos:notation>zz</skos:notation>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.4jrs-m847#bg">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <skos:inScheme rdf:resource="https://doi.org/10.6069/uwlswd.4jrs-m847"/>
+    <skos:prefLabel xml:lang="en">sinusoidal</skos:prefLabel>
+    <skos:definition xml:lang="en">Sinusoidal.</skos:definition>
+    <skos:notation>bg</skos:notation>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.4jrs-m847#pound2">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <skos:inScheme rdf:resource="https://doi.org/10.6069/uwlswd.4jrs-m847"/>
+    <skos:prefLabel xml:lang="en">projection not specified</skos:prefLabel>
+    <skos:definition xml:lang="en">Projection not specified.</skos:definition>
+    <skos:notation>##</skos:notation>
+    <skos:scopeNote xml:lang="en">Used for most globes.</skos:scopeNote>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.4jrs-m847#br">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <skos:inScheme rdf:resource="https://doi.org/10.6069/uwlswd.4jrs-m847"/>
+    <skos:prefLabel xml:lang="en">Robinson</skos:prefLabel>
+    <skos:definition xml:lang="en">Robinson.</skos:definition>
+    <skos:notation>br</skos:notation>
   </rdf:Description>
   <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.4jrs-m847#az">
     <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
     <skos:inScheme rdf:resource="https://doi.org/10.6069/uwlswd.4jrs-m847"/>
     <skos:prefLabel xml:lang="en">azimuthal, other</skos:prefLabel>
     <skos:definition xml:lang="en">Azimuthal, other.</skos:definition>
-    <skos:notation xml:lang="en">az</skos:notation>
-  </rdf:Description>
-  <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.4jrs-m847#db">
-    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-    <skos:inScheme rdf:resource="https://doi.org/10.6069/uwlswd.4jrs-m847"/>
-    <skos:prefLabel xml:lang="en">butterfly</skos:prefLabel>
-    <skos:definition xml:lang="en">Butterfly.</skos:definition>
-    <skos:notation xml:lang="en">db</skos:notation>
+    <skos:notation>az</skos:notation>
   </rdf:Description>
   <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.4jrs-m847#dd">
     <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
     <skos:inScheme rdf:resource="https://doi.org/10.6069/uwlswd.4jrs-m847"/>
     <skos:prefLabel xml:lang="en">Goode's homolosine</skos:prefLabel>
     <skos:definition xml:lang="en">Goode's homolosine.</skos:definition>
-    <skos:notation xml:lang="en">dd</skos:notation>
+    <skos:notation>dd</skos:notation>
   </rdf:Description>
-  <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.4jrs-m847#ba">
+  <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.4jrs-m847#dl">
     <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
     <skos:inScheme rdf:resource="https://doi.org/10.6069/uwlswd.4jrs-m847"/>
-    <skos:prefLabel xml:lang="en">Gall</skos:prefLabel>
-    <skos:definition xml:lang="en">Gall.</skos:definition>
-    <skos:notation xml:lang="en">ba</skos:notation>
+    <skos:prefLabel xml:lang="en">Lambert conformal</skos:prefLabel>
+    <skos:definition xml:lang="en">Lambert conformal.</skos:definition>
+    <skos:notation>dl</skos:notation>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.4jrs-m847#dc">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <skos:inScheme rdf:resource="https://doi.org/10.6069/uwlswd.4jrs-m847"/>
+    <skos:prefLabel xml:lang="en">Eckert</skos:prefLabel>
+    <skos:definition xml:lang="en">Eckert.</skos:definition>
+    <skos:notation>dc</skos:notation>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.4jrs-m847#bj">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <skos:inScheme rdf:resource="https://doi.org/10.6069/uwlswd.4jrs-m847"/>
+    <skos:prefLabel xml:lang="en">equirectangular</skos:prefLabel>
+    <skos:definition xml:lang="en">Equirectangular.</skos:definition>
+    <skos:notation>bj</skos:notation>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.4jrs-m847#cz">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <skos:inScheme rdf:resource="https://doi.org/10.6069/uwlswd.4jrs-m847"/>
+    <skos:prefLabel xml:lang="en">conic, other</skos:prefLabel>
+    <skos:definition xml:lang="en">Conic, other.</skos:definition>
+    <skos:notation>cz</skos:notation>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.4jrs-m847#ae">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <skos:inScheme rdf:resource="https://doi.org/10.6069/uwlswd.4jrs-m847"/>
+    <skos:prefLabel xml:lang="en">azimuthal equidistant</skos:prefLabel>
+    <skos:definition xml:lang="en">Azimuthal equidistant.</skos:definition>
+    <skos:notation>ae</skos:notation>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.4jrs-m847#de">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <skos:inScheme rdf:resource="https://doi.org/10.6069/uwlswd.4jrs-m847"/>
+    <skos:prefLabel xml:lang="en">Miller's bipolar oblique conformal conic</skos:prefLabel>
+    <skos:definition xml:lang="en">Miller's bipolar oblique conformal conic.</skos:definition>
+    <skos:notation>de</skos:notation>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.4jrs-m847#bl">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <skos:inScheme rdf:resource="https://doi.org/10.6069/uwlswd.4jrs-m847"/>
+    <skos:prefLabel xml:lang="en">Cassini-Soldner</skos:prefLabel>
+    <skos:definition xml:lang="en">Cassini-Soldner.</skos:definition>
+    <skos:notation>bl</skos:notation>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.4jrs-m847#bz">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <skos:inScheme rdf:resource="https://doi.org/10.6069/uwlswd.4jrs-m847"/>
+    <skos:prefLabel xml:lang="en">cylindrical, other</skos:prefLabel>
+    <skos:definition xml:lang="en">Cylindrical, other.</skos:definition>
+    <skos:notation>bz</skos:notation>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.4jrs-m847#bk">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <skos:inScheme rdf:resource="https://doi.org/10.6069/uwlswd.4jrs-m847"/>
+    <skos:prefLabel xml:lang="en">krovak</skos:prefLabel>
+    <skos:definition xml:lang="en">Krovak.</skos:definition>
+    <skos:notation>bk</skos:notation>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.4jrs-m847#dg">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <skos:inScheme rdf:resource="https://doi.org/10.6069/uwlswd.4jrs-m847"/>
+    <skos:prefLabel xml:lang="en">dimaxion</skos:prefLabel>
+    <skos:definition xml:lang="en">Dimaxion.</skos:definition>
+    <skos:notation>dg</skos:notation>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.4jrs-m847#bf">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <skos:inScheme rdf:resource="https://doi.org/10.6069/uwlswd.4jrs-m847"/>
+    <skos:prefLabel xml:lang="en">Mollweide</skos:prefLabel>
+    <skos:definition xml:lang="en">Mollweide.</skos:definition>
+    <skos:notation>bf</skos:notation>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.4jrs-m847#df">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <skos:inScheme rdf:resource="https://doi.org/10.6069/uwlswd.4jrs-m847"/>
+    <skos:prefLabel xml:lang="en">Van Der Grinten</skos:prefLabel>
+    <skos:definition xml:lang="en">Van Der Grinten.</skos:definition>
+    <skos:notation>df</skos:notation>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.4jrs-m847#bb">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <skos:inScheme rdf:resource="https://doi.org/10.6069/uwlswd.4jrs-m847"/>
+    <skos:prefLabel xml:lang="en">Goode's homolographic</skos:prefLabel>
+    <skos:definition xml:lang="en">Goode's homolographic.</skos:definition>
+    <skos:notation>bb</skos:notation>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.4jrs-m847#bc">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <skos:inScheme rdf:resource="https://doi.org/10.6069/uwlswd.4jrs-m847"/>
+    <skos:prefLabel xml:lang="en">Lambert's cylindrical equal area</skos:prefLabel>
+    <skos:definition xml:lang="en">Lambert's cylindrical equal area.</skos:definition>
+    <skos:notation>bc</skos:notation>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.4jrs-m847#ad">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <skos:inScheme rdf:resource="https://doi.org/10.6069/uwlswd.4jrs-m847"/>
+    <skos:prefLabel xml:lang="en">orthographic</skos:prefLabel>
+    <skos:definition xml:lang="en">Orthographic.</skos:definition>
+    <skos:notation>ad</skos:notation>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.4jrs-m847#aa">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <skos:inScheme rdf:resource="https://doi.org/10.6069/uwlswd.4jrs-m847"/>
+    <skos:prefLabel xml:lang="en">Aitoff</skos:prefLabel>
+    <skos:definition xml:lang="en">Aitoff.</skos:definition>
+    <skos:notation>aa</skos:notation>
   </rdf:Description>
   <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.4jrs-m847#bd">
     <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
     <skos:inScheme rdf:resource="https://doi.org/10.6069/uwlswd.4jrs-m847"/>
     <skos:prefLabel xml:lang="en">Mercator</skos:prefLabel>
     <skos:definition xml:lang="en">Mercator.</skos:definition>
-    <skos:notation xml:lang="en">bd</skos:notation>
+    <skos:notation>bd</skos:notation>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.4jrs-m847#db">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <skos:inScheme rdf:resource="https://doi.org/10.6069/uwlswd.4jrs-m847"/>
+    <skos:prefLabel xml:lang="en">butterfly</skos:prefLabel>
+    <skos:definition xml:lang="en">Butterfly.</skos:definition>
+    <skos:notation>db</skos:notation>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.4jrs-m847#ba">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <skos:inScheme rdf:resource="https://doi.org/10.6069/uwlswd.4jrs-m847"/>
+    <skos:prefLabel xml:lang="en">Gall</skos:prefLabel>
+    <skos:definition xml:lang="en">Gall.</skos:definition>
+    <skos:notation>ba</skos:notation>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.4jrs-m847#da">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <skos:inScheme rdf:resource="https://doi.org/10.6069/uwlswd.4jrs-m847"/>
+    <skos:prefLabel xml:lang="en">armadillo</skos:prefLabel>
+    <skos:definition xml:lang="en">Armadillo.</skos:definition>
+    <skos:notation>da</skos:notation>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.4jrs-m847#be">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <skos:inScheme rdf:resource="https://doi.org/10.6069/uwlswd.4jrs-m847"/>
+    <skos:prefLabel xml:lang="en">Miller</skos:prefLabel>
+    <skos:definition xml:lang="en">Miller.</skos:definition>
+    <skos:notation>be</skos:notation>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.4jrs-m847#bo">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <skos:inScheme rdf:resource="https://doi.org/10.6069/uwlswd.4jrs-m847"/>
+    <skos:prefLabel xml:lang="en">oblique Mercator</skos:prefLabel>
+    <skos:definition xml:lang="en">Oblique Mercator.</skos:definition>
+    <skos:notation>bo</skos:notation>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.4jrs-m847#bh">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <skos:inScheme rdf:resource="https://doi.org/10.6069/uwlswd.4jrs-m847"/>
+    <skos:prefLabel xml:lang="en">transverse Mercator</skos:prefLabel>
+    <skos:definition xml:lang="en">Transverse Mercator.</skos:definition>
+    <skos:notation>bh</skos:notation>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.4jrs-m847#ag">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <skos:inScheme rdf:resource="https://doi.org/10.6069/uwlswd.4jrs-m847"/>
+    <skos:prefLabel xml:lang="en">general vertical near-sided</skos:prefLabel>
+    <skos:definition xml:lang="en">General vertical near-sided.</skos:definition>
+    <skos:notation>ag</skos:notation>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.4jrs-m847#bi">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <skos:inScheme rdf:resource="https://doi.org/10.6069/uwlswd.4jrs-m847"/>
+    <skos:prefLabel xml:lang="en">Gauss-Kruger</skos:prefLabel>
+    <skos:definition xml:lang="en">Gauss-Kruger.</skos:definition>
+    <skos:notation>bi</skos:notation>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.4jrs-m847#bu">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <skos:inScheme rdf:resource="https://doi.org/10.6069/uwlswd.4jrs-m847"/>
+    <skos:prefLabel xml:lang="en">cylindrical, specific type unknown</skos:prefLabel>
+    <skos:definition xml:lang="en">Cylindrical, specific type unknown. Only the projection type (cylindrical) is known, not the specific projection.</skos:definition>
+    <skos:notation>bu</skos:notation>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.4jrs-m847#ac">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <skos:inScheme rdf:resource="https://doi.org/10.6069/uwlswd.4jrs-m847"/>
+    <skos:prefLabel xml:lang="en">Lambert's azimuthal equal area</skos:prefLabel>
+    <skos:definition xml:lang="en">Lambert's azimuthal equal area.</skos:definition>
+    <skos:notation>ac</skos:notation>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.4jrs-m847#cu">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <skos:inScheme rdf:resource="https://doi.org/10.6069/uwlswd.4jrs-m847"/>
+    <skos:prefLabel xml:lang="en">conic, specific type unknown</skos:prefLabel>
+    <skos:definition xml:lang="en">Conic, specific type unknown. Only the projection type (conic) is known, not the specific projection.</skos:definition>
+    <skos:notation>cu</skos:notation>
   </rdf:Description>
 </rdf:RDF>

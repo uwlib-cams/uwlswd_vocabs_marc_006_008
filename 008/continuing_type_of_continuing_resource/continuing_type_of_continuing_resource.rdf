@@ -12,114 +12,91 @@
     <dct:title xml:lang="en">Continuing: type of continuing resource</dct:title>
     <dct:alternative xml:lang="en">MARC21 008/21 values for continuing resources expressed using RDF</dct:alternative>
     <dct:description xml:lang="en">Indicates the type of continuing resource.</dct:description>
-    <schema:disambiguatingDescription>SKOS Concept Scheme for MARC 00X Values</schema:disambiguatingDescription>
+    <schema:disambiguatingDescription xml:lang="en">SKOS Concept Scheme for MARC 00X Values</schema:disambiguatingDescription>
     <dct:publisher rdf:resource="http://viaf.org/viaf/139541794"/>
     <dct:source rdf:resource="https://www.loc.gov/marc/bibliographic/bd008.html"/>
     <dct:source rdf:resource="http://marc21rdf.info"/>
-    <dct:provenance rdf:resource="https://doi.org/10.6069/uwlswd.2e2b-y833"/>
+    <dct:provenance rdf:resource="https://doi.org/10.6069/uwlswd.2e2b-y833#marc00Xvalues"/>
     <dct:creator rdf:resource="http://viaf.org/viaf/139541794"/>
     <dct:contributor rdf:resource="http://viaf.org/viaf/151962300"/>
     <dc:contributor xml:lang="en">Metadata Management Associates</dc:contributor>
     <dct:issued>2023</dct:issued>
     <dc:language>en</dc:language>
     <dct:license rdf:resource="http://creativecommons.org/publicdomain/zero/1.0"/>
-    <schema:version>1-0-1</schema:version>
+    <schema:version>1-1-0</schema:version>
     <dct:hasFormat rdf:resource="https://uwlib-cams.github.io/uwlswd_vocabs_marc_006_008/008/continuing_type_of_continuing_resource/continuing_type_of_continuing_resource.ttl"/>
     <dct:hasFormat rdf:resource="https://uwlib-cams.github.io/uwlswd_vocabs_marc_006_008/008/continuing_type_of_continuing_resource/continuing_type_of_continuing_resource.nt"/>
     <dct:hasFormat rdf:resource="https://uwlib-cams.github.io/uwlswd_vocabs_marc_006_008/008/continuing_type_of_continuing_resource/continuing_type_of_continuing_resource.jsonld"/>
     <dct:hasFormat rdf:resource="https://uwlib-cams.github.io/uwlswd_vocabs_marc_006_008/008/continuing_type_of_continuing_resource/continuing_type_of_continuing_resource.html"/>
     <dct:format rdf:resource="http://www.w3.org/ns/formats/RDF_XML"/>
   </rdf:Description>
-  <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.62zz-1534#n">
-    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-    <skos:inScheme rdf:resource="https://doi.org/10.6069/uwlswd.62zz-1534"/>
-    <skos:prefLabel xml:lang="en">newspaper</skos:prefLabel>
-    <skos:definition xml:lang="en">Continuing resource that is mainly designed to be a primary source of written information on current events connected with public affairs, either local, national and/or international in scope. It contains a broad range of news on all subjects and activities and is not limited to any specific subject matter. It may include (although not primarily) articles on literary or other subjects as well as advertising, legal notices, vital statistics, and illustrations.</skos:definition>
-    <skos:notation xml:lang="en">n</skos:notation>
-  </rdf:Description>
-  <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.62zz-1534#h">
-    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-    <skos:inScheme rdf:resource="https://doi.org/10.6069/uwlswd.62zz-1534"/>
-    <skos:prefLabel xml:lang="en">blog</skos:prefLabel>
-    <skos:definition xml:lang="en">Online periodical appearing on a web page that may contain web links and/or comments on a particular topic or subject (broad or narrow in scope), often in the form of short articles arranged in reverse chronological order, the most recently added piece of information appearing first.</skos:definition>
-    <skos:notation xml:lang="en">h</skos:notation>
-    <skos:scopeNote xml:lang="en">Blog content may be written or collected by the site owner, or contributed by users.</skos:scopeNote>
-  </rdf:Description>
-  <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.62zz-1534#s">
-    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-    <skos:inScheme rdf:resource="https://doi.org/10.6069/uwlswd.62zz-1534"/>
-    <skos:prefLabel xml:lang="en">newsletter</skos:prefLabel>
-    <skos:definition xml:lang="en">Periodical that can be issued by an organization, generally to its members, or to a specific audience to give current information about a topic or sphere of activity.</skos:definition>
-    <skos:notation xml:lang="en">s</skos:notation>
-    <skos:scopeNote xml:lang="en">Can be print or digital.</skos:scopeNote>
-  </rdf:Description>
-  <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.62zz-1534#l">
-    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-    <skos:inScheme rdf:resource="https://doi.org/10.6069/uwlswd.62zz-1534"/>
-    <skos:prefLabel xml:lang="en">updating loose-leaf</skos:prefLabel>
-    <skos:definition xml:lang="en">Bibliographic resource that consists of a base volume(s) updated by separate pages which are inserted, removed, and/or substituted.</skos:definition>
-    <skos:notation xml:lang="en">l</skos:notation>
-  </rdf:Description>
-  <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.62zz-1534#t">
-    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-    <skos:inScheme rdf:resource="https://doi.org/10.6069/uwlswd.62zz-1534"/>
-    <skos:prefLabel xml:lang="en">directory</skos:prefLabel>
-    <skos:definition xml:lang="en">Itemized listing of information for the identification or location of persons, objects, organizations or places, arranged alphabetically, chronologically, or in other systematic order, and updated over time.</skos:definition>
-    <skos:notation xml:lang="en">t</skos:notation>
-    <skos:scopeNote xml:lang="en">Can be print or digital.</skos:scopeNote>
-  </rdf:Description>
   <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.62zz-1534#w">
     <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
     <skos:inScheme rdf:resource="https://doi.org/10.6069/uwlswd.62zz-1534"/>
     <skos:prefLabel xml:lang="en">updating web site</skos:prefLabel>
     <skos:definition xml:lang="en">Web site that is updated.</skos:definition>
-    <skos:notation xml:lang="en">w</skos:notation>
+    <skos:notation>w</skos:notation>
     <skos:scopeNote xml:lang="en">Not used for periodical, newspaper, magazine, blog, journal, repository, newsletter, directory or database.</skos:scopeNote>
-  </rdf:Description>
-  <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.62zz-1534#d">
-    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-    <skos:inScheme rdf:resource="https://doi.org/10.6069/uwlswd.62zz-1534"/>
-    <skos:prefLabel xml:lang="en">updating database</skos:prefLabel>
-    <skos:definition xml:lang="en">Collection of logically interrelated data stored together in one or more computerized files, usually created and managed by a database management system and which may be accessible via a search interface.</skos:definition>
-    <skos:notation xml:lang="en">d</skos:notation>
-  </rdf:Description>
-  <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.62zz-1534#p">
-    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-    <skos:inScheme rdf:resource="https://doi.org/10.6069/uwlswd.62zz-1534"/>
-    <skos:prefLabel xml:lang="en">periodical</skos:prefLabel>
-    <skos:definition xml:lang="en">Includes resources with separate articles, stories, other writings, etc. that are published or distributed generally more frequently than annual including journals, magazines, newsletters and blogs.</skos:definition>
-    <skos:scopeNote xml:lang="en">Can be print or digital.</skos:scopeNote>
-    <skos:notation xml:lang="en">p</skos:notation>
-  </rdf:Description>
-  <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.62zz-1534#r">
-    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-    <skos:inScheme rdf:resource="https://doi.org/10.6069/uwlswd.62zz-1534"/>
-    <skos:prefLabel xml:lang="en">repository</skos:prefLabel>
-    <skos:definition xml:lang="en">Online collection, often scholarly in nature, for storing the publications of an institution, a group of institutions. Can also be a collection of materials on a specific subject, or from a specific community.</skos:definition>
-    <skos:notation xml:lang="en">r</skos:notation>
-    <skos:scopeNote xml:lang="en">Materials collected include e-prints, technical reports, theses and dissertations, datasets, and teaching and learning materials.</skos:scopeNote>
-  </rdf:Description>
-  <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.62zz-1534#m">
-    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-    <skos:inScheme rdf:resource="https://doi.org/10.6069/uwlswd.62zz-1534"/>
-    <skos:prefLabel xml:lang="en">monographic series</skos:prefLabel>
-    <skos:definition xml:lang="en">A group of analyzable items (i.e., each piece has a distinctive title) that are related to one another by a collective title. The individual items may or may not be numbered.</skos:definition>
-    <skos:notation xml:lang="en">m</skos:notation>
-    <skos:scopeNote xml:lang="en">Used for any title that is a series, regardless of its treatment.</skos:scopeNote>
   </rdf:Description>
   <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.62zz-1534#g">
     <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
     <skos:inScheme rdf:resource="https://doi.org/10.6069/uwlswd.62zz-1534"/>
     <skos:prefLabel xml:lang="en">magazine</skos:prefLabel>
     <skos:definition xml:lang="en">Periodical addressing non-scientific, non-professional general interest topics. Magazines can be print or digital.</skos:definition>
-    <skos:notation xml:lang="en">g</skos:notation>
+    <skos:notation>g</skos:notation>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.62zz-1534#d">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <skos:inScheme rdf:resource="https://doi.org/10.6069/uwlswd.62zz-1534"/>
+    <skos:prefLabel xml:lang="en">updating database</skos:prefLabel>
+    <skos:definition xml:lang="en">Collection of logically interrelated data stored together in one or more computerized files, usually created and managed by a database management system and which may be accessible via a search interface.</skos:definition>
+    <skos:notation>d</skos:notation>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.62zz-1534#t">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <skos:inScheme rdf:resource="https://doi.org/10.6069/uwlswd.62zz-1534"/>
+    <skos:prefLabel xml:lang="en">directory</skos:prefLabel>
+    <skos:definition xml:lang="en">Itemized listing of information for the identification or location of persons, objects, organizations or places, arranged alphabetically, chronologically, or in other systematic order, and updated over time.</skos:definition>
+    <skos:notation>t</skos:notation>
+    <skos:scopeNote xml:lang="en">Can be print or digital.</skos:scopeNote>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.62zz-1534#s">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <skos:inScheme rdf:resource="https://doi.org/10.6069/uwlswd.62zz-1534"/>
+    <skos:prefLabel xml:lang="en">newsletter</skos:prefLabel>
+    <skos:definition xml:lang="en">Periodical that can be issued by an organization, generally to its members, or to a specific audience to give current information about a topic or sphere of activity.</skos:definition>
+    <skos:notation>s</skos:notation>
+    <skos:scopeNote xml:lang="en">Can be print or digital.</skos:scopeNote>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.62zz-1534#r">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <skos:inScheme rdf:resource="https://doi.org/10.6069/uwlswd.62zz-1534"/>
+    <skos:prefLabel xml:lang="en">repository</skos:prefLabel>
+    <skos:definition xml:lang="en">Online collection, often scholarly in nature, for storing the publications of an institution, a group of institutions. Can also be a collection of materials on a specific subject, or from a specific community.</skos:definition>
+    <skos:notation>r</skos:notation>
+    <skos:scopeNote xml:lang="en">Materials collected include e-prints, technical reports, theses and dissertations, datasets, and teaching and learning materials.</skos:scopeNote>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.62zz-1534#n">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <skos:inScheme rdf:resource="https://doi.org/10.6069/uwlswd.62zz-1534"/>
+    <skos:prefLabel xml:lang="en">newspaper</skos:prefLabel>
+    <skos:definition xml:lang="en">Continuing resource that is mainly designed to be a primary source of written information on current events connected with public affairs, either local, national and/or international in scope. It contains a broad range of news on all subjects and activities and is not limited to any specific subject matter. It may include (although not primarily) articles on literary or other subjects as well as advertising, legal notices, vital statistics, and illustrations.</skos:definition>
+    <skos:notation>n</skos:notation>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.62zz-1534#m">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <skos:inScheme rdf:resource="https://doi.org/10.6069/uwlswd.62zz-1534"/>
+    <skos:prefLabel xml:lang="en">monographic series</skos:prefLabel>
+    <skos:definition xml:lang="en">A group of analyzable items (i.e., each piece has a distinctive title) that are related to one another by a collective title. The individual items may or may not be numbered.</skos:definition>
+    <skos:notation>m</skos:notation>
+    <skos:scopeNote xml:lang="en">Used for any title that is a series, regardless of its treatment.</skos:scopeNote>
   </rdf:Description>
   <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.62zz-1534#j">
     <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
     <skos:inScheme rdf:resource="https://doi.org/10.6069/uwlswd.62zz-1534"/>
     <skos:prefLabel xml:lang="en">journal</skos:prefLabel>
     <skos:definition xml:lang="en">Periodical addressing readers interested in a specific subject or profession. Often includes original research and current developments.</skos:definition>
-    <skos:notation xml:lang="en">j</skos:notation>
+    <skos:notation>j</skos:notation>
     <skos:scopeNote xml:lang="en">Journals can be print or digital.</skos:scopeNote>
   </rdf:Description>
   <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.62zz-1534#pound">
@@ -127,7 +104,30 @@
     <skos:inScheme rdf:resource="https://doi.org/10.6069/uwlswd.62zz-1534"/>
     <skos:prefLabel xml:lang="en">none of the following</skos:prefLabel>
     <skos:definition xml:lang="en">Type of continuing resource other than updating database, updating loose-leaf, monographic series, newspaper, periodical, magazine, blog, journal, repository, newsletter, directory, or an updating web site.</skos:definition>
-    <skos:notation xml:lang="en">#</skos:notation>
+    <skos:notation>#</skos:notation>
     <skos:scopeNote xml:lang="en">Used for yearbooks and annual reports.</skos:scopeNote>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.62zz-1534#h">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <skos:inScheme rdf:resource="https://doi.org/10.6069/uwlswd.62zz-1534"/>
+    <skos:prefLabel xml:lang="en">blog</skos:prefLabel>
+    <skos:definition xml:lang="en">Online periodical appearing on a web page that may contain web links and/or comments on a particular topic or subject (broad or narrow in scope), often in the form of short articles arranged in reverse chronological order, the most recently added piece of information appearing first.</skos:definition>
+    <skos:notation>h</skos:notation>
+    <skos:scopeNote xml:lang="en">Blog content may be written or collected by the site owner, or contributed by users.</skos:scopeNote>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.62zz-1534#p">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <skos:inScheme rdf:resource="https://doi.org/10.6069/uwlswd.62zz-1534"/>
+    <skos:prefLabel xml:lang="en">periodical</skos:prefLabel>
+    <skos:definition xml:lang="en">Includes resources with separate articles, stories, other writings, etc. that are published or distributed generally more frequently than annual including journals, magazines, newsletters and blogs.</skos:definition>
+    <skos:scopeNote xml:lang="en">Can be print or digital.</skos:scopeNote>
+    <skos:notation>p</skos:notation>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.62zz-1534#l">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <skos:inScheme rdf:resource="https://doi.org/10.6069/uwlswd.62zz-1534"/>
+    <skos:prefLabel xml:lang="en">updating loose-leaf</skos:prefLabel>
+    <skos:definition xml:lang="en">Bibliographic resource that consists of a base volume(s) updated by separate pages which are inserted, removed, and/or substituted.</skos:definition>
+    <skos:notation>l</skos:notation>
   </rdf:Description>
 </rdf:RDF>

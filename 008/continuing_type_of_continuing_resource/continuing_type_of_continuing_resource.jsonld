@@ -1,13 +1,13 @@
 [
   {
-    "@id": "https://doi.org/10.6069/uwlswd.62zz-1534#pound",
+    "@id": "https://doi.org/10.6069/uwlswd.62zz-1534#l",
     "@type": [
       "http://www.w3.org/2004/02/skos/core#Concept"
     ],
     "http://www.w3.org/2004/02/skos/core#definition": [
       {
         "@language": "en",
-        "@value": "Type of continuing resource other than updating database, updating loose-leaf, monographic series, newspaper, periodical, magazine, blog, journal, repository, newsletter, directory, or an updating web site."
+        "@value": "Bibliographic resource that consists of a base volume(s) updated by separate pages which are inserted, removed, and/or substituted."
       }
     ],
     "http://www.w3.org/2004/02/skos/core#inScheme": [
@@ -17,20 +17,205 @@
     ],
     "http://www.w3.org/2004/02/skos/core#notation": [
       {
-        "@language": "en",
-        "@value": "#"
+        "@value": "l"
       }
     ],
     "http://www.w3.org/2004/02/skos/core#prefLabel": [
       {
         "@language": "en",
-        "@value": "none of the following"
+        "@value": "updating loose-leaf"
+      }
+    ]
+  },
+  {
+    "@id": "https://doi.org/10.6069/uwlswd.62zz-1534#p",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#definition": [
+      {
+        "@language": "en",
+        "@value": "Includes resources with separate articles, stories, other writings, etc. that are published or distributed generally more frequently than annual including journals, magazines, newsletters and blogs."
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#inScheme": [
+      {
+        "@id": "https://doi.org/10.6069/uwlswd.62zz-1534"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#notation": [
+      {
+        "@value": "p"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "periodical"
       }
     ],
     "http://www.w3.org/2004/02/skos/core#scopeNote": [
       {
         "@language": "en",
-        "@value": "Used for yearbooks and annual reports."
+        "@value": "Can be print or digital."
+      }
+    ]
+  },
+  {
+    "@id": "https://doi.org/10.6069/uwlswd.62zz-1534#r",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#definition": [
+      {
+        "@language": "en",
+        "@value": "Online collection, often scholarly in nature, for storing the publications of an institution, a group of institutions. Can also be a collection of materials on a specific subject, or from a specific community."
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#inScheme": [
+      {
+        "@id": "https://doi.org/10.6069/uwlswd.62zz-1534"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#notation": [
+      {
+        "@value": "r"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "repository"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#scopeNote": [
+      {
+        "@language": "en",
+        "@value": "Materials collected include e-prints, technical reports, theses and dissertations, datasets, and teaching and learning materials."
+      }
+    ]
+  },
+  {
+    "@id": "https://doi.org/10.6069/uwlswd.62zz-1534#h",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#definition": [
+      {
+        "@language": "en",
+        "@value": "Online periodical appearing on a web page that may contain web links and/or comments on a particular topic or subject (broad or narrow in scope), often in the form of short articles arranged in reverse chronological order, the most recently added piece of information appearing first."
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#inScheme": [
+      {
+        "@id": "https://doi.org/10.6069/uwlswd.62zz-1534"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#notation": [
+      {
+        "@value": "h"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "blog"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#scopeNote": [
+      {
+        "@language": "en",
+        "@value": "Blog content may be written or collected by the site owner, or contributed by users."
+      }
+    ]
+  },
+  {
+    "@id": "https://doi.org/10.6069/uwlswd.62zz-1534#n",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#definition": [
+      {
+        "@language": "en",
+        "@value": "Continuing resource that is mainly designed to be a primary source of written information on current events connected with public affairs, either local, national and/or international in scope. It contains a broad range of news on all subjects and activities and is not limited to any specific subject matter. It may include (although not primarily) articles on literary or other subjects as well as advertising, legal notices, vital statistics, and illustrations."
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#inScheme": [
+      {
+        "@id": "https://doi.org/10.6069/uwlswd.62zz-1534"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#notation": [
+      {
+        "@value": "n"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "newspaper"
+      }
+    ]
+  },
+  {
+    "@id": "https://doi.org/10.6069/uwlswd.62zz-1534#g",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#definition": [
+      {
+        "@language": "en",
+        "@value": "Periodical addressing non-scientific, non-professional general interest topics. Magazines can be print or digital."
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#inScheme": [
+      {
+        "@id": "https://doi.org/10.6069/uwlswd.62zz-1534"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#notation": [
+      {
+        "@value": "g"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "magazine"
+      }
+    ]
+  },
+  {
+    "@id": "https://doi.org/10.6069/uwlswd.62zz-1534#j",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#definition": [
+      {
+        "@language": "en",
+        "@value": "Periodical addressing readers interested in a specific subject or profession. Often includes original research and current developments."
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#inScheme": [
+      {
+        "@id": "https://doi.org/10.6069/uwlswd.62zz-1534"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#notation": [
+      {
+        "@value": "j"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "journal"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#scopeNote": [
+      {
+        "@language": "en",
+        "@value": "Journals can be print or digital."
       }
     ]
   },
@@ -52,7 +237,6 @@
     ],
     "http://www.w3.org/2004/02/skos/core#notation": [
       {
-        "@language": "en",
         "@value": "d"
       }
     ],
@@ -60,35 +244,6 @@
       {
         "@language": "en",
         "@value": "updating database"
-      }
-    ]
-  },
-  {
-    "@id": "https://doi.org/10.6069/uwlswd.62zz-1534#l",
-    "@type": [
-      "http://www.w3.org/2004/02/skos/core#Concept"
-    ],
-    "http://www.w3.org/2004/02/skos/core#definition": [
-      {
-        "@language": "en",
-        "@value": "Bibliographic resource that consists of a base volume(s) updated by separate pages which are inserted, removed, and/or substituted."
-      }
-    ],
-    "http://www.w3.org/2004/02/skos/core#inScheme": [
-      {
-        "@id": "https://doi.org/10.6069/uwlswd.62zz-1534"
-      }
-    ],
-    "http://www.w3.org/2004/02/skos/core#notation": [
-      {
-        "@language": "en",
-        "@value": "l"
-      }
-    ],
-    "http://www.w3.org/2004/02/skos/core#prefLabel": [
-      {
-        "@language": "en",
-        "@value": "updating loose-leaf"
       }
     ]
   },
@@ -161,7 +316,7 @@
     ],
     "http://purl.org/dc/terms/provenance": [
       {
-        "@id": "https://doi.org/10.6069/uwlswd.2e2b-y833"
+        "@id": "https://doi.org/10.6069/uwlswd.2e2b-y833#marc00Xvalues"
       }
     ],
     "http://purl.org/dc/terms/publisher": [
@@ -190,82 +345,13 @@
     ],
     "https://schema.org/disambiguatingDescription": [
       {
+        "@language": "en",
         "@value": "SKOS Concept Scheme for MARC 00X Values"
       }
     ],
     "https://schema.org/version": [
       {
-        "@value": "1-0-1"
-      }
-    ]
-  },
-  {
-    "@id": "https://doi.org/10.6069/uwlswd.62zz-1534#j",
-    "@type": [
-      "http://www.w3.org/2004/02/skos/core#Concept"
-    ],
-    "http://www.w3.org/2004/02/skos/core#definition": [
-      {
-        "@language": "en",
-        "@value": "Periodical addressing readers interested in a specific subject or profession. Often includes original research and current developments."
-      }
-    ],
-    "http://www.w3.org/2004/02/skos/core#inScheme": [
-      {
-        "@id": "https://doi.org/10.6069/uwlswd.62zz-1534"
-      }
-    ],
-    "http://www.w3.org/2004/02/skos/core#notation": [
-      {
-        "@language": "en",
-        "@value": "j"
-      }
-    ],
-    "http://www.w3.org/2004/02/skos/core#prefLabel": [
-      {
-        "@language": "en",
-        "@value": "journal"
-      }
-    ],
-    "http://www.w3.org/2004/02/skos/core#scopeNote": [
-      {
-        "@language": "en",
-        "@value": "Journals can be print or digital."
-      }
-    ]
-  },
-  {
-    "@id": "https://doi.org/10.6069/uwlswd.62zz-1534#h",
-    "@type": [
-      "http://www.w3.org/2004/02/skos/core#Concept"
-    ],
-    "http://www.w3.org/2004/02/skos/core#definition": [
-      {
-        "@language": "en",
-        "@value": "Online periodical appearing on a web page that may contain web links and/or comments on a particular topic or subject (broad or narrow in scope), often in the form of short articles arranged in reverse chronological order, the most recently added piece of information appearing first."
-      }
-    ],
-    "http://www.w3.org/2004/02/skos/core#inScheme": [
-      {
-        "@id": "https://doi.org/10.6069/uwlswd.62zz-1534"
-      }
-    ],
-    "http://www.w3.org/2004/02/skos/core#notation": [
-      {
-        "@language": "en",
-        "@value": "h"
-      }
-    ],
-    "http://www.w3.org/2004/02/skos/core#prefLabel": [
-      {
-        "@language": "en",
-        "@value": "blog"
-      }
-    ],
-    "http://www.w3.org/2004/02/skos/core#scopeNote": [
-      {
-        "@language": "en",
-        "@value": "Blog content may be written or collected by the site owner, or contributed by users."
+        "@value": "1-1-0"
       }
     ]
   },
@@ -287,7 +373,6 @@
     ],
     "http://www.w3.org/2004/02/skos/core#notation": [
       {
-        "@language": "en",
         "@value": "m"
       }
     ],
@@ -305,14 +390,14 @@
     ]
   },
   {
-    "@id": "https://doi.org/10.6069/uwlswd.62zz-1534#r",
+    "@id": "https://doi.org/10.6069/uwlswd.62zz-1534#pound",
     "@type": [
       "http://www.w3.org/2004/02/skos/core#Concept"
     ],
     "http://www.w3.org/2004/02/skos/core#definition": [
       {
         "@language": "en",
-        "@value": "Online collection, often scholarly in nature, for storing the publications of an institution, a group of institutions. Can also be a collection of materials on a specific subject, or from a specific community."
+        "@value": "Type of continuing resource other than updating database, updating loose-leaf, monographic series, newspaper, periodical, magazine, blog, journal, repository, newsletter, directory, or an updating web site."
       }
     ],
     "http://www.w3.org/2004/02/skos/core#inScheme": [
@@ -322,55 +407,19 @@
     ],
     "http://www.w3.org/2004/02/skos/core#notation": [
       {
-        "@language": "en",
-        "@value": "r"
+        "@value": "#"
       }
     ],
     "http://www.w3.org/2004/02/skos/core#prefLabel": [
       {
         "@language": "en",
-        "@value": "repository"
+        "@value": "none of the following"
       }
     ],
     "http://www.w3.org/2004/02/skos/core#scopeNote": [
       {
         "@language": "en",
-        "@value": "Materials collected include e-prints, technical reports, theses and dissertations, datasets, and teaching and learning materials."
-      }
-    ]
-  },
-  {
-    "@id": "https://doi.org/10.6069/uwlswd.62zz-1534#s",
-    "@type": [
-      "http://www.w3.org/2004/02/skos/core#Concept"
-    ],
-    "http://www.w3.org/2004/02/skos/core#definition": [
-      {
-        "@language": "en",
-        "@value": "Periodical that can be issued by an organization, generally to its members, or to a specific audience to give current information about a topic or sphere of activity."
-      }
-    ],
-    "http://www.w3.org/2004/02/skos/core#inScheme": [
-      {
-        "@id": "https://doi.org/10.6069/uwlswd.62zz-1534"
-      }
-    ],
-    "http://www.w3.org/2004/02/skos/core#notation": [
-      {
-        "@language": "en",
-        "@value": "s"
-      }
-    ],
-    "http://www.w3.org/2004/02/skos/core#prefLabel": [
-      {
-        "@language": "en",
-        "@value": "newsletter"
-      }
-    ],
-    "http://www.w3.org/2004/02/skos/core#scopeNote": [
-      {
-        "@language": "en",
-        "@value": "Can be print or digital."
+        "@value": "Used for yearbooks and annual reports."
       }
     ]
   },
@@ -392,7 +441,6 @@
     ],
     "http://www.w3.org/2004/02/skos/core#notation": [
       {
-        "@language": "en",
         "@value": "w"
       }
     ],
@@ -410,14 +458,14 @@
     ]
   },
   {
-    "@id": "https://doi.org/10.6069/uwlswd.62zz-1534#g",
+    "@id": "https://doi.org/10.6069/uwlswd.62zz-1534#s",
     "@type": [
       "http://www.w3.org/2004/02/skos/core#Concept"
     ],
     "http://www.w3.org/2004/02/skos/core#definition": [
       {
         "@language": "en",
-        "@value": "Periodical addressing non-scientific, non-professional general interest topics. Magazines can be print or digital."
+        "@value": "Periodical that can be issued by an organization, generally to its members, or to a specific audience to give current information about a topic or sphere of activity."
       }
     ],
     "http://www.w3.org/2004/02/skos/core#inScheme": [
@@ -427,72 +475,13 @@
     ],
     "http://www.w3.org/2004/02/skos/core#notation": [
       {
-        "@language": "en",
-        "@value": "g"
+        "@value": "s"
       }
     ],
     "http://www.w3.org/2004/02/skos/core#prefLabel": [
       {
         "@language": "en",
-        "@value": "magazine"
-      }
-    ]
-  },
-  {
-    "@id": "https://doi.org/10.6069/uwlswd.62zz-1534#n",
-    "@type": [
-      "http://www.w3.org/2004/02/skos/core#Concept"
-    ],
-    "http://www.w3.org/2004/02/skos/core#definition": [
-      {
-        "@language": "en",
-        "@value": "Continuing resource that is mainly designed to be a primary source of written information on current events connected with public affairs, either local, national and/or international in scope. It contains a broad range of news on all subjects and activities and is not limited to any specific subject matter. It may include (although not primarily) articles on literary or other subjects as well as advertising, legal notices, vital statistics, and illustrations."
-      }
-    ],
-    "http://www.w3.org/2004/02/skos/core#inScheme": [
-      {
-        "@id": "https://doi.org/10.6069/uwlswd.62zz-1534"
-      }
-    ],
-    "http://www.w3.org/2004/02/skos/core#notation": [
-      {
-        "@language": "en",
-        "@value": "n"
-      }
-    ],
-    "http://www.w3.org/2004/02/skos/core#prefLabel": [
-      {
-        "@language": "en",
-        "@value": "newspaper"
-      }
-    ]
-  },
-  {
-    "@id": "https://doi.org/10.6069/uwlswd.62zz-1534#p",
-    "@type": [
-      "http://www.w3.org/2004/02/skos/core#Concept"
-    ],
-    "http://www.w3.org/2004/02/skos/core#definition": [
-      {
-        "@language": "en",
-        "@value": "Includes resources with separate articles, stories, other writings, etc. that are published or distributed generally more frequently than annual including journals, magazines, newsletters and blogs."
-      }
-    ],
-    "http://www.w3.org/2004/02/skos/core#inScheme": [
-      {
-        "@id": "https://doi.org/10.6069/uwlswd.62zz-1534"
-      }
-    ],
-    "http://www.w3.org/2004/02/skos/core#notation": [
-      {
-        "@language": "en",
-        "@value": "p"
-      }
-    ],
-    "http://www.w3.org/2004/02/skos/core#prefLabel": [
-      {
-        "@language": "en",
-        "@value": "periodical"
+        "@value": "newsletter"
       }
     ],
     "http://www.w3.org/2004/02/skos/core#scopeNote": [
@@ -520,7 +509,6 @@
     ],
     "http://www.w3.org/2004/02/skos/core#notation": [
       {
-        "@language": "en",
         "@value": "t"
       }
     ],

@@ -12,38 +12,68 @@
     <dct:title xml:lang="en">Maps: type of cartographic material</dct:title>
     <dct:alternative xml:lang="en">MARC21 008/25 values for maps expressed using RDF</dct:alternative>
     <dct:description xml:lang="en">Indicates the type of cartographic item described.</dct:description>
-    <schema:disambiguatingDescription>SKOS Concept Scheme for MARC 00X Values</schema:disambiguatingDescription>
+    <schema:disambiguatingDescription xml:lang="en">SKOS Concept Scheme for MARC 00X Values</schema:disambiguatingDescription>
     <dct:publisher rdf:resource="http://viaf.org/viaf/139541794"/>
     <dct:source rdf:resource="https://www.loc.gov/marc/bibliographic/bd008.html"/>
     <dct:source rdf:resource="http://marc21rdf.info"/>
-    <dct:provenance rdf:resource="https://doi.org/10.6069/uwlswd.2e2b-y833"/>
+    <dct:provenance rdf:resource="https://doi.org/10.6069/uwlswd.2e2b-y833#marc00Xvalues"/>
     <dct:creator rdf:resource="http://viaf.org/viaf/139541794"/>
     <dct:contributor rdf:resource="http://viaf.org/viaf/151962300"/>
     <dc:contributor xml:lang="en">Metadata Management Associates</dc:contributor>
     <dct:issued>2023</dct:issued>
     <dc:language>en</dc:language>
     <dct:license rdf:resource="http://creativecommons.org/publicdomain/zero/1.0"/>
-    <schema:version>1-0-1</schema:version>
+    <schema:version>1-1-0</schema:version>
     <dct:hasFormat rdf:resource="https://uwlib-cams.github.io/uwlswd_vocabs_marc_006_008/008/maps_type_of_cartographic_material/maps_type_of_cartographic_material.ttl"/>
     <dct:hasFormat rdf:resource="https://uwlib-cams.github.io/uwlswd_vocabs_marc_006_008/008/maps_type_of_cartographic_material/maps_type_of_cartographic_material.nt"/>
     <dct:hasFormat rdf:resource="https://uwlib-cams.github.io/uwlswd_vocabs_marc_006_008/008/maps_type_of_cartographic_material/maps_type_of_cartographic_material.jsonld"/>
     <dct:hasFormat rdf:resource="https://uwlib-cams.github.io/uwlswd_vocabs_marc_006_008/008/maps_type_of_cartographic_material/maps_type_of_cartographic_material.html"/>
     <dct:format rdf:resource="http://www.w3.org/ns/formats/RDF_XML"/>
   </rdf:Description>
+  <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.vw5v-gh79#d">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <skos:inScheme rdf:resource="https://doi.org/10.6069/uwlswd.vw5v-gh79"/>
+    <skos:prefLabel xml:lang="en">globe</skos:prefLabel>
+    <skos:definition xml:lang="en">Globe.</skos:definition>
+    <skos:notation>d</skos:notation>
+  </rdf:Description>
   <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.vw5v-gh79#f">
     <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
     <skos:inScheme rdf:resource="https://doi.org/10.6069/uwlswd.vw5v-gh79"/>
     <skos:prefLabel xml:lang="en">separate supplement to another work</skos:prefLabel>
     <skos:definition xml:lang="en">Separate supplement to another work</skos:definition>
-    <skos:notation xml:lang="en">f</skos:notation>
+    <skos:notation>f</skos:notation>
     <skos:scopeNote xml:lang="en">Other work being supplemented does not have to be cartographic material.</skos:scopeNote>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.vw5v-gh79#b">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <skos:inScheme rdf:resource="https://doi.org/10.6069/uwlswd.vw5v-gh79"/>
+    <skos:prefLabel xml:lang="en">map series</skos:prefLabel>
+    <skos:definition xml:lang="en">Number of related but physically separate and bibliographically distinct cartographic units intended by the producer(s) or issuing body(s) to form a single group.</skos:definition>
+    <skos:notation>b</skos:notation>
+    <skos:scopeNote xml:lang="en">Not used for atlas series.</skos:scopeNote>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.vw5v-gh79#a">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <skos:inScheme rdf:resource="https://doi.org/10.6069/uwlswd.vw5v-gh79"/>
+    <skos:prefLabel xml:lang="en">single map</skos:prefLabel>
+    <skos:definition xml:lang="en">Single map.</skos:definition>
+    <skos:notation>a</skos:notation>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.vw5v-gh79#e">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <skos:inScheme rdf:resource="https://doi.org/10.6069/uwlswd.vw5v-gh79"/>
+    <skos:prefLabel xml:lang="en">atlas</skos:prefLabel>
+    <skos:definition xml:lang="en">Atlas.</skos:definition>
+    <skos:notation>e</skos:notation>
+    <skos:scopeNote xml:lang="en">Includes atlas series, and serially issued atlases.</skos:scopeNote>
   </rdf:Description>
   <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.vw5v-gh79#g">
     <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
     <skos:inScheme rdf:resource="https://doi.org/10.6069/uwlswd.vw5v-gh79"/>
     <skos:prefLabel xml:lang="en">bound as part of another work</skos:prefLabel>
     <skos:definition xml:lang="en">Bound as part of another work</skos:definition>
-    <skos:notation xml:lang="en">g</skos:notation>
+    <skos:notation>g</skos:notation>
     <skos:scopeNote xml:lang="en">Other work included does not have to be cartographic material.</skos:scopeNote>
   </rdf:Description>
   <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.vw5v-gh79#c">
@@ -51,51 +81,21 @@
     <skos:inScheme rdf:resource="https://doi.org/10.6069/uwlswd.vw5v-gh79"/>
     <skos:prefLabel xml:lang="en">map serial</skos:prefLabel>
     <skos:definition xml:lang="en">Issued in successive parts bearing numerical or chronological designations and intended to be continued indefinitely.</skos:definition>
-    <skos:notation xml:lang="en">c</skos:notation>
+    <skos:notation>c</skos:notation>
     <skos:scopeNote xml:lang="en">Not used for serially issued atlases.</skos:scopeNote>
-  </rdf:Description>
-  <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.vw5v-gh79#a">
-    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-    <skos:inScheme rdf:resource="https://doi.org/10.6069/uwlswd.vw5v-gh79"/>
-    <skos:prefLabel xml:lang="en">single map</skos:prefLabel>
-    <skos:definition xml:lang="en">Single map.</skos:definition>
-    <skos:notation xml:lang="en">a</skos:notation>
-  </rdf:Description>
-  <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.vw5v-gh79#e">
-    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-    <skos:inScheme rdf:resource="https://doi.org/10.6069/uwlswd.vw5v-gh79"/>
-    <skos:prefLabel xml:lang="en">atlas</skos:prefLabel>
-    <skos:definition xml:lang="en">Atlas.</skos:definition>
-    <skos:notation xml:lang="en">e</skos:notation>
-    <skos:scopeNote xml:lang="en">Includes atlas series, and serially issued atlases.</skos:scopeNote>
-  </rdf:Description>
-  <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.vw5v-gh79#b">
-    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-    <skos:inScheme rdf:resource="https://doi.org/10.6069/uwlswd.vw5v-gh79"/>
-    <skos:prefLabel xml:lang="en">map series</skos:prefLabel>
-    <skos:definition xml:lang="en">Number of related but physically separate and bibliographically distinct cartographic units intended by the producer(s) or issuing body(s) to form a single group.</skos:definition>
-    <skos:notation xml:lang="en">b</skos:notation>
-    <skos:scopeNote xml:lang="en">Not used for atlas series.</skos:scopeNote>
   </rdf:Description>
   <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.vw5v-gh79#z">
     <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
     <skos:inScheme rdf:resource="https://doi.org/10.6069/uwlswd.vw5v-gh79"/>
     <skos:prefLabel xml:lang="en">other</skos:prefLabel>
     <skos:definition xml:lang="en">Type of cartographic material other than single map, map series, map serial, globe, atlas, separate map supplement to another work, or map bound as part of another work.</skos:definition>
-    <skos:notation xml:lang="en">z</skos:notation>
-  </rdf:Description>
-  <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.vw5v-gh79#d">
-    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-    <skos:inScheme rdf:resource="https://doi.org/10.6069/uwlswd.vw5v-gh79"/>
-    <skos:prefLabel xml:lang="en">globe</skos:prefLabel>
-    <skos:definition xml:lang="en">Globe.</skos:definition>
-    <skos:notation xml:lang="en">d</skos:notation>
+    <skos:notation>z</skos:notation>
   </rdf:Description>
   <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.vw5v-gh79#u">
     <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
     <skos:inScheme rdf:resource="https://doi.org/10.6069/uwlswd.vw5v-gh79"/>
     <skos:prefLabel xml:lang="en">unknown</skos:prefLabel>
     <skos:definition xml:lang="en">Unknown.</skos:definition>
-    <skos:notation xml:lang="en">u</skos:notation>
+    <skos:notation>u</skos:notation>
   </rdf:Description>
 </rdf:RDF>

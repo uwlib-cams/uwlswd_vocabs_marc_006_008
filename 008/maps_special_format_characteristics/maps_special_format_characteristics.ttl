@@ -5,108 +5,108 @@
 
 <https://doi.org/10.6069/uwlswd.rw25-p125#ax> a skos:Concept ;
     skos:inScheme <https://doi.org/10.6069/uwlswd.rw25-p125> ;
-    skos:notation "a"@en ;
+    skos:notation "a" ;
     skos:prefLabel "photocopy, blue line print [obsolete]"@en .
 
 <https://doi.org/10.6069/uwlswd.rw25-p125#bx> a skos:Concept ;
     skos:inScheme <https://doi.org/10.6069/uwlswd.rw25-p125> ;
-    skos:notation "b"@en ;
+    skos:notation "b" ;
     skos:prefLabel "photocopy [obsolete]"@en .
 
 <https://doi.org/10.6069/uwlswd.rw25-p125#cx> a skos:Concept ;
     skos:inScheme <https://doi.org/10.6069/uwlswd.rw25-p125> ;
-    skos:notation "c"@en ;
+    skos:notation "c" ;
     skos:prefLabel "negative photocopy [obsolete]"@en .
 
 <https://doi.org/10.6069/uwlswd.rw25-p125#dx> a skos:Concept ;
     skos:inScheme <https://doi.org/10.6069/uwlswd.rw25-p125> ;
-    skos:notation "d"@en ;
+    skos:notation "d" ;
     skos:prefLabel "film negative [obsolete]"@en .
 
 <https://doi.org/10.6069/uwlswd.rw25-p125#e> a skos:Concept ;
     skos:definition "Drawn or fashioned by hand."@en ;
     skos:inScheme <https://doi.org/10.6069/uwlswd.rw25-p125> ;
-    skos:notation "e"@en ;
+    skos:notation "e" ;
     skos:prefLabel "manuscript"@en .
 
 <https://doi.org/10.6069/uwlswd.rw25-p125#fx> a skos:Concept ;
     skos:inScheme <https://doi.org/10.6069/uwlswd.rw25-p125> ;
-    skos:notation "f"@en ;
+    skos:notation "f" ;
     skos:prefLabel "facsimile [obsolete]"@en .
 
 <https://doi.org/10.6069/uwlswd.rw25-p125#gx> a skos:Concept ;
     skos:inScheme <https://doi.org/10.6069/uwlswd.rw25-p125> ;
-    skos:notation "g"@en ;
+    skos:notation "g" ;
     skos:prefLabel "relief model [obsolete]"@en .
 
 <https://doi.org/10.6069/uwlswd.rw25-p125#hx> a skos:Concept ;
     skos:inScheme <https://doi.org/10.6069/uwlswd.rw25-p125> ;
-    skos:notation "h"@en ;
+    skos:notation "h" ;
     skos:prefLabel "rare [obsolete]"@en .
 
 <https://doi.org/10.6069/uwlswd.rw25-p125#j> a skos:Concept ;
     skos:definition "Picture card, post card."@en ;
     skos:inScheme <https://doi.org/10.6069/uwlswd.rw25-p125> ;
-    skos:notation "j"@en ;
+    skos:notation "j" ;
     skos:prefLabel "picture card, post card"@en .
 
 <https://doi.org/10.6069/uwlswd.rw25-p125#k> a skos:Concept ;
     skos:definition "Calendar."@en ;
     skos:inScheme <https://doi.org/10.6069/uwlswd.rw25-p125> ;
-    skos:notation "k"@en ;
+    skos:notation "k" ;
     skos:prefLabel "calendar"@en .
 
 <https://doi.org/10.6069/uwlswd.rw25-p125#l> a skos:Concept ;
     skos:definition "Image may be disassembled into pieces and reassembled."@en ;
     skos:inScheme <https://doi.org/10.6069/uwlswd.rw25-p125> ;
-    skos:notation "l"@en ;
+    skos:notation "l" ;
     skos:prefLabel "puzzle"@en .
 
 <https://doi.org/10.6069/uwlswd.rw25-p125#mx> a skos:Concept ;
     skos:inScheme <https://doi.org/10.6069/uwlswd.rw25-p125> ;
-    skos:notation "m"@en ;
+    skos:notation "m" ;
     skos:prefLabel "braille [obsolete]"@en .
 
 <https://doi.org/10.6069/uwlswd.rw25-p125#n> a skos:Concept ;
     skos:definition "Intended to be used as or is part of a game."@en ;
     skos:inScheme <https://doi.org/10.6069/uwlswd.rw25-p125> ;
-    skos:notation "n"@en ;
+    skos:notation "n" ;
     skos:prefLabel "game"@en .
 
 <https://doi.org/10.6069/uwlswd.rw25-p125#o> a skos:Concept ;
     skos:definition "Wall map."@en ;
     skos:inScheme <https://doi.org/10.6069/uwlswd.rw25-p125> ;
-    skos:notation "o"@en ;
+    skos:notation "o" ;
     skos:prefLabel "wall map"@en .
 
 <https://doi.org/10.6069/uwlswd.rw25-p125#p> a skos:Concept ;
     skos:definition "Playing cards."@en ;
     skos:inScheme <https://doi.org/10.6069/uwlswd.rw25-p125> ;
-    skos:notation "p"@en ;
+    skos:notation "p" ;
     skos:prefLabel "playing cards"@en .
 
 <https://doi.org/10.6069/uwlswd.rw25-p125#pound> a skos:Concept ;
     skos:definition "No specified special format characteristics."@en ;
     skos:inScheme <https://doi.org/10.6069/uwlswd.rw25-p125> ;
-    skos:notation "#"@en ;
+    skos:notation "#" ;
     skos:prefLabel "no specified special format characteristics"@en .
 
 <https://doi.org/10.6069/uwlswd.rw25-p125#qx> a skos:Concept ;
     skos:inScheme <https://doi.org/10.6069/uwlswd.rw25-p125> ;
-    skos:notation "q"@en ;
+    skos:notation "q" ;
     skos:prefLabel "large print [obsolete]"@en .
 
 <https://doi.org/10.6069/uwlswd.rw25-p125#r> a skos:Concept ;
     skos:definition "Separate leaves intended to be stored in a binder or case."@en ;
     skos:inScheme <https://doi.org/10.6069/uwlswd.rw25-p125> ;
-    skos:notation "r"@en ;
+    skos:notation "r" ;
     skos:prefLabel "loose-leaf"@en ;
     skos:scopeNote "Loose-leaf items are often meant to be updated."@en .
 
 <https://doi.org/10.6069/uwlswd.rw25-p125#z> a skos:Concept ;
     skos:definition "Special format characteristics other than manuscript, picture card, post card, calendar, puzzle, game, wall map, playing cards, or loose-leaf."@en ;
     skos:inScheme <https://doi.org/10.6069/uwlswd.rw25-p125> ;
-    skos:notation "z"@en ;
+    skos:notation "z" ;
     skos:prefLabel "other"@en .
 
 <https://doi.org/10.6069/uwlswd.rw25-p125> a skos:ConceptScheme ;
@@ -123,12 +123,12 @@
         <https://uwlib-cams.github.io/uwlswd_vocabs_marc_006_008/008/maps_special_format_characteristics/maps_special_format_characteristics.rdf> ;
     dct:issued "2023" ;
     dct:license <http://creativecommons.org/publicdomain/zero/1.0> ;
-    dct:provenance <https://doi.org/10.6069/uwlswd.2e2b-y833> ;
+    dct:provenance <https://doi.org/10.6069/uwlswd.2e2b-y833#marc00Xvalues> ;
     dct:publisher <http://viaf.org/viaf/139541794> ;
     dct:source <http://marc21rdf.info>,
         <https://www.loc.gov/marc/bibliographic/bd008.html> ;
     dct:title "Maps: special format characteristics"@en ;
     dct:type <http://purl.org/dc/dcmitype/Dataset> ;
-    schema:disambiguatingDescription "SKOS Concept Scheme for MARC 00X Values" ;
-    schema:version "1-0-1" .
+    schema:disambiguatingDescription "SKOS Concept Scheme for MARC 00X Values"@en ;
+    schema:version "1-1-0" .
 

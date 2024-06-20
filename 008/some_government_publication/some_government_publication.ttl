@@ -7,72 +7,72 @@
 <https://doi.org/10.6069/uwlswd.2eg3-1x53#a> a skos:Concept ;
     skos:definition "Published or produced by or for a government body of an autonomous or semi-autonomous component of a country."@en ;
     skos:inScheme <https://doi.org/10.6069/uwlswd.2eg3-1x53> ;
-    skos:notation "a"@en ;
+    skos:notation "a" ;
     skos:prefLabel "autonomous or semi-autonomous component"@en .
 
 <https://doi.org/10.6069/uwlswd.2eg3-1x53#c> a skos:Concept ;
     skos:definition "Published or produced by or for a multilocal jurisdiction which is defined as a regional combination of jurisdictions below the state level."@en ;
     skos:inScheme <https://doi.org/10.6069/uwlswd.2eg3-1x53> ;
-    skos:notation "c"@en ;
+    skos:notation "c" ;
     skos:prefLabel "multilocal"@en .
 
 <https://doi.org/10.6069/uwlswd.2eg3-1x53#f> a skos:Concept ;
     skos:definition "Published or produced by or for a federal or national government body (e.g., a sovereign nation, such as Canada). Used for the governments of England, Wales, Scotland, and Northern Ireland. Also used for American Indian tribes."@en ;
     skos:inScheme <https://doi.org/10.6069/uwlswd.2eg3-1x53> ;
-    skos:notation "f"@en ;
+    skos:notation "f" ;
     skos:prefLabel "federal or national"@en .
 
 <https://doi.org/10.6069/uwlswd.2eg3-1x53#i> a skos:Concept ;
     skos:definition "Published or produced by or for an international intergovernmental body."@en ;
     skos:inScheme <https://doi.org/10.6069/uwlswd.2eg3-1x53> ;
-    skos:notation "i"@en ;
+    skos:notation "i" ;
     skos:prefLabel "international intergovernmental"@en .
 
 <https://doi.org/10.6069/uwlswd.2eg3-1x53#l> a skos:Concept ;
     skos:definition "Published or produced by or for a local government jurisdiction such as a town, city, county, etc."@en ;
     skos:inScheme <https://doi.org/10.6069/uwlswd.2eg3-1x53> ;
-    skos:notation "l"@en ;
+    skos:notation "l" ;
     skos:prefLabel "local"@en .
 
 <https://doi.org/10.6069/uwlswd.2eg3-1x53#m> a skos:Concept ;
     skos:definition "Published or produced by or for a regional combination of jurisdictions at the state, provincial, territorial, etc. level."@en ;
     skos:inScheme <https://doi.org/10.6069/uwlswd.2eg3-1x53> ;
-    skos:notation "m"@en ;
+    skos:notation "m" ;
     skos:prefLabel "multistate"@en .
 
 <https://doi.org/10.6069/uwlswd.2eg3-1x53#nx> a skos:Concept ;
     skos:inScheme <https://doi.org/10.6069/uwlswd.2eg3-1x53> ;
-    skos:notation "n"@en ;
+    skos:notation "n" ;
     skos:prefLabel "government publication - level undetermined [obsolete]"@en .
 
 <https://doi.org/10.6069/uwlswd.2eg3-1x53#o> a skos:Concept ;
     skos:definition "Published or produced by or for a government body but that the jurisdictional level cannot be determined."@en ;
     skos:inScheme <https://doi.org/10.6069/uwlswd.2eg3-1x53> ;
-    skos:notation "o"@en ;
+    skos:notation "o" ;
     skos:prefLabel "government publication - level undetermined"@en .
 
 <https://doi.org/10.6069/uwlswd.2eg3-1x53#pound> a skos:Concept ;
     skos:definition "Not published by or for a government body."@en ;
     skos:inScheme <https://doi.org/10.6069/uwlswd.2eg3-1x53> ;
-    skos:notation "#"@en ;
+    skos:notation "#" ;
     skos:prefLabel "not a government publication"@en .
 
 <https://doi.org/10.6069/uwlswd.2eg3-1x53#s> a skos:Concept ;
     skos:definition "Jurisdictional level of the government body is a state, province, territory, or other dependent jurisdiction."@en ;
     skos:inScheme <https://doi.org/10.6069/uwlswd.2eg3-1x53> ;
-    skos:notation "s"@en ;
+    skos:notation "s" ;
     skos:prefLabel "state, provincial, territorial, dependent, etc."@en .
 
 <https://doi.org/10.6069/uwlswd.2eg3-1x53#u> a skos:Concept ;
     skos:definition "Whether or not the item is published or produced by or for a government agency is unknown."@en ;
     skos:inScheme <https://doi.org/10.6069/uwlswd.2eg3-1x53> ;
-    skos:notation "u"@en ;
+    skos:notation "u" ;
     skos:prefLabel "unknown if item is government publication"@en .
 
 <https://doi.org/10.6069/uwlswd.2eg3-1x53#z> a skos:Concept ;
     skos:definition "Government publication other than autonomous or semi-autonomous component, multilocal, federal or national, international intergovernmental, local, multistate, government publication - level undetermined, state, provincial, territorial, or dependent."@en ;
     skos:inScheme <https://doi.org/10.6069/uwlswd.2eg3-1x53> ;
-    skos:notation "z"@en ;
+    skos:notation "z" ;
     skos:prefLabel "other"@en .
 
 <https://doi.org/10.6069/uwlswd.2eg3-1x53> a skos:ConceptScheme ;
@@ -89,7 +89,7 @@
         <https://uwlib-cams.github.io/uwlswd_vocabs_marc_006_008/008/some_government_publication/some_government_publication.rdf> ;
     dct:issued "2023" ;
     dct:license <http://creativecommons.org/publicdomain/zero/1.0> ;
-    dct:provenance <https://doi.org/10.6069/uwlswd.2e2b-y833> ;
+    dct:provenance <https://doi.org/10.6069/uwlswd.2e2b-y833#marc00Xvalues> ;
     dct:publisher <http://viaf.org/viaf/139541794> ;
     dct:source <http://marc21rdf.info>,
         <https://www.loc.gov/marc/bibliographic/bd008.html> ;
@@ -100,6 +100,6 @@
         "continuing resources",
         "maps",
         "visual materials" ;
-    schema:disambiguatingDescription "SKOS Concept Scheme for MARC 00X Values" ;
-    schema:version "1-0-2" .
+    schema:disambiguatingDescription "SKOS Concept Scheme for MARC 00X Values"@en ;
+    schema:version "1-1-0" .
 
