@@ -1,59 +1,53 @@
-<?xml version="1.0" encoding="utf-8"?>
-<rdf:RDF
-   xmlns:dc="http://purl.org/dc/elements/1.1/"
-   xmlns:dct="http://purl.org/dc/terms/"
-   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
-   xmlns:schema="https://schema.org/"
-   xmlns:skos="http://www.w3.org/2004/02/skos/core#"
->
+<?xml version='1.0' encoding='UTF-8'?>
+<rdf:RDF xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dct="http://purl.org/dc/terms/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:schema="https://schema.org/" xmlns:skos="http://www.w3.org/2004/02/skos/core#">
   <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.f447-ax91#f">
     <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
     <skos:inScheme rdf:resource="https://doi.org/10.6069/uwlswd.f447-ax91"/>
     <skos:prefLabel xml:lang="en">novels</skos:prefLabel>
     <skos:definition xml:lang="en">Novels.</skos:definition>
-    <skos:notation xml:lang="en">f</skos:notation>
+    <skos:notation>f</skos:notation>
   </rdf:Description>
   <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.f447-ax91#j">
     <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
     <skos:inScheme rdf:resource="https://doi.org/10.6069/uwlswd.f447-ax91"/>
     <skos:prefLabel xml:lang="en">short stories</skos:prefLabel>
     <skos:definition xml:lang="en">Short story or collection of short stories.</skos:definition>
-    <skos:notation xml:lang="en">j</skos:notation>
+    <skos:notation>j</skos:notation>
   </rdf:Description>
   <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.f447-ax91#s">
     <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
     <skos:inScheme rdf:resource="https://doi.org/10.6069/uwlswd.f447-ax91"/>
     <skos:prefLabel xml:lang="en">speeches</skos:prefLabel>
     <skos:definition xml:lang="en">Speech or collection of speeches.</skos:definition>
-    <skos:notation xml:lang="en">s</skos:notation>
+    <skos:notation>s</skos:notation>
   </rdf:Description>
   <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.f447-ax91#1">
     <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
     <skos:inScheme rdf:resource="https://doi.org/10.6069/uwlswd.f447-ax91"/>
     <skos:prefLabel xml:lang="en">fiction (not further specified)</skos:prefLabel>
     <skos:definition xml:lang="en">Work of fiction but no further identification of the literary form is desired.</skos:definition>
-    <skos:notation xml:lang="en">1</skos:notation>
+    <skos:notation>1</skos:notation>
   </rdf:Description>
   <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.f447-ax91#m">
     <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
     <skos:inScheme rdf:resource="https://doi.org/10.6069/uwlswd.f447-ax91"/>
     <skos:prefLabel xml:lang="en">mixed forms</skos:prefLabel>
     <skos:definition xml:lang="en">Represents a variety of literary forms (e.g., poetry and short stories).</skos:definition>
-    <skos:notation xml:lang="en">m</skos:notation>
+    <skos:notation>m</skos:notation>
   </rdf:Description>
   <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.f447-ax91#p">
     <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
     <skos:inScheme rdf:resource="https://doi.org/10.6069/uwlswd.f447-ax91"/>
     <skos:prefLabel xml:lang="en">poetry</skos:prefLabel>
     <skos:definition xml:lang="en">Poem or collection of poems.</skos:definition>
-    <skos:notation xml:lang="en">p</skos:notation>
+    <skos:notation>p</skos:notation>
   </rdf:Description>
   <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.f447-ax91#e">
     <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
     <skos:inScheme rdf:resource="https://doi.org/10.6069/uwlswd.f447-ax91"/>
     <skos:prefLabel xml:lang="en">essays</skos:prefLabel>
     <skos:definition xml:lang="en">Essays.</skos:definition>
-    <skos:notation xml:lang="en">e</skos:notation>
+    <skos:notation>e</skos:notation>
   </rdf:Description>
   <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.f447-ax91">
     <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#ConceptScheme"/>
@@ -61,7 +55,7 @@
     <dct:title xml:lang="en">Books: literary form</dct:title>
     <dct:alternative xml:lang="en">MARC21 008/33 values for books expressed using RDF</dct:alternative>
     <dct:description xml:lang="en">Indicates the literary form of an item.</dct:description>
-    <schema:disambiguatingDescription>SKOS Concept Scheme for MARC 00X Values</schema:disambiguatingDescription>
+    <schema:disambiguatingDescription xml:lang="en">SKOS Concept Scheme for MARC 00X Values</schema:disambiguatingDescription>
     <dct:publisher rdf:resource="http://viaf.org/viaf/139541794"/>
     <dct:source rdf:resource="https://www.loc.gov/marc/bibliographic/bd008.html"/>
     <dct:source rdf:resource="http://marc21rdf.info"/>
@@ -83,41 +77,41 @@
     <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
     <skos:inScheme rdf:resource="https://doi.org/10.6069/uwlswd.f447-ax91"/>
     <skos:prefLabel xml:lang="en">comic strips</skos:prefLabel>
-    <skos:notation xml:lang="en">c</skos:notation>
+    <skos:notation>c</skos:notation>
   </rdf:Description>
   <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.f447-ax91#i">
     <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
     <skos:inScheme rdf:resource="https://doi.org/10.6069/uwlswd.f447-ax91"/>
     <skos:prefLabel xml:lang="en">letters</skos:prefLabel>
     <skos:definition xml:lang="en">Single letter or collection of correspondence.</skos:definition>
-    <skos:notation xml:lang="en">i</skos:notation>
+    <skos:notation>i</skos:notation>
   </rdf:Description>
   <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.f447-ax91#u">
     <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
     <skos:inScheme rdf:resource="https://doi.org/10.6069/uwlswd.f447-ax91"/>
     <skos:prefLabel xml:lang="en">unknown</skos:prefLabel>
     <skos:definition xml:lang="en">Literary form of the item is unknown.</skos:definition>
-    <skos:notation xml:lang="en">u</skos:notation>
+    <skos:notation>u</skos:notation>
   </rdf:Description>
   <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.f447-ax91#d">
     <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
     <skos:inScheme rdf:resource="https://doi.org/10.6069/uwlswd.f447-ax91"/>
     <skos:prefLabel xml:lang="en">dramas</skos:prefLabel>
     <skos:definition xml:lang="en">Dramas.</skos:definition>
-    <skos:notation xml:lang="en">d</skos:notation>
+    <skos:notation>d</skos:notation>
   </rdf:Description>
   <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.f447-ax91#h">
     <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
     <skos:inScheme rdf:resource="https://doi.org/10.6069/uwlswd.f447-ax91"/>
     <skos:prefLabel xml:lang="en">humor, satires, etc.</skos:prefLabel>
     <skos:definition xml:lang="en">Humorous work, satire, or of similar literary form.</skos:definition>
-    <skos:notation xml:lang="en">h</skos:notation>
+    <skos:notation>h</skos:notation>
   </rdf:Description>
   <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.f447-ax91#0">
     <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
     <skos:inScheme rdf:resource="https://doi.org/10.6069/uwlswd.f447-ax91"/>
     <skos:prefLabel xml:lang="en">not fiction (not further specified)</skos:prefLabel>
     <skos:definition xml:lang="en">Not a work of fiction and no further identification of the literary form is desired.</skos:definition>
-    <skos:notation xml:lang="en">0</skos:notation>
+    <skos:notation>0</skos:notation>
   </rdf:Description>
 </rdf:RDF>

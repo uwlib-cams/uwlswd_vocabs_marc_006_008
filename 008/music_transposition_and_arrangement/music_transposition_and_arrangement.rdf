@@ -1,18 +1,12 @@
-<?xml version="1.0" encoding="utf-8"?>
-<rdf:RDF
-   xmlns:dc="http://purl.org/dc/elements/1.1/"
-   xmlns:dct="http://purl.org/dc/terms/"
-   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
-   xmlns:schema="https://schema.org/"
-   xmlns:skos="http://www.w3.org/2004/02/skos/core#"
->
+<?xml version='1.0' encoding='UTF-8'?>
+<rdf:RDF xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dct="http://purl.org/dc/terms/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:schema="https://schema.org/" xmlns:skos="http://www.w3.org/2004/02/skos/core#">
   <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.axz0-z371">
     <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#ConceptScheme"/>
     <dct:type rdf:resource="http://purl.org/dc/dcmitype/Dataset"/>
     <dct:title xml:lang="en">Music: transposition and arrangement</dct:title>
     <dct:alternative xml:lang="en">MARC21 008/33 values for music expressed using RDF</dct:alternative>
     <dct:description xml:lang="en">Whether all or part of the item being cataloged is a transposition and/or arrangement of another work.</dct:description>
-    <schema:disambiguatingDescription>SKOS Concept Scheme for MARC 00X Values</schema:disambiguatingDescription>
+    <schema:disambiguatingDescription xml:lang="en">SKOS Concept Scheme for MARC 00X Values</schema:disambiguatingDescription>
     <dct:publisher rdf:resource="http://viaf.org/viaf/139541794"/>
     <dct:source rdf:resource="https://www.loc.gov/marc/bibliographic/bd008.html"/>
     <dct:source rdf:resource="http://marc21rdf.info"/>
@@ -35,41 +29,41 @@
     <skos:inScheme rdf:resource="https://doi.org/10.6069/uwlswd.axz0-z371"/>
     <skos:prefLabel xml:lang="en">not applicable</skos:prefLabel>
     <skos:definition xml:lang="en">Item is not notated music.</skos:definition>
-    <skos:notation xml:lang="en">n</skos:notation>
+    <skos:notation>n</skos:notation>
   </rdf:Description>
   <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.axz0-z371#a">
     <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
     <skos:inScheme rdf:resource="https://doi.org/10.6069/uwlswd.axz0-z371"/>
     <skos:prefLabel xml:lang="en">transposition</skos:prefLabel>
     <skos:definition xml:lang="en">Item has been transposed to a different pitch from the original.</skos:definition>
-    <skos:notation xml:lang="en">a</skos:notation>
+    <skos:notation>a</skos:notation>
   </rdf:Description>
   <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.axz0-z371#pound">
     <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
     <skos:inScheme rdf:resource="https://doi.org/10.6069/uwlswd.axz0-z371"/>
     <skos:prefLabel xml:lang="en">not arrangement or transposition or not specified</skos:prefLabel>
     <skos:definition xml:lang="en">Not arrangements or the transposition of the item is not specified.</skos:definition>
-    <skos:notation xml:lang="en">#</skos:notation>
+    <skos:notation>#</skos:notation>
   </rdf:Description>
   <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.axz0-z371#u">
     <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
     <skos:inScheme rdf:resource="https://doi.org/10.6069/uwlswd.axz0-z371"/>
     <skos:prefLabel xml:lang="en">unknown</skos:prefLabel>
     <skos:definition xml:lang="en">Unknown whether the item is a transposition or arrangement.</skos:definition>
-    <skos:notation xml:lang="en">u</skos:notation>
+    <skos:notation>u</skos:notation>
   </rdf:Description>
   <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.axz0-z371#c">
     <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
     <skos:inScheme rdf:resource="https://doi.org/10.6069/uwlswd.axz0-z371"/>
     <skos:prefLabel xml:lang="en">both transposed and arranged</skos:prefLabel>
     <skos:definition xml:lang="en">Item has been both transposed to a different pitch from the original and has been adapted as regards medium and/or texture.</skos:definition>
-    <skos:notation xml:lang="en">c</skos:notation>
+    <skos:notation>c</skos:notation>
   </rdf:Description>
   <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.axz0-z371#b">
     <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
     <skos:inScheme rdf:resource="https://doi.org/10.6069/uwlswd.axz0-z371"/>
     <skos:prefLabel xml:lang="en">arrangement</skos:prefLabel>
     <skos:definition xml:lang="en">Item has been adapted as regards medium and/or texture.</skos:definition>
-    <skos:notation xml:lang="en">b</skos:notation>
+    <skos:notation>b</skos:notation>
   </rdf:Description>
 </rdf:RDF>

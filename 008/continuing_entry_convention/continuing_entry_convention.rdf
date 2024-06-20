@@ -1,18 +1,12 @@
-<?xml version="1.0" encoding="utf-8"?>
-<rdf:RDF
-   xmlns:dc="http://purl.org/dc/elements/1.1/"
-   xmlns:dct="http://purl.org/dc/terms/"
-   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
-   xmlns:schema="https://schema.org/"
-   xmlns:skos="http://www.w3.org/2004/02/skos/core#"
->
+<?xml version='1.0' encoding='UTF-8'?>
+<rdf:RDF xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dct="http://purl.org/dc/terms/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:schema="https://schema.org/" xmlns:skos="http://www.w3.org/2004/02/skos/core#">
   <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.ypcx-6882">
     <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#ConceptScheme"/>
     <dct:type rdf:resource="http://purl.org/dc/dcmitype/Dataset"/>
     <dct:title xml:lang="en">Continuing: entry convention</dct:title>
     <dct:alternative xml:lang="en">MARC21 008/34 values for continuing resources expressed using RDF</dct:alternative>
     <dct:description xml:lang="en">Indicates whether the item was cataloged according to successive entry, latest entry, or integrated entry cataloging conventions.</dct:description>
-    <schema:disambiguatingDescription>SKOS Concept Scheme for MARC 00X Values</schema:disambiguatingDescription>
+    <schema:disambiguatingDescription xml:lang="en">SKOS Concept Scheme for MARC 00X Values</schema:disambiguatingDescription>
     <dct:publisher rdf:resource="http://viaf.org/viaf/139541794"/>
     <dct:source rdf:resource="https://www.loc.gov/marc/bibliographic/bd008.html"/>
     <dct:source rdf:resource="http://marc21rdf.info"/>
@@ -34,18 +28,18 @@
     <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
     <skos:inScheme rdf:resource="https://doi.org/10.6069/uwlswd.ypcx-6882"/>
     <skos:prefLabel xml:lang="en">integrated entry</skos:prefLabel>
-    <skos:notation xml:lang="en">2</skos:notation>
+    <skos:notation>2</skos:notation>
   </rdf:Description>
   <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.ypcx-6882#0">
     <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
     <skos:inScheme rdf:resource="https://doi.org/10.6069/uwlswd.ypcx-6882"/>
     <skos:prefLabel xml:lang="en">successive entry</skos:prefLabel>
-    <skos:notation xml:lang="en">0</skos:notation>
+    <skos:notation>0</skos:notation>
   </rdf:Description>
   <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.ypcx-6882#1">
     <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
     <skos:inScheme rdf:resource="https://doi.org/10.6069/uwlswd.ypcx-6882"/>
     <skos:prefLabel xml:lang="en">latest entry</skos:prefLabel>
-    <skos:notation xml:lang="en">1</skos:notation>
+    <skos:notation>1</skos:notation>
   </rdf:Description>
 </rdf:RDF>
