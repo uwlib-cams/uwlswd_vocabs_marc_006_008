@@ -12,6 +12,8 @@
     <dct:title xml:lang="en">Books: conference publication</dct:title>
     <dct:alternative xml:lang="en">MARC21 008/29 values for books expressed using RDF</dct:alternative>
     <dct:description xml:lang="en">Indicates whether the item consists of the proceedings, reports, or summaries of a conference.</dct:description>
+    <schema:disambiguatingDescription xml:lang="en">SKOS Concept Scheme for MARC 00X Values
+    </schema:disambiguatingDescription>
     <dct:publisher rdf:resource="http://viaf.org/viaf/139541794"/>
     <dct:source rdf:resource="https://www.loc.gov/marc/bibliographic/bd008.html"/>
     <dct:source rdf:resource="http://marc21rdf.info"/>
