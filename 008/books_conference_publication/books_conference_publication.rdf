@@ -24,18 +24,11 @@
     <dc:language xml:lang="en">en</dc:language>
     <dct:license rdf:resource="http://creativecommons.org/publicdomain/zero/1.0"/>
     <schema:version xml:lang="en">1-1-0</schema:version>
+    <dct:format rdf:resource="http://www.w3.org/ns/formats/RDF_XML"/>
     <dct:hasFormat rdf:resource="https://uwlib-cams.github.io/uwlswd_vocabs_marc_006_008/008/books_conference_publication/books_conference_publication.ttl"/>
     <dct:hasFormat rdf:resource="https://uwlib-cams.github.io/uwlswd_vocabs_marc_006_008/008/books_conference_publication/books_conference_publication.nt"/>
     <dct:hasFormat rdf:resource="https://uwlib-cams.github.io/uwlswd_vocabs_marc_006_008/008/books_conference_publication/books_conference_publication.jsonld"/>
     <dct:hasFormat rdf:resource="https://uwlib-cams.github.io/uwlswd_vocabs_marc_006_008/008/books_conference_publication/books_conference_publication.html"/>
-    <dct:format rdf:resource="http://www.w3.org/ns/formats/RDF_XML"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.t1gh-8294#1">
-    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-    <skos:inScheme rdf:resource="https://doi.org/10.6069/uwlswd.t1gh-8294"/>
-    <skos:prefLabel xml:lang="en">conference publication</skos:prefLabel>
-    <skos:definition xml:lang="en">Conference publication.</skos:definition>
-    <skos:notation xml:lang="en">1</skos:notation>
   </rdf:Description>
   <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.t1gh-8294#0">
     <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
@@ -43,5 +36,12 @@
     <skos:prefLabel xml:lang="en">not a conference publication</skos:prefLabel>
     <skos:definition xml:lang="en">Not a conference publication.</skos:definition>
     <skos:notation xml:lang="en">0</skos:notation>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.t1gh-8294#1">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <skos:inScheme rdf:resource="https://doi.org/10.6069/uwlswd.t1gh-8294"/>
+    <skos:prefLabel xml:lang="en">conference publication</skos:prefLabel>
+    <skos:definition xml:lang="en">Conference publication.</skos:definition>
+    <skos:notation xml:lang="en">1</skos:notation>
   </rdf:Description>
 </rdf:RDF>

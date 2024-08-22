@@ -1,0 +1,40 @@
+@prefix dc: <http://purl.org/dc/elements/1.1/> .
+@prefix dct: <http://purl.org/dc/terms/> .
+@prefix schema: <https://schema.org/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<https://doi.org/10.6069/uwlswd.t1gh-8294#0> a skos:Concept ;
+    skos:definition "Not a conference publication."@en ;
+    skos:inScheme <https://doi.org/10.6069/uwlswd.t1gh-8294> ;
+    skos:notation "0"@en ;
+    skos:prefLabel "not a conference publication"@en .
+
+<https://doi.org/10.6069/uwlswd.t1gh-8294#1> a skos:Concept ;
+    skos:definition "Conference publication."@en ;
+    skos:inScheme <https://doi.org/10.6069/uwlswd.t1gh-8294> ;
+    skos:notation "1"@en ;
+    skos:prefLabel "conference publication"@en .
+
+<https://doi.org/10.6069/uwlswd.t1gh-8294> a skos:ConceptScheme ;
+    dc:contributor "Metadata Management Associates"@en ;
+    dc:language "en"@en ;
+    dct:alternative "MARC21 008/29 values for books expressed using RDF"@en ;
+    dct:contributor <http://viaf.org/viaf/151962300> ;
+    dct:creator <http://viaf.org/viaf/139541794> ;
+    dct:description "Indicates whether the item consists of the proceedings, reports, or summaries of a conference."@en ;
+    dct:format <http://www.w3.org/ns/formats/Turtle> ;
+    dct:hasFormat <https://uwlib-cams.github.io/uwlswd_vocabs_marc_006_008/008/books_conference_publication/books_conference_publication.html>,
+        <https://uwlib-cams.github.io/uwlswd_vocabs_marc_006_008/008/books_conference_publication/books_conference_publication.jsonld>,
+        <https://uwlib-cams.github.io/uwlswd_vocabs_marc_006_008/008/books_conference_publication/books_conference_publication.nt>,
+        <https://uwlib-cams.github.io/uwlswd_vocabs_marc_006_008/008/books_conference_publication/books_conference_publication.rdf> ;
+    dct:issued "2024"@en ;
+    dct:license <http://creativecommons.org/publicdomain/zero/1.0> ;
+    dct:provenance <https://doi.org/10.6069/uwlswd.2e2b-y833#marc00Xvalues> ;
+    dct:publisher <http://viaf.org/viaf/139541794> ;
+    dct:source <http://marc21rdf.info>,
+        <https://www.loc.gov/marc/bibliographic/bd008.html> ;
+    dct:title "Books: conference publication"@en ;
+    dct:type <http://purl.org/dc/dcmitype/Dataset> ;
+    schema:disambiguatingDescription "SKOS Concept Scheme for MARC00X"@en ;
+    schema:version "1-1-0"@en .
+
