@@ -25,8 +25,18 @@
     <dct:license rdf:resource="http://creativecommons.org/publicdomain/zero/1.0"/>
     <schema:version>1-1-0</schema:version>
     <dct:format rdf:resource="http://www.w3.org/ns/formats/RDF_XML"/>
+    <dct:hasFormat rdf:resource="https://uwlib-cams.github.io/uwlswd_vocabs_marc_006_008/008/all_modified_record/all_modified_record.ttl"/>
+    <dct:hasFormat rdf:resource="https://uwlib-cams.github.io/uwlswd_vocabs_marc_006_008/008/all_modified_record/all_modified_record.nt"/>
+    <dct:hasFormat rdf:resource="https://uwlib-cams.github.io/uwlswd_vocabs_marc_006_008/008/all_modified_record/all_modified_record.jsonld"/>
+    <dct:hasFormat rdf:resource="https://uwlib-cams.github.io/uwlswd_vocabs_marc_006_008/008/all_modified_record/all_modified_record.html"/>
   </rdf:Description>
-	
+  <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.h15g-zv41#r">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <skos:inScheme rdf:resource="https://doi.org/10.6069/uwlswd.h15g-zv41"/>
+    <skos:prefLabel xml:lang="en">completely romanized/printed cards in script</skos:prefLabel>
+    <skos:definition xml:lang="en">Bibliographic data in the MARC record is completely romanized but the printed cards are available in the original (vernacular) script.</skos:definition>
+    <skos:notation>r</skos:notation>
+  </rdf:Description>
   <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.h15g-zv41#pound">
     <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
     <skos:inScheme rdf:resource="https://doi.org/10.6069/uwlswd.h15g-zv41"/>
@@ -34,44 +44,32 @@
     <skos:definition xml:lang="en">Record has not been modified in any way (e.g., it is not shortened and it contains no characters that could not be converted to machine-readable form).</skos:definition>
     <skos:notation>#</skos:notation>
   </rdf:Description>
-	
+  <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.h15g-zv41#x">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <skos:inScheme rdf:resource="https://doi.org/10.6069/uwlswd.h15g-zv41"/>
+    <skos:prefLabel xml:lang="en">missing characters</skos:prefLabel>
+    <skos:definition xml:lang="en">Record contained characters that could not be converted to machine_readable form (e.g., incidental nonroman characters on predominantly roman alphabet records, mathematical symbols, etc.).</skos:definition>
+    <skos:notation>x</skos:notation>
+  </rdf:Description>
   <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.h15g-zv41#d">
     <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
     <skos:inScheme rdf:resource="https://doi.org/10.6069/uwlswd.h15g-zv41"/>
     <skos:prefLabel xml:lang="en">dashed-on information omitted</skos:prefLabel>
     <skos:definition xml:lang="en">MARC record does not contain "dashed-on" information found on the corresponding manual copy.</skos:definition>
-	  <skos:notation>d</skos:notation>
+    <skos:notation>d</skos:notation>
   </rdf:Description>
-
   <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.h15g-zv41#o">
-	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-	<skos:inScheme rdf:resource="https://doi.org/10.6069/uwlswd.h15g-zv41"/>
-	<skos:prefLabel xml:lang="en">completely romanized/printed cards romanized</skos:prefLabel>
-	<skos:definition xml:lang="en">Bibliographic data in the MARC record is completely romanized and any printed cards produced are also in romanized form.</skos:definition>
-	  <skos:notation>o</skos:notation>
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <skos:inScheme rdf:resource="https://doi.org/10.6069/uwlswd.h15g-zv41"/>
+    <skos:prefLabel xml:lang="en">completely romanized/printed cards romanized</skos:prefLabel>
+    <skos:definition xml:lang="en">Bibliographic data in the MARC record is completely romanized and any printed cards produced are also in romanized form.</skos:definition>
+    <skos:notation>o</skos:notation>
   </rdf:Description>
-
-  <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.h15g-zv41#r">
-	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-	<skos:inScheme rdf:resource="https://doi.org/10.6069/uwlswd.h15g-zv41"/>
-	<skos:prefLabel xml:lang="en">completely romanized/printed cards in script</skos:prefLabel>
-	<skos:definition xml:lang="en">Bibliographic data in the MARC record is completely romanized but the printed cards are available in the original (vernacular) script.</skos:definition>
-	<skos:notation>r</skos:notation>
-  </rdf:Description>
-
   <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.h15g-zv41#s">
-	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-	<skos:inScheme rdf:resource="https://doi.org/10.6069/uwlswd.h15g-zv41"/>
-	<skos:prefLabel xml:lang="en">shortened</skos:prefLabel>
-	<skos:definition xml:lang="en">Some of the data was omitted because the data exceeded the maximum length allowed by the system used to create or process it.</skos:definition>
-	<skos:notation>s</skos:notation>
-  </rdf:Description>
-
-  <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.h15g-zv41#x">
-	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-	<skos:inScheme rdf:resource="https://doi.org/10.6069/uwlswd.h15g-zv41"/>
-	<skos:prefLabel xml:lang="en">missing characters</skos:prefLabel>
-	<skos:definition xml:lang="en">Record contained characters that could not be converted to machine_readable form (e.g., incidental nonroman characters on predominantly roman alphabet records, mathematical symbols, etc.).</skos:definition>
-	<skos:notation>x</skos:notation>
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <skos:inScheme rdf:resource="https://doi.org/10.6069/uwlswd.h15g-zv41"/>
+    <skos:prefLabel xml:lang="en">shortened</skos:prefLabel>
+    <skos:definition xml:lang="en">Some of the data was omitted because the data exceeded the maximum length allowed by the system used to create or process it.</skos:definition>
+    <skos:notation>s</skos:notation>
   </rdf:Description>
 </rdf:RDF>

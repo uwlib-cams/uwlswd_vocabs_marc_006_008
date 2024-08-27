@@ -1,0 +1,52 @@
+<https://doi.org/10.6069/uwlswd.h15g-zv41> <https://schema.org/disambiguatingDescription> "SKOS Concept Scheme for MARC 00X Values"@en .
+<https://doi.org/10.6069/uwlswd.h15g-zv41#r> <http://www.w3.org/2004/02/skos/core#notation> "r" .
+<https://doi.org/10.6069/uwlswd.h15g-zv41> <http://purl.org/dc/terms/publisher> <http://viaf.org/viaf/139541794> .
+<https://doi.org/10.6069/uwlswd.h15g-zv41#pound> <http://www.w3.org/2004/02/skos/core#definition> "Record has not been modified in any way (e.g., it is not shortened and it contains no characters that could not be converted to machine-readable form)."@en .
+<https://doi.org/10.6069/uwlswd.h15g-zv41#pound> <http://www.w3.org/2004/02/skos/core#prefLabel> "not modified"@en .
+<https://doi.org/10.6069/uwlswd.h15g-zv41> <http://purl.org/dc/terms/source> <https://www.loc.gov/marc/bibliographic/bd008.html> .
+<https://doi.org/10.6069/uwlswd.h15g-zv41> <http://purl.org/dc/terms/creator> <http://viaf.org/viaf/139541794> .
+<https://doi.org/10.6069/uwlswd.h15g-zv41#x> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<https://doi.org/10.6069/uwlswd.h15g-zv41#x> <http://www.w3.org/2004/02/skos/core#notation> "x" .
+<https://doi.org/10.6069/uwlswd.h15g-zv41#d> <http://www.w3.org/2004/02/skos/core#notation> "d" .
+<https://doi.org/10.6069/uwlswd.h15g-zv41#o> <http://www.w3.org/2004/02/skos/core#notation> "o" .
+<https://doi.org/10.6069/uwlswd.h15g-zv41> <http://purl.org/dc/terms/title> "All: modified record"@en .
+<https://doi.org/10.6069/uwlswd.h15g-zv41> <http://purl.org/dc/terms/alternative> "MARC21 008/38 values for all materials expressed using RDF"@en .
+<https://doi.org/10.6069/uwlswd.h15g-zv41> <http://purl.org/dc/terms/format> <http://www.w3.org/ns/formats/N-Triples> .
+<https://doi.org/10.6069/uwlswd.h15g-zv41#r> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<https://doi.org/10.6069/uwlswd.h15g-zv41#r> <http://www.w3.org/2004/02/skos/core#definition> "Bibliographic data in the MARC record is completely romanized but the printed cards are available in the original (vernacular) script."@en .
+<https://doi.org/10.6069/uwlswd.h15g-zv41#d> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<https://doi.org/10.6069/uwlswd.h15g-zv41#x> <http://www.w3.org/2004/02/skos/core#definition> "Record contained characters that could not be converted to machine_readable form (e.g., incidental nonroman characters on predominantly roman alphabet records, mathematical symbols, etc.)."@en .
+<https://doi.org/10.6069/uwlswd.h15g-zv41#s> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<https://doi.org/10.6069/uwlswd.h15g-zv41#s> <http://www.w3.org/2004/02/skos/core#definition> "Some of the data was omitted because the data exceeded the maximum length allowed by the system used to create or process it."@en .
+<https://doi.org/10.6069/uwlswd.h15g-zv41#x> <http://www.w3.org/2004/02/skos/core#inScheme> <https://doi.org/10.6069/uwlswd.h15g-zv41> .
+<https://doi.org/10.6069/uwlswd.h15g-zv41#o> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<https://doi.org/10.6069/uwlswd.h15g-zv41#pound> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<https://doi.org/10.6069/uwlswd.h15g-zv41#pound> <http://www.w3.org/2004/02/skos/core#notation> "#" .
+<https://doi.org/10.6069/uwlswd.h15g-zv41> <http://purl.org/dc/terms/type> <http://purl.org/dc/dcmitype/Dataset> .
+<https://doi.org/10.6069/uwlswd.h15g-zv41> <http://purl.org/dc/terms/issued> "2024" .
+<https://doi.org/10.6069/uwlswd.h15g-zv41> <http://purl.org/dc/terms/source> <http://marc21rdf.info> .
+<https://doi.org/10.6069/uwlswd.h15g-zv41#d> <http://www.w3.org/2004/02/skos/core#inScheme> <https://doi.org/10.6069/uwlswd.h15g-zv41> .
+<https://doi.org/10.6069/uwlswd.h15g-zv41#d> <http://www.w3.org/2004/02/skos/core#definition> "MARC record does not contain \"dashed-on\" information found on the corresponding manual copy."@en .
+<https://doi.org/10.6069/uwlswd.h15g-zv41> <http://purl.org/dc/terms/hasFormat> <https://uwlib-cams.github.io/uwlswd_vocabs_marc_006_008/008/all_modified_record/all_modified_record.rdf> .
+<https://doi.org/10.6069/uwlswd.h15g-zv41> <http://purl.org/dc/terms/hasFormat> <https://uwlib-cams.github.io/uwlswd_vocabs_marc_006_008/008/all_modified_record/all_modified_record.ttl> .
+<https://doi.org/10.6069/uwlswd.h15g-zv41#s> <http://www.w3.org/2004/02/skos/core#inScheme> <https://doi.org/10.6069/uwlswd.h15g-zv41> .
+<https://doi.org/10.6069/uwlswd.h15g-zv41> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#ConceptScheme> .
+<https://doi.org/10.6069/uwlswd.h15g-zv41#pound> <http://www.w3.org/2004/02/skos/core#inScheme> <https://doi.org/10.6069/uwlswd.h15g-zv41> .
+<https://doi.org/10.6069/uwlswd.h15g-zv41> <http://purl.org/dc/terms/description> "Indicates whether any data in a bibliographic record is a modification of information that appeared on the item being cataloged or that was intended to be included in the MARC record."@en .
+<https://doi.org/10.6069/uwlswd.h15g-zv41#o> <http://www.w3.org/2004/02/skos/core#definition> "Bibliographic data in the MARC record is completely romanized and any printed cards produced are also in romanized form."@en .
+<https://doi.org/10.6069/uwlswd.h15g-zv41#r> <http://www.w3.org/2004/02/skos/core#inScheme> <https://doi.org/10.6069/uwlswd.h15g-zv41> .
+<https://doi.org/10.6069/uwlswd.h15g-zv41> <http://purl.org/dc/terms/provenance> <https://doi.org/10.6069/uwlswd.2e2b-y833#marc00Xvalues> .
+<https://doi.org/10.6069/uwlswd.h15g-zv41#s> <http://www.w3.org/2004/02/skos/core#prefLabel> "shortened"@en .
+<https://doi.org/10.6069/uwlswd.h15g-zv41> <http://purl.org/dc/elements/1.1/contributor> "Metadata Management Associates"@en .
+<https://doi.org/10.6069/uwlswd.h15g-zv41#o> <http://www.w3.org/2004/02/skos/core#prefLabel> "completely romanized/printed cards romanized"@en .
+<https://doi.org/10.6069/uwlswd.h15g-zv41> <https://schema.org/version> "1-1-0" .
+<https://doi.org/10.6069/uwlswd.h15g-zv41#d> <http://www.w3.org/2004/02/skos/core#prefLabel> "dashed-on information omitted"@en .
+<https://doi.org/10.6069/uwlswd.h15g-zv41> <http://purl.org/dc/terms/hasFormat> <https://uwlib-cams.github.io/uwlswd_vocabs_marc_006_008/008/all_modified_record/all_modified_record.html> .
+<https://doi.org/10.6069/uwlswd.h15g-zv41#o> <http://www.w3.org/2004/02/skos/core#inScheme> <https://doi.org/10.6069/uwlswd.h15g-zv41> .
+<https://doi.org/10.6069/uwlswd.h15g-zv41#x> <http://www.w3.org/2004/02/skos/core#prefLabel> "missing characters"@en .
+<https://doi.org/10.6069/uwlswd.h15g-zv41> <http://purl.org/dc/terms/contributor> <http://viaf.org/viaf/151962300> .
+<https://doi.org/10.6069/uwlswd.h15g-zv41#s> <http://www.w3.org/2004/02/skos/core#notation> "s" .
+<https://doi.org/10.6069/uwlswd.h15g-zv41> <http://purl.org/dc/terms/license> <http://creativecommons.org/publicdomain/zero/1.0> .
+<https://doi.org/10.6069/uwlswd.h15g-zv41#r> <http://www.w3.org/2004/02/skos/core#prefLabel> "completely romanized/printed cards in script"@en .
+<https://doi.org/10.6069/uwlswd.h15g-zv41> <http://purl.org/dc/terms/hasFormat> <https://uwlib-cams.github.io/uwlswd_vocabs_marc_006_008/008/all_modified_record/all_modified_record.jsonld> .
+<https://doi.org/10.6069/uwlswd.h15g-zv41> <http://purl.org/dc/elements/1.1/language> "en" .
