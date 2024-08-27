@@ -6,13 +6,6 @@
    xmlns:schema="https://schema.org/"
    xmlns:skos="http://www.w3.org/2004/02/skos/core#"
 >
-  <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.tq9s-1157#0">
-    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-    <skos:inScheme rdf:resource="https://doi.org/10.6069/uwlswd.tq9s-1157"/>
-    <skos:prefLabel xml:lang="en">not a festschrift</skos:prefLabel>
-    <skos:definition xml:lang="en">Not a festschrift.</skos:definition>
-    <skos:notation>0</skos:notation>
-  </rdf:Description>
   <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.tq9s-1157">
     <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#ConceptScheme"/>
     <dct:type rdf:resource="http://purl.org/dc/dcmitype/Dataset"/>
@@ -31,10 +24,10 @@
     <dc:language>en</dc:language>
     <dct:license rdf:resource="http://creativecommons.org/publicdomain/zero/1.0"/>
     <schema:version>1-1-0</schema:version>
-    <dct:hasFormat rdf:resource="https://uwlib-cams.github.io/C:/Users/daoyi/OneDrive/Documents/GitHub/uwlswd_vocabs_marc_006_008/008/books_festschrift/books_festschrift.ttl"/>
-    <dct:hasFormat rdf:resource="https://uwlib-cams.github.io/C:/Users/daoyi/OneDrive/Documents/GitHub/uwlswd_vocabs_marc_006_008/008/books_festschrift/books_festschrift.nt"/>
-    <dct:hasFormat rdf:resource="https://uwlib-cams.github.io/C:/Users/daoyi/OneDrive/Documents/GitHub/uwlswd_vocabs_marc_006_008/008/books_festschrift/books_festschrift.jsonld"/>
-    <dct:hasFormat rdf:resource="https://uwlib-cams.github.io/C:/Users/daoyi/OneDrive/Documents/GitHub/uwlswd_vocabs_marc_006_008/008/books_festschrift/books_festschrift.html"/>
+    <dct:hasFormat rdf:resource="https://uwlib-cams.github.io/uwlswd_vocabs_marc_006_008/008/books_festschrift/books_festschrift.ttl"/>
+    <dct:hasFormat rdf:resource="https://uwlib-cams.github.io/uwlswd_vocabs_marc_006_008/008/books_festschrift/books_festschrift.nt"/>
+    <dct:hasFormat rdf:resource="https://uwlib-cams.github.io/uwlswd_vocabs_marc_006_008/008/books_festschrift/books_festschrift.jsonld"/>
+    <dct:hasFormat rdf:resource="https://uwlib-cams.github.io/uwlswd_vocabs_marc_006_008/008/books_festschrift/books_festschrift.html"/>
     <dct:format rdf:resource="http://www.w3.org/ns/formats/RDF_XML"/>
   </rdf:Description>
   <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.tq9s-1157#1">
@@ -43,5 +36,12 @@
     <skos:prefLabel xml:lang="en">festschrift</skos:prefLabel>
     <skos:definition xml:lang="en">Festschrift.</skos:definition>
     <skos:notation>1</skos:notation>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.tq9s-1157#0">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <skos:inScheme rdf:resource="https://doi.org/10.6069/uwlswd.tq9s-1157"/>
+    <skos:prefLabel xml:lang="en">not a festschrift</skos:prefLabel>
+    <skos:definition xml:lang="en">Not a festschrift.</skos:definition>
+    <skos:notation>0</skos:notation>
   </rdf:Description>
 </rdf:RDF>
