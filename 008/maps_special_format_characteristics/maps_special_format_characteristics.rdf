@@ -6,18 +6,17 @@
    xmlns:schema="https://schema.org/"
    xmlns:skos="http://www.w3.org/2004/02/skos/core#"
 >
-  <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.rw25-p125#p">
+  <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.rw25-p125#ax">
     <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
     <skos:inScheme rdf:resource="https://doi.org/10.6069/uwlswd.rw25-p125"/>
-    <skos:prefLabel xml:lang="en">playing cards</skos:prefLabel>
-    <skos:definition xml:lang="en">Playing cards.</skos:definition>
-    <skos:notation>p</skos:notation>
+    <skos:prefLabel xml:lang="en">photocopy, blue line print [obsolete]</skos:prefLabel>
+    <skos:notation>a</skos:notation>
   </rdf:Description>
-  <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.rw25-p125#fx">
+  <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.rw25-p125#hx">
     <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
     <skos:inScheme rdf:resource="https://doi.org/10.6069/uwlswd.rw25-p125"/>
-    <skos:prefLabel xml:lang="en">facsimile [obsolete]</skos:prefLabel>
-    <skos:notation>f</skos:notation>
+    <skos:prefLabel xml:lang="en">rare [obsolete]</skos:prefLabel>
+    <skos:notation>h</skos:notation>
   </rdf:Description>
   <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.rw25-p125">
     <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#ConceptScheme"/>
@@ -49,77 +48,12 @@
     <skos:prefLabel xml:lang="en">film negative [obsolete]</skos:prefLabel>
     <skos:notation>d</skos:notation>
   </rdf:Description>
-  <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.rw25-p125#n">
-    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-    <skos:inScheme rdf:resource="https://doi.org/10.6069/uwlswd.rw25-p125"/>
-    <skos:prefLabel xml:lang="en">game</skos:prefLabel>
-    <skos:definition xml:lang="en">Intended to be used as or is part of a game.</skos:definition>
-    <skos:notation>n</skos:notation>
-  </rdf:Description>
-  <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.rw25-p125#gx">
-    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-    <skos:inScheme rdf:resource="https://doi.org/10.6069/uwlswd.rw25-p125"/>
-    <skos:prefLabel xml:lang="en">relief model [obsolete]</skos:prefLabel>
-    <skos:notation>g</skos:notation>
-  </rdf:Description>
-  <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.rw25-p125#j">
-    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-    <skos:inScheme rdf:resource="https://doi.org/10.6069/uwlswd.rw25-p125"/>
-    <skos:prefLabel xml:lang="en">picture card, post card</skos:prefLabel>
-    <skos:definition xml:lang="en">Picture card, post card.</skos:definition>
-    <skos:notation>j</skos:notation>
-  </rdf:Description>
-  <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.rw25-p125#mx">
-    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-    <skos:inScheme rdf:resource="https://doi.org/10.6069/uwlswd.rw25-p125"/>
-    <skos:prefLabel xml:lang="en">braille [obsolete]</skos:prefLabel>
-    <skos:notation>m</skos:notation>
-  </rdf:Description>
-  <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.rw25-p125#o">
-    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-    <skos:inScheme rdf:resource="https://doi.org/10.6069/uwlswd.rw25-p125"/>
-    <skos:prefLabel xml:lang="en">wall map</skos:prefLabel>
-    <skos:definition xml:lang="en">Wall map.</skos:definition>
-    <skos:notation>o</skos:notation>
-  </rdf:Description>
-  <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.rw25-p125#pound">
-    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-    <skos:inScheme rdf:resource="https://doi.org/10.6069/uwlswd.rw25-p125"/>
-    <skos:prefLabel xml:lang="en">no specified special format characteristics</skos:prefLabel>
-    <skos:definition xml:lang="en">No specified special format characteristics.</skos:definition>
-    <skos:notation>#</skos:notation>
-  </rdf:Description>
   <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.rw25-p125#e">
     <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
     <skos:inScheme rdf:resource="https://doi.org/10.6069/uwlswd.rw25-p125"/>
     <skos:prefLabel xml:lang="en">manuscript</skos:prefLabel>
     <skos:definition xml:lang="en">Drawn or fashioned by hand.</skos:definition>
     <skos:notation>e</skos:notation>
-  </rdf:Description>
-  <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.rw25-p125#ax">
-    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-    <skos:inScheme rdf:resource="https://doi.org/10.6069/uwlswd.rw25-p125"/>
-    <skos:prefLabel xml:lang="en">photocopy, blue line print [obsolete]</skos:prefLabel>
-    <skos:notation>a</skos:notation>
-  </rdf:Description>
-  <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.rw25-p125#bx">
-    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-    <skos:inScheme rdf:resource="https://doi.org/10.6069/uwlswd.rw25-p125"/>
-    <skos:prefLabel xml:lang="en">photocopy [obsolete]</skos:prefLabel>
-    <skos:notation>b</skos:notation>
-  </rdf:Description>
-  <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.rw25-p125#qx">
-    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-    <skos:inScheme rdf:resource="https://doi.org/10.6069/uwlswd.rw25-p125"/>
-    <skos:prefLabel xml:lang="en">large print [obsolete]</skos:prefLabel>
-    <skos:notation>q</skos:notation>
-  </rdf:Description>
-  <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.rw25-p125#k">
-    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-    <skos:inScheme rdf:resource="https://doi.org/10.6069/uwlswd.rw25-p125"/>
-    <skos:prefLabel xml:lang="en">calendar</skos:prefLabel>
-    <skos:definition xml:lang="en">Calendar.</skos:definition>
-    <skos:notation>k</skos:notation>
   </rdf:Description>
   <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.rw25-p125#r">
     <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
@@ -129,12 +63,43 @@
     <skos:notation>r</skos:notation>
     <skos:scopeNote xml:lang="en">Loose-leaf items are often meant to be updated.</skos:scopeNote>
   </rdf:Description>
-  <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.rw25-p125#l">
+  <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.rw25-p125#p">
     <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
     <skos:inScheme rdf:resource="https://doi.org/10.6069/uwlswd.rw25-p125"/>
-    <skos:prefLabel xml:lang="en">puzzle</skos:prefLabel>
-    <skos:definition xml:lang="en">Image may be disassembled into pieces and reassembled.</skos:definition>
-    <skos:notation>l</skos:notation>
+    <skos:prefLabel xml:lang="en">playing cards</skos:prefLabel>
+    <skos:definition xml:lang="en">Playing cards.</skos:definition>
+    <skos:notation>p</skos:notation>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.rw25-p125#bx">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <skos:inScheme rdf:resource="https://doi.org/10.6069/uwlswd.rw25-p125"/>
+    <skos:prefLabel xml:lang="en">photocopy [obsolete]</skos:prefLabel>
+    <skos:notation>b</skos:notation>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.rw25-p125#cx">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <skos:inScheme rdf:resource="https://doi.org/10.6069/uwlswd.rw25-p125"/>
+    <skos:prefLabel xml:lang="en">negative photocopy [obsolete]</skos:prefLabel>
+    <skos:notation>c</skos:notation>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.rw25-p125#fx">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <skos:inScheme rdf:resource="https://doi.org/10.6069/uwlswd.rw25-p125"/>
+    <skos:prefLabel xml:lang="en">facsimile [obsolete]</skos:prefLabel>
+    <skos:notation>f</skos:notation>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.rw25-p125#j">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <skos:inScheme rdf:resource="https://doi.org/10.6069/uwlswd.rw25-p125"/>
+    <skos:prefLabel xml:lang="en">picture card, post card</skos:prefLabel>
+    <skos:definition xml:lang="en">Picture card, post card.</skos:definition>
+    <skos:notation>j</skos:notation>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.rw25-p125#gx">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <skos:inScheme rdf:resource="https://doi.org/10.6069/uwlswd.rw25-p125"/>
+    <skos:prefLabel xml:lang="en">relief model [obsolete]</skos:prefLabel>
+    <skos:notation>g</skos:notation>
   </rdf:Description>
   <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.rw25-p125#z">
     <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
@@ -143,16 +108,51 @@
     <skos:definition xml:lang="en">Special format characteristics other than manuscript, picture card, post card, calendar, puzzle, game, wall map, playing cards, or loose-leaf.</skos:definition>
     <skos:notation>z</skos:notation>
   </rdf:Description>
-  <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.rw25-p125#hx">
+  <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.rw25-p125#l">
     <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
     <skos:inScheme rdf:resource="https://doi.org/10.6069/uwlswd.rw25-p125"/>
-    <skos:prefLabel xml:lang="en">rare [obsolete]</skos:prefLabel>
-    <skos:notation>h</skos:notation>
+    <skos:prefLabel xml:lang="en">puzzle</skos:prefLabel>
+    <skos:definition xml:lang="en">Image may be disassembled into pieces and reassembled.</skos:definition>
+    <skos:notation>l</skos:notation>
   </rdf:Description>
-  <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.rw25-p125#cx">
+  <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.rw25-p125#n">
     <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
     <skos:inScheme rdf:resource="https://doi.org/10.6069/uwlswd.rw25-p125"/>
-    <skos:prefLabel xml:lang="en">negative photocopy [obsolete]</skos:prefLabel>
-    <skos:notation>c</skos:notation>
+    <skos:prefLabel xml:lang="en">game</skos:prefLabel>
+    <skos:definition xml:lang="en">Intended to be used as or is part of a game.</skos:definition>
+    <skos:notation>n</skos:notation>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.rw25-p125#k">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <skos:inScheme rdf:resource="https://doi.org/10.6069/uwlswd.rw25-p125"/>
+    <skos:prefLabel xml:lang="en">calendar</skos:prefLabel>
+    <skos:definition xml:lang="en">Calendar.</skos:definition>
+    <skos:notation>k</skos:notation>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.rw25-p125#o">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <skos:inScheme rdf:resource="https://doi.org/10.6069/uwlswd.rw25-p125"/>
+    <skos:prefLabel xml:lang="en">wall map</skos:prefLabel>
+    <skos:definition xml:lang="en">Wall map.</skos:definition>
+    <skos:notation>o</skos:notation>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.rw25-p125#mx">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <skos:inScheme rdf:resource="https://doi.org/10.6069/uwlswd.rw25-p125"/>
+    <skos:prefLabel xml:lang="en">braille [obsolete]</skos:prefLabel>
+    <skos:notation>m</skos:notation>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.rw25-p125#pound">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <skos:inScheme rdf:resource="https://doi.org/10.6069/uwlswd.rw25-p125"/>
+    <skos:prefLabel xml:lang="en">no specified special format characteristics</skos:prefLabel>
+    <skos:definition xml:lang="en">No specified special format characteristics.</skos:definition>
+    <skos:notation>#</skos:notation>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.rw25-p125#qx">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <skos:inScheme rdf:resource="https://doi.org/10.6069/uwlswd.rw25-p125"/>
+    <skos:prefLabel xml:lang="en">large print [obsolete]</skos:prefLabel>
+    <skos:notation>q</skos:notation>
   </rdf:Description>
 </rdf:RDF>

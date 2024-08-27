@@ -6,37 +6,6 @@
    xmlns:schema="https://schema.org/"
    xmlns:skos="http://www.w3.org/2004/02/skos/core#"
 >
-  <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.8rpj-ek77#nn">
-    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-    <skos:inScheme rdf:resource="https://doi.org/10.6069/uwlswd.8rpj-ek77"/>
-    <skos:prefLabel xml:lang="en">not applicable</skos:prefLabel>
-    <skos:definition xml:lang="en">Not applicable</skos:definition>
-    <skos:notation>nn</skos:notation>
-    <skos:scopeNote xml:lang="en">Used for any item that is a non-music sound recording.</skos:scopeNote>
-  </rdf:Description>
-  <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.8rpj-ek77#ft">
-    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-    <skos:inScheme rdf:resource="https://doi.org/10.6069/uwlswd.8rpj-ek77"/>
-    <skos:prefLabel xml:lang="en">fantasias</skos:prefLabel>
-    <skos:definition xml:lang="en">Fantasias.</skos:definition>
-    <skos:scopeNote xml:lang="en">Includes instrumental music designated as fantasia, fancies,
-            fantasies, etc.</skos:scopeNote>
-    <skos:notation>ft</skos:notation>
-  </rdf:Description>
-  <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.8rpj-ek77#pt">
-    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-    <skos:inScheme rdf:resource="https://doi.org/10.6069/uwlswd.8rpj-ek77"/>
-    <skos:prefLabel xml:lang="en">part-songs</skos:prefLabel>
-    <skos:definition xml:lang="en">Part-songs.</skos:definition>
-    <skos:notation>pt</skos:notation>
-  </rdf:Description>
-  <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.8rpj-ek77#sy">
-    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-    <skos:inScheme rdf:resource="https://doi.org/10.6069/uwlswd.8rpj-ek77"/>
-    <skos:prefLabel xml:lang="en">symphonies</skos:prefLabel>
-    <skos:definition xml:lang="en">Symphonies.</skos:definition>
-    <skos:notation>sy</skos:notation>
-  </rdf:Description>
   <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.8rpj-ek77#mc">
     <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
     <skos:inScheme rdf:resource="https://doi.org/10.6069/uwlswd.8rpj-ek77"/>
@@ -44,12 +13,12 @@
     <skos:definition xml:lang="en">Musical revues and comedies.</skos:definition>
     <skos:notation>mc</skos:notation>
   </rdf:Description>
-  <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.8rpj-ek77#pr">
+  <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.8rpj-ek77#md">
     <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
     <skos:inScheme rdf:resource="https://doi.org/10.6069/uwlswd.8rpj-ek77"/>
-    <skos:prefLabel xml:lang="en">preludes</skos:prefLabel>
-    <skos:definition xml:lang="en">Preludes.</skos:definition>
-    <skos:notation>pr</skos:notation>
+    <skos:prefLabel xml:lang="en">madrigals</skos:prefLabel>
+    <skos:definition xml:lang="en">Madrigals.</skos:definition>
+    <skos:notation>md</skos:notation>
   </rdf:Description>
   <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.8rpj-ek77#st">
     <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
@@ -60,122 +29,22 @@
             (usually entitled Studies, Etudes, etc.).</skos:scopeNote>
     <skos:notation>st</skos:notation>
   </rdf:Description>
-  <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.8rpj-ek77#rq">
+  <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.8rpj-ek77#sd">
     <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
     <skos:inScheme rdf:resource="https://doi.org/10.6069/uwlswd.8rpj-ek77"/>
-    <skos:prefLabel xml:lang="en">requiems</skos:prefLabel>
-    <skos:definition xml:lang="en">Requiems.</skos:definition>
-    <skos:notation>rq</skos:notation>
+    <skos:prefLabel xml:lang="en">square dance music</skos:prefLabel>
+    <skos:definition xml:lang="en">Square dance music.</skos:definition>
+    <skos:notation>sd</skos:notation>
   </rdf:Description>
-  <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.8rpj-ek77#sn">
+  <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.8rpj-ek77#uu">
     <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
     <skos:inScheme rdf:resource="https://doi.org/10.6069/uwlswd.8rpj-ek77"/>
-    <skos:prefLabel xml:lang="en">sonatas</skos:prefLabel>
-    <skos:definition xml:lang="en">Sonatas.</skos:definition>
-    <skos:notation>sn</skos:notation>
-  </rdf:Description>
-  <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.8rpj-ek77#su">
-    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-    <skos:inScheme rdf:resource="https://doi.org/10.6069/uwlswd.8rpj-ek77"/>
-    <skos:prefLabel xml:lang="en">suites</skos:prefLabel>
-    <skos:definition xml:lang="en">Suites.</skos:definition>
-    <skos:notation>su</skos:notation>
-  </rdf:Description>
-  <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.8rpj-ek77#bd">
-    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-    <skos:inScheme rdf:resource="https://doi.org/10.6069/uwlswd.8rpj-ek77"/>
-    <skos:prefLabel xml:lang="en">ballads</skos:prefLabel>
-    <skos:definition xml:lang="en">Ballads.</skos:definition>
-    <skos:notation>bd</skos:notation>
-  </rdf:Description>
-  <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.8rpj-ek77#cc">
-    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-    <skos:inScheme rdf:resource="https://doi.org/10.6069/uwlswd.8rpj-ek77"/>
-    <skos:prefLabel xml:lang="en">chant, Christian</skos:prefLabel>
-    <skos:definition xml:lang="en">Chant, Christian.</skos:definition>
-    <skos:notation>cc</skos:notation>
-  </rdf:Description>
-  <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.8rpj-ek77#vr">
-    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-    <skos:inScheme rdf:resource="https://doi.org/10.6069/uwlswd.8rpj-ek77"/>
-    <skos:prefLabel xml:lang="en">variations</skos:prefLabel>
-    <skos:definition xml:lang="en">Variations.</skos:definition>
-    <skos:notation>vr</skos:notation>
-  </rdf:Description>
-  <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.8rpj-ek77#an">
-    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-    <skos:inScheme rdf:resource="https://doi.org/10.6069/uwlswd.8rpj-ek77"/>
-    <skos:prefLabel xml:lang="en">anthems</skos:prefLabel>
-    <skos:definition xml:lang="en">Anthems.</skos:definition>
-    <skos:notation>an</skos:notation>
-  </rdf:Description>
-  <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.8rpj-ek77#pp">
-    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-    <skos:inScheme rdf:resource="https://doi.org/10.6069/uwlswd.8rpj-ek77"/>
-    <skos:prefLabel xml:lang="en">popular music</skos:prefLabel>
-    <skos:definition xml:lang="en">Popular music.</skos:definition>
-    <skos:notation>pp</skos:notation>
-  </rdf:Description>
-  <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.8rpj-ek77#dv">
-    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-    <skos:inScheme rdf:resource="https://doi.org/10.6069/uwlswd.8rpj-ek77"/>
-    <skos:prefLabel xml:lang="en">divertimentos, serenades, cassations, divertissements, and
-            notturni</skos:prefLabel>
-    <skos:definition xml:lang="en">Divertimentos, serenades, cassations, divertissements, and
-            notturni.</skos:definition>
-    <skos:scopeNote xml:lang="en">Used for instrumental music designated as a divertimento,
-            serenade, cassation, divertissement, or a notturno.</skos:scopeNote>
-    <skos:notation>dv</skos:notation>
-  </rdf:Description>
-  <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.8rpj-ek77#mr">
-    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-    <skos:inScheme rdf:resource="https://doi.org/10.6069/uwlswd.8rpj-ek77"/>
-    <skos:prefLabel xml:lang="en">marches</skos:prefLabel>
-    <skos:definition xml:lang="en">Marches.</skos:definition>
-    <skos:notation>mr</skos:notation>
-  </rdf:Description>
-  <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.8rpj-ek77#fl">
-    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-    <skos:inScheme rdf:resource="https://doi.org/10.6069/uwlswd.8rpj-ek77"/>
-    <skos:prefLabel xml:lang="en">flamenco</skos:prefLabel>
-    <skos:definition xml:lang="en">Flamenco.</skos:definition>
-    <skos:notation>fl</skos:notation>
-    <skos:scopeNote xml:lang="en">All the Flamenco styles, or "palos", and other forms of song and dance coming from the folkloric tradition of Spanish gypsies.</skos:scopeNote>
-  </rdf:Description>
-  <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.8rpj-ek77#tc">
-    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-    <skos:inScheme rdf:resource="https://doi.org/10.6069/uwlswd.8rpj-ek77"/>
-    <skos:prefLabel xml:lang="en">toccatas</skos:prefLabel>
-    <skos:definition xml:lang="en">Toccatas.</skos:definition>
-    <skos:notation>tc</skos:notation>
-  </rdf:Description>
-  <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.8rpj-ek77#or">
-    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-    <skos:inScheme rdf:resource="https://doi.org/10.6069/uwlswd.8rpj-ek77"/>
-    <skos:prefLabel xml:lang="en">oratorios</skos:prefLabel>
-    <skos:definition xml:lang="en">Oratorios.</skos:definition>
-    <skos:notation>or</skos:notation>
-  </rdf:Description>
-  <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.8rpj-ek77#rc">
-    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-    <skos:inScheme rdf:resource="https://doi.org/10.6069/uwlswd.8rpj-ek77"/>
-    <skos:prefLabel xml:lang="en">rock music</skos:prefLabel>
-    <skos:definition xml:lang="en">Rock music.</skos:definition>
-    <skos:notation>rc</skos:notation>
-  </rdf:Description>
-  <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.8rpj-ek77#fg">
-    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-    <skos:inScheme rdf:resource="https://doi.org/10.6069/uwlswd.8rpj-ek77"/>
-    <skos:prefLabel xml:lang="en">fugues</skos:prefLabel>
-    <skos:definition xml:lang="en">Fugues.</skos:definition>
-    <skos:notation>fg</skos:notation>
-  </rdf:Description>
-  <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.8rpj-ek77#op">
-    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-    <skos:inScheme rdf:resource="https://doi.org/10.6069/uwlswd.8rpj-ek77"/>
-    <skos:prefLabel xml:lang="en">operas</skos:prefLabel>
-    <skos:definition xml:lang="en">Operas.</skos:definition>
-    <skos:notation>op</skos:notation>
+    <skos:prefLabel xml:lang="en">unknown</skos:prefLabel>
+    <skos:definition xml:lang="en">Unknown.</skos:definition>
+    <skos:notation>uu</skos:notation>
+    <skos:scopeNote xml:lang="en">Used when the only indication given is the number of
+            instruments and the medium of performance. No structure or genre is given, although they
+            may be implied or understood.</skos:scopeNote>
   </rdf:Description>
   <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.8rpj-ek77#bl">
     <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
@@ -184,149 +53,40 @@
     <skos:definition xml:lang="en">Blues.</skos:definition>
     <skos:notation>bl</skos:notation>
   </rdf:Description>
-  <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.8rpj-ek77#bg">
+  <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.8rpj-ek77#sy">
     <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
     <skos:inScheme rdf:resource="https://doi.org/10.6069/uwlswd.8rpj-ek77"/>
-    <skos:prefLabel xml:lang="en">bluegrass music</skos:prefLabel>
-    <skos:definition xml:lang="en">Bluegrass music.</skos:definition>
-    <skos:notation>bg</skos:notation>
+    <skos:prefLabel xml:lang="en">symphonies</skos:prefLabel>
+    <skos:definition xml:lang="en">Symphonies.</skos:definition>
+    <skos:notation>sy</skos:notation>
   </rdf:Description>
-  <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.8rpj-ek77#wz">
+  <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.8rpj-ek77#rc">
     <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
     <skos:inScheme rdf:resource="https://doi.org/10.6069/uwlswd.8rpj-ek77"/>
-    <skos:prefLabel xml:lang="en">waltzes</skos:prefLabel>
-    <skos:definition xml:lang="en">Waltzes.</skos:definition>
-    <skos:notation>wz</skos:notation>
+    <skos:prefLabel xml:lang="en">rock music</skos:prefLabel>
+    <skos:definition xml:lang="en">Rock music.</skos:definition>
+    <skos:notation>rc</skos:notation>
   </rdf:Description>
-  <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.8rpj-ek77#md">
+  <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.8rpj-ek77#su">
     <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
     <skos:inScheme rdf:resource="https://doi.org/10.6069/uwlswd.8rpj-ek77"/>
-    <skos:prefLabel xml:lang="en">madrigals</skos:prefLabel>
-    <skos:definition xml:lang="en">Madrigals.</skos:definition>
-    <skos:notation>md</skos:notation>
+    <skos:prefLabel xml:lang="en">suites</skos:prefLabel>
+    <skos:definition xml:lang="en">Suites.</skos:definition>
+    <skos:notation>su</skos:notation>
   </rdf:Description>
-  <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.8rpj-ek77#cz">
+  <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.8rpj-ek77#ca">
     <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
     <skos:inScheme rdf:resource="https://doi.org/10.6069/uwlswd.8rpj-ek77"/>
-    <skos:prefLabel xml:lang="en">canzonas</skos:prefLabel>
-    <skos:definition xml:lang="en">Canzonas.</skos:definition>
-    <skos:scopeNote xml:lang="en">Used for instrumental music that is designated as a canzona.</skos:scopeNote>
-    <skos:notation>cz</skos:notation>
+    <skos:prefLabel xml:lang="en">chaconnes</skos:prefLabel>
+    <skos:definition xml:lang="en">Chaconnes.</skos:definition>
+    <skos:notation>ca</skos:notation>
   </rdf:Description>
-  <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.8rpj-ek77#vi">
+  <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.8rpj-ek77#vr">
     <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
     <skos:inScheme rdf:resource="https://doi.org/10.6069/uwlswd.8rpj-ek77"/>
-    <skos:prefLabel xml:lang="en">villancicos</skos:prefLabel>
-    <skos:definition xml:lang="en">Characteristic form of Spanish polyphony, religious or
-            secular, from the 16th to 18th centuries. Religious villancicos were usually sung in
-            important ceremonies (including Christmas, when these songs were sometimes called
-            "pastoradas").</skos:definition>
-    <skos:notation>vi</skos:notation>
-  </rdf:Description>
-  <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.8rpj-ek77#cl">
-    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-    <skos:inScheme rdf:resource="https://doi.org/10.6069/uwlswd.8rpj-ek77"/>
-    <skos:prefLabel xml:lang="en">chorale preludes</skos:prefLabel>
-    <skos:definition xml:lang="en">Chorale preludes.</skos:definition>
-    <skos:notation>cl</skos:notation>
-  </rdf:Description>
-  <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.8rpj-ek77#cr">
-    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-    <skos:inScheme rdf:resource="https://doi.org/10.6069/uwlswd.8rpj-ek77"/>
-    <skos:prefLabel xml:lang="en">carols</skos:prefLabel>
-    <skos:definition xml:lang="en">Carols.</skos:definition>
-    <skos:notation>cr</skos:notation>
-  </rdf:Description>
-  <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.8rpj-ek77#mo">
-    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-    <skos:inScheme rdf:resource="https://doi.org/10.6069/uwlswd.8rpj-ek77"/>
-    <skos:prefLabel xml:lang="en">motets</skos:prefLabel>
-    <skos:definition xml:lang="en">Motets.</skos:definition>
-    <skos:notation>mo</skos:notation>
-  </rdf:Description>
-  <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.8rpj-ek77#cy">
-    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-    <skos:inScheme rdf:resource="https://doi.org/10.6069/uwlswd.8rpj-ek77"/>
-    <skos:prefLabel xml:lang="en">country music</skos:prefLabel>
-    <skos:definition xml:lang="en">Country music.</skos:definition>
-    <skos:notation>cy</skos:notation>
-  </rdf:Description>
-  <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.8rpj-ek77#cg">
-    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-    <skos:inScheme rdf:resource="https://doi.org/10.6069/uwlswd.8rpj-ek77"/>
-    <skos:prefLabel xml:lang="en">concerti grossi</skos:prefLabel>
-    <skos:definition xml:lang="en">Concerti grossi.</skos:definition>
-    <skos:notation>cg</skos:notation>
-  </rdf:Description>
-  <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.8rpj-ek77#mi">
-    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-    <skos:inScheme rdf:resource="https://doi.org/10.6069/uwlswd.8rpj-ek77"/>
-    <skos:prefLabel xml:lang="en">minuets</skos:prefLabel>
-    <skos:definition xml:lang="en">Minuets.</skos:definition>
-    <skos:notation>mi</skos:notation>
-  </rdf:Description>
-  <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.8rpj-ek77#po">
-    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-    <skos:inScheme rdf:resource="https://doi.org/10.6069/uwlswd.8rpj-ek77"/>
-    <skos:prefLabel xml:lang="en">polonaises</skos:prefLabel>
-    <skos:definition xml:lang="en">Polonaises.</skos:definition>
-    <skos:notation>po</skos:notation>
-  </rdf:Description>
-  <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.8rpj-ek77#sg">
-    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-    <skos:inScheme rdf:resource="https://doi.org/10.6069/uwlswd.8rpj-ek77"/>
-    <skos:prefLabel xml:lang="en">songs</skos:prefLabel>
-    <skos:definition xml:lang="en">Songs.</skos:definition>
-    <skos:notation>sg</skos:notation>
-  </rdf:Description>
-  <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.8rpj-ek77#pg">
-    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-    <skos:inScheme rdf:resource="https://doi.org/10.6069/uwlswd.8rpj-ek77"/>
-    <skos:prefLabel xml:lang="en">program music</skos:prefLabel>
-    <skos:definition xml:lang="en">Program music.</skos:definition>
-    <skos:notation>pg</skos:notation>
-  </rdf:Description>
-  <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.8rpj-ek77#ch">
-    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-    <skos:inScheme rdf:resource="https://doi.org/10.6069/uwlswd.8rpj-ek77"/>
-    <skos:prefLabel xml:lang="en">chorales</skos:prefLabel>
-    <skos:definition xml:lang="en">Chorales.</skos:definition>
-    <skos:notation>ch</skos:notation>
-  </rdf:Description>
-  <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.8rpj-ek77#sp">
-    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-    <skos:inScheme rdf:resource="https://doi.org/10.6069/uwlswd.8rpj-ek77"/>
-    <skos:prefLabel xml:lang="en">symphonic poems</skos:prefLabel>
-    <skos:definition xml:lang="en">Symphonic poems.</skos:definition>
-    <skos:notation>sp</skos:notation>
-  </rdf:Description>
-  <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.8rpj-ek77#sd">
-    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-    <skos:inScheme rdf:resource="https://doi.org/10.6069/uwlswd.8rpj-ek77"/>
-    <skos:prefLabel xml:lang="en">square dance music</skos:prefLabel>
-    <skos:definition xml:lang="en">Square dance music.</skos:definition>
-    <skos:notation>sd</skos:notation>
-  </rdf:Description>
-  <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.8rpj-ek77#ct">
-    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-    <skos:inScheme rdf:resource="https://doi.org/10.6069/uwlswd.8rpj-ek77"/>
-    <skos:prefLabel xml:lang="en">cantatas</skos:prefLabel>
-    <skos:definition xml:lang="en">Cantatas.</skos:definition>
-    <skos:notation>ct</skos:notation>
-  </rdf:Description>
-  <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.8rpj-ek77#cp">
-    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-    <skos:inScheme rdf:resource="https://doi.org/10.6069/uwlswd.8rpj-ek77"/>
-    <skos:prefLabel xml:lang="en">chansons, polyphonic</skos:prefLabel>
-    <skos:definition xml:lang="en">Chansons, polyphonic.</skos:definition>
-    <skos:notation>cp</skos:notation>
-  </rdf:Description>
-  <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.8rpj-ek77#mu">
-    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-    <skos:inScheme rdf:resource="https://doi.org/10.6069/uwlswd.8rpj-ek77"/>
-    <skos:prefLabel xml:lang="en">multiple forms</skos:prefLabel>
-    <skos:definition xml:lang="en">Multiple forms.</skos:definition>
-    <skos:notation>mu</skos:notation>
+    <skos:prefLabel xml:lang="en">variations</skos:prefLabel>
+    <skos:definition xml:lang="en">Variations.</skos:definition>
+    <skos:notation>vr</skos:notation>
   </rdf:Description>
   <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.8rpj-ek77#ri">
     <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
@@ -335,27 +95,12 @@
     <skos:definition xml:lang="en">Ricercars.</skos:definition>
     <skos:notation>ri</skos:notation>
   </rdf:Description>
-  <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.8rpj-ek77#cs">
+  <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.8rpj-ek77#sn">
     <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
     <skos:inScheme rdf:resource="https://doi.org/10.6069/uwlswd.8rpj-ek77"/>
-    <skos:prefLabel xml:lang="en">chance compositions</skos:prefLabel>
-    <skos:definition xml:lang="en">Chance compositions.</skos:definition>
-    <skos:notation>cs</skos:notation>
-  </rdf:Description>
-  <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.8rpj-ek77#ps">
-    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-    <skos:inScheme rdf:resource="https://doi.org/10.6069/uwlswd.8rpj-ek77"/>
-    <skos:prefLabel xml:lang="en">passacaglias</skos:prefLabel>
-    <skos:definition xml:lang="en">Passacaglias.</skos:definition>
-    <skos:notation>ps</skos:notation>
-    <skos:scopeNote xml:lang="en">Includes all types of ostinato basses.</skos:scopeNote>
-  </rdf:Description>
-  <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.8rpj-ek77#mz">
-    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-    <skos:inScheme rdf:resource="https://doi.org/10.6069/uwlswd.8rpj-ek77"/>
-    <skos:prefLabel xml:lang="en">mazurkas</skos:prefLabel>
-    <skos:definition xml:lang="en">Mazurkas.</skos:definition>
-    <skos:notation>mz</skos:notation>
+    <skos:prefLabel xml:lang="en">sonatas</skos:prefLabel>
+    <skos:definition xml:lang="en">Sonatas.</skos:definition>
+    <skos:notation>sn</skos:notation>
   </rdf:Description>
   <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.8rpj-ek77">
     <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#ConceptScheme"/>
@@ -382,46 +127,87 @@
     <dct:hasFormat rdf:resource="https://uwlib-cams.github.io/uwlswd_vocabs_marc_006_008/008/music_form_of_composition/music_form_of_composition.html"/>
     <dct:format rdf:resource="http://www.w3.org/ns/formats/RDF_XML"/>
   </rdf:Description>
-  <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.8rpj-ek77#uu">
+  <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.8rpj-ek77#rq">
     <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
     <skos:inScheme rdf:resource="https://doi.org/10.6069/uwlswd.8rpj-ek77"/>
-    <skos:prefLabel xml:lang="en">unknown</skos:prefLabel>
-    <skos:definition xml:lang="en">Unknown.</skos:definition>
-    <skos:notation>uu</skos:notation>
-    <skos:scopeNote xml:lang="en">Used when the only indication given is the number of
-            instruments and the medium of performance. No structure or genre is given, although they
-            may be implied or understood.</skos:scopeNote>
+    <skos:prefLabel xml:lang="en">requiems</skos:prefLabel>
+    <skos:definition xml:lang="en">Requiems.</skos:definition>
+    <skos:notation>rq</skos:notation>
   </rdf:Description>
-  <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.8rpj-ek77#ts">
+  <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.8rpj-ek77#mo">
     <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
     <skos:inScheme rdf:resource="https://doi.org/10.6069/uwlswd.8rpj-ek77"/>
-    <skos:prefLabel xml:lang="en">trio-sonatas</skos:prefLabel>
-    <skos:definition xml:lang="en">Trio-sonatas.</skos:definition>
-    <skos:notation>ts</skos:notation>
+    <skos:prefLabel xml:lang="en">motets</skos:prefLabel>
+    <skos:definition xml:lang="en">Motets.</skos:definition>
+    <skos:notation>mo</skos:notation>
   </rdf:Description>
-  <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.8rpj-ek77#gm">
+  <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.8rpj-ek77#ms">
     <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
     <skos:inScheme rdf:resource="https://doi.org/10.6069/uwlswd.8rpj-ek77"/>
-    <skos:prefLabel xml:lang="en">gospel music</skos:prefLabel>
-    <skos:definition xml:lang="en">Gospel music.</skos:definition>
-    <skos:notation>gm</skos:notation>
+    <skos:prefLabel xml:lang="en">masses</skos:prefLabel>
+    <skos:definition xml:lang="en">Masses.</skos:definition>
+    <skos:notation>ms</skos:notation>
   </rdf:Description>
-  <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.8rpj-ek77#za">
+  <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.8rpj-ek77#fm">
     <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
     <skos:inScheme rdf:resource="https://doi.org/10.6069/uwlswd.8rpj-ek77"/>
-    <skos:prefLabel xml:lang="en">zarzuelas</skos:prefLabel>
-    <skos:definition xml:lang="en">Zarzuelas.</skos:definition>
-    <skos:definition xml:lang="en">Term applicable to all musical plays taking that name, from
-            the “fiestas de zarzuela” of the 17th/18th-centuries to the so-called “zarzuela moderna”
-            (“modern zarzuela”) from the mid 19th to the mid 20th-century.</skos:definition>
-    <skos:notation>za</skos:notation>
+    <skos:prefLabel xml:lang="en">folk music</skos:prefLabel>
+    <skos:definition xml:lang="en">Folk music.</skos:definition>
+    <skos:notation>fm</skos:notation>
+    <skos:scopeNote xml:lang="en">Includes folk songs, etc.</skos:scopeNote>
   </rdf:Description>
-  <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.8rpj-ek77#rg">
+  <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.8rpj-ek77#ct">
     <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
     <skos:inScheme rdf:resource="https://doi.org/10.6069/uwlswd.8rpj-ek77"/>
-    <skos:prefLabel xml:lang="en">ragtime music</skos:prefLabel>
-    <skos:definition xml:lang="en">Ragtime music.</skos:definition>
-    <skos:notation>rg</skos:notation>
+    <skos:prefLabel xml:lang="en">cantatas</skos:prefLabel>
+    <skos:definition xml:lang="en">Cantatas.</skos:definition>
+    <skos:notation>ct</skos:notation>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.8rpj-ek77#pm">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <skos:inScheme rdf:resource="https://doi.org/10.6069/uwlswd.8rpj-ek77"/>
+    <skos:prefLabel xml:lang="en">passion music</skos:prefLabel>
+    <skos:definition xml:lang="en">Passion music.</skos:definition>
+    <skos:notation>pm</skos:notation>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.8rpj-ek77#fg">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <skos:inScheme rdf:resource="https://doi.org/10.6069/uwlswd.8rpj-ek77"/>
+    <skos:prefLabel xml:lang="en">fugues</skos:prefLabel>
+    <skos:definition xml:lang="en">Fugues.</skos:definition>
+    <skos:notation>fg</skos:notation>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.8rpj-ek77#bt">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <skos:inScheme rdf:resource="https://doi.org/10.6069/uwlswd.8rpj-ek77"/>
+    <skos:prefLabel xml:lang="en">ballets</skos:prefLabel>
+    <skos:definition xml:lang="en">Ballets.</skos:definition>
+    <skos:notation>bt</skos:notation>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.8rpj-ek77#vi">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <skos:inScheme rdf:resource="https://doi.org/10.6069/uwlswd.8rpj-ek77"/>
+    <skos:prefLabel xml:lang="en">villancicos</skos:prefLabel>
+    <skos:definition xml:lang="en">Characteristic form of Spanish polyphony, religious or
+            secular, from the 16th to 18th centuries. Religious villancicos were usually sung in
+            important ceremonies (including Christmas, when these songs were sometimes called
+            "pastoradas").</skos:definition>
+    <skos:notation>vi</skos:notation>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.8rpj-ek77#cn">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <skos:inScheme rdf:resource="https://doi.org/10.6069/uwlswd.8rpj-ek77"/>
+    <skos:prefLabel xml:lang="en">canons and rounds</skos:prefLabel>
+    <skos:definition xml:lang="en">Canons and rounds. Compositions employing strict imitation
+            throughout.</skos:definition>
+    <skos:notation>cn</skos:notation>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.8rpj-ek77#cs">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <skos:inScheme rdf:resource="https://doi.org/10.6069/uwlswd.8rpj-ek77"/>
+    <skos:prefLabel xml:lang="en">chance compositions</skos:prefLabel>
+    <skos:definition xml:lang="en">Chance compositions.</skos:definition>
+    <skos:notation>cs</skos:notation>
   </rdf:Description>
   <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.8rpj-ek77#zz">
     <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
@@ -441,27 +227,152 @@
             lirico; trio-sonatas; villancicos; variations; waltzes, or zarzuelas.</skos:definition>
     <skos:notation>zz</skos:notation>
   </rdf:Description>
-  <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.8rpj-ek77#cn">
+  <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.8rpj-ek77#cp">
     <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
     <skos:inScheme rdf:resource="https://doi.org/10.6069/uwlswd.8rpj-ek77"/>
-    <skos:prefLabel xml:lang="en">canons and rounds</skos:prefLabel>
-    <skos:definition xml:lang="en">Canons and rounds. Compositions employing strict imitation
-            throughout.</skos:definition>
-    <skos:notation>cn</skos:notation>
+    <skos:prefLabel xml:lang="en">chansons, polyphonic</skos:prefLabel>
+    <skos:definition xml:lang="en">Chansons, polyphonic.</skos:definition>
+    <skos:notation>cp</skos:notation>
   </rdf:Description>
-  <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.8rpj-ek77#cb">
+  <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.8rpj-ek77#gm">
     <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
     <skos:inScheme rdf:resource="https://doi.org/10.6069/uwlswd.8rpj-ek77"/>
-    <skos:prefLabel xml:lang="en">chants, other religions</skos:prefLabel>
-    <skos:definition xml:lang="en">Chants, Other religions.</skos:definition>
-    <skos:notation>cb</skos:notation>
+    <skos:prefLabel xml:lang="en">gospel music</skos:prefLabel>
+    <skos:definition xml:lang="en">Gospel music.</skos:definition>
+    <skos:notation>gm</skos:notation>
   </rdf:Description>
-  <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.8rpj-ek77#nc">
+  <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.8rpj-ek77#dv">
     <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
     <skos:inScheme rdf:resource="https://doi.org/10.6069/uwlswd.8rpj-ek77"/>
-    <skos:prefLabel xml:lang="en">nocturnes</skos:prefLabel>
-    <skos:definition xml:lang="en">Nocturnes.</skos:definition>
-    <skos:notation>nc</skos:notation>
+    <skos:prefLabel xml:lang="en">divertimentos, serenades, cassations, divertissements, and
+            notturni</skos:prefLabel>
+    <skos:definition xml:lang="en">Divertimentos, serenades, cassations, divertissements, and
+            notturni.</skos:definition>
+    <skos:scopeNote xml:lang="en">Used for instrumental music designated as a divertimento,
+            serenade, cassation, divertissement, or a notturno.</skos:scopeNote>
+    <skos:notation>dv</skos:notation>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.8rpj-ek77#mr">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <skos:inScheme rdf:resource="https://doi.org/10.6069/uwlswd.8rpj-ek77"/>
+    <skos:prefLabel xml:lang="en">marches</skos:prefLabel>
+    <skos:definition xml:lang="en">Marches.</skos:definition>
+    <skos:notation>mr</skos:notation>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.8rpj-ek77#za">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <skos:inScheme rdf:resource="https://doi.org/10.6069/uwlswd.8rpj-ek77"/>
+    <skos:prefLabel xml:lang="en">zarzuelas</skos:prefLabel>
+    <skos:definition xml:lang="en">Zarzuelas.</skos:definition>
+    <skos:definition xml:lang="en">Term applicable to all musical plays taking that name, from
+            the “fiestas de zarzuela” of the 17th/18th-centuries to the so-called “zarzuela moderna”
+            (“modern zarzuela”) from the mid 19th to the mid 20th-century.</skos:definition>
+    <skos:notation>za</skos:notation>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.8rpj-ek77#cz">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <skos:inScheme rdf:resource="https://doi.org/10.6069/uwlswd.8rpj-ek77"/>
+    <skos:prefLabel xml:lang="en">canzonas</skos:prefLabel>
+    <skos:definition xml:lang="en">Canzonas.</skos:definition>
+    <skos:scopeNote xml:lang="en">Used for instrumental music that is designated as a canzona.</skos:scopeNote>
+    <skos:notation>cz</skos:notation>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.8rpj-ek77#ft">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <skos:inScheme rdf:resource="https://doi.org/10.6069/uwlswd.8rpj-ek77"/>
+    <skos:prefLabel xml:lang="en">fantasias</skos:prefLabel>
+    <skos:definition xml:lang="en">Fantasias.</skos:definition>
+    <skos:scopeNote xml:lang="en">Includes instrumental music designated as fantasia, fancies,
+            fantasies, etc.</skos:scopeNote>
+    <skos:notation>ft</skos:notation>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.8rpj-ek77#sg">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <skos:inScheme rdf:resource="https://doi.org/10.6069/uwlswd.8rpj-ek77"/>
+    <skos:prefLabel xml:lang="en">songs</skos:prefLabel>
+    <skos:definition xml:lang="en">Songs.</skos:definition>
+    <skos:notation>sg</skos:notation>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.8rpj-ek77#po">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <skos:inScheme rdf:resource="https://doi.org/10.6069/uwlswd.8rpj-ek77"/>
+    <skos:prefLabel xml:lang="en">polonaises</skos:prefLabel>
+    <skos:definition xml:lang="en">Polonaises.</skos:definition>
+    <skos:notation>po</skos:notation>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.8rpj-ek77#pt">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <skos:inScheme rdf:resource="https://doi.org/10.6069/uwlswd.8rpj-ek77"/>
+    <skos:prefLabel xml:lang="en">part-songs</skos:prefLabel>
+    <skos:definition xml:lang="en">Part-songs.</skos:definition>
+    <skos:notation>pt</skos:notation>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.8rpj-ek77#df">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <skos:inScheme rdf:resource="https://doi.org/10.6069/uwlswd.8rpj-ek77"/>
+    <skos:prefLabel xml:lang="en">dance forms</skos:prefLabel>
+    <skos:definition xml:lang="en">Dance forms.</skos:definition>
+    <skos:notation>df</skos:notation>
+    <skos:scopeNote xml:lang="en">Includes music for individual dances except for mazurkas,
+            minuets, pavans, polonaises, and waltzes.</skos:scopeNote>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.8rpj-ek77#or">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <skos:inScheme rdf:resource="https://doi.org/10.6069/uwlswd.8rpj-ek77"/>
+    <skos:prefLabel xml:lang="en">oratorios</skos:prefLabel>
+    <skos:definition xml:lang="en">Oratorios.</skos:definition>
+    <skos:notation>or</skos:notation>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.8rpj-ek77#mu">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <skos:inScheme rdf:resource="https://doi.org/10.6069/uwlswd.8rpj-ek77"/>
+    <skos:prefLabel xml:lang="en">multiple forms</skos:prefLabel>
+    <skos:definition xml:lang="en">Multiple forms.</skos:definition>
+    <skos:notation>mu</skos:notation>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.8rpj-ek77#pg">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <skos:inScheme rdf:resource="https://doi.org/10.6069/uwlswd.8rpj-ek77"/>
+    <skos:prefLabel xml:lang="en">program music</skos:prefLabel>
+    <skos:definition xml:lang="en">Program music.</skos:definition>
+    <skos:notation>pg</skos:notation>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.8rpj-ek77#hy">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <skos:inScheme rdf:resource="https://doi.org/10.6069/uwlswd.8rpj-ek77"/>
+    <skos:prefLabel xml:lang="en">hymns</skos:prefLabel>
+    <skos:definition xml:lang="en">Hymns.</skos:definition>
+    <skos:notation>hy</skos:notation>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.8rpj-ek77#cc">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <skos:inScheme rdf:resource="https://doi.org/10.6069/uwlswd.8rpj-ek77"/>
+    <skos:prefLabel xml:lang="en">chant, Christian</skos:prefLabel>
+    <skos:definition xml:lang="en">Chant, Christian.</skos:definition>
+    <skos:notation>cc</skos:notation>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.8rpj-ek77#ps">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <skos:inScheme rdf:resource="https://doi.org/10.6069/uwlswd.8rpj-ek77"/>
+    <skos:prefLabel xml:lang="en">passacaglias</skos:prefLabel>
+    <skos:definition xml:lang="en">Passacaglias.</skos:definition>
+    <skos:notation>ps</skos:notation>
+    <skos:scopeNote xml:lang="en">Includes all types of ostinato basses.</skos:scopeNote>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.8rpj-ek77#mp">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <skos:inScheme rdf:resource="https://doi.org/10.6069/uwlswd.8rpj-ek77"/>
+    <skos:prefLabel xml:lang="en">motion picture music</skos:prefLabel>
+    <skos:definition xml:lang="en">Motion picture music.</skos:definition>
+    <skos:notation>mp</skos:notation>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.8rpj-ek77#fl">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <skos:inScheme rdf:resource="https://doi.org/10.6069/uwlswd.8rpj-ek77"/>
+    <skos:prefLabel xml:lang="en">flamenco</skos:prefLabel>
+    <skos:definition xml:lang="en">Flamenco.</skos:definition>
+    <skos:notation>fl</skos:notation>
+    <skos:scopeNote xml:lang="en">All the Flamenco styles, or "palos", and other forms of song and dance coming from the folkloric tradition of Spanish gypsies.</skos:scopeNote>
   </rdf:Description>
   <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.8rpj-ek77#tl">
     <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
@@ -473,49 +384,19 @@
             Spanish and Spanish American theatre music: "tonadilla escénica", "fiestas de música",
             "sainetes líricos", "entremeses cómico-lírico," etc.</skos:scopeNote>
   </rdf:Description>
-  <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.8rpj-ek77#pm">
+  <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.8rpj-ek77#cr">
     <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
     <skos:inScheme rdf:resource="https://doi.org/10.6069/uwlswd.8rpj-ek77"/>
-    <skos:prefLabel xml:lang="en">passion music</skos:prefLabel>
-    <skos:definition xml:lang="en">Passion music.</skos:definition>
-    <skos:notation>pm</skos:notation>
+    <skos:prefLabel xml:lang="en">carols</skos:prefLabel>
+    <skos:definition xml:lang="en">Carols.</skos:definition>
+    <skos:notation>cr</skos:notation>
   </rdf:Description>
-  <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.8rpj-ek77#rd">
+  <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.8rpj-ek77#rp">
     <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
     <skos:inScheme rdf:resource="https://doi.org/10.6069/uwlswd.8rpj-ek77"/>
-    <skos:prefLabel xml:lang="en">rondos</skos:prefLabel>
-    <skos:definition xml:lang="en">Rondos.</skos:definition>
-    <skos:notation>rd</skos:notation>
-  </rdf:Description>
-  <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.8rpj-ek77#hy">
-    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-    <skos:inScheme rdf:resource="https://doi.org/10.6069/uwlswd.8rpj-ek77"/>
-    <skos:prefLabel xml:lang="en">hymns</skos:prefLabel>
-    <skos:definition xml:lang="en">Hymns.</skos:definition>
-    <skos:notation>hy</skos:notation>
-  </rdf:Description>
-  <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.8rpj-ek77#df">
-    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-    <skos:inScheme rdf:resource="https://doi.org/10.6069/uwlswd.8rpj-ek77"/>
-    <skos:prefLabel xml:lang="en">dance forms</skos:prefLabel>
-    <skos:definition xml:lang="en">Dance forms.</skos:definition>
-    <skos:notation>df</skos:notation>
-    <skos:scopeNote xml:lang="en">Includes music for individual dances except for mazurkas,
-            minuets, pavans, polonaises, and waltzes.</skos:scopeNote>
-  </rdf:Description>
-  <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.8rpj-ek77#bt">
-    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-    <skos:inScheme rdf:resource="https://doi.org/10.6069/uwlswd.8rpj-ek77"/>
-    <skos:prefLabel xml:lang="en">ballets</skos:prefLabel>
-    <skos:definition xml:lang="en">Ballets.</skos:definition>
-    <skos:notation>bt</skos:notation>
-  </rdf:Description>
-  <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.8rpj-ek77#ms">
-    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-    <skos:inScheme rdf:resource="https://doi.org/10.6069/uwlswd.8rpj-ek77"/>
-    <skos:prefLabel xml:lang="en">masses</skos:prefLabel>
-    <skos:definition xml:lang="en">Masses.</skos:definition>
-    <skos:notation>ms</skos:notation>
+    <skos:prefLabel xml:lang="en">rhapsodies</skos:prefLabel>
+    <skos:definition xml:lang="en">Rhapsodies.</skos:definition>
+    <skos:notation>rp</skos:notation>
   </rdf:Description>
   <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.8rpj-ek77#jz">
     <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
@@ -524,19 +405,111 @@
     <skos:definition xml:lang="en">Jazz.</skos:definition>
     <skos:notation>jz</skos:notation>
   </rdf:Description>
-  <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.8rpj-ek77#ov">
+  <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.8rpj-ek77#nc">
     <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
     <skos:inScheme rdf:resource="https://doi.org/10.6069/uwlswd.8rpj-ek77"/>
-    <skos:prefLabel xml:lang="en">overtures</skos:prefLabel>
-    <skos:definition xml:lang="en">Overtures.</skos:definition>
-    <skos:notation>ov</skos:notation>
+    <skos:prefLabel xml:lang="en">nocturnes</skos:prefLabel>
+    <skos:definition xml:lang="en">Nocturnes.</skos:definition>
+    <skos:notation>nc</skos:notation>
   </rdf:Description>
-  <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.8rpj-ek77#ca">
+  <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.8rpj-ek77#bg">
     <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
     <skos:inScheme rdf:resource="https://doi.org/10.6069/uwlswd.8rpj-ek77"/>
-    <skos:prefLabel xml:lang="en">chaconnes</skos:prefLabel>
-    <skos:definition xml:lang="en">Chaconnes.</skos:definition>
-    <skos:notation>ca</skos:notation>
+    <skos:prefLabel xml:lang="en">bluegrass music</skos:prefLabel>
+    <skos:definition xml:lang="en">Bluegrass music.</skos:definition>
+    <skos:notation>bg</skos:notation>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.8rpj-ek77#ch">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <skos:inScheme rdf:resource="https://doi.org/10.6069/uwlswd.8rpj-ek77"/>
+    <skos:prefLabel xml:lang="en">chorales</skos:prefLabel>
+    <skos:definition xml:lang="en">Chorales.</skos:definition>
+    <skos:notation>ch</skos:notation>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.8rpj-ek77#pr">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <skos:inScheme rdf:resource="https://doi.org/10.6069/uwlswd.8rpj-ek77"/>
+    <skos:prefLabel xml:lang="en">preludes</skos:prefLabel>
+    <skos:definition xml:lang="en">Preludes.</skos:definition>
+    <skos:notation>pr</skos:notation>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.8rpj-ek77#cb">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <skos:inScheme rdf:resource="https://doi.org/10.6069/uwlswd.8rpj-ek77"/>
+    <skos:prefLabel xml:lang="en">chants, other religions</skos:prefLabel>
+    <skos:definition xml:lang="en">Chants, Other religions.</skos:definition>
+    <skos:notation>cb</skos:notation>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.8rpj-ek77#ts">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <skos:inScheme rdf:resource="https://doi.org/10.6069/uwlswd.8rpj-ek77"/>
+    <skos:prefLabel xml:lang="en">trio-sonatas</skos:prefLabel>
+    <skos:definition xml:lang="en">Trio-sonatas.</skos:definition>
+    <skos:notation>ts</skos:notation>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.8rpj-ek77#pp">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <skos:inScheme rdf:resource="https://doi.org/10.6069/uwlswd.8rpj-ek77"/>
+    <skos:prefLabel xml:lang="en">popular music</skos:prefLabel>
+    <skos:definition xml:lang="en">Popular music.</skos:definition>
+    <skos:notation>pp</skos:notation>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.8rpj-ek77#rg">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <skos:inScheme rdf:resource="https://doi.org/10.6069/uwlswd.8rpj-ek77"/>
+    <skos:prefLabel xml:lang="en">ragtime music</skos:prefLabel>
+    <skos:definition xml:lang="en">Ragtime music.</skos:definition>
+    <skos:notation>rg</skos:notation>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.8rpj-ek77#bd">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <skos:inScheme rdf:resource="https://doi.org/10.6069/uwlswd.8rpj-ek77"/>
+    <skos:prefLabel xml:lang="en">ballads</skos:prefLabel>
+    <skos:definition xml:lang="en">Ballads.</skos:definition>
+    <skos:notation>bd</skos:notation>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.8rpj-ek77#mz">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <skos:inScheme rdf:resource="https://doi.org/10.6069/uwlswd.8rpj-ek77"/>
+    <skos:prefLabel xml:lang="en">mazurkas</skos:prefLabel>
+    <skos:definition xml:lang="en">Mazurkas.</skos:definition>
+    <skos:notation>mz</skos:notation>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.8rpj-ek77#tc">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <skos:inScheme rdf:resource="https://doi.org/10.6069/uwlswd.8rpj-ek77"/>
+    <skos:prefLabel xml:lang="en">toccatas</skos:prefLabel>
+    <skos:definition xml:lang="en">Toccatas.</skos:definition>
+    <skos:notation>tc</skos:notation>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.8rpj-ek77#cl">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <skos:inScheme rdf:resource="https://doi.org/10.6069/uwlswd.8rpj-ek77"/>
+    <skos:prefLabel xml:lang="en">chorale preludes</skos:prefLabel>
+    <skos:definition xml:lang="en">Chorale preludes.</skos:definition>
+    <skos:notation>cl</skos:notation>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.8rpj-ek77#op">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <skos:inScheme rdf:resource="https://doi.org/10.6069/uwlswd.8rpj-ek77"/>
+    <skos:prefLabel xml:lang="en">operas</skos:prefLabel>
+    <skos:definition xml:lang="en">Operas.</skos:definition>
+    <skos:notation>op</skos:notation>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.8rpj-ek77#nn">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <skos:inScheme rdf:resource="https://doi.org/10.6069/uwlswd.8rpj-ek77"/>
+    <skos:prefLabel xml:lang="en">not applicable</skos:prefLabel>
+    <skos:definition xml:lang="en">Not applicable</skos:definition>
+    <skos:notation>nn</skos:notation>
+    <skos:scopeNote xml:lang="en">Used for any item that is a non-music sound recording.</skos:scopeNote>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.8rpj-ek77#cg">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <skos:inScheme rdf:resource="https://doi.org/10.6069/uwlswd.8rpj-ek77"/>
+    <skos:prefLabel xml:lang="en">concerti grossi</skos:prefLabel>
+    <skos:definition xml:lang="en">Concerti grossi.</skos:definition>
+    <skos:notation>cg</skos:notation>
   </rdf:Description>
   <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.8rpj-ek77#pv">
     <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
@@ -545,13 +518,47 @@
     <skos:definition xml:lang="en">Pavans.</skos:definition>
     <skos:notation>pv</skos:notation>
   </rdf:Description>
-  <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.8rpj-ek77#fm">
+  <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.8rpj-ek77#wz">
     <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
     <skos:inScheme rdf:resource="https://doi.org/10.6069/uwlswd.8rpj-ek77"/>
-    <skos:prefLabel xml:lang="en">folk music</skos:prefLabel>
-    <skos:definition xml:lang="en">Folk music.</skos:definition>
-    <skos:notation>fm</skos:notation>
-    <skos:scopeNote xml:lang="en">Includes folk songs, etc.</skos:scopeNote>
+    <skos:prefLabel xml:lang="en">waltzes</skos:prefLabel>
+    <skos:definition xml:lang="en">Waltzes.</skos:definition>
+    <skos:notation>wz</skos:notation>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.8rpj-ek77#rd">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <skos:inScheme rdf:resource="https://doi.org/10.6069/uwlswd.8rpj-ek77"/>
+    <skos:prefLabel xml:lang="en">rondos</skos:prefLabel>
+    <skos:definition xml:lang="en">Rondos.</skos:definition>
+    <skos:notation>rd</skos:notation>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.8rpj-ek77#ov">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <skos:inScheme rdf:resource="https://doi.org/10.6069/uwlswd.8rpj-ek77"/>
+    <skos:prefLabel xml:lang="en">overtures</skos:prefLabel>
+    <skos:definition xml:lang="en">Overtures.</skos:definition>
+    <skos:notation>ov</skos:notation>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.8rpj-ek77#cy">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <skos:inScheme rdf:resource="https://doi.org/10.6069/uwlswd.8rpj-ek77"/>
+    <skos:prefLabel xml:lang="en">country music</skos:prefLabel>
+    <skos:definition xml:lang="en">Country music.</skos:definition>
+    <skos:notation>cy</skos:notation>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.8rpj-ek77#mi">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <skos:inScheme rdf:resource="https://doi.org/10.6069/uwlswd.8rpj-ek77"/>
+    <skos:prefLabel xml:lang="en">minuets</skos:prefLabel>
+    <skos:definition xml:lang="en">Minuets.</skos:definition>
+    <skos:notation>mi</skos:notation>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.8rpj-ek77#sp">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <skos:inScheme rdf:resource="https://doi.org/10.6069/uwlswd.8rpj-ek77"/>
+    <skos:prefLabel xml:lang="en">symphonic poems</skos:prefLabel>
+    <skos:definition xml:lang="en">Symphonic poems.</skos:definition>
+    <skos:notation>sp</skos:notation>
   </rdf:Description>
   <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.8rpj-ek77#co">
     <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
@@ -560,18 +567,11 @@
     <skos:definition xml:lang="en">Concertos.</skos:definition>
     <skos:notation>co</skos:notation>
   </rdf:Description>
-  <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.8rpj-ek77#mp">
+  <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.8rpj-ek77#an">
     <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
     <skos:inScheme rdf:resource="https://doi.org/10.6069/uwlswd.8rpj-ek77"/>
-    <skos:prefLabel xml:lang="en">motion picture music</skos:prefLabel>
-    <skos:definition xml:lang="en">Motion picture music.</skos:definition>
-    <skos:notation>mp</skos:notation>
-  </rdf:Description>
-  <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.8rpj-ek77#rp">
-    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-    <skos:inScheme rdf:resource="https://doi.org/10.6069/uwlswd.8rpj-ek77"/>
-    <skos:prefLabel xml:lang="en">rhapsodies</skos:prefLabel>
-    <skos:definition xml:lang="en">Rhapsodies.</skos:definition>
-    <skos:notation>rp</skos:notation>
+    <skos:prefLabel xml:lang="en">anthems</skos:prefLabel>
+    <skos:definition xml:lang="en">Anthems.</skos:definition>
+    <skos:notation>an</skos:notation>
   </rdf:Description>
 </rdf:RDF>

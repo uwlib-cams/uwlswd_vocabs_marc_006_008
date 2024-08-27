@@ -6,20 +6,20 @@
    xmlns:schema="https://schema.org/"
    xmlns:skos="http://www.w3.org/2004/02/skos/core#"
 >
-  <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.mkjn-bp10#j">
+  <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.mkjn-bp10#m">
     <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
     <skos:inScheme rdf:resource="https://doi.org/10.6069/uwlswd.mkjn-bp10"/>
-    <skos:prefLabel xml:lang="en">online system or service</skos:prefLabel>
-    <skos:definition xml:lang="en">Supports system-based user interaction.</skos:definition>
-    <skos:notation>j</skos:notation>
-    <skos:scopeNote xml:lang="en">May contain nonbibliographic information. If the focus of the record is to describe the system itself, with the content of the databases incidental contained therein, it is coded here. If the resource is an online file where the system is incidental to the description, it falls into another catagory. Examples are: online library systems (consisting of a variety of databases), FTP sites, electronic bulletin boards, network information centers.</skos:scopeNote>
+    <skos:prefLabel xml:lang="en">combination</skos:prefLabel>
+    <skos:definition xml:lang="en">Combination of two or more types of files.</skos:definition>
+    <skos:notation>m</skos:notation>
   </rdf:Description>
-  <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.mkjn-bp10#i">
+  <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.mkjn-bp10#d">
     <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
     <skos:inScheme rdf:resource="https://doi.org/10.6069/uwlswd.mkjn-bp10"/>
-    <skos:prefLabel xml:lang="en">interactive multimedia</skos:prefLabel>
-    <skos:definition xml:lang="en">Supports navigation through and manipulation of many kinds of media (i.e., audio, video, etc.). Interactive multimedia usually gives the user a high level of control, often allowing almost conversational interaction with the computer and data.</skos:definition>
-    <skos:notation>i</skos:notation>
+    <skos:prefLabel xml:lang="en">document</skos:prefLabel>
+    <skos:definition xml:lang="en">Textual, consisting mostly of alphabetic information (words or sentences) converted into a coded format that can be processed, sorted, and manipulated by machine, and then retrieved in many optional formats.</skos:definition>
+    <skos:notation>d</skos:notation>
+    <skos:scopeNote xml:lang="en">Includes language material intended to constitute a textual document, whether represented as ASCII or image data. Includes both single bibliographic entities or a collection of bibliographic entities. Includes documents whose primary purpose is textual, even if search software is present.</skos:scopeNote>
   </rdf:Description>
   <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.mkjn-bp10">
     <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#ConceptScheme"/>
@@ -45,34 +45,20 @@
     <dct:hasFormat rdf:resource="https://uwlib-cams.github.io/uwlswd_vocabs_marc_006_008/008/computer_type_of_computer_file/computer_type_of_computer_file.html"/>
     <dct:format rdf:resource="http://www.w3.org/ns/formats/RDF_XML"/>
   </rdf:Description>
-  <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.mkjn-bp10#g">
+  <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.mkjn-bp10#c">
     <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
     <skos:inScheme rdf:resource="https://doi.org/10.6069/uwlswd.mkjn-bp10"/>
-    <skos:prefLabel xml:lang="en">game</skos:prefLabel>
-    <skos:definition xml:lang="en">Intended for recreational or educational use. Generally games consist of text and software.</skos:definition>
-    <skos:notation>g</skos:notation>
-    <skos:scopeNote xml:lang="en">Used for a videogame.</skos:scopeNote>
+    <skos:prefLabel xml:lang="en">representational</skos:prefLabel>
+    <skos:definition xml:lang="en">Pictorial or graphic information that can be manipulated in conjunction with other types of files to produce graphic patterns that can be used to interpret and give meaning to the information.</skos:definition>
+    <skos:notation>c</skos:notation>
+    <skos:scopeNote xml:lang="en">Does not include a document in image format.</skos:scopeNote>
   </rdf:Description>
-  <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.mkjn-bp10#u">
+  <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.mkjn-bp10#a">
     <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
     <skos:inScheme rdf:resource="https://doi.org/10.6069/uwlswd.mkjn-bp10"/>
-    <skos:prefLabel xml:lang="en">unknown</skos:prefLabel>
-    <skos:definition xml:lang="en">Type of file is unknown.</skos:definition>
-    <skos:notation>u</skos:notation>
-  </rdf:Description>
-  <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.mkjn-bp10#h">
-    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-    <skos:inScheme rdf:resource="https://doi.org/10.6069/uwlswd.mkjn-bp10"/>
-    <skos:prefLabel xml:lang="en">sound</skos:prefLabel>
-    <skos:definition xml:lang="en">Data encoding sounds producible by the computer.</skos:definition>
-    <skos:notation>h</skos:notation>
-  </rdf:Description>
-  <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.mkjn-bp10#f">
-    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-    <skos:inScheme rdf:resource="https://doi.org/10.6069/uwlswd.mkjn-bp10"/>
-    <skos:prefLabel xml:lang="en">font</skos:prefLabel>
-    <skos:definition xml:lang="en">Information for a computer to produce fonts.</skos:definition>
-    <skos:notation>f</skos:notation>
+    <skos:prefLabel xml:lang="en">numeric data</skos:prefLabel>
+    <skos:definition xml:lang="en">Mostly numbers or representation by numbers, such as records containing all information on student test scores, all information on football team statistics, etc. Information may be original surveys and/or information that has been summarized or statistically manipulated.</skos:definition>
+    <skos:notation>a</skos:notation>
   </rdf:Description>
   <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.mkjn-bp10#e">
     <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
@@ -82,27 +68,19 @@
     <skos:notation>e</skos:notation>
     <skos:scopeNote xml:lang="en">Includes data from library catalogs or citation databases. The data may be in a structured or unstructured form. Search software may be present, but the purpose of the record is description of the content of the bibliographic data or database, rather than description of the online system or service.</skos:scopeNote>
   </rdf:Description>
-  <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.mkjn-bp10#a">
+  <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.mkjn-bp10#f">
     <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
     <skos:inScheme rdf:resource="https://doi.org/10.6069/uwlswd.mkjn-bp10"/>
-    <skos:prefLabel xml:lang="en">numeric data</skos:prefLabel>
-    <skos:definition xml:lang="en">Mostly numbers or representation by numbers, such as records containing all information on student test scores, all information on football team statistics, etc. Information may be original surveys and/or information that has been summarized or statistically manipulated.</skos:definition>
-    <skos:notation>a</skos:notation>
+    <skos:prefLabel xml:lang="en">font</skos:prefLabel>
+    <skos:definition xml:lang="en">Information for a computer to produce fonts.</skos:definition>
+    <skos:notation>f</skos:notation>
   </rdf:Description>
-  <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.mkjn-bp10#c">
+  <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.mkjn-bp10#u">
     <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
     <skos:inScheme rdf:resource="https://doi.org/10.6069/uwlswd.mkjn-bp10"/>
-    <skos:prefLabel xml:lang="en">representational</skos:prefLabel>
-    <skos:definition xml:lang="en">Pictorial or graphic information that can be manipulated in conjunction with other types of files to produce graphic patterns that can be used to interpret and give meaning to the information.</skos:definition>
-    <skos:notation>c</skos:notation>
-    <skos:scopeNote xml:lang="en">Does not include a document in image format.</skos:scopeNote>
-  </rdf:Description>
-  <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.mkjn-bp10#z">
-    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-    <skos:inScheme rdf:resource="https://doi.org/10.6069/uwlswd.mkjn-bp10"/>
-    <skos:prefLabel xml:lang="en">other</skos:prefLabel>
-    <skos:definition xml:lang="en">Type of computer file other than numeric data, computer program, representational, document, bibliographic data, font, game, sound, interactive multimedia, online system or service, or a combination of these listed files.</skos:definition>
-    <skos:notation>z</skos:notation>
+    <skos:prefLabel xml:lang="en">unknown</skos:prefLabel>
+    <skos:definition xml:lang="en">Type of file is unknown.</skos:definition>
+    <skos:notation>u</skos:notation>
   </rdf:Description>
   <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.mkjn-bp10#b">
     <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
@@ -112,19 +90,41 @@
     <skos:notation>b</skos:notation>
     <skos:scopeNote xml:lang="en">Not used for game, font.</skos:scopeNote>
   </rdf:Description>
-  <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.mkjn-bp10#d">
+  <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.mkjn-bp10#g">
     <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
     <skos:inScheme rdf:resource="https://doi.org/10.6069/uwlswd.mkjn-bp10"/>
-    <skos:prefLabel xml:lang="en">document</skos:prefLabel>
-    <skos:definition xml:lang="en">Textual, consisting mostly of alphabetic information (words or sentences) converted into a coded format that can be processed, sorted, and manipulated by machine, and then retrieved in many optional formats.</skos:definition>
-    <skos:notation>d</skos:notation>
-    <skos:scopeNote xml:lang="en">Includes language material intended to constitute a textual document, whether represented as ASCII or image data. Includes both single bibliographic entities or a collection of bibliographic entities. Includes documents whose primary purpose is textual, even if search software is present.</skos:scopeNote>
+    <skos:prefLabel xml:lang="en">game</skos:prefLabel>
+    <skos:definition xml:lang="en">Intended for recreational or educational use. Generally games consist of text and software.</skos:definition>
+    <skos:notation>g</skos:notation>
+    <skos:scopeNote xml:lang="en">Used for a videogame.</skos:scopeNote>
   </rdf:Description>
-  <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.mkjn-bp10#m">
+  <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.mkjn-bp10#i">
     <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
     <skos:inScheme rdf:resource="https://doi.org/10.6069/uwlswd.mkjn-bp10"/>
-    <skos:prefLabel xml:lang="en">combination</skos:prefLabel>
-    <skos:definition xml:lang="en">Combination of two or more types of files.</skos:definition>
-    <skos:notation>m</skos:notation>
+    <skos:prefLabel xml:lang="en">interactive multimedia</skos:prefLabel>
+    <skos:definition xml:lang="en">Supports navigation through and manipulation of many kinds of media (i.e., audio, video, etc.). Interactive multimedia usually gives the user a high level of control, often allowing almost conversational interaction with the computer and data.</skos:definition>
+    <skos:notation>i</skos:notation>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.mkjn-bp10#h">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <skos:inScheme rdf:resource="https://doi.org/10.6069/uwlswd.mkjn-bp10"/>
+    <skos:prefLabel xml:lang="en">sound</skos:prefLabel>
+    <skos:definition xml:lang="en">Data encoding sounds producible by the computer.</skos:definition>
+    <skos:notation>h</skos:notation>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.mkjn-bp10#j">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <skos:inScheme rdf:resource="https://doi.org/10.6069/uwlswd.mkjn-bp10"/>
+    <skos:prefLabel xml:lang="en">online system or service</skos:prefLabel>
+    <skos:definition xml:lang="en">Supports system-based user interaction.</skos:definition>
+    <skos:notation>j</skos:notation>
+    <skos:scopeNote xml:lang="en">May contain nonbibliographic information. If the focus of the record is to describe the system itself, with the content of the databases incidental contained therein, it is coded here. If the resource is an online file where the system is incidental to the description, it falls into another catagory. Examples are: online library systems (consisting of a variety of databases), FTP sites, electronic bulletin boards, network information centers.</skos:scopeNote>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.mkjn-bp10#z">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <skos:inScheme rdf:resource="https://doi.org/10.6069/uwlswd.mkjn-bp10"/>
+    <skos:prefLabel xml:lang="en">other</skos:prefLabel>
+    <skos:definition xml:lang="en">Type of computer file other than numeric data, computer program, representational, document, bibliographic data, font, game, sound, interactive multimedia, online system or service, or a combination of these listed files.</skos:definition>
+    <skos:notation>z</skos:notation>
   </rdf:Description>
 </rdf:RDF>

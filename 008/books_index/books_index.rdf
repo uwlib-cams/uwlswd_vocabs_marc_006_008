@@ -6,13 +6,6 @@
    xmlns:schema="https://schema.org/"
    xmlns:skos="http://www.w3.org/2004/02/skos/core#"
 >
-  <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.m0xp-h565#1">
-    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-    <skos:inScheme rdf:resource="https://doi.org/10.6069/uwlswd.m0xp-h565"/>
-    <skos:prefLabel xml:lang="en">index present</skos:prefLabel>
-    <skos:definition xml:lang="en">Index present.</skos:definition>
-    <skos:notation>1</skos:notation>
-  </rdf:Description>
   <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.m0xp-h565">
     <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#ConceptScheme"/>
     <dct:type rdf:resource="http://purl.org/dc/dcmitype/Dataset"/>
@@ -43,5 +36,12 @@
     <skos:prefLabel xml:lang="en">no index</skos:prefLabel>
     <skos:definition xml:lang="en">No index.</skos:definition>
     <skos:notation>0</skos:notation>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.m0xp-h565#1">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <skos:inScheme rdf:resource="https://doi.org/10.6069/uwlswd.m0xp-h565"/>
+    <skos:prefLabel xml:lang="en">index present</skos:prefLabel>
+    <skos:definition xml:lang="en">Index present.</skos:definition>
+    <skos:notation>1</skos:notation>
   </rdf:Description>
 </rdf:RDF>

@@ -30,6 +30,12 @@
     <dct:hasFormat rdf:resource="https://uwlib-cams.github.io/uwlswd_vocabs_marc_006_008/008/continuing_entry_convention/continuing_entry_convention.html"/>
     <dct:format rdf:resource="http://www.w3.org/ns/formats/RDF_XML"/>
   </rdf:Description>
+  <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.ypcx-6882#2">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <skos:inScheme rdf:resource="https://doi.org/10.6069/uwlswd.ypcx-6882"/>
+    <skos:prefLabel xml:lang="en">integrated entry</skos:prefLabel>
+    <skos:notation>2</skos:notation>
+  </rdf:Description>
   <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.ypcx-6882#1">
     <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
     <skos:inScheme rdf:resource="https://doi.org/10.6069/uwlswd.ypcx-6882"/>
@@ -41,11 +47,5 @@
     <skos:inScheme rdf:resource="https://doi.org/10.6069/uwlswd.ypcx-6882"/>
     <skos:prefLabel xml:lang="en">successive entry</skos:prefLabel>
     <skos:notation>0</skos:notation>
-  </rdf:Description>
-  <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.ypcx-6882#2">
-    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-    <skos:inScheme rdf:resource="https://doi.org/10.6069/uwlswd.ypcx-6882"/>
-    <skos:prefLabel xml:lang="en">integrated entry</skos:prefLabel>
-    <skos:notation>2</skos:notation>
   </rdf:Description>
 </rdf:RDF>

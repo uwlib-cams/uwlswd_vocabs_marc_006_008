@@ -7,12 +7,26 @@
    xmlns:skos="http://www.w3.org/2004/02/skos/core#"
    xmlns:uwp="https://doi.org/10.6069/uwlib.55.d.3#"
 >
-  <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.aec4-nv40#c">
+  <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.aec4-nv40#d">
     <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
     <skos:inScheme rdf:resource="https://doi.org/10.6069/uwlswd.aec4-nv40"/>
-    <skos:prefLabel xml:lang="en">pre-adolescent</skos:prefLabel>
-    <skos:definition xml:lang="en">Young people, approximate ages 9-13.</skos:definition>
-    <skos:notation>c</skos:notation>
+    <skos:prefLabel xml:lang="en">adolescent</skos:prefLabel>
+    <skos:definition xml:lang="en">Young people, approximate ages 14-17.</skos:definition>
+    <skos:notation>d</skos:notation>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.aec4-nv40#j">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <skos:inScheme rdf:resource="https://doi.org/10.6069/uwlswd.aec4-nv40"/>
+    <skos:prefLabel xml:lang="en">juvenile</skos:prefLabel>
+    <skos:definition xml:lang="en">Children and young people, approximate ages 0-15.</skos:definition>
+    <skos:notation>j</skos:notation>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.aec4-nv40#g">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <skos:inScheme rdf:resource="https://doi.org/10.6069/uwlswd.aec4-nv40"/>
+    <skos:prefLabel xml:lang="en">general</skos:prefLabel>
+    <skos:definition xml:lang="en">Of general interest and not aimed at a particular target audience.</skos:definition>
+    <skos:notation>g</skos:notation>
   </rdf:Description>
   <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.aec4-nv40">
     <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#ConceptScheme"/>
@@ -42,6 +56,13 @@
     <uwp:appliesToMaterial>music</uwp:appliesToMaterial>
     <uwp:appliesToMaterial>visual materials</uwp:appliesToMaterial>
   </rdf:Description>
+  <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.aec4-nv40#b">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <skos:inScheme rdf:resource="https://doi.org/10.6069/uwlswd.aec4-nv40"/>
+    <skos:prefLabel xml:lang="en">primary</skos:prefLabel>
+    <skos:definition xml:lang="en">Children, approximate ages 6-8 years.</skos:definition>
+    <skos:notation>b</skos:notation>
+  </rdf:Description>
   <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.aec4-nv40#f">
     <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
     <skos:inScheme rdf:resource="https://doi.org/10.6069/uwlswd.aec4-nv40"/>
@@ -49,13 +70,6 @@
     <skos:definition xml:lang="en">Aimed at a particular audience and the nature of the presentation would make the item of little interest to other audiences.</skos:definition>
     <skos:notation>f</skos:notation>
     <skos:scopeNote xml:lang="en">Examples include: 1) technical material geared to a specialized audience, and 2) items which address a limited audience; for example, the employees of a single organization.</skos:scopeNote>
-  </rdf:Description>
-  <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.aec4-nv40#g">
-    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-    <skos:inScheme rdf:resource="https://doi.org/10.6069/uwlswd.aec4-nv40"/>
-    <skos:prefLabel xml:lang="en">general</skos:prefLabel>
-    <skos:definition xml:lang="en">Of general interest and not aimed at a particular target audience.</skos:definition>
-    <skos:notation>g</skos:notation>
   </rdf:Description>
   <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.aec4-nv40#pound">
     <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
@@ -65,19 +79,12 @@
     <skos:scopeNote xml:lang="en">For video visual materials: use for all original or historical graphic material.</skos:scopeNote>
     <skos:notation>#</skos:notation>
   </rdf:Description>
-  <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.aec4-nv40#b">
+  <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.aec4-nv40#a">
     <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
     <skos:inScheme rdf:resource="https://doi.org/10.6069/uwlswd.aec4-nv40"/>
-    <skos:prefLabel xml:lang="en">primary</skos:prefLabel>
-    <skos:definition xml:lang="en">Children, approximate ages 6-8 years.</skos:definition>
-    <skos:notation>b</skos:notation>
-  </rdf:Description>
-  <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.aec4-nv40#d">
-    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-    <skos:inScheme rdf:resource="https://doi.org/10.6069/uwlswd.aec4-nv40"/>
-    <skos:prefLabel xml:lang="en">adolescent</skos:prefLabel>
-    <skos:definition xml:lang="en">Young people, approximate ages 14-17.</skos:definition>
-    <skos:notation>d</skos:notation>
+    <skos:prefLabel xml:lang="en">preschool</skos:prefLabel>
+    <skos:definition xml:lang="en">Children, approximate ages 0-5 years.</skos:definition>
+    <skos:notation>a</skos:notation>
   </rdf:Description>
   <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.aec4-nv40#e">
     <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
@@ -86,18 +93,11 @@
     <skos:definition xml:lang="en">Intended for adults.</skos:definition>
     <skos:notation>e</skos:notation>
   </rdf:Description>
-  <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.aec4-nv40#j">
+  <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.aec4-nv40#c">
     <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
     <skos:inScheme rdf:resource="https://doi.org/10.6069/uwlswd.aec4-nv40"/>
-    <skos:prefLabel xml:lang="en">juvenile</skos:prefLabel>
-    <skos:definition xml:lang="en">Children and young people, approximate ages 0-15.</skos:definition>
-    <skos:notation>j</skos:notation>
-  </rdf:Description>
-  <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.aec4-nv40#a">
-    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-    <skos:inScheme rdf:resource="https://doi.org/10.6069/uwlswd.aec4-nv40"/>
-    <skos:prefLabel xml:lang="en">preschool</skos:prefLabel>
-    <skos:definition xml:lang="en">Children, approximate ages 0-5 years.</skos:definition>
-    <skos:notation>a</skos:notation>
+    <skos:prefLabel xml:lang="en">pre-adolescent</skos:prefLabel>
+    <skos:definition xml:lang="en">Young people, approximate ages 9-13.</skos:definition>
+    <skos:notation>c</skos:notation>
   </rdf:Description>
 </rdf:RDF>

@@ -14,37 +14,12 @@
     <skos:scopeNote xml:lang="en">Also used when the title incorporates words from more than one alphabet or script.</skos:scopeNote>
     <skos:notation>z</skos:notation>
   </rdf:Description>
-  <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.084w-3778#h">
+  <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.084w-3778#u">
     <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
     <skos:inScheme rdf:resource="https://doi.org/10.6069/uwlswd.084w-3778"/>
-    <skos:prefLabel xml:lang="en">hebrew</skos:prefLabel>
-    <skos:notation>h</skos:notation>
-  </rdf:Description>
-  <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.084w-3778#a">
-    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-    <skos:inScheme rdf:resource="https://doi.org/10.6069/uwlswd.084w-3778"/>
-    <skos:prefLabel xml:lang="en">basic roman</skos:prefLabel>
-    <skos:definition xml:lang="en">Original alphabet of the title is the Roman alphabet. Languages that are usually associated include: Basque, English, Latin, Welsh, and many languages of Central and Southern Africa.</skos:definition>
-    <skos:scopeNote xml:lang="en">Includes no diacritics or special characters.</skos:scopeNote>
-    <skos:notation>a</skos:notation>
-  </rdf:Description>
-  <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.084w-3778#j">
-    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-    <skos:inScheme rdf:resource="https://doi.org/10.6069/uwlswd.084w-3778"/>
-    <skos:prefLabel xml:lang="en">devanagari</skos:prefLabel>
-    <skos:notation>j</skos:notation>
-  </rdf:Description>
-  <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.084w-3778#pound">
-    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-    <skos:inScheme rdf:resource="https://doi.org/10.6069/uwlswd.084w-3778"/>
-    <skos:prefLabel xml:lang="en">no alphabet or script given/no key title</skos:prefLabel>
-    <skos:notation>#</skos:notation>
-  </rdf:Description>
-  <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.084w-3778#l">
-    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-    <skos:inScheme rdf:resource="https://doi.org/10.6069/uwlswd.084w-3778"/>
-    <skos:prefLabel xml:lang="en">tamil</skos:prefLabel>
-    <skos:notation>l</skos:notation>
+    <skos:prefLabel xml:lang="en">unknown</skos:prefLabel>
+    <skos:definition xml:lang="en">Original alphabet of the title is unknown.</skos:definition>
+    <skos:notation>u</skos:notation>
   </rdf:Description>
   <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.084w-3778">
     <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#ConceptScheme"/>
@@ -70,11 +45,35 @@
     <dct:hasFormat rdf:resource="https://uwlib-cams.github.io/uwlswd_vocabs_marc_006_008/008/continuing_original_alphabet_or_script_of_title/continuing_original_alphabet_or_script_of_title.html"/>
     <dct:format rdf:resource="http://www.w3.org/ns/formats/RDF_XML"/>
   </rdf:Description>
-  <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.084w-3778#g">
+  <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.084w-3778#c">
     <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
     <skos:inScheme rdf:resource="https://doi.org/10.6069/uwlswd.084w-3778"/>
-    <skos:prefLabel xml:lang="en">greek</skos:prefLabel>
-    <skos:notation>g</skos:notation>
+    <skos:prefLabel xml:lang="en">cyrillic</skos:prefLabel>
+    <skos:notation>c</skos:notation>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.084w-3778#f">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <skos:inScheme rdf:resource="https://doi.org/10.6069/uwlswd.084w-3778"/>
+    <skos:prefLabel xml:lang="en">arabic</skos:prefLabel>
+    <skos:notation>f</skos:notation>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.084w-3778#i">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <skos:inScheme rdf:resource="https://doi.org/10.6069/uwlswd.084w-3778"/>
+    <skos:prefLabel xml:lang="en">thai</skos:prefLabel>
+    <skos:notation>i</skos:notation>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.084w-3778#j">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <skos:inScheme rdf:resource="https://doi.org/10.6069/uwlswd.084w-3778"/>
+    <skos:prefLabel xml:lang="en">devanagari</skos:prefLabel>
+    <skos:notation>j</skos:notation>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.084w-3778#pound">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <skos:inScheme rdf:resource="https://doi.org/10.6069/uwlswd.084w-3778"/>
+    <skos:prefLabel xml:lang="en">no alphabet or script given/no key title</skos:prefLabel>
+    <skos:notation>#</skos:notation>
   </rdf:Description>
   <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.084w-3778#b">
     <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
@@ -84,30 +83,25 @@
     <skos:scopeNote xml:lang="en">Includes diacritics and special characters.</skos:scopeNote>
     <skos:notation>b</skos:notation>
   </rdf:Description>
+  <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.084w-3778#l">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <skos:inScheme rdf:resource="https://doi.org/10.6069/uwlswd.084w-3778"/>
+    <skos:prefLabel xml:lang="en">tamil</skos:prefLabel>
+    <skos:notation>l</skos:notation>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.084w-3778#a">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <skos:inScheme rdf:resource="https://doi.org/10.6069/uwlswd.084w-3778"/>
+    <skos:prefLabel xml:lang="en">basic roman</skos:prefLabel>
+    <skos:definition xml:lang="en">Original alphabet of the title is the Roman alphabet. Languages that are usually associated include: Basque, English, Latin, Welsh, and many languages of Central and Southern Africa.</skos:definition>
+    <skos:scopeNote xml:lang="en">Includes no diacritics or special characters.</skos:scopeNote>
+    <skos:notation>a</skos:notation>
+  </rdf:Description>
   <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.084w-3778#e">
     <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
     <skos:inScheme rdf:resource="https://doi.org/10.6069/uwlswd.084w-3778"/>
     <skos:prefLabel xml:lang="en">chinese</skos:prefLabel>
     <skos:notation>e</skos:notation>
-  </rdf:Description>
-  <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.084w-3778#u">
-    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-    <skos:inScheme rdf:resource="https://doi.org/10.6069/uwlswd.084w-3778"/>
-    <skos:prefLabel xml:lang="en">unknown</skos:prefLabel>
-    <skos:definition xml:lang="en">Original alphabet of the title is unknown.</skos:definition>
-    <skos:notation>u</skos:notation>
-  </rdf:Description>
-  <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.084w-3778#i">
-    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-    <skos:inScheme rdf:resource="https://doi.org/10.6069/uwlswd.084w-3778"/>
-    <skos:prefLabel xml:lang="en">thai</skos:prefLabel>
-    <skos:notation>i</skos:notation>
-  </rdf:Description>
-  <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.084w-3778#f">
-    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-    <skos:inScheme rdf:resource="https://doi.org/10.6069/uwlswd.084w-3778"/>
-    <skos:prefLabel xml:lang="en">arabic</skos:prefLabel>
-    <skos:notation>f</skos:notation>
   </rdf:Description>
   <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.084w-3778#k">
     <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
@@ -115,16 +109,22 @@
     <skos:prefLabel xml:lang="en">korean</skos:prefLabel>
     <skos:notation>k</skos:notation>
   </rdf:Description>
-  <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.084w-3778#c">
-    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-    <skos:inScheme rdf:resource="https://doi.org/10.6069/uwlswd.084w-3778"/>
-    <skos:prefLabel xml:lang="en">cyrillic</skos:prefLabel>
-    <skos:notation>c</skos:notation>
-  </rdf:Description>
   <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.084w-3778#d">
     <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
     <skos:inScheme rdf:resource="https://doi.org/10.6069/uwlswd.084w-3778"/>
     <skos:prefLabel xml:lang="en">japanese</skos:prefLabel>
     <skos:notation>d</skos:notation>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.084w-3778#h">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <skos:inScheme rdf:resource="https://doi.org/10.6069/uwlswd.084w-3778"/>
+    <skos:prefLabel xml:lang="en">hebrew</skos:prefLabel>
+    <skos:notation>h</skos:notation>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.084w-3778#g">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <skos:inScheme rdf:resource="https://doi.org/10.6069/uwlswd.084w-3778"/>
+    <skos:prefLabel xml:lang="en">greek</skos:prefLabel>
+    <skos:notation>g</skos:notation>
   </rdf:Description>
 </rdf:RDF>

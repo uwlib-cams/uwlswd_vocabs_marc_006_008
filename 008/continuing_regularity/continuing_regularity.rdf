@@ -6,13 +6,6 @@
    xmlns:schema="https://schema.org/"
    xmlns:skos="http://www.w3.org/2004/02/skos/core#"
 >
-  <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.npns-e903#u">
-    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-    <skos:inScheme rdf:resource="https://doi.org/10.6069/uwlswd.npns-e903"/>
-    <skos:prefLabel xml:lang="en">unknown</skos:prefLabel>
-    <skos:definition xml:lang="en">Regularity of the item is unknown.</skos:definition>
-    <skos:notation>u</skos:notation>
-  </rdf:Description>
   <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.npns-e903">
     <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#ConceptScheme"/>
     <dct:type rdf:resource="http://purl.org/dc/dcmitype/Dataset"/>
@@ -60,5 +53,12 @@
     <skos:definition xml:lang="en">Predictable irregularity pattern.</skos:definition>
     <skos:scopeNote xml:lang="en">Used, for example, when the publishing pattern intentionally deviates from a standard pattern (example: Monthly, except July and Aug) or to accommodate an annual cumulation.</skos:scopeNote>
     <skos:notation>n</skos:notation>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.npns-e903#u">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <skos:inScheme rdf:resource="https://doi.org/10.6069/uwlswd.npns-e903"/>
+    <skos:prefLabel xml:lang="en">unknown</skos:prefLabel>
+    <skos:definition xml:lang="en">Regularity of the item is unknown.</skos:definition>
+    <skos:notation>u</skos:notation>
   </rdf:Description>
 </rdf:RDF>
