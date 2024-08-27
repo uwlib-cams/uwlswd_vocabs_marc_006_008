@@ -18,7 +18,7 @@
 <https://doi.org/10.6069/uwlswd.m0xp-h565> a skos:ConceptScheme ;
     dc:contributor "Metadata Management Associates"@en ;
     dc:language "en" ;
-    dct:alternative "MARC21 008/30 values for books expressed using RDF"@en ;
+    dct:alternative "MARC21 008/31 values for books expressed using RDF"@en ;
     dct:contributor <http://viaf.org/viaf/151962300> ;
     dct:creator <http://viaf.org/viaf/139541794> ;
     dct:description "Indicates whether the item includes an index to its own contents."@en ;

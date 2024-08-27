@@ -6,11 +6,18 @@
    xmlns:schema="https://schema.org/"
    xmlns:skos="http://www.w3.org/2004/02/skos/core#"
 >
+  <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.m0xp-h565#1">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <skos:inScheme rdf:resource="https://doi.org/10.6069/uwlswd.m0xp-h565"/>
+    <skos:prefLabel xml:lang="en">index present</skos:prefLabel>
+    <skos:definition xml:lang="en">Index present.</skos:definition>
+    <skos:notation>1</skos:notation>
+  </rdf:Description>
   <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.m0xp-h565">
     <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#ConceptScheme"/>
     <dct:type rdf:resource="http://purl.org/dc/dcmitype/Dataset"/>
     <dct:title xml:lang="en">Books: index</dct:title>
-    <dct:alternative xml:lang="en">MARC21 008/30 values for books expressed using RDF</dct:alternative>
+    <dct:alternative xml:lang="en">MARC21 008/31 values for books expressed using RDF</dct:alternative>
     <dct:description xml:lang="en">Indicates whether the item includes an index to its own contents.</dct:description>
     <schema:disambiguatingDescription xml:lang="en">SKOS Concept Scheme for MARC 00X Values</schema:disambiguatingDescription>
     <dct:publisher rdf:resource="http://viaf.org/viaf/139541794"/>
@@ -29,13 +36,6 @@
     <dct:hasFormat rdf:resource="https://uwlib-cams.github.io/uwlswd_vocabs_marc_006_008/008/books_index/books_index.nt"/>
     <dct:hasFormat rdf:resource="https://uwlib-cams.github.io/uwlswd_vocabs_marc_006_008/008/books_index/books_index.jsonld"/>
     <dct:hasFormat rdf:resource="https://uwlib-cams.github.io/uwlswd_vocabs_marc_006_008/008/books_index/books_index.html"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.m0xp-h565#1">
-    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-    <skos:inScheme rdf:resource="https://doi.org/10.6069/uwlswd.m0xp-h565"/>
-    <skos:prefLabel xml:lang="en">index present</skos:prefLabel>
-    <skos:definition xml:lang="en">Index present.</skos:definition>
-    <skos:notation>1</skos:notation>
   </rdf:Description>
   <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.m0xp-h565#0">
     <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
