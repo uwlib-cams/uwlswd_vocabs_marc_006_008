@@ -1,0 +1,43 @@
+<https://doi.org/10.6069/uwlswd.tsh7-5175> <http://purl.org/dc/elements/1.1/language> "en" .
+<https://doi.org/10.6069/uwlswd.tsh7-5175#u> <http://www.w3.org/2004/02/skos/core#inScheme> <https://doi.org/10.6069/uwlswd.tsh7-5175> .
+<https://doi.org/10.6069/uwlswd.tsh7-5175#c> <http://www.w3.org/2004/02/skos/core#definition> "Creator of the cataloging data is a participant (other than a national bibliographic agency) in a cooperative cataloging program."@en .
+<https://doi.org/10.6069/uwlswd.tsh7-5175> <http://purl.org/dc/terms/title> "All: cataloging source"@en .
+<https://doi.org/10.6069/uwlswd.tsh7-5175#d> <http://www.w3.org/2004/02/skos/core#notation> "d" .
+<https://doi.org/10.6069/uwlswd.tsh7-5175#pound> <http://www.w3.org/2004/02/skos/core#inScheme> <https://doi.org/10.6069/uwlswd.tsh7-5175> .
+<https://doi.org/10.6069/uwlswd.tsh7-5175#d> <http://www.w3.org/2004/02/skos/core#definition> "Source of the cataloging data is an organization that is other than a national bibliographic agency or a participant in a cooperative cataloging program."@en .
+<https://doi.org/10.6069/uwlswd.tsh7-5175#c> <http://www.w3.org/2004/02/skos/core#prefLabel> "cooperative cataloging program"@en .
+<https://doi.org/10.6069/uwlswd.tsh7-5175> <https://schema.org/disambiguatingDescription> "SKOS Concept Scheme for MARC 00X Values"@en .
+<https://doi.org/10.6069/uwlswd.tsh7-5175> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#ConceptScheme> .
+<https://doi.org/10.6069/uwlswd.tsh7-5175> <http://purl.org/dc/terms/contributor> <http://viaf.org/viaf/151962300> .
+<https://doi.org/10.6069/uwlswd.tsh7-5175#u> <http://www.w3.org/2004/02/skos/core#notation> "u" .
+<https://doi.org/10.6069/uwlswd.tsh7-5175#c> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<https://doi.org/10.6069/uwlswd.tsh7-5175#pound> <http://www.w3.org/2004/02/skos/core#definition> "Creator of the original cataloging data is a national bibliographic agency (e.g., U.S. Library of Congress or Library and Archives Canada)."@en .
+<https://doi.org/10.6069/uwlswd.tsh7-5175> <http://purl.org/dc/terms/type> <http://purl.org/dc/dcmitype/Dataset> .
+<https://doi.org/10.6069/uwlswd.tsh7-5175> <http://purl.org/dc/terms/issued> "2024" .
+<https://doi.org/10.6069/uwlswd.tsh7-5175> <https://schema.org/version> "1-1-0" .
+<https://doi.org/10.6069/uwlswd.tsh7-5175#d> <http://www.w3.org/2004/02/skos/core#inScheme> <https://doi.org/10.6069/uwlswd.tsh7-5175> .
+<https://doi.org/10.6069/uwlswd.tsh7-5175#u> <http://www.w3.org/2004/02/skos/core#scopeNote> "Used when an organization transcribes manual cataloging data from an unknown source. In this case, field 040 lacks a subfield $a and subfield $c contains the MARC code for the transcribing organization."@en .
+<https://doi.org/10.6069/uwlswd.tsh7-5175#u> <http://www.w3.org/2004/02/skos/core#prefLabel> "unknown"@en .
+<https://doi.org/10.6069/uwlswd.tsh7-5175> <http://purl.org/dc/terms/description> "Indicates the original cataloging source of the record."@en .
+<https://doi.org/10.6069/uwlswd.tsh7-5175> <http://purl.org/dc/terms/creator> <http://viaf.org/viaf/139541794> .
+<https://doi.org/10.6069/uwlswd.tsh7-5175> <http://purl.org/dc/terms/license> <http://creativecommons.org/publicdomain/zero/1.0> .
+<https://doi.org/10.6069/uwlswd.tsh7-5175#pound> <http://www.w3.org/2004/02/skos/core#notation> "#" .
+<https://doi.org/10.6069/uwlswd.tsh7-5175#pound> <http://www.w3.org/2004/02/skos/core#prefLabel> "national bibliographic agency"@en .
+<https://doi.org/10.6069/uwlswd.tsh7-5175> <http://purl.org/dc/terms/hasFormat> <https://uwlib-cams.github.io/uwlswd_vocabs_marc_006_008/008/all_cataloging_source/all_cataloging_source.html> .
+<https://doi.org/10.6069/uwlswd.tsh7-5175#u> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<https://doi.org/10.6069/uwlswd.tsh7-5175#c> <http://www.w3.org/2004/02/skos/core#inScheme> <https://doi.org/10.6069/uwlswd.tsh7-5175> .
+<https://doi.org/10.6069/uwlswd.tsh7-5175> <http://purl.org/dc/elements/1.1/contributor> "Metadata Management Associates"@en .
+<https://doi.org/10.6069/uwlswd.tsh7-5175> <http://purl.org/dc/terms/hasFormat> <https://uwlib-cams.github.io/uwlswd_vocabs_marc_006_008/008/all_cataloging_source/all_cataloging_source.jsonld> .
+<https://doi.org/10.6069/uwlswd.tsh7-5175> <http://purl.org/dc/terms/alternative> "MARC21 008/39 values for all materials expressed using RDF"@en .
+<https://doi.org/10.6069/uwlswd.tsh7-5175> <http://purl.org/dc/terms/source> <https://www.loc.gov/marc/bibliographic/bd008.html> .
+<https://doi.org/10.6069/uwlswd.tsh7-5175> <http://purl.org/dc/terms/source> <http://marc21rdf.info> .
+<https://doi.org/10.6069/uwlswd.tsh7-5175#c> <http://www.w3.org/2004/02/skos/core#notation> "c" .
+<https://doi.org/10.6069/uwlswd.tsh7-5175> <http://purl.org/dc/terms/hasFormat> <https://uwlib-cams.github.io/uwlswd_vocabs_marc_006_008/008/all_cataloging_source/all_cataloging_source.ttl> .
+<https://doi.org/10.6069/uwlswd.tsh7-5175#u> <http://www.w3.org/2004/02/skos/core#definition> "Creator of the cataloging data is unknown."@en .
+<https://doi.org/10.6069/uwlswd.tsh7-5175#pound> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<https://doi.org/10.6069/uwlswd.tsh7-5175> <http://purl.org/dc/terms/format> <http://www.w3.org/ns/formats/N-Triples> .
+<https://doi.org/10.6069/uwlswd.tsh7-5175#d> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<https://doi.org/10.6069/uwlswd.tsh7-5175> <http://purl.org/dc/terms/provenance> <https://doi.org/10.6069/uwlswd.2e2b-y833#marc00Xvalues> .
+<https://doi.org/10.6069/uwlswd.tsh7-5175> <http://purl.org/dc/terms/hasFormat> <https://uwlib-cams.github.io/uwlswd_vocabs_marc_006_008/008/all_cataloging_source/all_cataloging_source.rdf> .
+<https://doi.org/10.6069/uwlswd.tsh7-5175#d> <http://www.w3.org/2004/02/skos/core#prefLabel> "other"@en .
+<https://doi.org/10.6069/uwlswd.tsh7-5175> <http://purl.org/dc/terms/publisher> <http://viaf.org/viaf/139541794> .

@@ -25,16 +25,19 @@
     <dct:license rdf:resource="http://creativecommons.org/publicdomain/zero/1.0"/>
     <schema:version>1-1-0</schema:version>
     <dct:format rdf:resource="http://www.w3.org/ns/formats/RDF_XML"/>
+    <dct:hasFormat rdf:resource="https://uwlib-cams.github.io/uwlswd_vocabs_marc_006_008/008/all_cataloging_source/all_cataloging_source.ttl"/>
+    <dct:hasFormat rdf:resource="https://uwlib-cams.github.io/uwlswd_vocabs_marc_006_008/008/all_cataloging_source/all_cataloging_source.nt"/>
+    <dct:hasFormat rdf:resource="https://uwlib-cams.github.io/uwlswd_vocabs_marc_006_008/008/all_cataloging_source/all_cataloging_source.jsonld"/>
+    <dct:hasFormat rdf:resource="https://uwlib-cams.github.io/uwlswd_vocabs_marc_006_008/008/all_cataloging_source/all_cataloging_source.html"/>
   </rdf:Description>
-	
-  <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.tsh7-5175#pound">
+  <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.tsh7-5175#u">
     <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
     <skos:inScheme rdf:resource="https://doi.org/10.6069/uwlswd.tsh7-5175"/>
-    <skos:prefLabel xml:lang="en">national bibliographic agency</skos:prefLabel>
-    <skos:definition xml:lang="en">Creator of the original cataloging data is a national bibliographic agency (e.g., U.S. Library of Congress or Library and Archives Canada).</skos:definition>
-    <skos:notation>#</skos:notation>
+    <skos:prefLabel xml:lang="en">unknown</skos:prefLabel>
+    <skos:definition xml:lang="en">Creator of the cataloging data is unknown.</skos:definition>
+    <skos:scopeNote xml:lang="en">Used when an organization transcribes manual cataloging data from an unknown source. In this case, field 040 lacks a subfield $a and subfield $c contains the MARC code for the transcribing organization.</skos:scopeNote>
+    <skos:notation>u</skos:notation>
   </rdf:Description>
-	
   <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.tsh7-5175#c">
     <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
     <skos:inScheme rdf:resource="https://doi.org/10.6069/uwlswd.tsh7-5175"/>
@@ -42,7 +45,6 @@
     <skos:definition xml:lang="en">Creator of the cataloging data is a participant (other than a national bibliographic agency) in a cooperative cataloging program.</skos:definition>
     <skos:notation>c</skos:notation>
   </rdf:Description>
-	
   <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.tsh7-5175#d">
     <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
     <skos:inScheme rdf:resource="https://doi.org/10.6069/uwlswd.tsh7-5175"/>
@@ -50,14 +52,11 @@
     <skos:definition xml:lang="en">Source of the cataloging data is an organization that is other than a national bibliographic agency or a participant in a cooperative cataloging program.</skos:definition>
     <skos:notation>d</skos:notation>
   </rdf:Description>
-	
-  <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.tsh7-5175#u">
+  <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.tsh7-5175#pound">
     <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
     <skos:inScheme rdf:resource="https://doi.org/10.6069/uwlswd.tsh7-5175"/>
-    <skos:prefLabel xml:lang="en">unknown</skos:prefLabel>
-    <skos:definition xml:lang="en">Creator of the cataloging data is unknown.</skos:definition>
-    <skos:scopeNote xml:lang="en">Used when an organization transcribes manual cataloging data from an unknown source. In this case, field 040 lacks a subfield $a and subfield $c contains the MARC code for the transcribing organization.</skos:scopeNote>
-	<skos:notation>u</skos:notation> 
+    <skos:prefLabel xml:lang="en">national bibliographic agency</skos:prefLabel>
+    <skos:definition xml:lang="en">Creator of the original cataloging data is a national bibliographic agency (e.g., U.S. Library of Congress or Library and Archives Canada).</skos:definition>
+    <skos:notation>#</skos:notation>
   </rdf:Description>
-	
 </rdf:RDF>
