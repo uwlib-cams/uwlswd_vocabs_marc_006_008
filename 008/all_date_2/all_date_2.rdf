@@ -6,18 +6,11 @@
    xmlns:schema="https://schema.org/"
    xmlns:skos="http://www.w3.org/2004/02/skos/core#"
 >
-  <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.py0f-0s95#1to9">
-    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-    <skos:inScheme rdf:resource="https://doi.org/10.6069/uwlswd.py0f-0s95"/>
-    <skos:prefLabel xml:lang="en">date digit</skos:prefLabel>
-    <skos:definition xml:lang="en">Date digit.</skos:definition>
-    <skos:notation>1-9</skos:notation>
-  </rdf:Description>
-  <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.py0f-0s95">
+  <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.tam3-2476">
     <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#ConceptScheme"/>
     <dct:type rdf:resource="http://purl.org/dc/dcmitype/Dataset"/>
-    <dct:title xml:lang="en">All: date 1</dct:title>
-    <dct:alternative xml:lang="en">MARC21 008/07-10 values for all materials expressed using RDF</dct:alternative>
+    <dct:title xml:lang="en">All: date 2</dct:title>
+    <dct:alternative xml:lang="en">MARC21 008/11-14 values for all materials expressed using RDF</dct:alternative>
     <dct:description xml:lang="en">A date specified by the code in 008/06 (Type of date/Publication status).</dct:description>
     <schema:disambiguatingDescription xml:lang="en">SKOS Concept Scheme for MARC 00X Values</schema:disambiguatingDescription>
     <dct:publisher rdf:resource="http://viaf.org/viaf/139541794"/>
@@ -32,19 +25,30 @@
     <dct:license rdf:resource="http://creativecommons.org/publicdomain/zero/1.0"/>
     <schema:version>1-1-0</schema:version>
     <dct:format rdf:resource="http://www.w3.org/ns/formats/RDF_XML"/>
+    <dct:hasFormat rdf:resource="https://uwlib-cams.github.io/uwlswd_vocabs_marc_006_008/008/all_date_2/all_date_2.ttl"/>
+    <dct:hasFormat rdf:resource="https://uwlib-cams.github.io/uwlswd_vocabs_marc_006_008/008/all_date_2/all_date_2.nt"/>
+    <dct:hasFormat rdf:resource="https://uwlib-cams.github.io/uwlswd_vocabs_marc_006_008/008/all_date_2/all_date_2.jsonld"/>
+    <dct:hasFormat rdf:resource="https://uwlib-cams.github.io/uwlswd_vocabs_marc_006_008/008/all_date_2/all_date_2.html"/>
   </rdf:Description>
-  <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.py0f-0s95#u">
+  <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.tam3-2476#1to9">
     <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-    <skos:inScheme rdf:resource="https://doi.org/10.6069/uwlswd.py0f-0s95"/>
-    <skos:prefLabel xml:lang="en">date element is totally or partially unknown</skos:prefLabel>
-    <skos:definition xml:lang="en">Date element is totally or partially unknown.</skos:definition>
-    <skos:notation>u</skos:notation>
+    <skos:inScheme rdf:resource="https://doi.org/10.6069/uwlswd.tam3-2476"/>
+    <skos:prefLabel xml:lang="en">date digit</skos:prefLabel>
+    <skos:definition xml:lang="en">Date digit.</skos:definition>
+    <skos:notation>1-9</skos:notation>
   </rdf:Description>
-  <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.py0f-0s95#pound">
+  <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.tam3-2476#pound">
     <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-    <skos:inScheme rdf:resource="https://doi.org/10.6069/uwlswd.py0f-0s95"/>
+    <skos:inScheme rdf:resource="https://doi.org/10.6069/uwlswd.tam3-2476"/>
     <skos:prefLabel xml:lang="en">date element is not applicable</skos:prefLabel>
     <skos:definition xml:lang="en">Date element is not applicable.</skos:definition>
     <skos:notation>#</skos:notation>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.tam3-24765#u">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <skos:inScheme rdf:resource="https://doi.org/10.6069/uwlswd.tam3-2476"/>
+    <skos:prefLabel xml:lang="en">date element is totally or partially unknown</skos:prefLabel>
+    <skos:definition xml:lang="en">Date element is totally or partially unknown.</skos:definition>
+    <skos:notation>u</skos:notation>
   </rdf:Description>
 </rdf:RDF>
