@@ -1,0 +1,55 @@
+<https://doi.org/10.6069/uwlswd.b5wb-fr38> <http://purl.org/dc/terms/format> <http://www.w3.org/ns/formats/N-Triples> .
+<https://doi.org/10.6069/uwlswd.b5wb-fr38#sgn> <http://www.w3.org/2004/02/skos/core#prefLabel> "sign languages"@en .
+<https://doi.org/10.6069/uwlswd.b5wb-fr38#sgn> <http://www.w3.org/2004/02/skos/core#definition> "Primary medium of communication is a sign language."@en .
+<https://doi.org/10.6069/uwlswd.b5wb-fr38#sgn> <http://www.w3.org/2004/02/skos/core#notation> "sgn" .
+<https://doi.org/10.6069/uwlswd.b5wb-fr38#bracketaaabracket> <http://www.w3.org/2004/02/skos/core#definition> "Three-character alphabetic code that indicates the language of the item. Choice of a MARC code is based on the predominant language of the item."@en .
+<https://doi.org/10.6069/uwlswd.b5wb-fr38> <http://purl.org/dc/terms/hasFormat> <https://uwlib-cams.github.io/uwlswd_vocabs_marc_006_008/008/all_language/all_language.ttl> .
+<https://doi.org/10.6069/uwlswd.b5wb-fr38#poundpoundpound> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<https://doi.org/10.6069/uwlswd.b5wb-fr38#poundpoundpound> <http://www.w3.org/2004/02/skos/core#notation> "###" .
+<https://doi.org/10.6069/uwlswd.b5wb-fr38> <http://purl.org/dc/terms/title> "All: language"@en .
+<https://doi.org/10.6069/uwlswd.b5wb-fr38> <http://purl.org/dc/terms/creator> <http://viaf.org/viaf/139541794> .
+<https://doi.org/10.6069/uwlswd.b5wb-fr38#und> <http://www.w3.org/2004/02/skos/core#prefLabel> "undetermined"@en .
+<https://doi.org/10.6069/uwlswd.b5wb-fr38#poundpoundpound> <http://www.w3.org/2004/02/skos/core#inScheme> <https://doi.org/10.6069/uwlswd.b5wb-fr38> .
+<https://doi.org/10.6069/uwlswd.b5wb-fr38> <https://schema.org/disambiguatingDescription> "SKOS Concept Scheme for MARC 00X Values"@en .
+<https://doi.org/10.6069/uwlswd.b5wb-fr38#und> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<https://doi.org/10.6069/uwlswd.b5wb-fr38#und> <http://www.w3.org/2004/02/skos/core#notation> "und" .
+<https://doi.org/10.6069/uwlswd.b5wb-fr38#zxx> <http://www.w3.org/2004/02/skos/core#notation> "zxx" .
+<https://doi.org/10.6069/uwlswd.b5wb-fr38> <http://purl.org/dc/terms/provenance> <https://doi.org/10.6069/uwlswd.2e2b-y833#marc00Xvalues> .
+<https://doi.org/10.6069/uwlswd.b5wb-fr38#sgn> <http://www.w3.org/2004/02/skos/core#scopeNote> "E.g., a book containing pictures of the handshape of each letter of a particular sign system, or a videorecording that is signed. The particular sign language system is stated in field 546 (Language Note), e.g., American Sign Language. The codes for secondary and related languages may be indicated in field 041 (Language Code)."@en .
+<https://doi.org/10.6069/uwlswd.b5wb-fr38#zxx> <http://www.w3.org/2004/02/skos/core#scopeNote> "Examples of such items are: 1) instrumental or electronic music; 2) sound recordings consisting of nonverbal sounds; 3) moving image materials with no sound or sign language content, or if sound, no narration; 4) visual materials other than moving images with no printed titles, captions, etc.; 5) computer files that consist of no more than the machine language (e.g., COBOL) or character codes (e.g., ASCII) used in source programs."@en .
+<https://doi.org/10.6069/uwlswd.b5wb-fr38> <http://purl.org/dc/terms/issued> "2024" .
+<https://doi.org/10.6069/uwlswd.b5wb-fr38#mul> <http://www.w3.org/2004/02/skos/core#definition> "Item is multilingual with no predominant language and the cataloging institution has chosen not to specify a language in 008/35-37."@en .
+<https://doi.org/10.6069/uwlswd.b5wb-fr38#und> <http://www.w3.org/2004/02/skos/core#inScheme> <https://doi.org/10.6069/uwlswd.b5wb-fr38> .
+<https://doi.org/10.6069/uwlswd.b5wb-fr38#bracketaaabracket> <http://www.w3.org/2004/02/skos/core#inScheme> <https://doi.org/10.6069/uwlswd.b5wb-fr38> .
+<https://doi.org/10.6069/uwlswd.b5wb-fr38> <http://purl.org/dc/terms/alternative> "MARC21 008/35-37 values for all materials expressed using RDF"@en .
+<https://doi.org/10.6069/uwlswd.b5wb-fr38#sgn> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<https://doi.org/10.6069/uwlswd.b5wb-fr38> <https://schema.org/version> "1-1-0" .
+<https://doi.org/10.6069/uwlswd.b5wb-fr38#zxx> <http://www.w3.org/2004/02/skos/core#prefLabel> "no linguistic content"@en .
+<https://doi.org/10.6069/uwlswd.b5wb-fr38> <http://purl.org/dc/terms/hasFormat> <https://uwlib-cams.github.io/uwlswd_vocabs_marc_006_008/008/all_language/all_language.html> .
+<https://doi.org/10.6069/uwlswd.b5wb-fr38> <http://purl.org/dc/terms/type> <http://purl.org/dc/dcmitype/Dataset> .
+<https://doi.org/10.6069/uwlswd.b5wb-fr38#und> <http://www.w3.org/2004/02/skos/core#definition> "Language of the item cannot be determined."@en .
+<https://doi.org/10.6069/uwlswd.b5wb-fr38> <http://purl.org/dc/terms/source> <http://marc21rdf.info> .
+<https://doi.org/10.6069/uwlswd.b5wb-fr38#zxx> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<https://doi.org/10.6069/uwlswd.b5wb-fr38> <http://purl.org/dc/terms/source> <https://www.loc.gov/marc/bibliographic/bd008.html> .
+<https://doi.org/10.6069/uwlswd.b5wb-fr38#bracketaaabracket> <http://www.w3.org/2004/02/skos/core#prefLabel> "three-character alphabetic code"@en .
+<https://doi.org/10.6069/uwlswd.b5wb-fr38> <http://purl.org/dc/elements/1.1/language> "en" .
+<https://doi.org/10.6069/uwlswd.b5wb-fr38#poundpoundpound> <http://www.w3.org/2004/02/skos/core#definition> "No information provided."@en .
+<https://doi.org/10.6069/uwlswd.b5wb-fr38#sgn> <http://www.w3.org/2004/02/skos/core#inScheme> <https://doi.org/10.6069/uwlswd.b5wb-fr38> .
+<https://doi.org/10.6069/uwlswd.b5wb-fr38#mul> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<https://doi.org/10.6069/uwlswd.b5wb-fr38#bracketaaabracket> <http://www.w3.org/2004/02/skos/core#notation> "[aaa]" .
+<https://doi.org/10.6069/uwlswd.b5wb-fr38> <http://purl.org/dc/terms/contributor> <http://viaf.org/viaf/151962300> .
+<https://doi.org/10.6069/uwlswd.b5wb-fr38#mul> <http://www.w3.org/2004/02/skos/core#notation> "mul" .
+<https://doi.org/10.6069/uwlswd.b5wb-fr38> <http://purl.org/dc/elements/1.1/contributor> "Metadata Management Associates"@en .
+<https://doi.org/10.6069/uwlswd.b5wb-fr38#mul> <http://www.w3.org/2004/02/skos/core#inScheme> <https://doi.org/10.6069/uwlswd.b5wb-fr38> .
+<https://doi.org/10.6069/uwlswd.b5wb-fr38#zxx> <http://www.w3.org/2004/02/skos/core#inScheme> <https://doi.org/10.6069/uwlswd.b5wb-fr38> .
+<https://doi.org/10.6069/uwlswd.b5wb-fr38#bracketaaabracket> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<https://doi.org/10.6069/uwlswd.b5wb-fr38#mul> <http://www.w3.org/2004/02/skos/core#prefLabel> "multiple languages"@en .
+<https://doi.org/10.6069/uwlswd.b5wb-fr38> <http://purl.org/dc/terms/hasFormat> <https://uwlib-cams.github.io/uwlswd_vocabs_marc_006_008/008/all_language/all_language.rdf> .
+<https://doi.org/10.6069/uwlswd.b5wb-fr38> <http://purl.org/dc/terms/description> "Indicates the language of the item."@en .
+<https://doi.org/10.6069/uwlswd.b5wb-fr38> <http://purl.org/dc/terms/hasFormat> <https://uwlib-cams.github.io/uwlswd_vocabs_marc_006_008/008/all_language/all_language.jsonld> .
+<https://doi.org/10.6069/uwlswd.b5wb-fr38#zxx> <http://www.w3.org/2004/02/skos/core#definition> "Item has no sung, spoken, or written textual content."@en .
+<https://doi.org/10.6069/uwlswd.b5wb-fr38#poundpoundpound> <http://www.w3.org/2004/02/skos/core#prefLabel> "no information provided"@en .
+<https://doi.org/10.6069/uwlswd.b5wb-fr38> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#ConceptScheme> .
+<https://doi.org/10.6069/uwlswd.b5wb-fr38> <http://purl.org/dc/terms/publisher> <http://viaf.org/viaf/139541794> .
+<https://doi.org/10.6069/uwlswd.b5wb-fr38#und> <http://www.w3.org/2004/02/skos/core#scopeNote> "Also used for works having content consisting of arbitrary syllables, humming, or other human-produced sounds for which a language cannot be specified."@en .
+<https://doi.org/10.6069/uwlswd.b5wb-fr38> <http://purl.org/dc/terms/license> <http://creativecommons.org/publicdomain/zero/1.0> .

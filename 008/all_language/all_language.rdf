@@ -6,6 +6,21 @@
    xmlns:schema="https://schema.org/"
    xmlns:skos="http://www.w3.org/2004/02/skos/core#"
 >
+  <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.b5wb-fr38#sgn">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <skos:inScheme rdf:resource="https://doi.org/10.6069/uwlswd.b5wb-fr38"/>
+    <skos:prefLabel xml:lang="en">sign languages</skos:prefLabel>
+    <skos:definition xml:lang="en">Primary medium of communication is a sign language.</skos:definition>
+    <skos:scopeNote xml:lang="en">E.g., a book containing pictures of the handshape of each letter of a particular sign system, or a videorecording that is signed. The particular sign language system is stated in field 546 (Language Note), e.g., American Sign Language. The codes for secondary and related languages may be indicated in field 041 (Language Code).</skos:scopeNote>
+    <skos:notation>sgn</skos:notation>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.b5wb-fr38#bracketaaabracket">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <skos:inScheme rdf:resource="https://doi.org/10.6069/uwlswd.b5wb-fr38"/>
+    <skos:prefLabel xml:lang="en">three-character alphabetic code</skos:prefLabel>
+    <skos:definition xml:lang="en">Three-character alphabetic code that indicates the language of the item. Choice of a MARC code is based on the predominant language of the item.</skos:definition>
+    <skos:notation>[aaa]</skos:notation>
+  </rdf:Description>
   <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.b5wb-fr38">
     <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#ConceptScheme"/>
     <dct:type rdf:resource="http://purl.org/dc/dcmitype/Dataset"/>
@@ -25,6 +40,10 @@
     <dct:license rdf:resource="http://creativecommons.org/publicdomain/zero/1.0"/>
     <schema:version>1-1-0</schema:version>
     <dct:format rdf:resource="http://www.w3.org/ns/formats/RDF_XML"/>
+    <dct:hasFormat rdf:resource="https://uwlib-cams.github.io/uwlswd_vocabs_marc_006_008/008/all_language/all_language.ttl"/>
+    <dct:hasFormat rdf:resource="https://uwlib-cams.github.io/uwlswd_vocabs_marc_006_008/008/all_language/all_language.nt"/>
+    <dct:hasFormat rdf:resource="https://uwlib-cams.github.io/uwlswd_vocabs_marc_006_008/008/all_language/all_language.jsonld"/>
+    <dct:hasFormat rdf:resource="https://uwlib-cams.github.io/uwlswd_vocabs_marc_006_008/008/all_language/all_language.html"/>
   </rdf:Description>
   <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.b5wb-fr38#poundpoundpound">
     <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
@@ -32,6 +51,14 @@
     <skos:prefLabel xml:lang="en">no information provided</skos:prefLabel>
     <skos:definition xml:lang="en">No information provided.</skos:definition>
     <skos:notation>###</skos:notation>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.b5wb-fr38#und">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <skos:inScheme rdf:resource="https://doi.org/10.6069/uwlswd.b5wb-fr38"/>
+    <skos:prefLabel xml:lang="en">undetermined</skos:prefLabel>
+    <skos:definition xml:lang="en">Language of the item cannot be determined.</skos:definition>
+    <skos:scopeNote xml:lang="en">Also used for works having content consisting of arbitrary syllables, humming, or other human-produced sounds for which a language cannot be specified.</skos:scopeNote>
+    <skos:notation>und</skos:notation>
   </rdf:Description>
   <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.b5wb-fr38#zxx">
     <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
@@ -47,28 +74,5 @@
     <skos:prefLabel xml:lang="en">multiple languages</skos:prefLabel>
     <skos:definition xml:lang="en">Item is multilingual with no predominant language and the cataloging institution has chosen not to specify a language in 008/35-37.</skos:definition>
     <skos:notation>mul</skos:notation>
-  </rdf:Description>
-  <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.b5wb-fr38#sgn">
-    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-    <skos:inScheme rdf:resource="https://doi.org/10.6069/uwlswd.b5wb-fr38"/>
-    <skos:prefLabel xml:lang="en">sign languages</skos:prefLabel>
-    <skos:definition xml:lang="en">Primary medium of communication is a sign language.</skos:definition>
-    <skos:scopeNote xml:lang="en">E.g., a book containing pictures of the handshape of each letter of a particular sign system, or a videorecording that is signed. The particular sign language system is stated in field 546 (Language Note), e.g., American Sign Language. The codes for secondary and related languages may be indicated in field 041 (Language Code).</skos:scopeNote>
-    <skos:notation>sgn</skos:notation>
-  </rdf:Description>
-  <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.b5wb-fr38#bracketaaabracket">
-    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-    <skos:inScheme rdf:resource="https://doi.org/10.6069/uwlswd.b5wb-fr38"/>
-    <skos:prefLabel xml:lang="en">three-character alphabetic code</skos:prefLabel>
-    <skos:definition xml:lang="en">Three-character alphabetic code that indicates the language of the item. Choice of a MARC code is based on the predominant language of the item.</skos:definition>
-    <skos:notation>[aaa]</skos:notation>
-  </rdf:Description>
-  <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.b5wb-fr38#und">
-    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-    <skos:inScheme rdf:resource="https://doi.org/10.6069/uwlswd.b5wb-fr38"/>
-    <skos:prefLabel xml:lang="en">undetermined</skos:prefLabel>
-    <skos:definition xml:lang="en">Language of the item cannot be determined.</skos:definition>
-    <skos:scopeNote xml:lang="en">Also used for works having content consisting of arbitrary syllables, humming, or other human-produced sounds for which a language cannot be specified.</skos:scopeNote>
-    <skos:notation>und</skos:notation>
   </rdf:Description>
 </rdf:RDF>
