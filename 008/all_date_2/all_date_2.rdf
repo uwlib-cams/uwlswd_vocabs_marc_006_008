@@ -6,14 +6,6 @@
    xmlns:schema="https://schema.org/"
    xmlns:skos="http://www.w3.org/2004/02/skos/core#"
 >
-  <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.tam3-2476#1-9">
-    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-    <skos:inScheme rdf:resource="https://doi.org/10.6069/uwlswd.tam3-2476"/>
-    <skos:prefLabel xml:lang="en">date digit</skos:prefLabel>
-    <skos:definition xml:lang="en">Date digit.</skos:definition>
-    <skos:notation>1-9</skos:notation>
-  </rdf:Description>
-	
   <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.tam3-2476">
     <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#ConceptScheme"/>
     <dct:type rdf:resource="http://purl.org/dc/dcmitype/Dataset"/>
@@ -33,8 +25,11 @@
     <dct:license rdf:resource="http://creativecommons.org/publicdomain/zero/1.0"/>
     <schema:version>1-1-0</schema:version>
     <dct:format rdf:resource="http://www.w3.org/ns/formats/RDF_XML"/>
+    <dct:hasFormat rdf:resource="https://uwlib-cams.github.io/uwlswd_vocabs_marc_006_008/008/all_date_2/all_date_2.ttl"/>
+    <dct:hasFormat rdf:resource="https://uwlib-cams.github.io/uwlswd_vocabs_marc_006_008/008/all_date_2/all_date_2.nt"/>
+    <dct:hasFormat rdf:resource="https://uwlib-cams.github.io/uwlswd_vocabs_marc_006_008/008/all_date_2/all_date_2.jsonld"/>
+    <dct:hasFormat rdf:resource="https://uwlib-cams.github.io/uwlswd_vocabs_marc_006_008/008/all_date_2/all_date_2.html"/>
   </rdf:Description>
-	
   <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.tam3-2476#pound">
     <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
     <skos:inScheme rdf:resource="https://doi.org/10.6069/uwlswd.tam3-2476"/>
@@ -48,5 +43,12 @@
     <skos:prefLabel xml:lang="en">date element is totally or partially unknown</skos:prefLabel>
     <skos:definition xml:lang="en">Date element is totally or partially unknown.</skos:definition>
     <skos:notation>u</skos:notation>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.tam3-2476#1-9">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <skos:inScheme rdf:resource="https://doi.org/10.6069/uwlswd.tam3-2476"/>
+    <skos:prefLabel xml:lang="en">date digit</skos:prefLabel>
+    <skos:definition xml:lang="en">Date digit.</skos:definition>
+    <skos:notation>1-9</skos:notation>
   </rdf:Description>
 </rdf:RDF>
