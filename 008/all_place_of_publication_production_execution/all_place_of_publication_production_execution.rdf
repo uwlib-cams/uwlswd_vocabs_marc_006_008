@@ -25,14 +25,24 @@
     <dct:license rdf:resource="http://creativecommons.org/publicdomain/zero/1.0"/>
     <schema:version>1-1-0</schema:version>
     <dct:format rdf:resource="http://www.w3.org/ns/formats/RDF_XML"/>
+    <dct:hasFormat rdf:resource="https://uwlib-cams.github.io/uwlswd_vocabs_marc_006_008/008/all_place_of_publication_production_execution/all_place_of_publication_production_execution.ttl"/>
+    <dct:hasFormat rdf:resource="https://uwlib-cams.github.io/uwlswd_vocabs_marc_006_008/008/all_place_of_publication_production_execution/all_place_of_publication_production_execution.nt"/>
+    <dct:hasFormat rdf:resource="https://uwlib-cams.github.io/uwlswd_vocabs_marc_006_008/008/all_place_of_publication_production_execution/all_place_of_publication_production_execution.jsonld"/>
+    <dct:hasFormat rdf:resource="https://uwlib-cams.github.io/uwlswd_vocabs_marc_006_008/008/all_place_of_publication_production_execution/all_place_of_publication_production_execution.html"/>
   </rdf:Description>
-  <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.exen-6x37#bracketaaabracket">
+  <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.exen-6x37#xxpound">
     <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
     <skos:inScheme rdf:resource="https://doi.org/10.6069/uwlswd.exen-6x37"/>
-    <skos:prefLabel xml:lang="en">three-character alphabetic code</skos:prefLabel>
-    <skos:definition xml:lang="en">Three-character alphabetic code that indicates the place of publication, production, or execution.</skos:definition>
-    <skos:scopeNote xml:lang="en">Place code is an authoritative-agency data element. Choice of a MARC code is generally related to information in field 260.</skos:scopeNote>
-    <skos:notation>[aaa]</skos:notation>
+    <skos:prefLabel xml:lang="en">no place, unknown, or undetermined</skos:prefLabel>
+    <skos:definition xml:lang="en">No place of publication, production, etc. can be provided; the place is unknown, or it is undetermined.</skos:definition>
+    <skos:notation>xx#</skos:notation>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.exen-6x37#vppound">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <skos:inScheme rdf:resource="https://doi.org/10.6069/uwlswd.exen-6x37"/>
+    <skos:prefLabel xml:lang="en">various places</skos:prefLabel>
+    <skos:definition xml:lang="en">Various places are associated with different parts of items, generallly a collection.</skos:definition>
+    <skos:notation>vp#</skos:notation>
   </rdf:Description>
   <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.exen-6x37#bracketaapoundbracket">
     <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
@@ -42,18 +52,12 @@
     <skos:scopeNote xml:lang="en">Place code is an authoritative-agency data element. Choice of a MARC code is generally related to information in field 260.</skos:scopeNote>
     <skos:notation>[aa#]</skos:notation>
   </rdf:Description>
-  <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.exen-6x37#vppound">
+  <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.exen-6x37#bracketaaabracket">
     <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
     <skos:inScheme rdf:resource="https://doi.org/10.6069/uwlswd.exen-6x37"/>
-    <skos:prefLabel xml:lang="en">various places</skos:prefLabel>
-    <skos:definition xml:lang="en">Various places are associated with different parts of items, generallly a collection.</skos:definition>
-    <skos:notation>vp#</skos:notation>
-  </rdf:Description>
-  <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.exen-6x37#xxpound">
-    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-    <skos:inScheme rdf:resource="https://doi.org/10.6069/uwlswd.exen-6x37"/>
-    <skos:prefLabel xml:lang="en">no place, unknown, or undetermined</skos:prefLabel>
-    <skos:definition xml:lang="en">No place of publication, production, etc. can be provided; the place is unknown, or it is undetermined.</skos:definition>
-    <skos:notation>xx#</skos:notation>
+    <skos:prefLabel xml:lang="en">three-character alphabetic code</skos:prefLabel>
+    <skos:definition xml:lang="en">Three-character alphabetic code that indicates the place of publication, production, or execution.</skos:definition>
+    <skos:scopeNote xml:lang="en">Place code is an authoritative-agency data element. Choice of a MARC code is generally related to information in field 260.</skos:scopeNote>
+    <skos:notation>[aaa]</skos:notation>
   </rdf:Description>
 </rdf:RDF>
