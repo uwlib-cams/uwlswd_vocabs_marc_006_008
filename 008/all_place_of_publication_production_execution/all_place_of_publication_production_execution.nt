@@ -1,0 +1,44 @@
+<https://doi.org/10.6069/uwlswd.exen-6x37> <http://purl.org/dc/terms/hasFormat> <https://uwlib-cams.github.io/uwlswd_vocabs_marc_006_008/008/all_place_of_publication_production_execution/all_place_of_publication_production_execution.jsonld> .
+<https://doi.org/10.6069/uwlswd.exen-6x37> <http://purl.org/dc/terms/issued> "2024" .
+<https://doi.org/10.6069/uwlswd.exen-6x37#xxpound> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<https://doi.org/10.6069/uwlswd.exen-6x37> <http://purl.org/dc/terms/hasFormat> <https://uwlib-cams.github.io/uwlswd_vocabs_marc_006_008/008/all_place_of_publication_production_execution/all_place_of_publication_production_execution.html> .
+<https://doi.org/10.6069/uwlswd.exen-6x37> <http://purl.org/dc/terms/contributor> <http://viaf.org/viaf/151962300> .
+<https://doi.org/10.6069/uwlswd.exen-6x37#vppound> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<https://doi.org/10.6069/uwlswd.exen-6x37> <https://schema.org/disambiguatingDescription> "SKOS Concept Scheme for MARC 00X Values"@en .
+<https://doi.org/10.6069/uwlswd.exen-6x37> <http://purl.org/dc/terms/creator> <http://viaf.org/viaf/139541794> .
+<https://doi.org/10.6069/uwlswd.exen-6x37> <http://purl.org/dc/terms/publisher> <http://viaf.org/viaf/139541794> .
+<https://doi.org/10.6069/uwlswd.exen-6x37> <http://purl.org/dc/terms/hasFormat> <https://uwlib-cams.github.io/uwlswd_vocabs_marc_006_008/008/all_place_of_publication_production_execution/all_place_of_publication_production_execution.ttl> .
+<https://doi.org/10.6069/uwlswd.exen-6x37#xxpound> <http://www.w3.org/2004/02/skos/core#prefLabel> "no place, unknown, or undetermined"@en .
+<https://doi.org/10.6069/uwlswd.exen-6x37#bracketaapoundbracket> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<https://doi.org/10.6069/uwlswd.exen-6x37#vppound> <http://www.w3.org/2004/02/skos/core#notation> "vp#" .
+<https://doi.org/10.6069/uwlswd.exen-6x37#vppound> <http://www.w3.org/2004/02/skos/core#prefLabel> "various places"@en .
+<https://doi.org/10.6069/uwlswd.exen-6x37#xxpound> <http://www.w3.org/2004/02/skos/core#notation> "xx#" .
+<https://doi.org/10.6069/uwlswd.exen-6x37> <http://purl.org/dc/elements/1.1/contributor> "Metadata Management Associates"@en .
+<https://doi.org/10.6069/uwlswd.exen-6x37#bracketaaabracket> <http://www.w3.org/2004/02/skos/core#prefLabel> "three-character alphabetic code"@en .
+<https://doi.org/10.6069/uwlswd.exen-6x37> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#ConceptScheme> .
+<https://doi.org/10.6069/uwlswd.exen-6x37> <http://purl.org/dc/terms/description> "Indicates the place of publication, production, or execution."@en .
+<https://doi.org/10.6069/uwlswd.exen-6x37#bracketaapoundbracket> <http://www.w3.org/2004/02/skos/core#definition> "Two-character alphabetic code that indicates the place of publication, production, or execution."@en .
+<https://doi.org/10.6069/uwlswd.exen-6x37> <http://purl.org/dc/terms/source> <https://www.loc.gov/marc/bibliographic/bd008.html> .
+<https://doi.org/10.6069/uwlswd.exen-6x37#bracketaaabracket> <http://www.w3.org/2004/02/skos/core#definition> "Three-character alphabetic code that indicates the place of publication, production, or execution."@en .
+<https://doi.org/10.6069/uwlswd.exen-6x37#xxpound> <http://www.w3.org/2004/02/skos/core#definition> "No place of publication, production, etc. can be provided; the place is unknown, or it is undetermined."@en .
+<https://doi.org/10.6069/uwlswd.exen-6x37> <https://schema.org/version> "1-1-0" .
+<https://doi.org/10.6069/uwlswd.exen-6x37> <http://purl.org/dc/terms/license> <http://creativecommons.org/publicdomain/zero/1.0> .
+<https://doi.org/10.6069/uwlswd.exen-6x37#vppound> <http://www.w3.org/2004/02/skos/core#definition> "Various places are associated with different parts of items, generallly a collection."@en .
+<https://doi.org/10.6069/uwlswd.exen-6x37#bracketaaabracket> <http://www.w3.org/2004/02/skos/core#notation> "[aaa]" .
+<https://doi.org/10.6069/uwlswd.exen-6x37#bracketaapoundbracket> <http://www.w3.org/2004/02/skos/core#prefLabel> "two-character alphabetic code"@en .
+<https://doi.org/10.6069/uwlswd.exen-6x37> <http://purl.org/dc/terms/title> "All: place of publication production execution"@en .
+<https://doi.org/10.6069/uwlswd.exen-6x37#xxpound> <http://www.w3.org/2004/02/skos/core#inScheme> <https://doi.org/10.6069/uwlswd.exen-6x37> .
+<https://doi.org/10.6069/uwlswd.exen-6x37#bracketaapoundbracket> <http://www.w3.org/2004/02/skos/core#notation> "[aa#]" .
+<https://doi.org/10.6069/uwlswd.exen-6x37> <http://purl.org/dc/terms/source> <http://marc21rdf.info> .
+<https://doi.org/10.6069/uwlswd.exen-6x37> <http://purl.org/dc/terms/provenance> <https://doi.org/10.6069/uwlswd.2e2b-y833#marc00Xvalues> .
+<https://doi.org/10.6069/uwlswd.exen-6x37#bracketaaabracket> <http://www.w3.org/2004/02/skos/core#inScheme> <https://doi.org/10.6069/uwlswd.exen-6x37> .
+<https://doi.org/10.6069/uwlswd.exen-6x37#vppound> <http://www.w3.org/2004/02/skos/core#inScheme> <https://doi.org/10.6069/uwlswd.exen-6x37> .
+<https://doi.org/10.6069/uwlswd.exen-6x37> <http://purl.org/dc/terms/format> <http://www.w3.org/ns/formats/N-Triples> .
+<https://doi.org/10.6069/uwlswd.exen-6x37#bracketaaabracket> <http://www.w3.org/2004/02/skos/core#scopeNote> "Place code is an authoritative-agency data element. Choice of a MARC code is generally related to information in field 260."@en .
+<https://doi.org/10.6069/uwlswd.exen-6x37#bracketaapoundbracket> <http://www.w3.org/2004/02/skos/core#inScheme> <https://doi.org/10.6069/uwlswd.exen-6x37> .
+<https://doi.org/10.6069/uwlswd.exen-6x37> <http://purl.org/dc/terms/hasFormat> <https://uwlib-cams.github.io/uwlswd_vocabs_marc_006_008/008/all_place_of_publication_production_execution/all_place_of_publication_production_execution.rdf> .
+<https://doi.org/10.6069/uwlswd.exen-6x37> <http://purl.org/dc/terms/type> <http://purl.org/dc/dcmitype/Dataset> .
+<https://doi.org/10.6069/uwlswd.exen-6x37#bracketaapoundbracket> <http://www.w3.org/2004/02/skos/core#scopeNote> "Place code is an authoritative-agency data element. Choice of a MARC code is generally related to information in field 260."@en .
+<https://doi.org/10.6069/uwlswd.exen-6x37> <http://purl.org/dc/elements/1.1/language> "en" .
+<https://doi.org/10.6069/uwlswd.exen-6x37> <http://purl.org/dc/terms/alternative> "MARC21 008/15-17 values for all materials expressed using RDF"@en .
+<https://doi.org/10.6069/uwlswd.exen-6x37#bracketaaabracket> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .

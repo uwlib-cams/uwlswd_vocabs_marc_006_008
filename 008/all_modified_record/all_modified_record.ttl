@@ -1,0 +1,64 @@
+@prefix dc: <http://purl.org/dc/elements/1.1/> .
+@prefix dct: <http://purl.org/dc/terms/> .
+@prefix schema: <https://schema.org/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<https://doi.org/10.6069/uwlswd.h15g-zv41#d> a skos:Concept ;
+    skos:definition "MARC record does not contain \"dashed-on\" information found on the corresponding manual copy."@en ;
+    skos:inScheme <https://doi.org/10.6069/uwlswd.h15g-zv41> ;
+    skos:notation "d" ;
+    skos:prefLabel "dashed-on information omitted"@en .
+
+<https://doi.org/10.6069/uwlswd.h15g-zv41#o> a skos:Concept ;
+    skos:definition "Bibliographic data in the MARC record is completely romanized and any printed cards produced are also in romanized form."@en ;
+    skos:inScheme <https://doi.org/10.6069/uwlswd.h15g-zv41> ;
+    skos:notation "o" ;
+    skos:prefLabel "completely romanized/printed cards romanized"@en .
+
+<https://doi.org/10.6069/uwlswd.h15g-zv41#pound> a skos:Concept ;
+    skos:definition "Record has not been modified in any way (e.g., it is not shortened and it contains no characters that could not be converted to machine-readable form)."@en ;
+    skos:inScheme <https://doi.org/10.6069/uwlswd.h15g-zv41> ;
+    skos:notation "#" ;
+    skos:prefLabel "not modified"@en .
+
+<https://doi.org/10.6069/uwlswd.h15g-zv41#r> a skos:Concept ;
+    skos:definition "Bibliographic data in the MARC record is completely romanized but the printed cards are available in the original (vernacular) script."@en ;
+    skos:inScheme <https://doi.org/10.6069/uwlswd.h15g-zv41> ;
+    skos:notation "r" ;
+    skos:prefLabel "completely romanized/printed cards in script"@en .
+
+<https://doi.org/10.6069/uwlswd.h15g-zv41#s> a skos:Concept ;
+    skos:definition "Some of the data was omitted because the data exceeded the maximum length allowed by the system used to create or process it."@en ;
+    skos:inScheme <https://doi.org/10.6069/uwlswd.h15g-zv41> ;
+    skos:notation "s" ;
+    skos:prefLabel "shortened"@en .
+
+<https://doi.org/10.6069/uwlswd.h15g-zv41#x> a skos:Concept ;
+    skos:definition "Record contained characters that could not be converted to machine_readable form (e.g., incidental nonroman characters on predominantly roman alphabet records, mathematical symbols, etc.)."@en ;
+    skos:inScheme <https://doi.org/10.6069/uwlswd.h15g-zv41> ;
+    skos:notation "x" ;
+    skos:prefLabel "missing characters"@en .
+
+<https://doi.org/10.6069/uwlswd.h15g-zv41> a skos:ConceptScheme ;
+    dc:contributor "Metadata Management Associates"@en ;
+    dc:language "en" ;
+    dct:alternative "MARC21 008/38 values for all materials expressed using RDF"@en ;
+    dct:contributor <http://viaf.org/viaf/151962300> ;
+    dct:creator <http://viaf.org/viaf/139541794> ;
+    dct:description "Indicates whether any data in a bibliographic record is a modification of information that appeared on the item being cataloged or that was intended to be included in the MARC record."@en ;
+    dct:format <http://www.w3.org/ns/formats/Turtle> ;
+    dct:hasFormat <https://uwlib-cams.github.io/uwlswd_vocabs_marc_006_008/008/all_modified_record/all_modified_record.html>,
+        <https://uwlib-cams.github.io/uwlswd_vocabs_marc_006_008/008/all_modified_record/all_modified_record.jsonld>,
+        <https://uwlib-cams.github.io/uwlswd_vocabs_marc_006_008/008/all_modified_record/all_modified_record.nt>,
+        <https://uwlib-cams.github.io/uwlswd_vocabs_marc_006_008/008/all_modified_record/all_modified_record.rdf> ;
+    dct:issued "2024" ;
+    dct:license <http://creativecommons.org/publicdomain/zero/1.0> ;
+    dct:provenance <https://doi.org/10.6069/uwlswd.2e2b-y833#marc00Xvalues> ;
+    dct:publisher <http://viaf.org/viaf/139541794> ;
+    dct:source <http://marc21rdf.info>,
+        <https://www.loc.gov/marc/bibliographic/bd008.html> ;
+    dct:title "All: modified record"@en ;
+    dct:type <http://purl.org/dc/dcmitype/Dataset> ;
+    schema:disambiguatingDescription "SKOS Concept Scheme for MARC 00X Values"@en ;
+    schema:version "1-1-0" .
+

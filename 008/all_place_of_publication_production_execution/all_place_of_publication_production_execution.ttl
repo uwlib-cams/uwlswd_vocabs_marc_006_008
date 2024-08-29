@@ -1,0 +1,54 @@
+@prefix dc: <http://purl.org/dc/elements/1.1/> .
+@prefix dct: <http://purl.org/dc/terms/> .
+@prefix schema: <https://schema.org/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<https://doi.org/10.6069/uwlswd.exen-6x37#bracketaaabracket> a skos:Concept ;
+    skos:definition "Three-character alphabetic code that indicates the place of publication, production, or execution."@en ;
+    skos:inScheme <https://doi.org/10.6069/uwlswd.exen-6x37> ;
+    skos:notation "[aaa]" ;
+    skos:prefLabel "three-character alphabetic code"@en ;
+    skos:scopeNote "Place code is an authoritative-agency data element. Choice of a MARC code is generally related to information in field 260."@en .
+
+<https://doi.org/10.6069/uwlswd.exen-6x37#bracketaapoundbracket> a skos:Concept ;
+    skos:definition "Two-character alphabetic code that indicates the place of publication, production, or execution."@en ;
+    skos:inScheme <https://doi.org/10.6069/uwlswd.exen-6x37> ;
+    skos:notation "[aa#]" ;
+    skos:prefLabel "two-character alphabetic code"@en ;
+    skos:scopeNote "Place code is an authoritative-agency data element. Choice of a MARC code is generally related to information in field 260."@en .
+
+<https://doi.org/10.6069/uwlswd.exen-6x37#vppound> a skos:Concept ;
+    skos:definition "Various places are associated with different parts of items, generallly a collection."@en ;
+    skos:inScheme <https://doi.org/10.6069/uwlswd.exen-6x37> ;
+    skos:notation "vp#" ;
+    skos:prefLabel "various places"@en .
+
+<https://doi.org/10.6069/uwlswd.exen-6x37#xxpound> a skos:Concept ;
+    skos:definition "No place of publication, production, etc. can be provided; the place is unknown, or it is undetermined."@en ;
+    skos:inScheme <https://doi.org/10.6069/uwlswd.exen-6x37> ;
+    skos:notation "xx#" ;
+    skos:prefLabel "no place, unknown, or undetermined"@en .
+
+<https://doi.org/10.6069/uwlswd.exen-6x37> a skos:ConceptScheme ;
+    dc:contributor "Metadata Management Associates"@en ;
+    dc:language "en" ;
+    dct:alternative "MARC21 008/15-17 values for all materials expressed using RDF"@en ;
+    dct:contributor <http://viaf.org/viaf/151962300> ;
+    dct:creator <http://viaf.org/viaf/139541794> ;
+    dct:description "Indicates the place of publication, production, or execution."@en ;
+    dct:format <http://www.w3.org/ns/formats/Turtle> ;
+    dct:hasFormat <https://uwlib-cams.github.io/uwlswd_vocabs_marc_006_008/008/all_place_of_publication_production_execution/all_place_of_publication_production_execution.html>,
+        <https://uwlib-cams.github.io/uwlswd_vocabs_marc_006_008/008/all_place_of_publication_production_execution/all_place_of_publication_production_execution.jsonld>,
+        <https://uwlib-cams.github.io/uwlswd_vocabs_marc_006_008/008/all_place_of_publication_production_execution/all_place_of_publication_production_execution.nt>,
+        <https://uwlib-cams.github.io/uwlswd_vocabs_marc_006_008/008/all_place_of_publication_production_execution/all_place_of_publication_production_execution.rdf> ;
+    dct:issued "2024" ;
+    dct:license <http://creativecommons.org/publicdomain/zero/1.0> ;
+    dct:provenance <https://doi.org/10.6069/uwlswd.2e2b-y833#marc00Xvalues> ;
+    dct:publisher <http://viaf.org/viaf/139541794> ;
+    dct:source <http://marc21rdf.info>,
+        <https://www.loc.gov/marc/bibliographic/bd008.html> ;
+    dct:title "All: place of publication production execution"@en ;
+    dct:type <http://purl.org/dc/dcmitype/Dataset> ;
+    schema:disambiguatingDescription "SKOS Concept Scheme for MARC 00X Values"@en ;
+    schema:version "1-1-0" .
+

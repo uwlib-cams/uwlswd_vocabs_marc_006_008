@@ -37,13 +37,6 @@
     <skos:definition xml:lang="en">No biographical or autobiographical material.</skos:definition>
     <skos:notation>#</skos:notation>
   </rdf:Description>
-  <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.x4ce-sd21#b">
-    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-    <skos:inScheme rdf:resource="https://doi.org/10.6069/uwlswd.x4ce-sd21"/>
-    <skos:prefLabel xml:lang="en">individual biography</skos:prefLabel>
-    <skos:definition xml:lang="en">Biography of one individual.</skos:definition>
-    <skos:notation>b</skos:notation>
-  </rdf:Description>
   <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.x4ce-sd21#d">
     <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
     <skos:inScheme rdf:resource="https://doi.org/10.6069/uwlswd.x4ce-sd21"/>
@@ -51,12 +44,12 @@
     <skos:definition xml:lang="en">Contains biographical information.</skos:definition>
     <skos:notation>d</skos:notation>
   </rdf:Description>
-  <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.x4ce-sd21#a">
+  <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.x4ce-sd21#b">
     <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
     <skos:inScheme rdf:resource="https://doi.org/10.6069/uwlswd.x4ce-sd21"/>
-    <skos:prefLabel xml:lang="en">autobiography</skos:prefLabel>
-    <skos:definition xml:lang="en">Autobiography.</skos:definition>
-    <skos:notation>a</skos:notation>
+    <skos:prefLabel xml:lang="en">individual biography</skos:prefLabel>
+    <skos:definition xml:lang="en">Biography of one individual.</skos:definition>
+    <skos:notation>b</skos:notation>
   </rdf:Description>
   <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.x4ce-sd21#c">
     <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
@@ -64,5 +57,12 @@
     <skos:prefLabel xml:lang="en">collective biography</skos:prefLabel>
     <skos:definition xml:lang="en">Biographical material about more than one individual.</skos:definition>
     <skos:notation>c</skos:notation>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.x4ce-sd21#a">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <skos:inScheme rdf:resource="https://doi.org/10.6069/uwlswd.x4ce-sd21"/>
+    <skos:prefLabel xml:lang="en">autobiography</skos:prefLabel>
+    <skos:definition xml:lang="en">Autobiography.</skos:definition>
+    <skos:notation>a</skos:notation>
   </rdf:Description>
 </rdf:RDF>

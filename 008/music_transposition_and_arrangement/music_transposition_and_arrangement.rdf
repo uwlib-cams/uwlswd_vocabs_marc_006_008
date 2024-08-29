@@ -37,27 +37,6 @@
     <skos:definition xml:lang="en">Item has been adapted as regards medium and/or texture.</skos:definition>
     <skos:notation>b</skos:notation>
   </rdf:Description>
-  <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.axz0-z371#n">
-    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-    <skos:inScheme rdf:resource="https://doi.org/10.6069/uwlswd.axz0-z371"/>
-    <skos:prefLabel xml:lang="en">not applicable</skos:prefLabel>
-    <skos:definition xml:lang="en">Item is not notated music.</skos:definition>
-    <skos:notation>n</skos:notation>
-  </rdf:Description>
-  <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.axz0-z371#c">
-    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-    <skos:inScheme rdf:resource="https://doi.org/10.6069/uwlswd.axz0-z371"/>
-    <skos:prefLabel xml:lang="en">both transposed and arranged</skos:prefLabel>
-    <skos:definition xml:lang="en">Item has been both transposed to a different pitch from the original and has been adapted as regards medium and/or texture.</skos:definition>
-    <skos:notation>c</skos:notation>
-  </rdf:Description>
-  <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.axz0-z371#a">
-    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-    <skos:inScheme rdf:resource="https://doi.org/10.6069/uwlswd.axz0-z371"/>
-    <skos:prefLabel xml:lang="en">transposition</skos:prefLabel>
-    <skos:definition xml:lang="en">Item has been transposed to a different pitch from the original.</skos:definition>
-    <skos:notation>a</skos:notation>
-  </rdf:Description>
   <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.axz0-z371#u">
     <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
     <skos:inScheme rdf:resource="https://doi.org/10.6069/uwlswd.axz0-z371"/>
@@ -71,5 +50,26 @@
     <skos:prefLabel xml:lang="en">not arrangement or transposition or not specified</skos:prefLabel>
     <skos:definition xml:lang="en">Not arrangements or the transposition of the item is not specified.</skos:definition>
     <skos:notation>#</skos:notation>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.axz0-z371#n">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <skos:inScheme rdf:resource="https://doi.org/10.6069/uwlswd.axz0-z371"/>
+    <skos:prefLabel xml:lang="en">not applicable</skos:prefLabel>
+    <skos:definition xml:lang="en">Item is not notated music.</skos:definition>
+    <skos:notation>n</skos:notation>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.axz0-z371#a">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <skos:inScheme rdf:resource="https://doi.org/10.6069/uwlswd.axz0-z371"/>
+    <skos:prefLabel xml:lang="en">transposition</skos:prefLabel>
+    <skos:definition xml:lang="en">Item has been transposed to a different pitch from the original.</skos:definition>
+    <skos:notation>a</skos:notation>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.axz0-z371#c">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <skos:inScheme rdf:resource="https://doi.org/10.6069/uwlswd.axz0-z371"/>
+    <skos:prefLabel xml:lang="en">both transposed and arranged</skos:prefLabel>
+    <skos:definition xml:lang="en">Item has been both transposed to a different pitch from the original and has been adapted as regards medium and/or texture.</skos:definition>
+    <skos:notation>c</skos:notation>
   </rdf:Description>
 </rdf:RDF>

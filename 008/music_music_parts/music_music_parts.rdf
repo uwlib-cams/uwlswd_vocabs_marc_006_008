@@ -6,6 +6,14 @@
    xmlns:schema="https://schema.org/"
    xmlns:skos="http://www.w3.org/2004/02/skos/core#"
 >
+  <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.ywjs-vr46#u">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <skos:inScheme rdf:resource="https://doi.org/10.6069/uwlswd.ywjs-vr46"/>
+    <skos:prefLabel xml:lang="en">unknown</skos:prefLabel>
+    <skos:definition xml:lang="en">Unknown whether the item being cataloged contains parts.</skos:definition>
+    <skos:notation>u</skos:notation>
+    <skos:scopeNote xml:lang="en">May be used for records created without examining the item, such as retrospective conversion from a printed card.</skos:scopeNote>
+  </rdf:Description>
   <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.ywjs-vr46">
     <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#ConceptScheme"/>
     <dct:type rdf:resource="http://purl.org/dc/dcmitype/Dataset"/>
@@ -31,40 +39,12 @@
     <dct:hasFormat rdf:resource="https://uwlib-cams.github.io/uwlswd_vocabs_marc_006_008/008/music_music_parts/music_music_parts.html"/>
     <dct:format rdf:resource="http://www.w3.org/ns/formats/RDF_XML"/>
   </rdf:Description>
-  <rdf:Description rdf:about="http://fakeIRI.edu/terms/mapspe#ax">
-    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-    <skos:inScheme rdf:resource="http://fakeIRI.edu/terms/mapspe#"/>
-    <skos:prefLabel xml:lang="en">parts exist [obsolete]</skos:prefLabel>
-    <skos:notation>a</skos:notation>
-  </rdf:Description>
-  <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.ywjs-vr46#u">
-    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-    <skos:inScheme rdf:resource="https://doi.org/10.6069/uwlswd.ywjs-vr46"/>
-    <skos:prefLabel xml:lang="en">unknown</skos:prefLabel>
-    <skos:definition xml:lang="en">Unknown whether the item being cataloged contains parts.</skos:definition>
-    <skos:notation>u</skos:notation>
-    <skos:scopeNote xml:lang="en">May be used for records created without examining the item, such as retrospective conversion from a printed card.</skos:scopeNote>
-  </rdf:Description>
   <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.ywjs-vr46#f">
     <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
     <skos:inScheme rdf:resource="https://doi.org/10.6069/uwlswd.ywjs-vr46"/>
     <skos:prefLabel xml:lang="en">vocal parts</skos:prefLabel>
     <skos:definition xml:lang="en">Vocal parts are present.</skos:definition>
     <skos:notation>f</skos:notation>
-  </rdf:Description>
-  <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.ywjs-vr46#pound">
-    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-    <skos:inScheme rdf:resource="https://doi.org/10.6069/uwlswd.ywjs-vr46"/>
-    <skos:prefLabel xml:lang="en">no parts in hand or not specified</skos:prefLabel>
-    <skos:definition xml:lang="en">No parts in hand or the musical parts are not specified.</skos:definition>
-    <skos:notation>#</skos:notation>
-  </rdf:Description>
-  <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.ywjs-vr46#d">
-    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-    <skos:inScheme rdf:resource="https://doi.org/10.6069/uwlswd.ywjs-vr46"/>
-    <skos:prefLabel xml:lang="en">instrumental and vocal parts</skos:prefLabel>
-    <skos:definition xml:lang="en">Both instrumental and vocal parts are present.</skos:definition>
-    <skos:notation>d</skos:notation>
   </rdf:Description>
   <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.ywjs-vr46#n">
     <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
@@ -79,5 +59,25 @@
     <skos:prefLabel xml:lang="en">instrumental parts</skos:prefLabel>
     <skos:definition xml:lang="en">Instrumental parts are present.</skos:definition>
     <skos:notation>e</skos:notation>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://fakeIRI.edu/terms/mapspe#ax">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <skos:inScheme rdf:resource="http://fakeIRI.edu/terms/mapspe#"/>
+    <skos:prefLabel xml:lang="en">parts exist [obsolete]</skos:prefLabel>
+    <skos:notation>a</skos:notation>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.ywjs-vr46#d">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <skos:inScheme rdf:resource="https://doi.org/10.6069/uwlswd.ywjs-vr46"/>
+    <skos:prefLabel xml:lang="en">instrumental and vocal parts</skos:prefLabel>
+    <skos:definition xml:lang="en">Both instrumental and vocal parts are present.</skos:definition>
+    <skos:notation>d</skos:notation>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.ywjs-vr46#pound">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <skos:inScheme rdf:resource="https://doi.org/10.6069/uwlswd.ywjs-vr46"/>
+    <skos:prefLabel xml:lang="en">no parts in hand or not specified</skos:prefLabel>
+    <skos:definition xml:lang="en">No parts in hand or the musical parts are not specified.</skos:definition>
+    <skos:notation>#</skos:notation>
   </rdf:Description>
 </rdf:RDF>

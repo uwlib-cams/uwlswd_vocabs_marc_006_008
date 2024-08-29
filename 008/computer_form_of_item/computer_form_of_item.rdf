@@ -6,6 +6,12 @@
    xmlns:schema="https://schema.org/"
    xmlns:skos="http://www.w3.org/2004/02/skos/core#"
 >
+  <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.3d5s-zx23#pound">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <skos:inScheme rdf:resource="https://doi.org/10.6069/uwlswd.3d5s-zx23"/>
+    <skos:prefLabel xml:lang="en">unknown or not specified</skos:prefLabel>
+    <skos:notation>#</skos:notation>
+  </rdf:Description>
   <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.3d5s-zx23">
     <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#ConceptScheme"/>
     <dct:type rdf:resource="http://purl.org/dc/dcmitype/Dataset"/>
@@ -30,13 +36,6 @@
     <dct:hasFormat rdf:resource="https://uwlib-cams.github.io/uwlswd_vocabs_marc_006_008/008/computer_form_of_item/computer_form_of_item.html"/>
     <dct:format rdf:resource="http://www.w3.org/ns/formats/RDF_XML"/>
   </rdf:Description>
-  <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.3d5s-zx23#o">
-    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-    <skos:inScheme rdf:resource="https://doi.org/10.6069/uwlswd.3d5s-zx23"/>
-    <skos:prefLabel xml:lang="en">online</skos:prefLabel>
-    <skos:definition xml:lang="en">Accessed by means of hardware and software connections to a communications network.</skos:definition>
-    <skos:notation>o</skos:notation>
-  </rdf:Description>
   <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.3d5s-zx23#q">
     <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
     <skos:inScheme rdf:resource="https://doi.org/10.6069/uwlswd.3d5s-zx23"/>
@@ -44,10 +43,11 @@
     <skos:definition xml:lang="en">Storage on a directly accessible tangible recording medium, e.g. disc, tape, playaway device, flashdrive, portable hard drive, etc.</skos:definition>
     <skos:notation>q</skos:notation>
   </rdf:Description>
-  <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.3d5s-zx23#pound">
+  <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.3d5s-zx23#o">
     <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
     <skos:inScheme rdf:resource="https://doi.org/10.6069/uwlswd.3d5s-zx23"/>
-    <skos:prefLabel xml:lang="en">unknown or not specified</skos:prefLabel>
-    <skos:notation>#</skos:notation>
+    <skos:prefLabel xml:lang="en">online</skos:prefLabel>
+    <skos:definition xml:lang="en">Accessed by means of hardware and software connections to a communications network.</skos:definition>
+    <skos:notation>o</skos:notation>
   </rdf:Description>
 </rdf:RDF>
