@@ -1,34 +1,6 @@
 [
   {
-    "@id": "https://doi.org/10.6069/uwlswd.advz-8054#nnn",
-    "@type": [
-      "http://www.w3.org/2004/02/skos/core#Concept"
-    ],
-    "http://www.w3.org/2004/02/skos/core#definition": [
-      {
-        "@language": "en",
-        "@value": "Running time is not applicable, such as when the item is not a motion picture or a videorecording."
-      }
-    ],
-    "http://www.w3.org/2004/02/skos/core#inScheme": [
-      {
-        "@id": "https://doi.org/10.6069/uwlswd.advz-8054"
-      }
-    ],
-    "http://www.w3.org/2004/02/skos/core#notation": [
-      {
-        "@value": "nnn"
-      }
-    ],
-    "http://www.w3.org/2004/02/skos/core#prefLabel": [
-      {
-        "@language": "en",
-        "@value": "not applicable"
-      }
-    ]
-  },
-  {
-    "@id": "https://doi.org/10.6069/uwlswd.advz-8054",
+    "@id": "https://doi.org/10.6069/uwlswd.bnkq-cj51",
     "@type": [
       "http://www.w3.org/2004/02/skos/core#ConceptScheme"
     ],
@@ -136,35 +108,35 @@
     ]
   },
   {
-    "@id": "https://doi.org/10.6069/uwlswd.advz-8054#000",
+    "@id": "https://doi.org/10.6069/uwlswd.bnkq-cj51#001to999",
     "@type": [
       "http://www.w3.org/2004/02/skos/core#Concept"
     ],
     "http://www.w3.org/2004/02/skos/core#definition": [
       {
         "@language": "en",
-        "@value": "Running time exceeds three characters."
+        "@value": "Represents running time in whole numbers from 1 to 999."
       }
     ],
     "http://www.w3.org/2004/02/skos/core#inScheme": [
       {
-        "@id": "https://doi.org/10.6069/uwlswd.advz-8054"
+        "@id": "https://doi.org/10.6069/uwlswd.bnkq-cj51"
       }
     ],
     "http://www.w3.org/2004/02/skos/core#notation": [
       {
-        "@value": "000"
+        "@value": "001-999"
       }
     ],
     "http://www.w3.org/2004/02/skos/core#prefLabel": [
       {
         "@language": "en",
-        "@value": "running time exceeds three characters"
+        "@value": "running time"
       }
     ]
   },
   {
-    "@id": "https://doi.org/10.6069/uwlswd.advz-8054#hyphenhyphenhyphen",
+    "@id": "https://doi.org/10.6069/uwlswd.bnkq-cj51#hyphenhyphenhyphen",
     "@type": [
       "http://www.w3.org/2004/02/skos/core#Concept"
     ],
@@ -176,7 +148,7 @@
     ],
     "http://www.w3.org/2004/02/skos/core#inScheme": [
       {
-        "@id": "https://doi.org/10.6069/uwlswd.advz-8054"
+        "@id": "https://doi.org/10.6069/uwlswd.bnkq-cj51"
       }
     ],
     "http://www.w3.org/2004/02/skos/core#notation": [
@@ -192,30 +164,58 @@
     ]
   },
   {
-    "@id": "https://doi.org/10.6069/uwlswd.advz-8054#001to999",
+    "@id": "https://doi.org/10.6069/uwlswd.bnkq-cj51#000",
     "@type": [
       "http://www.w3.org/2004/02/skos/core#Concept"
     ],
     "http://www.w3.org/2004/02/skos/core#definition": [
       {
         "@language": "en",
-        "@value": "Represents running time in whole numbers from 1 to 999."
+        "@value": "Running time exceeds three characters."
       }
     ],
     "http://www.w3.org/2004/02/skos/core#inScheme": [
       {
-        "@id": "https://doi.org/10.6069/uwlswd.advz-8054"
+        "@id": "https://doi.org/10.6069/uwlswd.bnkq-cj51"
       }
     ],
     "http://www.w3.org/2004/02/skos/core#notation": [
       {
-        "@value": "001-999"
+        "@value": "000"
       }
     ],
     "http://www.w3.org/2004/02/skos/core#prefLabel": [
       {
         "@language": "en",
-        "@value": "running time"
+        "@value": "running time exceeds three characters"
+      }
+    ]
+  },
+  {
+    "@id": "https://doi.org/10.6069/uwlswd.bnkq-cj51#nnn",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#definition": [
+      {
+        "@language": "en",
+        "@value": "Running time is not applicable, such as when the item is not a motion picture or a videorecording."
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#inScheme": [
+      {
+        "@id": "https://doi.org/10.6069/uwlswd.bnkq-cj51"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#notation": [
+      {
+        "@value": "nnn"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "not applicable"
       }
     ]
   }
