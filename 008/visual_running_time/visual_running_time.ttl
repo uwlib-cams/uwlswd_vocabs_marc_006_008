@@ -3,31 +3,31 @@
 @prefix schema: <https://schema.org/> .
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 
-<https://doi.org/10.6069/uwlswd.qgc0-9r48#000> a skos:Concept ;
+<https://doi.org/10.6069/uwlswd.advz-8054#000> a skos:Concept ;
     skos:definition "Running time exceeds three characters."@en ;
-    skos:inScheme <https://doi.org/10.6069/uwlswd.qgc0-9r48> ;
+    skos:inScheme <https://doi.org/10.6069/uwlswd.advz-8054> ;
     skos:notation "000" ;
     skos:prefLabel "running time exceeds three characters"@en .
 
-<https://doi.org/10.6069/uwlswd.qgc0-9r48#001to999> a skos:Concept ;
+<https://doi.org/10.6069/uwlswd.advz-8054#001to999> a skos:Concept ;
     skos:definition "Represents running time in whole numbers from 1 to 999."@en ;
-    skos:inScheme <https://doi.org/10.6069/uwlswd.qgc0-9r48> ;
+    skos:inScheme <https://doi.org/10.6069/uwlswd.advz-8054> ;
     skos:notation "001-999" ;
     skos:prefLabel "running time"@en .
 
-<https://doi.org/10.6069/uwlswd.qgc0-9r48#hyphenhyphenhyphen> a skos:Concept ;
+<https://doi.org/10.6069/uwlswd.advz-8054#hyphenhyphenhyphen> a skos:Concept ;
     skos:definition "Running time is unknown."@en ;
-    skos:inScheme <https://doi.org/10.6069/uwlswd.qgc0-9r48> ;
+    skos:inScheme <https://doi.org/10.6069/uwlswd.advz-8054> ;
     skos:notation "---" ;
     skos:prefLabel "unknown"@en .
 
-<https://doi.org/10.6069/uwlswd.qgc0-9r48#nnn> a skos:Concept ;
+<https://doi.org/10.6069/uwlswd.advz-8054#nnn> a skos:Concept ;
     skos:definition "Running time is not applicable, such as when the item is not a motion picture or a videorecording."@en ;
-    skos:inScheme <https://doi.org/10.6069/uwlswd.qgc0-9r48> ;
+    skos:inScheme <https://doi.org/10.6069/uwlswd.advz-8054> ;
     skos:notation "nnn" ;
     skos:prefLabel "not applicable"@en .
 
-<https://doi.org/10.6069/uwlswd.qgc0-9r48> a skos:ConceptScheme ;
+<https://doi.org/10.6069/uwlswd.advz-8054> a skos:ConceptScheme ;
     dc:contributor "Metadata Management Associates"@en ;
     dc:language "en" ;
     dct:alternative "MARC21 008/18-20 values for visual materials expressed using RDF"@en ;
